@@ -1,22 +1,22 @@
 {
-  "markets": 5,
-  "submarkets": 24,
+  "markets": 6,
+  "submarkets": 28,
   "quarters": 15,
   "first_quarter": "2023Q1",
   "last_quarter": "2026Q3",
   "bronze_rows": 17497,
-  "deals_submitted": 5797,
-  "deals_in_gold": 5608,
-  "deals_quarantined": 189,
-  "deals_rent_suppressed": 28,
-  "deals_submarket_repaired": 84,
-  "buildings": 720,
-  "building_versions": 750,
-  "deals_on_an_earlier_building_version": 207,
-  "deals_whose_building_grade_changed_since": 128,
-  "tenants": 299,
-  "tenants_in_several_markets": 17,
-  "availability_rows": 7851,
+  "deals_submitted": 7026,
+  "deals_in_gold": 6796,
+  "deals_quarantined": 230,
+  "deals_rent_suppressed": 34,
+  "deals_submarket_repaired": 102,
+  "buildings": 840,
+  "building_versions": 876,
+  "deals_on_an_earlier_building_version": 273,
+  "deals_whose_building_grade_changed_since": 182,
+  "tenants": 357,
+  "tenants_in_several_markets": 18,
+  "availability_rows": 9171,
   "kpis_defined": 15,
   "detection": {
     "confidential_rent": 100.0,
@@ -24,18 +24,18 @@
     "future_date": 100.0,
     "missing_submarket": 100.0,
     "near_duplicate": 100.0,
-    "wrong_area_unit": 40.9,
+    "wrong_area_unit": 44.4,
     "wrong_rent_unit": 100.0
   },
   "false_positives": 0,
   "vacancy_reconciliation": {
-    "mean_abs_gap_pp": 0.29,
+    "mean_abs_gap_pp": 0.28,
     "outside_tolerance": 1,
-    "rows": 360
+    "rows": 420
   },
   "take_up_reconciliation": {
-    "outside_tolerance": 14,
-    "rows": 360
+    "outside_tolerance": 16,
+    "rows": 420
   },
   "latest_kpis": [
     {
@@ -63,6 +63,14 @@
       "deals": 115
     },
     {
+      "market": "Madrid",
+      "vacancy_rate_pct": 10.1,
+      "take_up_m2": 111232,
+      "prime_rent_eur_m2_yr": 489,
+      "prime_yield_pct": 4.4,
+      "deals": 76
+    },
+    {
       "market": "Paris",
       "vacancy_rate_pct": 9.2,
       "take_up_m2": 241271,
@@ -80,13 +88,13 @@
     }
   ],
   "data_tests": {
-    "total": 340,
-    "not_null": 200,
-    "accepted_values": 37,
+    "total": 373,
+    "not_null": 225,
+    "accepted_values": 42,
     "unique": 28,
     "relationships": 22,
-    "expect_between": 16,
-    "is_positive": 15,
+    "is_positive": 17,
+    "expect_between": 17,
     "unique_combination": 13,
     "singular": 8,
     "distinct_count_equals": 1
