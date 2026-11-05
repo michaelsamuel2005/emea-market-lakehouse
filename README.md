@@ -288,7 +288,6 @@ tests_py/                pytest: generator invariants, end-to-end checks on the 
 
 ## About
 
-Built by Michael Samuel with an AI coding assistant, which wrote much of the generator, the dbt models and
-the documentation to his brief. Every number in this README comes from the pipeline
+Built by Michael Samuel. Every number in this README comes from the pipeline
 (`scripts/fact_sheet.py`), the rules are pinned down by unit tests, and the detection rates are scored
 against the generator's own log rather than asserted.
