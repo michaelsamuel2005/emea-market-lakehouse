@@ -21,7 +21,7 @@ models:
       - distinct_count_equals:
           arguments:
             column_name: market_id
-            expected: 5
+            expected: 6
     columns:
       - name: market_quarter_key
         description: Surrogate key of market, submarket and quarter.

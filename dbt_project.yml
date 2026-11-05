@@ -222,3 +222,34 @@ vars:
       availability:
         source: waw_availability
         columns: {period: period, building_id: building_id, available: available_m2, sublease: sublease_m2, submitted_at: submitted_at}
+
+
+    MAD:
+      market_name: Madrid
+      currency: EUR
+      area_unit: m2
+      rent_unit: per_m2_month
+      number_format: fr           # 2 400 000 and 34,74
+      period_format: es           # "3T 2026"
+      date_format: dmy_slash      # 30/09/2026
+      vacancy_reported_as: area
+      rate_format: percent        # "4,9 %"
+      market_stats:
+        source: mad_market_stats
+        columns: {period: Trimestre, submarket: Submercado, stock: Stock_m2, vacant: Disponibilidad_m2,
+                  take_up: Contratacion_m2, prime_rent: Renta_prime_EUR_m2_mes, prime_yield: Rentabilidad_prime,
+                  completions: Entregas_m2, under_construction: En_construccion_m2, submitted_at: Fecha_envio}
+      deals:
+        source: mad_deals
+        columns: {deal_ref: Referencia, deal_date: Fecha, building: Edificio, address: Direccion, submarket: Submercado,
+                  tenant: Inquilino, sector: Sector, area: Superficie_m2, rent: Renta_EUR_m2_mes, term_years: Plazo_anos,
+                  deal_type: Tipo_operacion, submitted_at: Fecha_envio}
+      buildings:
+        source: mad_buildings
+        columns: {building_id: Id_edificio, name: Nombre, address: Direccion, postcode: CP, submarket: Submercado,
+                  grade: Categoria, area: SBA_m2, year_built: Ano_construccion, year_refurbished: Ano_reforma,
+                  last_updated: Actualizado}
+      availability:
+        source: mad_availability
+        columns: {period: Trimestre, building_id: Id_edificio, available: Disponible_m2, sublease: Subarriendo_m2,
+                  submitted_at: Fecha_envio}
