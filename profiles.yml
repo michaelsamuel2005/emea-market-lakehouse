@@ -1,0 +1,101 @@
+# dbt profiles for this project. dbt finds this file because it sits next to dbt_project.yml.
+#
+#   dbt build                          -> DuckDB, a local file: no credentials, runs in CI
+#   dbt build --target databricks      -> a Databricks workspace (Free Edition works): databricks/RUNBOOK.md
+#   dbt build --target snowflake       -> a Snowflake account (a 30-day trial works): snowflake/RUNBOOK.md
+#
+# Every warehouse target reads its connection from environment variables, so no secret is ever committed
+# (.env.example lists them; .env is gitignored). The spark and snowflake_emulator targets exist for CI only:
+# scripts/engines/ explains them.
+
+emea_market_lakehouse:
+  target: duckdb
+  outputs:
+    duckdb:
+      type: duckdb
+      path: "{{ env_var('DUCKDB_PATH', 'target/emea_market_lakehouse.duckdb') }}"
+      schema: main
+      threads: 4
+
+    # Databricks, OAuth: the first run opens a browser window to sign in.
+    databricks:
+      type: databricks
+      catalog: "{{ env_var('DATABRICKS_CATALOG', 'workspace') }}"
+      schema: "{{ env_var('DATABRICKS_SCHEMA', 'default') }}"
+      host: "{{ env_var('DATABRICKS_HOST') }}"
+      http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
+      auth_type: oauth
+      threads: 4
+      connect_retries: 3
+      connect_timeout: 300
+
+    # Same workspace, authenticated with a personal access token instead of a browser sign-in, for a machine
+    # that cannot open a browser (a CI runner, a remote shell). Settings > Developer > Access tokens > Manage
+    # > Generate new token, then: export DATABRICKS_TOKEN=dapi...   Never commit the token.
+    databricks_token:
+      type: databricks
+      catalog: "{{ env_var('DATABRICKS_CATALOG', 'workspace') }}"
+      schema: "{{ env_var('DATABRICKS_SCHEMA', 'default') }}"
+      host: "{{ env_var('DATABRICKS_HOST') }}"
+      http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
+      token: "{{ env_var('DATABRICKS_TOKEN') }}"
+      threads: 4
+      connect_retries: 3
+      connect_timeout: 300
+
+    # Snowflake, key-pair authentication: the way a pipeline connects, with no password and no MFA prompt.
+    # snowflake/RUNBOOK.md generates the key and registers it on the user (ALTER USER ... SET RSA_PUBLIC_KEY).
+    snowflake:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"            # orgname-accountname, from Snowsight > account menu
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      private_key_path: "{{ env_var('SNOWFLAKE_PRIVATE_KEY_PATH') }}"
+      private_key_passphrase: "{{ env_var('SNOWFLAKE_PRIVATE_KEY_PASSPHRASE', '') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'TRANSFORMER') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'TRANSFORM_WH') }}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE', 'EMEA_MARKET_LAKEHOUSE') }}"
+      schema: "{{ env_var('SNOWFLAKE_SCHEMA', 'DEV') }}"
+      threads: 4
+      query_tag: emea_market_lakehouse
+      connect_retries: 3
+
+    # Snowflake with a password. Only for a trial account (Snowflake's MFA requirement does not apply to trials);
+    # use the key-pair target above for anything else. export SNOWFLAKE_PASSWORD=...   Never commit it.
+    snowflake_password:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'TRANSFORMER') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'TRANSFORM_WH') }}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE', 'EMEA_MARKET_LAKEHOUSE') }}"
+      schema: "{{ env_var('SNOWFLAKE_SCHEMA', 'DEV') }}"
+      threads: 4
+      query_tag: emea_market_lakehouse
+      connect_retries: 3
+
+    # CI only (scripts/engines/run_on_spark.py): Apache Spark 4 running inside the Python process, with ANSI
+    # mode on as on a Databricks SQL warehouse. Needs Java 17+ and pyspark. Not Databricks: no Unity Catalog, no Delta.
+    spark:
+      type: spark
+      method: session
+      host: localhost
+      schema: default
+      threads: 1
+      server_side_parameters:
+        spark.ui.enabled: "false"
+        spark.sql.shuffle.partitions: "4"
+        spark.driver.memory: "2g"
+
+    # CI only (scripts/engines/run_on_snowflake_emulator.py): the real dbt-snowflake adapter, with its SQL run
+    # by fakesnow, an open-source Snowflake emulator on DuckDB. The credentials are placeholders it ignores.
+    snowflake_emulator:
+      type: snowflake
+      account: emulator
+      user: ci
+      password: not-a-secret
+      role: TRANSFORMER
+      warehouse: TRANSFORM_WH
+      database: EMEA_MARKET_LAKEHOUSE
+      schema: DEV
+      threads: 1

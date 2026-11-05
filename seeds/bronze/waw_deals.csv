@@ -1,0 +1,1043 @@
+deal_id,date,building,address,submarket,tenant,sector,area_m2,rent,rent_currency,rent_basis,term_years,deal_type,submitted_at
+WAW-20234-03021,2023-10-10,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Orbis Offices Warsaw,Flex Office,1060,13.71,EUR,per m2 per month,10,New Lease,2024-01-12 09:00:00
+WAW-20234-33013,2023-12-20,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Meridian Associates Warsaw,Professional Services,1954,7.59,EUR,per m2 per month,3,Sublease,2024-01-13 09:00:00
+WAW-20243-36014,2024-08-24,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Lumen Media Warsaw,TMT,4623,12.75,EUR,per m2 per month,5,New Lease,2024-10-14 09:00:00
+WAW-20253-10009,2025-07-15,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Beacon Consulting,Professional Services,1419,17.34,EUR,per m2 per month,6,New Lease,2025-10-19 09:00:00
+WAW-20234-33012,2023-11-12,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Beacon Consulting,Professional Services,919,55.54,PLN,per m2 per month,3,New Lease,2024-01-13 09:00:00
+WAW-20231-15002,2023-01-19,Linden Court,"42 ul. Rydygiera, 01-793",City Centre West,Tamar Abogados,Legal,1541,,EUR,per m2 per month,12,Pre-let,2023-04-20 09:00:00
+WAW-20262-13012,2026-06-28,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Elmgrove Legal Warsaw,Legal,4124,18.12,EUR,per m2 per month,15,Renewal,2026-07-12 09:00:00
+WAW-20243-06007,2024-08-31,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Sterling Retail,Other,1361,27.51,EUR,per m2 per month,5,Renewal,2024-10-16 09:00:00
+WAW-20253-10002,2025-08-23,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Linden Bank,Banking & Finance,1362,21.96,EUR,per m2 per month,5,New Lease,2025-10-28 09:00:00
+WAW-20233-47009,2023-09-22,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Wren Labs,TMT,806,14.76,EUR,per m2 per month,15,New Lease,2023-10-17 09:00:00
+WAW-20244-07001,2024-12-26,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Northgate Labs Warsaw,TMT,1498,20.29,EUR,per m2 per month,12,New Lease,2025-01-14 09:00:00
+WAW-20243-36011,2024-07-27,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Sterling Digital Warsaw,TMT,624,12.04,EUR,per m2 per month,10,New Lease,2024-10-14 09:00:00
+WAW-20231-00002,2023-02-18,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Larkspur Labs,TMT,1899,22.19,EUR,per m2 per month,12,Renewal,2023-04-13 09:00:00
+WAW-20263-59002,2026-09-26,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Sterling Digital Warsaw,TMT,2803,18.89,EUR,per m2 per month,5,New Lease,2026-10-16 09:00:00
+WAW-20254-26003,2025-10-16,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Calder Legal,Legal,979,13.55,EUR,per m2 per month,10,New Lease ,2026-01-24 09:00:00
+WAW-20242-65004,2024-04-27,Orbis Plaza,"140 al. Jerozolimskie, 00-508",Żoliborz,Meridian Capital,Banking & Finance,258,52.33,PLN,per m2 per month,10,Expansion,2024-07-23 09:00:00
+WAW-20254-41009,2025-10-21,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Lumen Media Warsaw,TMT,915,15.67,EUR,per m2 per month,9,Renewal,2026-01-22 09:00:00
+WAW-20244-67007,2024-12-01,167 ul. Emilii Plater,"167 ul. Emilii Plater, 00-125",Żoliborz,Northgate Industries,Industrial,1519,14.71,EUR,per m2 per month,6,New Lease,2025-01-24 09:00:00
+WAW-20262-58003,2026-05-26,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Larkspur Services Warsaw,Other,1638,19.82,EUR,per m2 per month,15,New Lease,2026-07-15 09:00:00
+WAW-20232-31017,2023-06-29,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Northgate LLP,Legal,1320,11.05,EUR,per m2 per month,10,Pre-let,2023-07-14 09:00:00
+WAW-20232-01001,2023-05-18,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Elmgrove Asset Management,Banking & Finance,4648,18.62,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20241-64005,2024-02-06,167 ul. Emilii Plater,"167 ul. Emilii Plater, 00-125",Żoliborz,Arden Retail,Other,940,13.84,EUR,per m2 per month,6,New Lease,2024-04-22 09:00:00
+WAW-20244-52016,2024-11-29,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Cobalt Advisory,Professional Services,670,17.80,EUR,per m2 per month,6,Expansion,2025-01-12 09:00:00
+WAW-20233-17015,2023-09-16,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Meridian Capital,Banking & Finance,1241,106.18,PLN,per m2 per month,15,New Lease,2023-10-13 09:00:00
+WAW-20242-05003,2024-06-15,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Aldwyn Office,Public Sector,1356,24.41,EUR,per m2 per month,5,New Lease ,2024-07-18 09:00:00
+WAW-20244-52008,2024-10-29,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Wren Labs,TMT,1775,10.87,EUR,per m2 per month,6,Pre-let,2025-01-12 09:00:00
+WAW-20254-11021,2025-12-03,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Atlas Labs,TMT,1308,21.62,EUR,per m2 per month,5,New Lease,2026-01-16 09:00:00
+WAW-20234-03008,2023-12-09,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Cobalt Advisory,Professional Services,1787,20.43,EUR,per m2 per month,10,Expansion,2024-01-12 09:00:00
+WAW-20244-07005,2024-10-11,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Granite Rechtsanwälte,Legal,625,21.84,EUR,per m2 per month,6,New Lease,2025-01-14 09:00:00
+WAW-20253-55013,2025-08-24,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Orbis Securities,Banking & Finance,2557,18.76,EUR,per m2 per month,5,Renewal,2025-10-12 09:00:00
+WAW-20242-05019,2024-05-27,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Sterling Retail,Other,3021,22.58,EUR,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20253-70003,2025-07-19,43 ul. Towarowa,"43 ul. Towarowa, 00-811",Żoliborz,Osprey Technologies,TMT,1174,10.33,EUR,per m2 per month,9,New Lease,2025-10-23 09:00:00
+WAW-20263-14015,2026-07-09,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Atlas Pharma,Life Sciences,2885,28.13,EUR,per m2 per month,12,New Lease,2026-10-19 09:00:00
+WAW-20252-24002,2025-04-27,Ember House,"48 ul. Towarowa, 00-811",City Centre West,Atlas Labs,TMT,1247,17.34,EUR,per m2 per month,15,Pre-let,2025-07-14 09:00:00
+WAW-20233-02009,2023-09-24,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Larkspur Labs,TMT,697,22.47,EUR,per m2 per month,6,Sublease,2023-10-17 09:00:00
+WAW-20243-51007,2024-07-25,Fenwick Point,"18 ul. Marynarska, 02-674",Wola,Northgate Industries,Industrial,1729,14.74,EUR,per m2 per month,10,New Lease,2024-10-17 09:00:00
+WAW-20263-14016,2026-08-07,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Brightwater Abogados,Legal,2118,24.64,EUR,per m2 per month,15,New Lease,2026-10-19 09:00:00
+WAW-20263-59006,2026-08-07,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Larkspur Labs,TMT,1384,16.90,EUR,per m2 per month,9,Renewal,2026-10-16 09:00:00
+WAW-20261-57008,2026-03-13,Linden Building,"51 ul. Towarowa, 00-811",Wola,Ashcombe Rechtsanwälte,Legal,880,,EUR,per m2 per month,3,New Lease,2026-04-17 09:00:00
+WAW-20251-08002,2025-02-21,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Northgate Industries,Industrial,724,16.81,EUR,per m2 per month,5,Sublease,2025-04-15 09:00:00
+WAW-20262-43009,2026-05-10,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Marlow Mutual,Insurance,7617,11.54,EUR,per m2 per month,3,Renewal,2026-07-24 09:00:00
+WAW-20252-69006,2025-06-21,171 ul. Emilii Plater,"171 ul. Emilii Plater, 00-125",Żoliborz,Lumen Workspace,Flex Office,1038,65.55,PLN,per m2 per month,12,New Lease,2025-07-16 09:00:00
+WAW-20232-46001,2023-04-24,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Thorne Capital,Banking & Finance,2932,19.06,EUR,per m2 per month,10,Renewal,2023-07-15 09:00:00
+WAW-20261-42008,2026-01-05,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Linden Bank,Banking & Finance,764,13.43,EUR,per m2 per month,5,New Lease ,2026-04-21 09:00:00
+WAW-20253-55007,2025-08-04,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Brightwater Abogados,Legal,534,11.89,EUR,per m2 per month,9,Pre-let,2025-10-12 09:00:00
+WAW-20234-48006,2023-11-18,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Fenwick Advisory,Professional Services,1056,11.54,EUR,per m2 per month,3,new lease,2024-01-21 09:00:00
+WAW-20231-30002,2023-01-02,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Juniper Technologies,TMT,1194,9.68,EUR,per m2 per month,10,New Lease,2023-04-21 09:00:00
+WAW-20254-71005,2025-11-26,133 ul. Towarowa,"133 ul. Towarowa, 00-811",Żoliborz,Aldwyn Asset Management Warsaw,Banking & Finance,1062,56.24,PLN,per m2 per month,9,New Lease,2026-01-24 09:00:00
+WAW-20233-02015,2023-09-04,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Linden Council Warsaw,Public Sector,2424,20.53,EUR,per m2 per month,5,Renewal,2023-10-17 09:00:00
+WAW-20252-09014,2025-05-24,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Elmgrove Legal Warsaw,Legal,4208,23.26,EUR,per m2 per month,12,Expansion,2025-07-23 09:00:00
+WAW-20232-31002,2023-04-30,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Meridian Associates Warsaw,Professional Services,5572,11.67,EUR,per m2 per month,10,New Lease,2023-07-14 09:00:00
+WAW-20231-30006,2023-02-01,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Elmgrove Asset Management,Banking & Finance,2997,13.59,EUR,per m2 per month,10,New Lease,2023-04-21 09:00:00
+WAW-20232-46008,2023-05-12,146 ul. Wołoska,"146 ul. Wołoska, 02-675",Wola,Kestrel Technologies,TMT,2026,19.52,EUR,per m2 per month,3,New Lease,2023-07-15 09:00:00
+WAW-20234-03022,2023-11-19,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Ravel Abogados,Legal,2128,28.54,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20251-23004,2025-03-30,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Meridian Capital,Banking & Finance,2682,12.68,EUR,per m2 per month,5,Sublease,2025-04-15 09:00:00
+WAW-20251-38007,2025-01-18,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Linden Bank,Banking & Finance,1441,12.80,EUR,per m2 per month,5,New Lease,2025-04-24 09:00:00
+WAW-20254-41012,2025-11-24,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Calder Legal,Legal,347,9.91,EUR,per m2 per month,5,New Lease,2026-01-22 09:00:00
+WAW-20242-05005,2024-04-19,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Calder Legal,Legal,454,24.38,EUR,per m2 per month,10,Renewal,2024-07-18 09:00:00
+WAW-20262-28001,2026-04-02,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Orbis Securities,Banking & Finance,949,14.27,EUR,per m2 per month,10,Renewal,2026-07-12 09:00:00
+WAW-20243-36008,2024-08-14,Corvid Gate,"107 al. Jerozolimskie, 00-508",Mokotów,Lumen Workspace,Flex Office,837,55.27,PLN,per m2 per month,6,Sublease,2024-10-14 09:00:00
+WAW-20241-19003,2024-02-18,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Corvid Holdings,Other,4073,15.95,EUR,per m2 per month,9,New Lease,2024-04-13 09:00:00
+WAW-20243-06010,2024-07-16,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Calder Authority Warsaw,Public Sector,696,20.62,EUR,per m2 per month,5,New Lease,2024-10-16 09:00:00
+WAW-20244-52019,2024-12-16,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Ridgeway Retail Warsaw,Other,1575,13.36,EUR,per m2 per month,9,Renewal,2025-01-12 09:00:00
+WAW-20251-08017,2025-01-24,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Corvid Holdings,Other,803,23.19,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20263-14007,2026-09-12,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Orbis Insurance,Insurance,1325,20.74,EUR,per m2 per month,15,New Lease,2026-10-19 09:00:00
+WAW-20241-04009,2024-03-09,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Ridgeway Pharma,Life Sciences,4398,15.27,EUR,per m2 per month,3,Sublease,2024-04-17 09:00:00
+WAW-20262-28015,2026-04-17,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Elmgrove Legal Warsaw,Legal,2631,17.99,EUR,per m2 per month,15,Pre-let,2026-07-12 09:00:00
+WAW-20251-08018,2025-03-05,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Solace Assurance Warsaw,Insurance,2115,23.28,EUR,per m2 per month,6,New Lease,2025-04-15 09:00:00
+WAW-20232-46002,2023-04-30,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Sable Capital,Banking & Finance,3406,11.75,EUR,per m2 per month,6,New Lease,2023-07-15 09:00:00
+WAW-20261-42009,2026-01-26,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Atlas Labs,TMT,1262,12.60,EUR,per m2 per month,3,Expansion,2026-04-21 09:00:00
+WAW-20263-59010,2026-08-14,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Solace Advisory,Professional Services,920,18.32,EUR,per m2 per month,10,Expansion,2026-10-16 09:00:00
+WAW-20254-11025,2025-12-16,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Cobalt Flex,Flex Office,852,22.19,EUR,per m2 per month,3,Renewal,2026-01-16 09:00:00
+WAW-20232-01004,2023-04-10,Atlas Point,"107 ul. Złota, 00-120",CBD,Aldwyn Office,Public Sector,1520,20.05,EUR,per m2 per month,5,New Lease,2023-07-20 09:00:00
+WAW-20263-59012,2026-09-22,Linden Building,"51 ul. Towarowa, 00-811",Wola,Helix Technologies,TMT,5458,16.62,EUR,per m2 per month,5,New Lease,2026-10-16 09:00:00
+WAW-20251-38005,2025-03-13,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Juniper Technologies,TMT,6380,9.73,EUR,per m2 per month,3,New Lease,2025-04-24 09:00:00
+WAW-20244-22006,2024-10-08,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Nimbus Technologies,TMT,3392,16.27,EUR,per m2 per month,12,Pre-let,2025-02-01 09:00:00
+WAW-20241-34008,2024-03-14,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Sterling Digital Warsaw,TMT,1092,11.31,EUR,per m2 per month,10,Sublease,2024-04-17 09:00:00
+WAW-20252-09015,2025-05-27,92 ul. Wołoska,"92 ul. Wołoska, 02-675",,Orbis Offices Warsaw,Flex Office,2710,22.02,EUR,per m2 per month,5,Expansion,2025-07-23 09:00:00
+WAW-20261-12006,2026-01-13,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Thorne Capital,Banking & Finance,359,20.76,EUR,per m2 per month,10,Sublease,2026-04-20 09:00:00
+WAW-20243-21010,2024-07-14,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Elmgrove Asset Management,Banking & Finance,1096,23.48,EUR,per m2 per month,12,New Lease,2024-10-14 09:00:00
+WAW-20261-57002,2026-03-30,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Helix Digital Warsaw,TMT,1235,20.89,EUR,per m2 per month,12,New Lease,2026-04-17 09:00:00
+WAW-20232-16006,2023-04-05,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Sterling Retail,Other,453,15.79,EUR,per m2 per month,6,Renewal,2023-07-20 09:00:00
+WAW-20242-20010,2024-06-05,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Atlas Pharma,Life Sciences,1541,13.24,EUR,per m2 per month,15,Sublease,2024-07-22 09:00:00
+WAW-20253-40005,2025-07-12,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Northgate Industries,Industrial,1181,39.84,PLN,per m2 per month,12,Renewal,2025-10-22 09:00:00
+WAW-20231-00008,2023-02-13,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Marlow Mutual,Insurance,758,19.96,EUR,per m2 per month,12,New Lease,2023-04-13 09:00:00
+WAW-20244-37011,2024-12-28,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Sterling Digital Warsaw,TMT,916,12.02,EUR,per m2 per month,5,New Lease,2025-01-12 09:00:00
+WAW-20263-14003,2026-07-15,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Corvid Group Warsaw,Professional Services,1078,23.15,EUR,per m2 per month,5,Renewal,2026-10-19 09:00:00
+WAW-20232-31005,2023-04-16,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Kestrel Technologies,TMT,719,11.54,EUR,per m2 per month,6,New Lease,2023-07-14 09:00:00
+WAW-20244-22004,2024-10-23,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Tamar Abogados,Legal,966,22.68,EUR,per m2 per month,10,Renewal,2025-01-23 09:00:00
+WAW-20241-04017,2024-03-23,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Larkspur Services Warsaw,Other,1354,119.30,PLN,per m2 per month,3,New Lease,2024-04-17 09:00:00
+WAW-20234-48013,2023-11-04,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Ridgeway Retail Warsaw,Other,683,93.84,PLN,per m2 per month,15,New Lease,2024-01-21 09:00:00
+WAW-20261-27002,2026-03-07,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Ember Avocats,Legal,1319,14.70,EUR,per m2 per month,10,Renewal,2026-04-17 09:00:00
+WAW-20241-49003,2024-02-27,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Calder Authority Warsaw,Public Sector,2421,194.52,EUR,per m2 per month,5,Expansion,2024-04-16 09:00:00
+WAW-20241-04014,2024-03-29,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Cobalt Flex,Flex Office,1364,16.68,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20262-58007,2026-04-17,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Fenwick Advisory,Professional Services,6172,21.18,EUR,per m2 per month,9,New Lease,2026-07-15 09:00:00
+WAW-20243-06016,2024-07-03,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Elmgrove Legal Warsaw,Legal,7928,20.32,EUR,per m2 per month,15,Renewal,2024-10-16 09:00:00
+WAW-20234-48016,2023-12-18,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Beacon Consulting,Professional Services,3339,16.60,EUR,per m2 per month,5,Expansion,2024-01-21 09:00:00
+WAW-20242-65001,2024-04-19,Orbis Plaza,"140 al. Jerozolimskie, 00-508",Żoliborz,Northgate Industries,Industrial,3506,12.56,EUR,per m2 per month,12,Renewal,2024-07-23 09:00:00
+WAW-20232-46003,2023-06-27,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Ridgeway Retail Warsaw,Other,707,16.72,EUR,per m2 per month,6,New Lease,2023-07-15 09:00:00
+WAW-20233-47002,2023-09-10,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Calder Legal,Legal,2361,,EUR,per m2 per month,3,New Lease,2023-10-17 09:00:00
+WAW-20251-23010,2025-02-03,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Vantage Associates,Professional Services,4599,12.89,EUR,per m2 per month,5,Sublease,2025-04-15 09:00:00
+WAW-20232-31022,2023-04-23,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Meridian Associates Warsaw,Professional Services,1495,54.55,PLN,per m2 per month,3,Sublease,2023-07-14 09:00:00
+WAW-20254-71006,2025-12-17,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Wren Labs,TMT,967,45.87,PLN,per m2 per month,15,New Lease,2026-01-24 09:00:00
+WAW-20252-09007,2025-05-11,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Lumen Media Warsaw,TMT,516,28.36,EUR,per m2 per month,5,Expansion,2025-07-23 09:00:00
+WAW-20251-68004,2025-02-23,Ravel Tower,"28 ul. Złota, 00-120",Żoliborz,Helix Digital Warsaw,TMT,1106,55.04,PLN,per m2 per month,9,New Lease ,2025-04-14 09:00:00
+WAW-20232-01005,2023-05-10,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Vantage Offices Warsaw,Flex Office,2890,14.34,EUR,per m2 per month,5,New Lease,2023-07-20 09:00:00
+WAW-20244-37017,2024-10-09,51 rondo ONZ,"51 rondo ONZ, 00-124",Mokotów,Meridian Digital,TMT,619,14.20,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20253-40012,2025-07-11,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Veridian Flex Warsaw,Flex Office,1466,13.32,EUR,per m2 per month,15,New Lease,2025-10-22 09:00:00
+WAW-20234-48012,2023-10-01,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Northgate Industries,Industrial,2225,,EUR,per m2 per month,5,New Lease,2024-01-21 09:00:00
+WAW-20244-07011,2024-12-21,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Arden Retail,Other,595,18.23,EUR,per m2 per month,6,Renewal,2025-01-14 09:00:00
+WAW-20244-52007,2024-11-10,Fenwick Point,"18 ul. Marynarska, 02-674",Wola,Sterling Bank,Banking & Finance,507,16.68,EUR,per m2 per month,9,Renewal,2025-01-12 09:00:00
+WAW-20254-56012,2025-11-11,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Aldwyn Asset Management Warsaw,Banking & Finance,1085,19.39,EUR,per m2 per month,15,New Lease,2026-01-21 09:00:00
+WAW-20231-30004,2023-03-20,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Sable Industries Warsaw,Industrial,1135,63.68,PLN,per m2 per month,12,New Lease,2023-04-21 09:00:00
+WAW-20244-52013,2024-12-19,Kestrel Point,"130 ul. Kasprzaka, 01-224",Wola,Northgate Industries,Industrial,319,14.85,EUR,per m2 per month,5,New Lease,2025-01-12 09:00:00
+WAW-20231-00011,2023-03-30,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Brightwater Abogados,Legal,2396,19.57,EUR,per m2 per month,10,Renewal,2023-04-13 09:00:00
+WAW-20263-29010,2026-07-23,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Beacon Consulting,Professional Services,3988,23.00,EUR,per m2 per month,10,New Lease,2026-10-12 09:00:00
+WAW-20254-56018,2025-12-04,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Meridian Capital,Banking & Finance,3367,23.02,EUR,per m2 per month,9,Renewal,2026-01-21 09:00:00
+WAW-20231-30009,2023-01-24,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Northgate Industries,Industrial,1296,14.22,EUR,per m2 per month,10,New Lease,2023-04-21 09:00:00
+WAW-20254-26013,2025-10-22,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Kestrel Technologies,TMT,2033,20.40,EUR,per m2 per month,10,New Lease,2026-01-24 09:00:00
+WAW-20253-70005,2025-09-27,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Veridian Flex Warsaw,Flex Office,1556,8.45,EUR,per m2 per month,3,New Lease,2025-10-23 09:00:00
+WAW-20232-46006,2023-05-02,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Beacon Consulting,Professional Services,733,14.72,EUR,per m2 per month,6,Renewal,2023-07-15 09:00:00
+WAW-20261-12009,2026-01-07,Atlas Point,"107 ul. Złota, 00-120",CBD,Larkspur Labs,TMT,280,22.94,EUR,per m2 per month,5,Renewal,2026-04-20 09:00:00
+WAW-20233-02004,2023-08-30,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Larkspur Services Warsaw,Other,464,21.22,EUR,per m2 per month,12,New Lease,2023-10-17 09:00:00
+WAW-20263-14001,2026-08-18,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Calder Legal,Legal,2848,22.66,EUR,per m2 per month,5,New Lease,2026-10-19 09:00:00
+WAW-20242-20005,2024-06-11,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Orbis Insurance,Insurance,2682,22.56,EUR,per m2 per month,9,New Lease,2024-07-22 09:00:00
+WAW-20232-46011,2023-04-22,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Ashcombe Rechtsanwälte,Legal,4467,13.61,EUR,per m2 per month,10,New Lease,2023-07-24 09:00:00
+WAW-20244-52009,2024-11-29,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Osprey Technologies,TMT,1990,16.64,EUR,per m2 per month,5,Sublease,2025-01-12 09:00:00
+WAW-20232-01006,2023-05-18,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Quill LLP,Legal,1347,14.93,EUR,per m2 per month,5,Sublease ,2023-07-20 09:00:00
+WAW-20263-59005,2026-09-14,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Vantage Associates,Professional Services,618,15.42,EUR,per m2 per month,15,Sublease,2026-10-16 09:00:00
+WAW-20241-34001,2024-02-27,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Solace Advisory,Professional Services,3616,14.76,EUR,per m2 per month,12,Renewal,2024-04-17 09:00:00
+WAW-20232-31008,2023-06-22,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Lumen Media,TMT,1657,71.33,PLN,per m2 per month,10,Renewal,2023-07-14 09:00:00
+WAW-20243-51001,2024-09-06,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Calder Legal,Legal,1128,18.02,EUR,per m2 per month,10,Expansion,2024-10-17 09:00:00
+WAW-20253-25004,2025-08-26,Cobalt Park,"33 ul. Towarowa, 00-811",,Lumen Media Warsaw,TMT,845,16.84,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20263-29009,2026-09-14,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Wren Labs,TMT,1249,15.07,EUR,per m2 per month,10,New Lease,2026-10-12 09:00:00
+WAW-20252-39003,2025-04-30,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Beacon Consulting,Professional Services,2271,12.57,EUR,per m2 per month,15,New Lease,2025-07-15 09:00:00
+WAW-20241-19007,2024-03-25,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Cobalt Advisory,Professional Services,2488,21.03,EUR,per m2 per month,9,New Lease,2024-04-13 09:00:00
+WAW-20251-23003,2025-02-09,Sable Place,"47 al. Jerozolimskie, 00-508",City Centre West,Solace Advisory,Professional Services,754,19.50,EUR,per m2 per month,15,New Lease,2025-04-15 09:00:00
+WAW-20233-02011,2023-08-30,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Tamar Abogados,Legal,2376,72.79,PLN,per m2 per month,9,Sublease,2023-10-17 09:00:00
+WAW-20232-31015,2023-05-25,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Northgate LLP,Legal,1313,7.87,EUR,per m2 per month,12,Sublease,2023-07-23 09:00:00
+WAW-20234-33006,2023-12-15,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Brightwater Abogados,Legal,1989,13.21,EUR,per m2 per month,12,Pre-let,2024-01-13 09:00:00
+WAW-20252-39009,2025-05-07,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Beacon Consulting,Professional Services,1441,12.70,EUR,per m2 per month,10,New Lease,2025-07-15 09:00:00
+WAW-20234-48005,2023-10-26,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Northgate Labs Warsaw,TMT,3270,19.18,EUR,per m2 per month,5,Renewal,2024-01-21 09:00:00
+WAW-20234-03023,2023-10-25,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Linden Bank,Banking & Finance,1031,,EUR,per m2 per month,5,Sublease,2024-01-12 09:00:00
+WAW-20262-58009,2026-06-26,4 ul. Towarowa,"4 ul. Towarowa, 00-811",Wola,Granite Rechtsanwälte,Legal,2312,65.91,PLN,per m2 per month,5,New Lease,2026-07-15 09:00:00
+WAW-20241-19004,2024-03-23,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Larkspur Services Warsaw,Other,1595,100.85,PLN,per m2 per month,5,New Lease,2024-04-13 09:00:00
+WAW-20261-27006,2026-01-25,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Beacon Consulting,Professional Services,6008,14.27,EUR,per m2 per month,3,Renewal,2026-04-17 09:00:00
+WAW-20232-01008,2023-05-03,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Helix Office,Public Sector,1027,90.36,PLN,per m2 per month,10,New Lease ,2023-07-20 09:00:00
+WAW-20233-47012,2023-07-02,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Cobalt Flex,Flex Office,2025,18.78,EUR,per m2 per month,6,Renewal,2023-10-17 09:00:00
+WAW-20241-49006,2024-03-14,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Fenwick Foundation Warsaw,Other,2687,18.95,EUR,per m2 per month,3,New Lease,2024-04-16 09:00:00
+WAW-20254-41014,2025-11-06,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Kestrel Technologies,TMT,726,11.15,EUR,per m2 per month,3,New Lease,2026-01-22 09:00:00
+WAW-20254-56009,2025-10-18,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Elmgrove Asset Management,Banking & Finance,3046,12.94,EUR,per m2 per month,15,New Lease,2026-01-21 09:00:00
+WAW-20234-33019,2023-12-20,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Ridgeway Retail Warsaw,Other,697,10.02,EUR,per m2 per month,6,Sublease,2024-01-13 09:00:00
+WAW-20231-15004,2023-03-07,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Cobalt Flex,Flex Office,476,12.02,EUR,per m2 per month,12,Renewal,2023-04-20 09:00:00
+WAW-20253-10014,2025-07-08,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Ravel Abogados,Legal,4048,24.37,EUR,per m2 per month,9,Pre-let,2025-10-19 09:00:00
+WAW-20263-59003,2026-07-26,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Fenwick Foundation Warsaw,Other,589,74.76,PLN,per m2 per month,6,New Lease,2026-10-16 09:00:00
+WAW-20234-18007,2023-11-21,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,1206,20.48,EUR,per m2 per month,9,New Lease,2024-01-13 09:00:00
+WAW-20234-18005,2023-12-28,Linden Court,"42 ul. Rydygiera, 01-793",City Centre West,Northgate Labs Warsaw,TMT,1596,17.08,EUR,per m2 per month,9,Renewal,2024-01-13 09:00:00
+WAW-20233-47010,2023-09-09,69 ul. Towarowa,"69 ul. Towarowa, 00-811",Wola,Sable Industries Warsaw,Industrial,1777,19.76,EUR,per m2 per month,9,Pre-let,2023-10-17 09:00:00
+WAW-20262-28006,2026-06-13,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Arden Retail,Other,713,22.12,EUR,per m2 per month,12,Sublease,2026-07-12 09:00:00
+WAW-20234-03011,2023-12-08,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Tern Rechtsanwälte,Legal,625,108.86,PLN,per m2 per month,9,New Lease,2024-01-12 09:00:00
+WAW-20262-43012,2026-05-28,Corvid Gate,"107 al. Jerozolimskie, 00-508",Mokotów,Sterling Bank,Banking & Finance,2312,,EUR,per m2 per month,5,New Lease,2026-07-24 09:00:00
+WAW-20254-26004,2025-12-12,Sable Place,"47 al. Jerozolimskie, 00-508",City Centre West,Tern Rechtsanwälte,Legal,1288,22.78,EUR,per m2 per month,10,Expansion,2026-01-24 09:00:00
+WAW-20253-10001,2025-07-04,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Tern Rechtsanwälte,Legal,1065,21.66,EUR,per m2 per month,5,Expansion,2025-10-19 09:00:00
+WAW-20263-44008,2026-07-10,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Fenwick Foundation Warsaw,Other,2452,12.85,EUR,per m2 per month,15,Expansion,2026-10-17 09:00:00
+WAW-20243-66003,2024-07-19,62 al. Jana Pawła II,"62 al. Jana Pawła II, 00-867",Żoliborz,Meridian Digital,TMT,2935,12.83,EUR,per m2 per month,12,New Lease,2024-10-13 09:00:00
+WAW-20241-49009,2024-02-15,Fenwick Court,"153 ul. Przyokopowa, 01-208",Wola,Fenwick Advisory,Professional Services,1177,17.57,EUR,per m2 per month,10,new lease,2024-04-16 09:00:00
+WAW-20231-00009,2023-03-03,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Atlas Labs,TMT,5416,22.13,EUR,per m2 per month,5,New Lease,2023-04-13 09:00:00
+WAW-20251-23002,2025-02-17,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Juniper Technologies,TMT,3386,22.75,EUR,per m2 per month,5,New Lease ,2025-04-15 09:00:00
+WAW-20234-33016,2023-11-27,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Helix Digital Warsaw,TMT,858,56.88,PLN,per m2 per month,6,New Lease,2024-01-13 09:00:00
+WAW-20231-30010,2023-02-03,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Vantage Offices Warsaw,Flex Office,634,15.75,EUR,per m2 per month,5,Renewal,2023-04-21 09:00:00
+WAW-20251-08010,2025-03-30,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Orbis Offices Warsaw,Flex Office,250,19.08,EUR,per m2 per month,6,Renewal,2025-04-15 09:00:00
+WAW-20243-51015,2024-07-01,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Calder Authority Warsaw,Public Sector,710,15.80,EUR,per m2 per month,9,Renewal,2024-10-17 09:00:00
+WAW-20234-33017,2023-11-04,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Fenwick Foundation Warsaw,Other,1176,45.14,PLN,per m2 per month,10,Pre-let,2024-01-22 09:00:00
+WAW-20251-08013,2025-02-12,Atlas Point,"107 ul. Złota, 00-120",CBD,Helix Office,Public Sector,958,22.63,EUR,per m2 per month,3,New Lease,2025-04-15 09:00:00
+WAW-20244-37014,2024-10-10,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Atlas Labs,TMT,1018,50.96,PLN,per m2 per month,10,Renewal,2025-01-12 09:00:00
+WAW-20263-29001,2026-07-17,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Quill LLP,Legal,1141,13.50,EUR,per m2 per month,12,New Lease,2026-10-12 09:00:00
+WAW-20233-02003,2023-09-28,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Orbis Insurance,Insurance,1935,21.47,EUR,per m2 per month,6,New Lease,2023-10-17 09:00:00
+WAW-20254-41016,2025-11-22,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Vantage Offices Warsaw,Flex Office,3062,13.75,EUR,per m2 per month,10,Renewal,2026-01-22 09:00:00
+WAW-20232-31009,2023-04-08,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Meridian Capital,Banking & Finance,1610,14.21,EUR,per m2 per month,3,New Lease,2023-07-14 09:00:00
+WAW-20263-59011,2026-08-16,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Atlas Pharma,Life Sciences,1502,74.42,PLN,per m2 per month,3,New Lease,2026-10-16 09:00:00
+WAW-20243-36004,2024-08-13,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Ember Avocats,Legal,173,12.07,EUR,per m2 per month,15,Renewal,2024-10-14 09:00:00
+WAW-20234-03003,2023-11-08,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Larkspur Labs,TMT,933,17.56,EUR,per m2 per month,10,Renewal,2024-01-12 09:00:00
+WAW-20232-61002,2023-04-24,Solace Gate,"80 ul. Słomińskiego, 00-195",Żoliborz,Fenwick Foundation Warsaw,Other,1505,13.74,EUR,per m2 per month,15,Renewal,2023-07-24 09:00:00
+WAW-20233-02007,2023-08-12,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Quill LLP,Legal,372,18.27,EUR,per m2 per month,15,New Lease,2023-10-17 09:00:00
+WAW-20251-53010,2025-01-14,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Sterling Bank,Banking & Finance,324,95.64,PLN,per m2 per month,10,New Lease,2025-04-20 09:00:00
+WAW-20253-55005,2025-09-06,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Sable Capital,Banking & Finance,1673,20.47,EUR,per m2 per month,9,Renewal,2025-10-12 09:00:00
+WAW-20233-32007,2023-08-30,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Sable Industries Warsaw,Industrial,1681,11.26,EUR,per m2 per month,15,New Lease,2023-10-14 09:00:00
+WAW-20261-57015,2026-02-22,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Juniper Technologies,TMT,1592,23.61,EUR,per m2 per month,5,Renewal,2026-04-17 09:00:00
+WAW-20242-35001,2024-04-24,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Ember Avocats,Legal,1148,11.01,EUR,per m2 per month,10,Expansion,2024-07-23 09:00:00
+WAW-20244-37010,2024-12-12,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Sable Capital,Banking & Finance,1466,8.80,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20233-47013,2023-07-22,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Calder Legal,Legal,1415,18.71,EUR,per m2 per month,10,New Lease,2023-10-17 09:00:00
+WAW-20231-15006,2023-01-20,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Wren Labs,TMT,1674,18.24,EUR,per m2 per month,6,New Lease,2023-04-20 09:00:00
+WAW-20244-07019,2024-11-27,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Tern Rechtsanwälte,Legal,4773,74.34,PLN,per m2 per month,10,Renewal,2025-01-14 09:00:00
+WAW-20254-11018,2025-10-25,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Marlow Mutual,Insurance,2522,24.27,EUR,per m2 per month,10,Pre-let,2026-01-16 09:00:00
+WAW-20231-00015,2023-03-10,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Solace Assurance Warsaw,Insurance,902,18.25,EUR,per m2 per month,5,Expansion,2023-04-13 09:00:00
+WAW-20241-04001,2024-03-29,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Atlas Pharma,Life Sciences,1499,14.23,EUR,per m2 per month,12,New Lease,2024-04-17 09:00:00
+WAW-20262-73004,2026-06-15,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Beacon Consulting,Professional Services,498,9.49,EUR,per m2 per month,10,New Lease,2026-07-14 09:00:00
+WAW-20244-52015,2024-11-27,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Orbis Securities,Banking & Finance,1270,18.00,EUR,per m2 per month,12,New Lease,2025-01-12 09:00:00
+WAW-20261-42020,2026-02-02,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Sable Capital,Banking & Finance,690,13.07,EUR,per m2 per month,6,Pre-let,2026-04-21 09:00:00
+WAW-20253-10010,2025-08-03,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Brightwater Abogados,Legal,1538,19.74,EUR,per m2 per month,5,Renewal,2025-10-19 09:00:00
+WAW-20254-71009,2025-10-10,125 ul. Domaniewska,"125 ul. Domaniewska, 02-672",Żoliborz,Fenwick Advisory,Professional Services,973,14.76,EUR,per m2 per month,12,Expansion,2026-01-24 09:00:00
+WAW-20253-10007,2025-09-29,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Atlas Labs,TMT,4450,27.60,EUR,per m2 per month,12,New Lease,2025-10-19 09:00:00
+WAW-20253-55009,2025-08-31,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Harrow Spaces,Flex Office,1226,19.86,EUR,per m2 per month,5,Sublease,2025-10-12 09:00:00
+WAW-20244-37013,2024-10-15,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Veridian Flex Warsaw,Flex Office,1477,14.99,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20254-11023,2025-11-30,Atlas Point,"107 ul. Złota, 00-120",CBD,Fenwick Advisory,Professional Services,1167,26.79,EUR,per m2 per month,9,New Lease,2026-01-16 09:00:00
+WAW-20233-02014,2023-08-20,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Elmgrove Legal Warsaw,Legal,2000,278.28,EUR,per m2 per month,3,Expansion,2023-10-17 09:00:00
+WAW-20242-50003,2024-04-23,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Corvid Group Warsaw,Professional Services,1668,12.64,EUR,per m2 per month,9,Pre-let ,2024-07-23 09:00:00
+WAW-20234-33014,2023-10-29,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Helix Technologies,TMT,1502,13.57,EUR,per m2 per month,9,Pre-let,2024-01-13 09:00:00
+WAW-20243-21011,2024-07-15,59 ul. Grzybowska,"59 ul. Grzybowska, 00-844",City Centre West,Helix Office,Public Sector,705,18.53,EUR,per m2 per month,9,Renewal,2024-10-14 09:00:00
+WAW-20231-15015,2023-02-20,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Elmgrove Legal Warsaw,Legal,2616,13.51,EUR,per m2 per month,6,Renewal,2023-04-20 09:00:00
+WAW-20254-56003,2025-11-10,146 ul. Wołoska,"146 ul. Wołoska, 02-675",Wola,Ember Avocats,Legal,4864,20.95,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20234-03010,2023-12-05,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Helix Office,Public Sector,2912,25.66,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20251-38009,2025-01-21,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Ravel Abogados,Legal,3341,15.15,EUR,per m2 per month,5,Renewal,2025-04-24 09:00:00
+WAW-20261-72002,2026-01-16,Solace Gate,"80 ul. Słomińskiego, 00-195",Żoliborz,Ridgeway Pharma,Life Sciences,2383,14.65,EUR,per m2 per month,9,Pre-let,2026-04-16 09:00:00
+WAW-20231-45004,2023-03-23,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Lumen Media,TMT,752,11.11,EUR,per m2 per month,12,Expansion,2023-04-13 09:00:00
+WAW-20231-15010,2023-02-20,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Wren Labs,TMT,996,18.81,EUR,per m2 per month,9,New Lease,2023-04-20 09:00:00
+WAW-20232-31010,2023-04-11,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",Mokotów,Sterling Digital Warsaw,TMT,1943,12.90,EUR,per m2 per month,12,New Lease,2023-07-14 09:00:00
+WAW-20252-39012,2025-04-08,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Ashcombe Rechtsanwälte,Legal,1019,13.33,EUR,per m2 per month,9,Renewal,2025-07-15 09:00:00
+WAW-20233-62005,2023-07-24,62 ul. Kasprzaka,"62 ul. Kasprzaka, 01-224",Żoliborz,Cobalt Flex,Flex Office,971,10.59,EUR,per m2 per month,3,New Lease,2023-10-12 09:00:00
+WAW-20241-64006R,2024-02-05,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Ridgeway Pharma Ltd,Life Sciences,534,12.62,EUR,per m2 per month,5,New Lease,2024-05-12 09:00:00
+WAW-20244-07012,2024-12-25,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Harrow Spaces,Flex Office,1210,23.24,EUR,per m2 per month,10,New Lease,2025-01-14 09:00:00
+WAW-20252-39011,2025-05-08,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Orbis Securities,Banking & Finance,23429,45.97,PLN,per m2 per month,5,New Lease,2025-07-15 09:00:00
+WAW-20262-28002,2026-06-27,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,2290,18.87,EUR,per m2 per month,3,Pre-let,2026-07-12 09:00:00
+WAW-20254-56017,2025-11-26,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Sterling Digital Warsaw,TMT,425,20.79,EUR,per m2 per month,9,New Lease,2026-01-21 09:00:00
+WAW-20233-32015,2023-09-03,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Lumen Media Warsaw,TMT,1000,8.89,EUR,per m2 per month,6,Sublease,2023-10-14 09:00:00
+WAW-20254-26009,2025-11-29,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Larkspur Labs,TMT,1372,21.61,EUR,per m2 per month,10,Sublease,2026-01-24 09:00:00
+WAW-20254-56006,2025-10-10,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Linden Bank,Banking & Finance,3489,20.10,EUR,per m2 per month,5,Renewal,2026-01-21 09:00:00
+WAW-20231-30001,2023-02-27,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Marlow Mutual,Insurance,1870,7.73,EUR,per m2 per month,12,Sublease,2023-04-21 09:00:00
+WAW-20241-19011,2024-02-10,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Marlow Mutual,Insurance,2570,75.37,PLN,per m2 per month,9,Expansion,2024-04-13 09:00:00
+WAW-20234-18014,2023-11-04,39 ul. Marynarska,"39 ul. Marynarska, 02-674",City Centre West,Halden Associates,Professional Services,702,22.04,EUR,per m2 per month,9,New Lease,2024-01-13 09:00:00
+WAW-20232-31020,2023-06-15,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Juniper Technologies,TMT,1413,11.90,EUR,per m2 per month,12,New Lease,2023-07-14 09:00:00
+WAW-20253-40009,2025-07-26,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Wren Labs,TMT,2753,12.06,EUR,per m2 per month,5,Pre-let,2025-10-22 09:00:00
+WAW-20261-12013,2026-01-05,Atlas Point,"107 ul. Złota, 00-120",CBD,Fenwick Advisory,Professional Services,2585,25.47,EUR,per m2 per month,6,New Lease,2026-04-20 09:00:00
+WAW-20261-27001,2026-03-14,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Arden Retail,Other,3977,14.73,EUR,per m2 per month,5,Expansion,2026-04-17 09:00:00
+WAW-20262-28003,2026-05-19,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Larkspur Services Warsaw,Other,563,86.45,PLN,per m2 per month,5,Sublease,2026-07-12 09:00:00
+WAW-20254-11014,2025-11-10,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Ridgeway Retail Warsaw,Other,965,19.40,EUR,per m2 per month,6,Expansion,2026-01-16 09:00:00
+WAW-20254-56011,2025-11-25,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Ravel Abogados,Legal,2377,19.93,EUR,per m2 per month,6,Renewal,2026-01-21 09:00:00
+WAW-20261-42002,2026-02-25,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Tamar Abogados,Legal,760,15.05,EUR,per m2 per month,3,New Lease,2026-04-21 09:00:00
+WAW-20262-58006,2026-06-14,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Ravel Abogados,Legal,1453,23.08,EUR,per m2 per month,6,New Lease,2026-07-15 09:00:00
+WAW-20241-19014,2024-03-22,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Pinnacle LLP,Legal,1392,11.38,EUR,per m2 per month,5,Sublease,2024-04-13 09:00:00
+WAW-20262-43008,2026-04-05,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Ridgeway Pharma,Life Sciences,1044,9.29,EUR,per m2 per month,6,New Lease,2026-07-24 09:00:00
+WAW-20232-31016,2023-06-23,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Juniper Technologies,TMT,1220,11.40,EUR,per m2 per month,3,New Lease,2023-07-14 09:00:00
+WAW-20241-04019,2024-01-29,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Vantage Offices Warsaw,Flex Office,1043,16.79,EUR,per m2 per month,3,Renewal,2024-04-17 09:00:00
+WAW-20244-07004,2024-12-14,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Meridian Associates Warsaw,Professional Services,6460,21.90,EUR,per m2 per month,9,New Lease,2025-01-14 09:00:00
+WAW-20244-22014,2024-11-03,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Ridgeway Pharma,Life Sciences,2925,24.02,EUR,per m2 per month,12,New Lease,2025-01-23 09:00:00
+WAW-20262-13008,2026-04-17,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Tern Rechtsanwälte,Legal,2397,21.42,EUR,per m2 per month,5,New Lease,2026-07-12 09:00:00
+WAW-20254-11013,2025-11-30,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Aldwyn Asset Management Warsaw,Banking & Finance,1814,25.37,EUR,per m2 per month,9,New Lease,2026-01-16 09:00:00
+WAW-20254-71010,2025-10-06,Marlow Quay,"148 ul. Marynarska, 02-674",Żoliborz,Beacon Consulting,Professional Services,2204,13.93,EUR,per m2 per month,15,Renewal,2026-01-24 09:00:00
+WAW-20254-41015,2025-11-23,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Calder Legal,Legal,2509,14.54,EUR,per m2 per month,3,New Lease,2026-01-22 09:00:00
+WAW-20262-28012,2026-04-23,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Marlow Diagnostics Warsaw,Life Sciences,1669,24.75,EUR,per m2 per month,6,Expansion,2026-07-21 09:00:00
+WAW-20242-05007,2024-06-02,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Wren Labs,TMT,1861,90.55,PLN,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20254-11004,2025-10-31,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Thorne Capital,Banking & Finance,2182,67.85,PLN,per m2 per month,12,New Lease,2026-01-16 09:00:00
+WAW-20253-10005,2025-09-26,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Corvid Group Warsaw,Professional Services,2807,18.52,EUR,per m2 per month,5,Renewal,2025-10-19 09:00:00
+WAW-20254-56010,2025-12-15,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Lumen Workspace,Flex Office,2742,21.34,EUR,per m2 per month,15,Pre-let,2026-01-21 09:00:00
+WAW-20234-48002,2023-10-25,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Ashcombe Rechtsanwälte,Legal,825,16.08,EUR,per m2 per month,12,New Lease,2024-01-21 09:00:00
+WAW-20263-29007,2026-08-13,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Halden Associates,Professional Services,1575,15.53,EUR,per m2 per month,3,Expansion,2026-10-12 09:00:00
+WAW-20263-14009,2026-08-26,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Tamar Abogados,Legal,2821,28.31,EUR,per m2 per month,5,New Lease,2026-10-19 09:00:00
+WAW-20244-22005,2024-10-12,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Pinnacle LLP,Legal,1292,19.66,EUR,per m2 per month,9,New Lease,2025-01-23 09:00:00
+WAW-20233-17003,2023-09-04,18 ul. Wołoska,"18 ul. Wołoska, 02-675",City Centre West,Helix Office,Public Sector,757,16.21,EUR,per m2 per month,3,New Lease,2023-10-13 09:00:00
+WAW-20233-17012,2023-07-25,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Sable Capital,Banking & Finance,894,87.86,PLN,per m2 per month,15,Renewal,2023-10-13 09:00:00
+WAW-20241-49005,2024-02-20,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Larkspur Services Warsaw,Other,2015,18.60,EUR,per m2 per month,15,Renewal,2024-04-16 09:00:00
+WAW-20254-41006,2025-10-26,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Marlow Diagnostics Warsaw,Life Sciences,573,14.49,EUR,per m2 per month,6,Expansion,2026-01-22 09:00:00
+WAW-20251-38013,2035-01-20,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Quill LLP,Legal,1181,15.50,EUR,per m2 per month,15,Pre-let,2025-04-24 09:00:00
+WAW-20241-34006,2024-01-17,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Sterling Digital Warsaw,TMT,973,13.18,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20261-12005,2026-03-11,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Linden Council Warsaw,Public Sector,749,19.84,EUR,per m2 per month,15,Renewal,2026-04-20 09:00:00
+WAW-20251-23008,2025-02-28,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Solace Advisory,Professional Services,2187,18.95,EUR,per m2 per month,15,New Lease,2025-04-15 09:00:00
+WAW-20232-61003,2023-06-25,Orbis Plaza,"140 al. Jerozolimskie, 00-508",Żoliborz,Ridgeway Retail Warsaw,Other,1717,11.57,EUR,per m2 per month,12,Expansion,2023-07-24 09:00:00
+WAW-20253-40010,2025-09-26,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Beacon Consulting,Professional Services,1294,15.95,EUR,per m2 per month,5,New Lease,2025-10-22 09:00:00
+WAW-20242-35013,2024-05-16,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Northgate LLP,Legal,2189,8.80,EUR,per m2 per month,10,New Lease,2024-07-23 09:00:00
+WAW-20241-19005,2024-03-04,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Vantage Offices Warsaw,Flex Office,1256,13.41,EUR,per m2 per month,12,New Lease,2024-04-13 09:00:00
+WAW-20242-35011,2024-05-01,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Northgate Industries,Industrial,1679,14.05,EUR,per m2 per month,10,Pre-let,2024-07-23 09:00:00
+WAW-20232-31012,2023-04-10,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Meridian Associates Warsaw,Professional Services,1143,16.05,EUR,per m2 per month,9,Renewal,2023-07-14 09:00:00
+WAW-20231-00006,2023-01-11,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Kestrel Technologies,TMT,2803,19.72,EUR,per m2 per month,12,New Lease,2023-04-13 09:00:00
+WAW-20251-38001,2025-03-22,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Granite Rechtsanwälte,Legal,3069,11.02,EUR,per m2 per month,6,New Lease,2025-04-24 09:00:00
+WAW-20261-12014,2026-03-17,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Corvid Group Warsaw,Professional Services,2788,21.48,EUR,per m2 per month,10,New Lease,2026-04-20 09:00:00
+WAW-20262-58008,2026-06-24,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Ravel Abogados,Legal,604,21.31,EUR,per m2 per month,15,Pre-let,2026-07-15 09:00:00
+WAW-20233-02005,2023-07-19,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Helix Digital Warsaw,TMT,1431,17.87,EUR,per m2 per month,3,New Lease,2023-10-17 09:00:00
+WAW-20251-23001,2025-02-18,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Linden Council Warsaw,Public Sector,810,15.28,EUR,per m2 per month,6,Pre-let,2025-04-15 09:00:00
+WAW-20233-47007,2023-09-02,Ravel Court,"38 ul. Marynarska, 02-674",Wola,Aldwyn Office,Public Sector,1892,14.51,EUR,per m2 per month,12,New Lease,2023-10-17 09:00:00
+WAW-20233-47006,2023-08-08,118 ul. Prosta,"118 ul. Prosta, 00-838",Wola,Ravel Abogados,Legal,2189,16.38,EUR,per m2 per month,10,Expansion,2023-10-17 09:00:00
+WAW-20262-43006,2026-06-24,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Orbis Offices Warsaw,Flex Office,5543,14.41,EUR,per m2 per month,12,Renewal,2026-07-24 09:00:00
+WAW-20242-05025,2024-05-18,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Lumen Media,TMT,1581,26.32,EUR,per m2 per month,12,New Lease,2024-07-18 09:00:00
+WAW-20263-14010,2026-07-19,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Sterling Digital Warsaw,TMT,3506,23.89,EUR,per m2 per month,3,New Lease,2026-10-19 09:00:00
+WAW-20263-14008,2026-09-09,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Northgate Industries,Industrial,479,25.84,EUR,per m2 per month,3,New Lease,2026-10-19 09:00:00
+WAW-20231-00001,2023-02-21,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Beacon Consulting,Professional Services,1828,15.75,EUR,per m2 per month,10,New Lease,2023-04-13 09:00:00
+WAW-20243-06009,2024-09-12,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Calder Legal,Legal,726,21.65,EUR,per m2 per month,10,Renewal,2024-10-16 09:00:00
+WAW-20253-55014,2025-08-08,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Orbis Insurance,Insurance,2407,17.59,EUR,per m2 per month,12,New Lease,2025-10-12 09:00:00
+WAW-20241-49013,2024-02-09,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Fenwick Advisory,Professional Services,1543,16.71,EUR,per m2 per month,5,Sublease,2024-04-16 09:00:00
+WAW-20243-21009,2024-09-23,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Tern Rechtsanwälte,Legal,4315,22.57,EUR,per m2 per month,6,Renewal,2024-10-14 09:00:00
+WAW-20232-01011,2023-04-17,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Lumen Media Warsaw,TMT,3684,19.07,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20232-16007,2023-06-27,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Helix Office,Public Sector,1784,12.98,EUR,per m2 per month,10,Pre-let,2023-07-20 09:00:00
+WAW-20242-05020,2024-05-24,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Quill LLP,Legal,1994,13.62,EUR,per m2 per month,5,Sublease,2024-07-18 09:00:00
+WAW-20254-56008,2025-12-15,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Wren Labs,TMT,2467,24.89,EUR,per m2 per month,5,New Lease,2026-01-21 09:00:00
+WAW-20232-46009,2023-05-31,Ravel Court,"38 ul. Marynarska, 02-674",Wola,Quill LLP,Legal,531,16.43,EUR,per m2 per month,5,Expansion,2023-07-15 09:00:00
+WAW-20244-37012,2024-10-18,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Juniper Technologies,TMT,3934,,EUR,per m2 per month,15,New Lease,2025-01-12 09:00:00
+WAW-20252-09003,2025-04-04,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Sable Industries Warsaw,Industrial,3048,21.27,EUR,per m2 per month,3,expansion,2025-08-01 09:00:00
+WAW-20261-57007,2026-03-15,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Kestrel Technologies,TMT,701,19.16,EUR,per m2 per month,12,Renewal,2026-04-17 09:00:00
+WAW-20234-03004,2023-12-15,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Elmgrove Legal Warsaw,Legal,955,23.13,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20244-52021,2024-12-30,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Halden Associates,Professional Services,3872,14.21,EUR,per m2 per month,5,New Lease,2025-01-12 09:00:00
+WAW-20251-38006,2025-02-10,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Vantage Offices Warsaw,Flex Office,3273,11.58,EUR,per m2 per month,10,New Lease,2025-04-24 09:00:00
+WAW-20233-32013,2023-08-29,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Corvid Group Warsaw,Professional Services,1309,46.56,PLN,per m2 per month,5,New Lease,2023-10-14 09:00:00
+WAW-20262-28004,2026-06-03,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Lumen Workspace,Flex Office,983,14.31,EUR,per m2 per month,10,New Lease,2026-07-12 09:00:00
+WAW-20243-21004,2024-09-18,Cobalt Park,"33 ul. Towarowa, 00-811",City Centre West,Pinnacle LLP,Legal,4346,18.82,EUR,per m2 per month,12,New Lease,2024-10-14 09:00:00
+WAW-20231-00014,2023-03-27,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Elmgrove Legal Warsaw,Legal,1142,97.71,PLN,per m2 per month,12,Renewal,2023-04-13 09:00:00
+WAW-20263-74003,2026-07-03,Kestrel Gate,"139 ul. Kasprzaka, 01-224",Żoliborz,Atlas Pharma,Life Sciences,656,10.42,EUR,per m2 per month,6,Sublease,2026-10-16 09:00:00
+WAW-20241-64002,2024-01-22,17 ul. Słomińskiego,"17 ul. Słomińskiego, 00-195",Żoliborz,Linden Council Warsaw,Public Sector,2205,9.47,EUR,per m2 per month,10,New Lease,2024-04-22 09:00:00
+WAW-20231-00013,2023-03-07,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Lumen Workspace,Flex Office,993,20.08,EUR,per m2 per month,6,Renewal,2023-04-13 09:00:00
+WAW-20261-42016,2026-03-05,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Ember Avocats,Legal,417,10.64,EUR,per m2 per month,15,Sublease,2026-04-21 09:00:00
+WAW-20254-71002,2025-11-08,Larkspur Building,"138 ul. Kasprzaka, 01-224",Żoliborz,Aldwyn Asset Management Warsaw,Banking & Finance,273,13.86,EUR,per m2 per month,10,Renewal ,2026-01-24 09:00:00
+WAW-20262-13016,2026-04-08,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Meridian Associates Warsaw,Professional Services,2599,20.37,EUR,per m2 per month,12,New Lease,2026-07-12 09:00:00
+WAW-20231-15008,2023-03-11,Cobalt Park,"33 ul. Towarowa, 00-811",City Centre West,Cobalt Flex,Flex Office,947,16.29,EUR,per m2 per month,12,Renewal,2023-04-20 09:00:00
+WAW-20232-31001,2023-05-25,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Ravel Asset Management Warsaw,Banking & Finance,2065,58.34,PLN,per m2 per month,12,New Lease,2023-07-14 09:00:00
+WAW-20243-51013,2024-07-26,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Ravel Asset Management Warsaw,Banking & Finance,1130,16.74,EUR,per m2 per month,5,New Lease,2024-10-17 09:00:00
+WAW-20233-32001,2023-09-20,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Northgate Industries,Industrial,750,41.21,PLN,per m2 per month,12,new lease,2023-10-14 09:00:00
+WAW-20261-12018,2026-01-18,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Sterling Retail,Other,1739,26.19,EUR,per m2 per month,5,New Lease,2026-04-20 09:00:00
+WAW-20254-11003,2025-10-04,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Quill LLP,Legal,1133,26.33,EUR,per m2 per month,10,Expansion,2026-01-16 09:00:00
+WAW-20261-42005,2026-02-18,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Fenwick Advisory,Professional Services,1242,9.74,EUR,per m2 per month,3,Sublease,2026-04-21 09:00:00
+WAW-20233-17006,2023-07-25,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Solace Advisory,Professional Services,555,16.29,EUR,per m2 per month,5,New Lease,2023-10-13 09:00:00
+WAW-20232-46012,2023-06-22,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Vantage Associates,Professional Services,1954,17.13,EUR,per m2 per month,10,New Lease,2023-07-15 09:00:00
+WAW-20241-34012,2024-02-01,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Thorne Capital,Banking & Finance,2156,69.72,PLN,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20241-64004,2024-01-07,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Aldwyn Office,Public Sector,787,9.22,EUR,per m2 per month,12,Renewal,2024-04-22 09:00:00
+WAW-20253-10008,2025-09-30,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Corvid Holdings,Other,1752,16.82,EUR,per m2 per month,5,Sublease,2025-10-19 09:00:00
+WAW-20234-48004R,2023-10-16,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Pinnacle LLP Ltd,Legal,3138,22.06,EUR,per m2 per month,6,New Lease,2024-02-10 09:00:00
+WAW-20263-74001,2026-08-01,Granite Quay,"127 al. Jerozolimskie, 00-508",Żoliborz,Solace Advisory,Professional Services,821,37.00,PLN,per m2 per month,10,New Lease,2026-10-16 09:00:00
+WAW-20243-21006,2024-09-02,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Larkspur Services Warsaw,Other,572,13.05,EUR,per m2 per month,15,New Lease,2024-10-14 09:00:00
+WAW-20244-52004,2024-12-29,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Marlow Diagnostics Warsaw,Life Sciences,1794,91.39,PLN,per m2 per month,5,New Lease,2025-01-12 09:00:00
+WAW-20262-43005,2026-04-05,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Granite Rechtsanwälte,Legal,622,14.13,EUR,per m2 per month,12,Pre-let,2026-07-24 09:00:00
+WAW-20231-30007,2023-03-08,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Cobalt Flex,Flex Office,3603,,EUR,per m2 per month,10,New Lease,2023-04-21 09:00:00
+WAW-20244-07010,2024-12-23,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Granite Rechtsanwälte,Legal,1364,21.10,EUR,per m2 per month,6,New Lease,2025-01-14 09:00:00
+WAW-20233-02016,2023-07-10,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Cobalt Flex,Flex Office,1371,115.42,PLN,per m2 per month,15,New Lease,2023-10-17 09:00:00
+WAW-20232-16002,2023-05-21,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Vantage Offices Warsaw,Flex Office,861,19.35,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20232-01010,2023-05-20,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Northgate LLP,Legal,749,24.07,EUR,per m2 per month,9,New Lease,2023-07-20 09:00:00
+WAW-20233-32018,2023-09-03,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Corvid Group Warsaw,Professional Services,2455,15.28,EUR,per m2 per month,5,New Lease,2023-10-14 09:00:00
+WAW-20243-51002,2024-07-08,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",,Marlow Diagnostics Warsaw,Life Sciences,1481,18.28,EUR,per m2 per month,5,New Lease,2024-10-17 09:00:00
+WAW-20263-29003,2026-09-08,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Vantage Offices Warsaw,Flex Office,3107,91.08,PLN,per m2 per month,3,New Lease,2026-10-12 09:00:00
+WAW-20262-43010,2026-05-09,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Kestrel Technologies,TMT,851,13.38,EUR,per m2 per month,9,New Lease,2026-07-24 09:00:00
+WAW-20262-43001,2026-06-27,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Ravel Abogados,Legal,1639,11.99,EUR,per m2 per month,6,New Lease,2026-07-24 09:00:00
+WAW-20242-20012,2024-05-23,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Solace Assurance Warsaw,Insurance,838,15.08,EUR,per m2 per month,5,Pre-let,2024-07-22 09:00:00
+WAW-20241-64007,2024-03-15,62 al. Jana Pawła II,"62 al. Jana Pawła II, 00-867",Żoliborz,Quill LLP,Legal,238,14.85,EUR,per m2 per month,12,New Lease,2024-04-22 09:00:00
+WAW-20241-04007,2024-01-29,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Northgate Industries,Industrial,1487,104.31,PLN,per m2 per month,15,New Lease,2024-04-17 09:00:00
+WAW-20252-09001,2025-04-10,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Larkspur Services Warsaw,Other,1674,96.45,PLN,per m2 per month,10,New Lease,2025-07-23 09:00:00
+WAW-20241-49007,2024-03-23,146 ul. Wołoska,"146 ul. Wołoska, 02-675",Wola,Helix Office,Public Sector,2780,90.16,PLN,per m2 per month,10,New Lease,2024-04-16 09:00:00
+WAW-20252-09011,2025-05-02,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Helix Digital Warsaw,TMT,2198,25.64,EUR,per m2 per month,10,New Lease,2025-07-23 09:00:00
+WAW-20244-37005,2024-10-19,60 ul. Wołoska,"60 ul. Wołoska, 02-675",Mokotów,Vantage Associates,Professional Services,1833,15.18,EUR,per m2 per month,9,New Lease,2025-01-12 09:00:00
+WAW-20242-50006,2024-06-09,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Lumen Workspace,Flex Office,4854,16.79,EUR,per m2 per month,6,Renewal,2024-07-23 09:00:00
+WAW-20252-69003,2025-06-23,Ravel Tower,"28 ul. Złota, 00-120",Żoliborz,Northgate LLP,Legal,775,57.41,PLN,per m2 per month,6,New Lease,2025-07-16 09:00:00
+WAW-20263-59009,2026-08-08,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Atlas Labs,TMT,593,16.64,EUR,per m2 per month,10,Expansion,2026-10-16 09:00:00
+WAW-20243-06011,2024-09-29,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Larkspur Services Warsaw,Other,1372,25.31,EUR,per m2 per month,12,New Lease ,2024-10-16 09:00:00
+WAW-20254-11016,2025-11-05,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Beacon Consulting,Professional Services,2585,23.12,EUR,per m2 per month,5,Renewal,2026-01-16 09:00:00
+WAW-20252-54011,2025-06-24,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Elmgrove Legal Warsaw,Legal,4594,17.91,EUR,per m2 per month,6,New Lease,2025-07-20 09:00:00
+WAW-20232-31014,2023-04-14,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Osprey Technologies,TMT,1087,12.92,EUR,per m2 per month,5,New Lease,2023-07-14 09:00:00
+WAW-20254-26007,2025-12-14,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Northgate Labs Warsaw,TMT,1733,16.68,EUR,per m2 per month,5,New Lease,2026-01-24 09:00:00
+WAW-20254-11009,2025-10-26,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Wren Labs,TMT,1339,19.75,EUR,per m2 per month,9,Renewal,2026-01-16 09:00:00
+WAW-20243-06002,2024-09-11,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Tamar Abogados,Legal,1569,16.03,EUR,per m2 per month,5,Sublease,2024-10-16 09:00:00
+WAW-20261-12017,2026-02-01,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Solace Assurance Warsaw,Insurance,1749,19.99,EUR,per m2 per month,10,Sublease,2026-04-20 09:00:00
+WAW-20254-41001,2025-10-08,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Tamar Abogados,Legal,2864,12.90,EUR,per m2 per month,3,New Lease,2026-01-22 09:00:00
+WAW-20234-33023,2023-11-10,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Corvid Group Warsaw,Professional Services,3079,11.82,EUR,per m2 per month,9,New Lease,2024-01-13 09:00:00
+WAW-20253-40002,2025-07-20,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Larkspur Labs,TMT,5529,12.83,EUR,per m2 per month,5,Expansion,2025-10-22 09:00:00
+WAW-20252-39008,2025-05-18,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Northgate Labs Warsaw,TMT,810,13.08,EUR,per m2 per month,9,New Lease,2025-07-15 09:00:00
+WAW-20241-04012,2024-02-26,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Beacon Consulting,Professional Services,1700,27.61,EUR,per m2 per month,5,Renewal,2024-04-17 09:00:00
+WAW-20263-74002,2026-08-26,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",Żoliborz,Wren Labs,TMT,1757,11.05,EUR,per m2 per month,15,Pre-let,2026-10-16 09:00:00
+WAW-20242-05001,2024-06-21,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Kestrel Technologies,TMT,1450,23.89,EUR,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20254-56004,2025-10-04,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Pinnacle LLP,Legal,1179,71.13,PLN,per m2 per month,6,New Lease,2026-01-21 09:00:00
+WAW-20254-71001,2025-12-01,125 ul. Domaniewska,"125 ul. Domaniewska, 02-672",Żoliborz,Orbis Offices Warsaw,Flex Office,485,16.04,EUR,per m2 per month,5,New Lease,2026-01-24 09:00:00
+WAW-20244-22003,2024-10-07,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Thorne Capital,Banking & Finance,4679,19.45,EUR,per m2 per month,6,New Lease,2025-01-23 09:00:00
+WAW-20234-33003,2023-12-25,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Marlow Mutual,Insurance,1580,46.68,PLN,per m2 per month,10,Expansion,2024-01-13 09:00:00
+WAW-20232-31019,2023-06-20,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",Mokotów,Kestrel Technologies,TMT,2364,12.04,EUR,per m2 per month,15,New Lease,2023-07-14 09:00:00
+WAW-20242-65002,2024-04-20,171 ul. Emilii Plater,"171 ul. Emilii Plater, 00-125",Żoliborz,Sable Capital,Banking & Finance,1630,13.21,EUR,per m2 per month,10,New Lease,2024-07-23 09:00:00
+WAW-20252-09008,2025-06-06,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Nimbus Technologies,TMT,523,13.34,EUR,per m2 per month,12,Sublease ,2025-07-23 09:00:00
+WAW-20242-20009,2024-06-16,Ember House,"48 ul. Towarowa, 00-811",City Centre West,Sable Capital,Banking & Finance,326,17.79,EUR,per m2 per month,10,New Lease,2024-07-22 09:00:00
+WAW-20241-34003,2024-01-14,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Lumen Media,TMT,555,13.54,EUR,per m2 per month,12,New Lease,2024-04-17 09:00:00
+WAW-20241-49014,2024-03-12,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Meridian Capital,Banking & Finance,3959,18.15,EUR,per m2 per month,10,New Lease,2024-04-16 09:00:00
+WAW-20253-25008,2025-08-06,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Granite Rechtsanwälte,Legal,789,16.48,EUR,per m2 per month,5,Pre-let,2025-10-12 09:00:00
+WAW-20261-12004,2026-02-01,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Cobalt Flex,Flex Office,2310,17.83,EUR,per m2 per month,5,Expansion,2026-04-20 09:00:00
+WAW-20241-04016,2024-02-13,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Helix Digital Warsaw,TMT,1118,20.40,EUR,per m2 per month,6,New Lease,2024-04-17 09:00:00
+WAW-20242-20001,2024-06-03,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Kestrel Technologies,TMT,553,17.35,EUR,per m2 per month,5,New Lease,2024-07-22 09:00:00
+WAW-20234-18004,2023-11-01,39 ul. Marynarska,"39 ul. Marynarska, 02-674",City Centre West,Lumen Workspace,Flex Office,3365,17.05,EUR,per m2 per month,6,Sublease,2024-01-13 09:00:00
+WAW-20261-12007,2026-03-25,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Veridian Partners,Banking & Finance,428,27.44,EUR,per m2 per month,5,Renewal,2026-04-20 09:00:00
+WAW-20233-02001,2023-08-29,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Meridian Digital,TMT,2520,19.27,EUR,per m2 per month,5,new lease,2023-10-17 09:00:00
+WAW-20252-39001,2025-05-14,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Northgate LLP,Legal,4404,12.00,EUR,per m2 per month,3,Expansion,2025-07-15 09:00:00
+WAW-20242-20011,2024-05-21,59 ul. Grzybowska,"59 ul. Grzybowska, 00-844",City Centre West,Solace Assurance Warsaw,Insurance,2581,19.65,EUR,per m2 per month,9,Renewal,2024-07-22 09:00:00
+WAW-20263-74004,2026-07-31,Ashcombe Place,"164 ul. Wołoska, 02-675",Żoliborz,Corvid Holdings,Other,1408,10.84,EUR,per m2 per month,5,New Lease,2026-10-16 09:00:00
+WAW-20231-00004,2023-01-31,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Harrow Spaces,Flex Office,1003,23.61,EUR,per m2 per month,10,Renewal,2023-04-13 09:00:00
+WAW-20241-04008,2024-02-07,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Quill LLP,Legal,1034,15.27,EUR,per m2 per month,15,Expansion,2024-04-17 09:00:00
+WAW-20253-25014,2025-08-28,Linden Court,"42 ul. Rydygiera, 01-793",City Centre West,Kestrel Technologies,TMT,879,16.27,EUR,per m2 per month,5,New Lease,2025-10-12 09:00:00
+WAW-20234-33021R,2023-11-20,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Harrow Spaces Ltd,Flex Office,3882,60.40,PLN,per m2 per month,15,New Lease,2024-02-02 09:00:00
+WAW-20242-20014,2024-04-10,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Corvid Group Warsaw,Professional Services,799,17.59,EUR,per m2 per month,6,New Lease,2024-07-22 09:00:00
+WAW-20261-57013,2026-03-16,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Quill LLP,Legal,403,20.10,EUR,per m2 per month,3,New Lease,2026-04-17 09:00:00
+WAW-20254-71007,2025-12-29,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",,Orbis Offices Warsaw,Flex Office,1583,12.51,EUR,per m2 per month,10,New Lease,2026-01-24 09:00:00
+WAW-20243-36002,2024-07-05,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Elmgrove Asset Management,Banking & Finance,1850,12.78,EUR,per m2 per month,3,Renewal,2024-10-14 09:00:00
+WAW-20262-43007,2026-05-12,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Orbis Offices Warsaw,Flex Office,989,13.06,EUR,per m2 per month,5,Renewal,2026-07-24 09:00:00
+WAW-20252-24006,2025-05-22,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Arden Retail,Other,6926,15.43,EUR,per m2 per month,15,New Lease,2025-07-14 09:00:00
+WAW-20263-44005,2026-08-19,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Arden Retail,Other,5833,12.27,EUR,per m2 per month,15,New Lease,2026-10-17 09:00:00
+WAW-20233-17014,2023-08-26,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Veridian Partners,Banking & Finance,677,22.76,EUR,per m2 per month,12,Renewal,2023-10-13 09:00:00
+WAW-20251-08012,2025-03-22,Fenwick Quay,"51 ul. Przyokopowa, 01-208",CBD,Helix Digital Warsaw,TMT,2911,21.33,EUR,per m2 per month,6,New Lease,2025-04-15 09:00:00
+WAW-20234-48004,2023-10-16,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Pinnacle LLP,Legal,3138,22.06,EUR,per m2 per month,6,New Lease,2024-01-21 09:00:00
+WAW-20243-36007,2024-08-04,51 rondo ONZ,"51 rondo ONZ, 00-124",Mokotów,Meridian Associates Warsaw,Professional Services,1194,14.90,EUR,per m2 per month,6,Pre-let,2024-10-14 09:00:00
+WAW-20251-08009,2025-03-21,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Calder Authority Warsaw,Public Sector,1052,22.82,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20254-11026,2025-12-27,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Halden Associates,Professional Services,1691,,EUR,per m2 per month,3,New Lease,2026-01-16 09:00:00
+WAW-20242-35003,2024-06-05,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Atlas Labs,TMT,1279,11.19,EUR,per m2 per month,15,New Lease,2024-07-23 09:00:00
+WAW-20243-21007,2024-09-01,Cobalt Park,"33 ul. Towarowa, 00-811",City Centre West,Ashcombe Rechtsanwälte,Legal,2507,16.68,EUR,per m2 per month,5,New Lease,2024-10-14 09:00:00
+WAW-20242-20007,2024-05-17,146 ul. Przyokopowa,"146 ul. Przyokopowa, 01-208",City Centre West,Aldwyn Asset Management Warsaw,Banking & Finance,2861,14.02,EUR,per m2 per month,5,Renewal,2024-07-22 09:00:00
+WAW-20244-67003,2024-11-24,125 ul. Domaniewska,"125 ul. Domaniewska, 02-672",Żoliborz,Vantage Associates,Professional Services,1101,61.20,PLN,per m2 per month,15,New Lease,2025-01-24 09:00:00
+WAW-20233-62003,2023-08-12,Solace Gate,"80 ul. Słomińskiego, 00-195",Żoliborz,Lumen Media Warsaw,TMT,2594,15.90,EUR,per m2 per month,9,Expansion,2023-10-12 09:00:00
+WAW-20231-15012,2023-01-12,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Wren Labs,TMT,1783,20.03,EUR,per m2 per month,12,Pre-let,2023-04-20 09:00:00
+WAW-20231-15001,2023-03-04,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Ridgeway Pharma,Life Sciences,1099,85.02,PLN,per m2 per month,12,New Lease,2023-04-20 09:00:00
+WAW-20242-05016,2024-04-05,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Helix Office,Public Sector,479,25.13,EUR,per m2 per month,3,New Lease,2024-07-18 09:00:00
+WAW-20262-13004,2026-04-09,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Larkspur Labs,TMT,646,26.53,EUR,per m2 per month,5,Renewal,2026-07-12 09:00:00
+WAW-20231-00005,2023-03-22,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Meridian Capital,Banking & Finance,1638,27.42,EUR,per m2 per month,10,New Lease,2023-04-13 09:00:00
+WAW-20244-37016,2024-12-05,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Juniper Technologies,TMT,878,52.72,PLN,per m2 per month,12,New Lease,2025-01-12 09:00:00
+WAW-20261-57012,2026-01-27,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Calder Authority Warsaw,Public Sector,2533,18.28,EUR,per m2 per month,9,New Lease,2026-04-17 09:00:00
+WAW-20252-54001,2025-04-17,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Quill LLP,Legal,621,23.46,EUR,per m2 per month,9,Pre-let,2025-07-20 09:00:00
+WAW-20262-13017,2026-06-14,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Fenwick Foundation Warsaw,Other,1331,24.31,EUR,per m2 per month,9,New Lease,2026-07-12 09:00:00
+WAW-20244-37009,2024-12-31,Corvid Gate,"107 al. Jerozolimskie, 00-508",Mokotów,Helix Office,Public Sector,2239,70.11,PLN,per m2 per month,3,New Lease,2025-01-12 09:00:00
+WAW-20251-68002,2025-01-03,129 rondo ONZ,"129 rondo ONZ, 00-124",Żoliborz,Ashcombe Rechtsanwälte,Legal,2083,10.90,EUR,per m2 per month,6,Sublease,2025-04-14 09:00:00
+WAW-20233-17001,2023-09-14,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Linden Council Warsaw,Public Sector,3543,19.00,EUR,per m2 per month,10,New Lease,2023-10-13 09:00:00
+WAW-20234-03002,2023-12-23,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Thorne Capital,Banking & Finance,1177,16.15,EUR,per m2 per month,5,Renewal,2024-01-12 09:00:00
+WAW-20261-42003,2026-03-19,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Aldwyn Office,Public Sector,1594,12.31,EUR,per m2 per month,10,New Lease,2026-04-21 09:00:00
+WAW-20242-20008,2024-06-10,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Aldwyn Asset Management Warsaw,Banking & Finance,3389,17.16,EUR,per m2 per month,6,Renewal,2024-07-22 09:00:00
+WAW-20254-11022,2025-12-05,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Meridian Capital,Banking & Finance,235,19.27,EUR,per m2 per month,5,Pre-let,2026-01-16 09:00:00
+WAW-20254-56005,2025-10-27,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Larkspur Services Warsaw,Other,1833,14.92,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20234-48011,2023-12-07,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Orbis Insurance,Insurance,3818,78.75,PLN,per m2 per month,10,New Lease,2024-01-21 09:00:00
+WAW-20234-18015,2023-11-08,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Lumen Media,TMT,814,20.32,EUR,per m2 per month,3,New Lease,2024-01-13 09:00:00
+WAW-20232-16010,2023-04-24,39 ul. Marynarska,"39 ul. Marynarska, 02-674",City Centre West,Marlow Mutual,Insurance,1983,17.99,EUR,per m2 per month,15,Expansion,2023-07-20 09:00:00
+WAW-20252-24004,2025-04-11,146 ul. Przyokopowa,"146 ul. Przyokopowa, 01-208",City Centre West,Tern Rechtsanwälte,Legal,1040,12.24,EUR,per m2 per month,5,Sublease,2025-07-14 09:00:00
+WAW-20262-58006,2026-06-14,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Ravel Abogados,Legal,1453,23.08,EUR,per m2 per month,6,New Lease,2026-07-24 09:00:00
+WAW-20252-39007,2025-06-12,81 al. Jerozolimskie,"81 al. Jerozolimskie, 00-508",Mokotów,Marlow Diagnostics Warsaw,Life Sciences,1066,13.12,EUR,per m2 per month,9,New Lease,2025-07-15 09:00:00
+WAW-20243-51009,2024-08-04,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Arden Retail,Other,1814,64.83,PLN,per m2 per month,15,New Lease,2024-10-17 09:00:00
+WAW-20242-05023,2024-06-10,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Aldwyn Office,Public Sector,455,18.25,EUR,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20232-46007,2023-06-02,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Tern Rechtsanwälte,Legal,1952,20.50,EUR,per m2 per month,15,New Lease,2023-07-15 09:00:00
+WAW-20253-10011,2025-09-12,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Beacon Consulting,Professional Services,8218,19.10,EUR,per m2 per month,9,Renewal,2025-10-19 09:00:00
+WAW-20233-02018,2023-09-27,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Sterling Digital Warsaw,TMT,2203,18.11,EUR,per m2 per month,5,New Lease,2023-10-17 09:00:00
+WAW-20261-57010,2026-02-25,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Elmgrove Legal Warsaw,Legal,852,17.47,EUR,per m2 per month,10,New Lease,2026-04-17 09:00:00
+WAW-20243-66004,2024-08-29,Helix Building,"40 ul. Emilii Plater, 00-125",Żoliborz,Meridian Capital,Banking & Finance,833,13.56,EUR,per m2 per month,15,Pre-let,2024-10-13 09:00:00
+WAW-20243-21002,2024-07-27,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Osprey Technologies,TMT,1518,15.26,EUR,per m2 per month,9,New Lease,2024-10-14 09:00:00
+WAW-20233-47003,2023-08-21,146 ul. Wołoska,"146 ul. Wołoska, 02-675",Wola,Sterling Retail,Other,1197,20.86,EUR,per m2 per month,5,New Lease,2023-10-17 09:00:00
+WAW-20233-62001,2023-08-22,83 ul. Domaniewska,"83 ul. Domaniewska, 02-672",Żoliborz,Marlow Mutual,Insurance,996,14.42,EUR,per m2 per month,10,New Lease,2023-10-12 09:00:00
+WAW-20252-39005,2025-04-04,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Marlow Diagnostics Warsaw,Life Sciences,4959,10.85,EUR,per m2 per month,15,Expansion,2025-07-15 09:00:00
+WAW-20252-24005,2025-05-16,Linden Court,"42 ul. Rydygiera, 01-793",City Centre West,Solace Assurance Warsaw,Insurance,3424,16.55,EUR,per m2 per month,3,New Lease,2025-07-14 09:00:00
+WAW-20252-09004,2025-05-05,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Orbis Insurance,Insurance,2800,24.62,EUR,per m2 per month,5,New Lease,2025-08-01 09:00:00
+WAW-20263-14005,2026-08-31,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Helix Technologies,TMT,1213,20.55,EUR,per m2 per month,15,Renewal,2026-10-19 09:00:00
+WAW-20262-73002,2026-06-23,Ravel Tower,"28 ul. Złota, 00-120",Żoliborz,Corvid Group Warsaw,Professional Services,913,58.13,PLN,per m2 per month,5,Expansion,2026-07-14 09:00:00
+WAW-20253-70001,2025-08-09,Helix Building,"40 ul. Emilii Plater, 00-125",Żoliborz,Northgate Industries,Industrial,2508,14.77,EUR,per m2 per month,10,Renewal,2025-10-23 09:00:00
+WAW-20253-70002,2025-09-10,83 ul. Domaniewska,"83 ul. Domaniewska, 02-672",Żoliborz,Ember Avocats,Legal,692,13.53,EUR,per m2 per month,9,New Lease,2025-10-23 09:00:00
+WAW-20242-05010,2024-04-13,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Aldwyn Office,Public Sector,2179,59.38,PLN,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20251-68003,2025-03-16,167 ul. Emilii Plater,"167 ul. Emilii Plater, 00-125",Żoliborz,Osprey Technologies,TMT,1865,14.26,EUR,per m2 per month,10,New Lease,2025-04-14 09:00:00
+WAW-20263-14011,2026-09-22,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Ridgeway Pharma,Life Sciences,2121,21.02,EUR,per m2 per month,10,Renewal,2026-10-19 09:00:00
+WAW-20252-09002,2025-05-13,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Wren Labs,TMT,1123,15.59,EUR,per m2 per month,5,New Lease,2025-07-23 09:00:00
+WAW-20231-45012,2023-01-09,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Marlow Mutual,Insurance,1376,14.18,EUR,per m2 per month,10,Sublease,2023-04-13 09:00:00
+WAW-20244-37001,2024-10-16,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Meridian Digital,TMT,1351,9.18,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20242-35005,2024-05-11,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Juniper Technologies,TMT,1241,10.21,EUR,per m2 per month,6,New Lease,2024-07-23 09:00:00
+WAW-20263-74005,2026-08-12,83 ul. Domaniewska,"83 ul. Domaniewska, 02-672",Żoliborz,Marlow Mutual,Insurance,3778,14.29,EUR,per m2 per month,3,Pre-let,2026-10-16 09:00:00
+WAW-20253-55004,2025-08-19,Fenwick Court,"153 ul. Przyokopowa, 01-208",Wola,Tamar Abogados,Legal,583,17.33,EUR,per m2 per month,9,Renewal,2025-10-12 09:00:00
+WAW-20242-05008,2024-04-07,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Cobalt Flex,Flex Office,1542,15.53,EUR,per m2 per month,15,New Lease,2024-07-18 09:00:00
+WAW-20261-27005,2026-01-03,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Vantage Associates,Professional Services,3702,75.84,PLN,per m2 per month,5,Sublease,2026-04-17 09:00:00
+WAW-20233-02011R,2023-08-30,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Tamar Abogados Ltd,Legal,2376,72.79,PLN,per m2 per month,9,Sublease,2023-11-06 09:00:00
+WAW-20261-12016,2026-03-12,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Lumen Workspace,Flex Office,397,21.94,EUR,per m2 per month,15,New Lease,2026-04-20 09:00:00
+WAW-20252-09004,2025-05-05,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Orbis Insurance,Insurance,2800,24.62,EUR,per m2 per month,5,New Lease,2025-07-23 09:00:00
+WAW-20262-28010,2026-06-17,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Orbis Offices Warsaw,Flex Office,1190,17.72,EUR,per m2 per month,10,Renewal,2026-07-12 09:00:00
+WAW-20234-03014,2023-12-25,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Orbis Insurance,Insurance,1077,19.48,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20233-32009,2023-08-21,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Meridian Associates Warsaw,Professional Services,2389,13.34,EUR,per m2 per month,6,Pre-let,2023-10-14 09:00:00
+WAW-20244-22009,2024-12-01,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Cobalt Advisory,Professional Services,1245,12.81,EUR,per m2 per month,9,New Lease,2025-01-23 09:00:00
+WAW-20242-05011,2024-06-27,Atlas Point,"107 ul. Złota, 00-120",CBD,Sterling Digital Warsaw,TMT,2285,23.44,EUR,per m2 per month,15,Sublease,2024-07-18 09:00:00
+WAW-20241-19010,2024-03-06,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Meridian Capital,Banking & Finance,909,15.88,EUR,per m2 per month,6,New Lease,2024-04-13 09:00:00
+WAW-20252-54009,2025-06-26,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Ravel Abogados,Legal,1285,17.53,EUR,per m2 per month,6,Renewal,2025-07-20 09:00:00
+WAW-20261-42013,2026-01-12,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Wren Labs,TMT,1625,9.41,EUR,per m2 per month,9,New Lease,2026-04-21 09:00:00
+WAW-20241-04018,2024-01-09,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Marlow Diagnostics Warsaw,Life Sciences,2461,13.40,EUR,per m2 per month,12,New Lease,2024-04-17 09:00:00
+WAW-20252-39010,2025-06-04,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Osprey Technologies,TMT,579,,EUR,per m2 per month,5,Renewal,2025-07-15 09:00:00
+WAW-20252-69002,2025-06-10,Beacon Gate,"83 rondo ONZ, 00-124",Żoliborz,Meridian Digital,TMT,671,13.93,EUR,per m2 per month,5,Pre-let,2025-07-16 09:00:00
+WAW-20254-56007,2025-11-06,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Beacon Consulting,Professional Services,609,19.35,EUR,per m2 per month,3,New Lease,2026-01-21 09:00:00
+WAW-20241-49004,2024-02-14,Kestrel Point,"130 ul. Kasprzaka, 01-224",Wola,Ravel Asset Management Warsaw,Banking & Finance,3707,15.49,EUR,per m2 per month,3,Pre-let,2024-04-16 09:00:00
+WAW-20232-01007,2023-04-20,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Meridian Capital,Banking & Finance,6964,19.49,EUR,per m2 per month,5,New Lease,2023-07-20 09:00:00
+WAW-20241-19016,2024-03-01,Sable Place,"47 al. Jerozolimskie, 00-508",City Centre West,Granite Rechtsanwälte,Legal,1134,16.14,EUR,per m2 per month,9,Renewal,2024-04-13 09:00:00
+WAW-20233-02006,2023-09-07,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Harrow Spaces,Flex Office,4471,18.21,EUR,per m2 per month,6,Renewal,2023-10-17 09:00:00
+WAW-20254-41002,2025-12-21,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Corvid Holdings,Other,10754,14.24,EUR,per m2 per month,15,New Lease,2026-01-22 09:00:00
+WAW-20231-60002,2023-01-26,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Granite Rechtsanwälte,Legal,3619,11.51,EUR,per m2 per month,9,Renewal,2023-04-15 09:00:00
+WAW-20242-50002,2024-06-17,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Calder Authority Warsaw,Public Sector,1383,14.79,EUR,per m2 per month,5,Renewal,2024-07-23 09:00:00
+WAW-20232-46011,2023-04-22,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Ashcombe Rechtsanwälte,Legal,4467,13.61,EUR,per m2 per month,10,New Lease,2023-07-15 09:00:00
+WAW-20254-56001,2025-12-28,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Linden Bank,Banking & Finance,810,14.36,EUR,per m2 per month,6,Sublease,2026-01-21 09:00:00
+WAW-20262-73005,2026-05-29,Ravel Tower,"28 ul. Złota, 00-120",Żoliborz,Larkspur Labs,TMT,4256,12.06,EUR,per m2 per month,3,New Lease,2026-07-14 09:00:00
+WAW-20244-22015,2024-10-13,18 ul. Wołoska,"18 ul. Wołoska, 02-675",City Centre West,Tamar Abogados,Legal,746,18.83,EUR,per m2 per month,3,Renewal,2025-01-23 09:00:00
+WAW-20231-00012,2023-03-08,51 ul. Kasprzaka,"51 ul. Kasprzaka, 01-224",CBD,Pinnacle LLP,Legal,1185,18.88,EUR,per m2 per month,10,Renewal ,2023-04-13 09:00:00
+WAW-20242-35006,2024-04-21,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Corvid Group Warsaw,Professional Services,1809,13.99,EUR,per m2 per month,10,New Lease,2024-07-23 09:00:00
+WAW-20242-05026,2024-05-17,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Orbis Securities,Banking & Finance,1377,17.68,EUR,per m2 per month,9,Renewal,2024-07-18 09:00:00
+WAW-20261-57003,2026-03-24,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Northgate LLP,Legal,3493,17.85,EUR,per m2 per month,10,Pre-let,2026-04-17 09:00:00
+WAW-20244-22010,2024-10-02,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,2357,16.51,EUR,per m2 per month,3,New Lease,2025-01-23 09:00:00
+WAW-20262-28008,2026-05-31,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Sterling Digital Warsaw,TMT,1134,83.73,PLN,per m2 per month,15,Pre-let,2026-07-12 09:00:00
+WAW-20262-58012R,2026-05-07,4 ul. Towarowa,"4 ul. Towarowa, 00-811",Wola,VERIDIAN PARTNERS,Banking & Finance,1875,78.34,PLN,per m2 per month,5,Renewal,2026-08-04 09:00:00
+WAW-20262-13001,2026-04-25,51 ul. Kasprzaka,"51 ul. Kasprzaka, 01-224",CBD,Meridian Digital,TMT,1994,22.00,EUR,per m2 per month,9,New Lease,2026-07-12 09:00:00
+WAW-20263-14014,2026-09-28,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Marlow Mutual,Insurance,618,15.26,EUR,per m2 per month,10,New Lease,2026-10-19 09:00:00
+WAW-20263-29002,2026-07-25,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Linden Council Warsaw,Public Sector,992,14.33,EUR,per m2 per month,5,Renewal,2026-10-12 09:00:00
+WAW-20233-32017,2023-07-23,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",Mokotów,Sable Industries Warsaw,Industrial,843,12.20,EUR,per m2 per month,5,New Lease,2023-10-14 09:00:00
+WAW-20261-12020,2026-02-03,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Ridgeway Pharma,Life Sciences,883,26.63,EUR,per m2 per month,15,Renewal,2026-04-20 09:00:00
+WAW-20243-06001,2024-08-05,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Harrow Spaces,Flex Office,1454,22.41,EUR,per m2 per month,9,Renewal,2024-10-16 09:00:00
+WAW-20231-00003,2023-03-06,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Cobalt Advisory,Professional Services,2019,17.14,EUR,per m2 per month,10,Renewal,2023-04-13 09:00:00
+WAW-20241-19014R,2024-03-22,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Pinnacle LLP Ltd,Legal,1392,11.38,EUR,per m2 per month,5,Sublease,2024-05-03 09:00:00
+WAW-20252-24008,2025-05-27,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Lumen Media Warsaw,TMT,6466,21.97,EUR,per m2 per month,5,New Lease,2025-07-14 09:00:00
+WAW-20234-33005,2023-12-12,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Atlas Labs,TMT,2875,64.09,PLN,per m2 per month,6,Sublease,2024-01-13 09:00:00
+WAW-20262-13019,2026-05-18,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Juniper Technologies,TMT,505,20.20,EUR,per m2 per month,3,Renewal,2026-07-12 09:00:00
+WAW-20253-40001,2025-07-07,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Orbis Offices Warsaw,Flex Office,4542,14.80,EUR,per m2 per month,12,New Lease,2025-10-22 09:00:00
+WAW-20261-12012,2026-03-19,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Lumen Media,TMT,1925,20.20,EUR,per m2 per month,10,New Lease,2026-04-20 09:00:00
+WAW-20244-67004,2024-10-21,Larkspur Building,"138 ul. Kasprzaka, 01-224",Żoliborz,Sterling Retail,Other,1558,11.04,EUR,per m2 per month,10,Sublease,2025-01-24 09:00:00
+WAW-20243-21003,2024-08-16,Arden Court,"166 ul. Grzybowska, 00-844",City Centre West,Brightwater Abogados,Legal,2004,89.54,PLN,per m2 per month,9,New Lease,2024-10-14 09:00:00
+WAW-20231-15003,2023-02-22,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Sterling Retail,Other,1242,13.11,EUR,per m2 per month,9,Sublease,2023-04-20 09:00:00
+WAW-20261-57009,2026-01-23,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Sable Industries Warsaw,Industrial,2486,14.64,EUR,per m2 per month,12,New Lease,2026-04-17 09:00:00
+WAW-20233-17002,2023-09-16,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Larkspur Services Warsaw,Other,3046,22.76,EUR,per m2 per month,5,Renewal,2023-10-13 09:00:00
+WAW-20262-13014,2026-06-10,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Sable Capital,Banking & Finance,807,80.21,PLN,per m2 per month,9,New Lease ,2026-07-12 09:00:00
+WAW-20241-64001,2024-03-14,43 ul. Towarowa,"43 ul. Towarowa, 00-811",Żoliborz,Linden Bank,Banking & Finance,1408,10.58,EUR,per m2 per month,10,New Lease,2024-04-22 09:00:00
+WAW-20242-05016,2024-04-05,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Helix Office,Public Sector,479,25.13,EUR,per m2 per month,3,New Lease,2024-07-27 09:00:00
+WAW-20254-56014,2025-12-16,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Quill LLP,Legal,683,22.33,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20233-32016,2023-08-10,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Meridian Associates Warsaw,Professional Services,2634,9.68,EUR,per m2 per month,5,New Lease,2023-10-14 09:00:00
+WAW-20233-17005,2023-08-30,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Quill LLP,Legal,2646,20.85,EUR,per m2 per month,15,New Lease,2023-10-13 09:00:00
+WAW-20241-34011,2024-02-14,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Sterling Retail,Other,2312,11.42,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20263-14012,2026-09-19,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Linden Council Warsaw,Public Sector,530,23.13,EUR,per m2 per month,9,New Lease,2026-10-19 09:00:00
+WAW-20232-31003,2023-04-11,87 ul. Prosta,"87 ul. Prosta, 00-838",Mokotów,Marlow Mutual,Insurance,1803,9.21,EUR,per m2 per month,5,New Lease,2023-07-14 09:00:00
+WAW-20261-72003,2026-01-30,133 ul. Towarowa,"133 ul. Towarowa, 00-811",Żoliborz,Pinnacle LLP,Legal,818,72.85,PLN,per m2 per month,5,Renewal,2026-04-16 09:00:00
+WAW-20243-36013,2024-07-27,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Lumen Workspace,Flex Office,1527,13.20,EUR,per m2 per month,10,Renewal,2024-10-14 09:00:00
+WAW-20234-33018,2023-11-12,51 rondo ONZ,"51 rondo ONZ, 00-124",Mokotów,Lumen Workspace,Flex Office,2427,59.27,PLN,per m2 per month,6,New Lease,2024-01-13 09:00:00
+WAW-20234-33015,2023-11-11,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Vantage Associates,Professional Services,2585,11.11,EUR,per m2 per month,10,New Lease,2024-01-13 09:00:00
+WAW-20254-41008,2025-12-01,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Ravel Asset Management Warsaw,Banking & Finance,3047,10.01,EUR,per m2 per month,10,Expansion,2026-01-22 09:00:00
+WAW-20251-08015,2025-03-22,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Helix Office,Public Sector,847,25.17,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20233-47008,2023-09-10,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Sable Industries Warsaw,Industrial,1066,80.05,PLN,per m2 per month,3,New Lease,2023-10-17 09:00:00
+WAW-20253-40006,2025-09-10,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Solace Assurance Warsaw,Insurance,6973,12.54,EUR,per m2 per month,6,New Lease,2025-10-22 09:00:00
+WAW-20251-53011,2025-03-31,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Sable Industries Warsaw,Industrial,4862,16.82,EUR,per m2 per month,12,Renewal,2025-04-20 09:00:00
+WAW-20253-10012,2025-08-10,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Vantage Associates,Professional Services,630,97.41,PLN,per m2 per month,10,Renewal,2025-10-19 09:00:00
+WAW-20261-57006,2026-01-10,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Tern Rechtsanwälte,Legal,884,19.01,EUR,per m2 per month,15,Pre-let,2026-04-17 09:00:00
+WAW-20233-02013,2023-07-07,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Lumen Workspace,Flex Office,2348,19.40,EUR,per m2 per month,9,Renewal,2023-10-17 09:00:00
+WAW-20234-03012,2023-11-25,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Orbis Securities,Banking & Finance,833,23.20,EUR,per m2 per month,15,New Lease,2024-01-12 09:00:00
+WAW-20254-11005,2025-12-05,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Meridian Digital,TMT,1124,17.55,EUR,per m2 per month,10,New Lease,2026-01-16 09:00:00
+WAW-20234-33020,2023-11-06,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Linden Council Warsaw,Public Sector,1301,11.27,EUR,per m2 per month,10,Expansion,2024-01-13 09:00:00
+WAW-20254-11017,2025-12-24,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Corvid Group Warsaw,Professional Services,887,21.53,EUR,per m2 per month,10,Renewal,2026-01-16 09:00:00
+WAW-20232-31007,2023-05-24,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Granite Rechtsanwälte,Legal,1841,16.01,EUR,per m2 per month,5,Expansion,2023-07-14 09:00:00
+WAW-20254-71008,2025-12-12,Kestrel Gate,"139 ul. Kasprzaka, 01-224",Żoliborz,Sable Industries Warsaw,Industrial,529,11.51,EUR,per m2 per month,10,New Lease,2026-01-24 09:00:00
+WAW-20262-13003,2026-05-13,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Northgate Industries,Industrial,2553,21.25,EUR,per m2 per month,10,New Lease,2026-07-12 09:00:00
+WAW-20231-15005,2023-03-29,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Halden Associates,Professional Services,1740,23.53,EUR,per m2 per month,10,Renewal,2023-04-20 09:00:00
+WAW-20234-33011,2023-11-27,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Ravel Asset Management Warsaw,Banking & Finance,1098,10.59,EUR,per m2 per month,10,New Lease,2024-01-13 09:00:00
+WAW-20261-27003,2026-03-17,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Aldwyn Asset Management Warsaw,Banking & Finance,2452,19.12,EUR,per m2 per month,9,New Lease,2026-04-17 09:00:00
+WAW-20253-55006,2025-08-05,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Orbis Securities,Banking & Finance,596,17.04,EUR,per m2 per month,10,Renewal,2025-10-12 09:00:00
+WAW-20232-61001,2023-06-07,62 al. Jana Pawła II,"62 al. Jana Pawła II, 00-867",Żoliborz,Atlas Labs,TMT,24748,69.67,PLN,per m2 per month,12,New Lease,2023-07-24 09:00:00
+WAW-20261-42015,2026-01-16,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Veridian Partners,Banking & Finance,1360,12.58,EUR,per m2 per month,6,Renewal,2026-04-21 09:00:00
+WAW-20233-02017,2023-07-13,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Solace Advisory,Professional Services,722,24.70,EUR,per m2 per month,10,New Lease,2023-10-17 09:00:00
+WAW-20243-36010,2024-07-13,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Ridgeway Retail Warsaw,Other,2365,12.27,EUR,per m2 per month,10,Renewal,2024-10-14 09:00:00
+WAW-20234-18017,2023-11-02,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Marlow Diagnostics Warsaw,Life Sciences,976,15.39,EUR,per m2 per month,10,Sublease,2024-01-13 09:00:00
+WAW-20244-37006,2024-11-17,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Aldwyn Asset Management Warsaw,Banking & Finance,1400,12.54,EUR,per m2 per month,15,New Lease,2025-01-12 09:00:00
+WAW-20234-33008,2023-10-17,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Sable Capital,Banking & Finance,541,8.06,EUR,per m2 per month,15,Sublease,2024-01-13 09:00:00
+WAW-20244-37018,2024-11-03,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Elmgrove Legal Warsaw,Legal,1518,14.48,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20243-51016,2024-07-05,4 ul. Towarowa,"4 ul. Towarowa, 00-811",Wola,Fenwick Foundation Warsaw,Other,717,17.08,EUR,per m2 per month,10,New Lease,2024-10-17 09:00:00
+WAW-20233-17004,2023-08-12,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Ember Avocats,Legal,648,82.86,PLN,per m2 per month,10,New Lease,2023-10-13 09:00:00
+WAW-20242-35002,2024-05-26,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Ridgeway Retail Warsaw,Other,3808,8.95,EUR,per m2 per month,12,New Lease,2024-07-23 09:00:00
+WAW-20241-19012,2024-02-23,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Northgate Industries,Industrial,1640,13.44,EUR,per m2 per month,15,Pre-let,2024-04-13 09:00:00
+WAW-20254-71003,2025-12-10,83 ul. Domaniewska,"83 ul. Domaniewska, 02-672",Żoliborz,Kestrel Technologies,TMT,644,14.08,EUR,per m2 per month,12,New Lease,2026-01-24 09:00:00
+WAW-20243-36006,2024-08-21,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Ridgeway Pharma,Life Sciences,5493,14.66,EUR,per m2 per month,15,Renewal,2024-10-14 09:00:00
+WAW-20231-45002,2023-01-25,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Meridian Digital,TMT,1605,17.54,EUR,per m2 per month,10,New Lease,2023-04-13 09:00:00
+WAW-20262-58005,2026-06-20,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Veridian Partners,Banking & Finance,3223,19.01,EUR,per m2 per month,9,Renewal,2026-07-15 09:00:00
+WAW-20244-67002,2024-12-03,171 ul. Emilii Plater,"171 ul. Emilii Plater, 00-125",Żoliborz,Lumen Workspace,Flex Office,352,56.28,PLN,per m2 per month,5,Pre-let,2025-01-24 09:00:00
+WAW-20243-51011,2024-08-04,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Cobalt Advisory,Professional Services,2450,16.77,EUR,per m2 per month,5,Renewal,2024-10-17 09:00:00
+WAW-20253-10006,2025-07-12,Atlas Point,"107 ul. Złota, 00-120",CBD,Meridian Associates Warsaw,Professional Services,2356,20.64,EUR,per m2 per month,5,Sublease,2025-10-19 09:00:00
+WAW-20262-58010,2026-05-29,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Sable Industries Warsaw,Industrial,2973,16.91,EUR,per m2 per month,10,New Lease,2026-07-15 09:00:00
+WAW-20241-49011,2024-01-18,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Juniper Technologies,TMT,1126,20.09,EUR,per m2 per month,12,New Lease,2024-04-16 09:00:00
+WAW-20244-67001,2024-10-21,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Elmgrove Asset Management,Banking & Finance,1285,,PLN,per m2 per month,9,Expansion,2025-01-24 09:00:00
+WAW-20242-35008,2024-04-02,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Thorne Capital,Banking & Finance,1046,11.24,EUR,per m2 per month,5,Expansion,2024-07-23 09:00:00
+WAW-20232-31021,2023-05-18,60 ul. Wołoska,"60 ul. Wołoska, 02-675",Mokotów,Kestrel Technologies,TMT,2155,60.02,PLN,per m2 per month,6,Sublease,2023-07-14 09:00:00
+WAW-20261-12011,2026-01-03,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Sable Industries Warsaw,Industrial,5219,21.30,EUR,per m2 per month,3,New Lease,2026-04-20 09:00:00
+WAW-20254-26001,2025-12-09,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Corvid Group Warsaw,Professional Services,1624,20.30,EUR,per m2 per month,15,Renewal,2026-01-24 09:00:00
+WAW-20234-18009,2023-11-10,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Tern Rechtsanwälte,Legal,2132,72.42,PLN,per m2 per month,12,Sublease,2024-01-13 09:00:00
+WAW-20244-22013,2024-11-15,18 ul. Wołoska,"18 ul. Wołoska, 02-675",City Centre West,Cobalt Advisory,Professional Services,1519,18.19,EUR,per m2 per month,6,Renewal,2025-01-23 09:00:00
+WAW-20244-52012,2024-12-18,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Veridian Flex Warsaw,Flex Office,901,13.99,EUR,per m2 per month,3,New Lease,2025-01-12 09:00:00
+WAW-20242-65004,2024-04-27,Orbis Plaza,"140 al. Jerozolimskie, 00-508",Żoliborz,Meridian Capital,Banking & Finance,258,52.33,PLN,per m2 per month,10,Expansion ,2024-08-01 09:00:00
+WAW-20251-38004,2025-03-06,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Ravel Abogados,Legal,1162,8.12,EUR,per m2 per month,9,New Lease,2025-04-24 09:00:00
+WAW-20234-33017,2023-11-04,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Fenwick Foundation Warsaw,Other,1176,45.14,PLN,per m2 per month,10,Pre-let,2024-01-13 09:00:00
+WAW-20232-16001,2023-06-19,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Sterling Digital Warsaw,TMT,2107,13.30,EUR,per m2 per month,9,Pre-let,2023-07-20 09:00:00
+WAW-20242-20013,2024-06-17,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Quill LLP,Legal,1859,15.19,EUR,per m2 per month,9,Renewal,2024-07-22 09:00:00
+WAW-20231-15009,2023-03-10,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Tamar Abogados,Legal,412,12.94,EUR,per m2 per month,5,New Lease,2023-04-20 09:00:00
+WAW-20234-48007,2023-12-17,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Calder Legal,Legal,2203,16.73,EUR,per m2 per month,10,New Lease,2024-01-21 09:00:00
+WAW-20244-07007,2024-12-08,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Corvid Group Warsaw,Professional Services,3648,21.06,EUR,per m2 per month,3,New Lease,2025-01-14 09:00:00
+WAW-20254-26010,2025-11-29,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Northgate Industries,Industrial,185,17.62,EUR,per m2 per month,5,New Lease,2026-01-24 09:00:00
+WAW-20241-64006,2024-02-05,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Ridgeway Pharma,Life Sciences,534,12.62,EUR,per m2 per month,5,New Lease,2024-04-22 09:00:00
+WAW-20244-37002,2024-10-12,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Northgate LLP,Legal,1017,13.64,EUR,per m2 per month,15,Renewal,2025-01-12 09:00:00
+WAW-20263-59014,2026-07-25,Ravel Court,"38 ul. Marynarska, 02-674",Wola,Sable Capital,Banking & Finance,3713,18.25,EUR,per m2 per month,10,Expansion,2026-10-16 09:00:00
+WAW-20254-56020,2025-10-29,Fenwick Point,"18 ul. Marynarska, 02-674",Wola,Cobalt Flex,Flex Office,1112,16.61,EUR,per m2 per month,5,New Lease,2026-01-21 09:00:00
+WAW-20233-62004,2023-07-25,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Arden Retail,Other,1081,12.29,EUR,per m2 per month,15,New Lease,2023-10-12 09:00:00
+WAW-20244-07002,2024-11-01,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Meridian Capital,Banking & Finance,2649,19.95,EUR,per m2 per month,3,New Lease,2025-01-14 09:00:00
+WAW-20262-13009,2026-04-02,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Sable Capital,Banking & Finance,1361,23.51,EUR,per m2 per month,9,New Lease,2026-07-12 09:00:00
+WAW-20241-34005,2024-02-29,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Corvid Group Warsaw,Professional Services,1032,9.58,EUR,per m2 per month,5,expansion,2024-04-17 09:00:00
+WAW-20262-28012,2026-04-23,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Marlow Diagnostics Warsaw,Life Sciences,1669,24.75,EUR,per m2 per month,6,Expansion,2026-07-12 09:00:00
+WAW-20241-04006,2024-03-18,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Veridian Flex Warsaw,Flex Office,1651,14.07,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20234-18019,2023-12-11,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Veridian Flex Warsaw,Flex Office,662,,EUR,per m2 per month,5,New Lease,2024-01-13 09:00:00
+WAW-20244-22007,2024-12-27,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Harrow Spaces,Flex Office,5506,13.25,EUR,per m2 per month,5,Pre-let,2025-01-23 09:00:00
+WAW-20261-57016,2026-01-10,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Kestrel Technologies,TMT,2259,66.42,PLN,per m2 per month,10,Expansion,2026-04-17 09:00:00
+WAW-20252-54008,2025-06-15,Linden Building,"51 ul. Towarowa, 00-811",Wola,Halden Associates,Professional Services,2306,15.61,EUR,per m2 per month,3,Renewal,2025-07-20 09:00:00
+WAW-20241-04011,2024-03-27,Atlas Point,"107 ul. Złota, 00-120",CBD,Granite Rechtsanwälte,Legal,3116,24.40,EUR,per m2 per month,5,New Lease,2024-04-17 09:00:00
+WAW-20261-42007,2026-03-29,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Ember Avocats,Legal,1834,13.53,EUR,per m2 per month,3,New Lease,2026-04-21 09:00:00
+WAW-20251-08003,2025-01-02,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Atlas Labs,TMT,1373,17.79,EUR,per m2 per month,5,Renewal,2025-04-15 09:00:00
+WAW-20244-07003,2024-10-12,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Orbis Insurance,Insurance,1502,21.74,EUR,per m2 per month,15,New Lease,2025-01-14 09:00:00
+WAW-20263-44004,2026-07-12,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Orbis Insurance,Insurance,1490,11.68,EUR,per m2 per month,3,new lease,2026-10-17 09:00:00
+WAW-20244-52020,2024-11-09,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Vantage Associates,Professional Services,231,18.72,EUR,per m2 per month,10,Renewal,2025-01-12 09:00:00
+WAW-20234-18013,2023-10-05,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Sable Capital,Banking & Finance,526,21.94,EUR,per m2 per month,3,New Lease,2024-01-13 09:00:00
+WAW-20231-45003,2023-01-11,Fenwick Point,"18 ul. Marynarska, 02-674",Wola,Beacon Consulting,Professional Services,548,14.78,EUR,per m2 per month,5,New Lease,2023-04-13 09:00:00
+WAW-20231-60001,2023-02-23,17 ul. Słomińskiego,"17 ul. Słomińskiego, 00-195",Żoliborz,Orbis Insurance,Insurance,782,38.50,PLN,per m2 per month,9,New Lease,2023-04-15 09:00:00
+WAW-20261-42018,2026-01-26,76 ul. Postępu,"76 ul. Postępu, 02-676",,Beacon Consulting,Professional Services,831,12.13,EUR,per m2 per month,5,New Lease,2026-04-21 09:00:00
+WAW-20234-18002,2023-11-28,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Corvid Holdings,Other,714,20.23,EUR,per m2 per month,5,Renewal,2024-01-13 09:00:00
+WAW-20234-48010,2023-11-01,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Pinnacle LLP,Legal,1461,55.98,PLN,per m2 per month,10,Renewal,2024-01-21 09:00:00
+WAW-20253-10003,2025-08-28,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Solace Advisory,Professional Services,646,18.52,EUR,per m2 per month,5,New Lease,2025-10-19 09:00:00
+WAW-20232-16011,2023-04-27,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Veridian Flex Warsaw,Flex Office,1020,19.44,EUR,per m2 per month,10,Renewal,2023-07-20 09:00:00
+WAW-20234-33001,2023-11-04,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Lumen Workspace,Flex Office,662,9.79,EUR,per m2 per month,10,Pre-let,2024-01-13 09:00:00
+WAW-20231-00007,2023-03-04,Cobalt Building,"116 ul. Marynarska, 02-674",CBD,Corvid Group Warsaw,Professional Services,1066,17.20,EUR,per m2 per month,5,Renewal ,2023-04-13 09:00:00
+WAW-20263-29005,2026-09-22,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Wren Labs,TMT,1388,23.69,EUR,per m2 per month,9,Pre-let,2026-10-12 09:00:00
+WAW-20243-21005,2024-07-19,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Sable Capital,Banking & Finance,657,23.29,EUR,per m2 per month,3,New Lease,2024-10-14 09:00:00
+WAW-20263-44002,2026-08-26,Orbis House,"102 al. Jerozolimskie, 00-508",Mokotów,Halden Associates,Professional Services,347,10.38,EUR,per m2 per month,12,Renewal,2026-10-17 09:00:00
+WAW-20251-38012,2025-03-02,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Orbis Securities,Banking & Finance,1447,8.80,EUR,per m2 per month,3,New Lease,2025-04-24 09:00:00
+WAW-20234-18021,2023-12-03,146 ul. Przyokopowa,"146 ul. Przyokopowa, 01-208",City Centre West,Northgate Industries,Industrial,3040,14.08,EUR,per m2 per month,9,New Lease,2024-01-22 09:00:00
+WAW-20252-09012,2025-05-11,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Helix Office,Public Sector,960,25.37,EUR,per m2 per month,9,New Lease,2025-07-23 09:00:00
+WAW-20233-47005,2023-08-01,Linden Building,"51 ul. Towarowa, 00-811",Wola,Tamar Abogados,Legal,3004,15.22,EUR,per m2 per month,10,Renewal,2023-10-17 09:00:00
+WAW-20232-46010,2023-05-02,Linden Building,"51 ul. Towarowa, 00-811",Wola,Meridian Capital,Banking & Finance,2131,15.99,EUR,per m2 per month,3,New Lease,2023-07-15 09:00:00
+WAW-20234-18010,2023-10-04,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Nimbus Technologies,TMT,607,15.09,EUR,per m2 per month,5,New Lease,2024-01-13 09:00:00
+WAW-20254-41003,2025-10-14,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Northgate LLP,Legal,1471,11.71,EUR,per m2 per month,3,New Lease,2026-01-22 09:00:00
+WAW-20242-35010,2024-05-21,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Sable Industries Warsaw,Industrial,1272,10.41,EUR,per m2 per month,10,Sublease,2024-07-23 09:00:00
+WAW-20232-16008,2023-04-15,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Halden Associates,Professional Services,2193,84.60,PLN,per m2 per month,3,New Lease,2023-07-20 09:00:00
+WAW-20243-51008,2024-08-07,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Beacon Consulting,Professional Services,1094,20.54,EUR,per m2 per month,3,Renewal,2024-10-17 09:00:00
+WAW-20242-05013,2024-04-10,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Ridgeway Pharma,Life Sciences,2073,15.73,EUR,per m2 per month,10,Expansion,2024-07-18 09:00:00
+WAW-20233-32003,2023-08-12,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Pinnacle LLP,Legal,627,47.51,PLN,per m2 per month,6,New Lease,2023-10-14 09:00:00
+WAW-20232-16009,2023-05-31,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Tern Rechtsanwälte,Legal,2184,17.79,EUR,per m2 per month,9,New Lease,2023-07-20 09:00:00
+WAW-20251-08016,2025-01-02,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Vantage Offices Warsaw,Flex Office,5771,22.98,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20234-03018,2023-11-18,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Helix Office,Public Sector,3187,22.63,EUR,per m2 per month,10,New Lease,2024-01-12 09:00:00
+WAW-20233-32011,2023-09-23,Helix Plaza,"154 al. Jana Pawła II, 00-867",Mokotów,Meridian Capital,Banking & Finance,237,51.43,PLN,per m2 per month,5,New Lease,2023-10-14 09:00:00
+WAW-20262-58004,2026-04-12,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Marlow Mutual,Insurance,1567,22.35,EUR,per m2 per month,5,Expansion,2026-07-15 09:00:00
+WAW-20253-25015,2025-07-22,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Juniper Technologies,TMT,2038,12.87,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20231-45008,2023-02-27,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Atlas Pharma,Life Sciences,2731,13.76,EUR,per m2 per month,10,Renewal,2023-04-13 09:00:00
+WAW-20234-03001,2023-10-10,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Northgate LLP,Legal,730,13.14,EUR,per m2 per month,10,Expansion,2024-01-12 09:00:00
+WAW-20233-17013,2023-09-02,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Orbis Insurance,Insurance,1026,24.14,EUR,per m2 per month,10,New Lease,2023-10-13 09:00:00
+WAW-20243-21008,2024-08-10,132 rondo ONZ,"132 rondo ONZ, 00-124",City Centre West,Larkspur Services Warsaw,Other,2736,20.60,EUR,per m2 per month,5,New Lease,2024-10-14 09:00:00
+WAW-20253-25009,2025-08-06,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Sterling Retail,Other,1007,18.12,EUR,per m2 per month,15,Sublease,2025-10-12 09:00:00
+WAW-20263-59013,2026-09-13,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Sable Industries Warsaw,Industrial,943,16.21,EUR,per m2 per month,3,Renewal,2026-10-16 09:00:00
+WAW-20233-02012,2023-09-20,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Sable Industries Warsaw,Industrial,897,16.36,EUR,per m2 per month,12,Sublease,2023-10-17 09:00:00
+WAW-20232-16012,2023-05-08,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Calder Authority Warsaw,Public Sector,2460,12.57,EUR,per m2 per month,12,Renewal,2023-07-20 09:00:00
+WAW-20234-48017,2023-12-16,118 ul. Prosta,"118 ul. Prosta, 00-838",Wola,Tern Rechtsanwälte,Legal,1726,15.14,EUR,per m2 per month,3,Pre-let,2024-01-21 09:00:00
+WAW-20233-47011,2023-07-18,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Veridian Flex Warsaw,Flex Office,1066,11.44,EUR,per m2 per month,10,New Lease,2023-10-17 09:00:00
+WAW-20252-54003,2025-05-24,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Northgate Labs Warsaw,TMT,4522,71.55,PLN,per m2 per month,10,Renewal,2025-07-20 09:00:00
+WAW-20244-52001,2024-10-31,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Helix Office,Public Sector,2328,12.03,EUR,per m2 per month,5,Pre-let,2025-01-12 09:00:00
+WAW-20244-22012,2024-12-20,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Pinnacle LLP,Legal,554,82.69,PLN,per m2 per month,10,Sublease,2025-01-23 09:00:00
+WAW-20234-03020,2023-12-25,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Meridian Digital,TMT,1567,20.85,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20263-44007,2026-07-23,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Northgate Labs Warsaw,TMT,913,12.64,EUR,per m2 per month,12,Sublease,2026-10-17 09:00:00
+WAW-20262-58012,2026-05-07,4 ul. Towarowa,"4 ul. Towarowa, 00-811",Wola,Veridian Partners,Banking & Finance,1875,78.34,PLN,per m2 per month,5,Renewal,2026-07-15 09:00:00
+WAW-20254-11007,2025-12-27,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Osprey Technologies,TMT,2845,23.26,EUR,per m2 per month,12,Renewal,2026-01-16 09:00:00
+WAW-20254-41011,2025-12-18,81 al. Jerozolimskie,"81 al. Jerozolimskie, 00-508",Mokotów,Helix Technologies,TMT,1692,15.99,EUR,per m2 per month,6,Renewal,2026-01-22 09:00:00
+WAW-20241-19001,2024-02-13,Cobalt Park,"33 ul. Towarowa, 00-811",City Centre West,Linden Bank,Banking & Finance,774,16.99,EUR,per m2 per month,6,New Lease,2024-04-13 09:00:00
+WAW-20252-39004,2025-04-07,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Elmgrove Asset Management,Banking & Finance,1462,13.94,EUR,per m2 per month,10,New Lease,2025-07-15 09:00:00
+WAW-20231-45006,2023-01-18,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Vantage Associates,Professional Services,1158,15.53,EUR,per m2 per month,15,Pre-let,2023-04-13 09:00:00
+WAW-20231-45011,2023-03-13,38 ul. Marynarska,"38 ul. Marynarska, 02-674",Wola,Vantage Offices Warsaw,Flex Office,5502,14.13,EUR,per m2 per month,9,Pre-let,2023-04-13 09:00:00
+WAW-20251-38011,2025-03-23,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Veridian Flex Warsaw,Flex Office,862,9.55,EUR,per m2 per month,3,Pre-let,2025-04-24 09:00:00
+WAW-20262-13010,2026-06-26,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Sable Industries Warsaw,Industrial,1041,26.73,EUR,per m2 per month,6,New Lease,2026-07-12 09:00:00
+WAW-20252-24003,2025-04-14,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Lumen Workspace,Flex Office,2754,19.30,EUR,per m2 per month,10,renewal,2025-07-14 09:00:00
+WAW-20241-19006,2024-01-16,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Wren Labs,TMT,697,94.28,PLN,per m2 per month,10,New Lease,2024-04-13 09:00:00
+WAW-20242-35007,2024-05-30,Meridian Centre,"92 ul. Grzybowska, 00-844",,Pinnacle LLP,Legal,1175,11.34,EUR,per m2 per month,10,New Lease,2024-07-23 09:00:00
+WAW-20234-48015,2023-12-11,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Orbis Insurance,Insurance,576,15.54,EUR,per m2 per month,3,New Lease,2024-01-21 09:00:00
+WAW-20262-13020,2026-04-25,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Linden Council Warsaw,Public Sector,1303,19.76,EUR,per m2 per month,6,Renewal ,2026-07-12 09:00:00
+WAW-20232-31004,2023-05-13,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Orbis Offices Warsaw,Flex Office,1031,69.84,PLN,per m2 per month,10,Renewal,2023-07-14 09:00:00
+WAW-20252-69001,2025-06-29,Larkspur Building,"138 ul. Kasprzaka, 01-224",Żoliborz,Nimbus Technologies,TMT,714,14.56,EUR,per m2 per month,15,New Lease,2025-07-16 09:00:00
+WAW-20262-13006,2026-06-23,Atlas Point,"107 ul. Złota, 00-120",CBD,Meridian Digital,TMT,1953,,EUR,per m2 per month,9,Renewal,2026-07-12 09:00:00
+WAW-20244-52017,2024-11-26,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Osprey Technologies,TMT,3331,23.52,EUR,per m2 per month,9,New Lease,2025-01-12 09:00:00
+WAW-20262-13005,2026-04-06,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Kestrel Technologies,TMT,825,18.12,EUR,per m2 per month,15,Sublease,2026-07-12 09:00:00
+WAW-20233-17017,2023-09-27,142 al. Jana Pawła II,"142 al. Jana Pawła II, 00-867",City Centre West,Corvid Group Warsaw,Professional Services,2140,20.35,EUR,per m2 per month,15,expansion,2023-10-13 09:00:00
+WAW-20242-35009,2024-06-28,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Meridian Digital,TMT,1508,11.26,EUR,per m2 per month,6,New Lease,2024-07-23 09:00:00
+WAW-20231-15007,2023-01-06,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Elmgrove Legal Warsaw,Legal,1335,13.35,EUR,per m2 per month,12,New Lease,2023-04-20 09:00:00
+WAW-20262-13018,2026-06-20,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Sterling Bank,Banking & Finance,1503,19.53,EUR,per m2 per month,5,New Lease,2026-07-12 09:00:00
+WAW-20253-70004,2025-09-25,47 al. Jerozolimskie,"47 al. Jerozolimskie, 00-508",Żoliborz,Lumen Media,TMT,401,,EUR,per m2 per month,12,Expansion,2025-10-23 09:00:00
+WAW-20261-12010,2026-02-03,130 ul. Złota,"130 ul. Złota, 00-120",CBD,Larkspur Labs,TMT,1231,20.92,EUR,per m2 per month,5,New Lease ,2026-04-20 09:00:00
+WAW-20244-22008,2024-10-11,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Harrow Spaces,Flex Office,2438,19.31,EUR,per m2 per month,9,Pre-let,2025-01-23 09:00:00
+WAW-20242-05024,2024-05-08,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Larkspur Services Warsaw,Other,759,19.04,EUR,per m2 per month,6,Sublease,2024-07-18 09:00:00
+WAW-20231-45010,2023-03-15,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Helix Office,Public Sector,5625,18.38,EUR,per m2 per month,10,Renewal,2023-04-13 09:00:00
+WAW-20233-17016,2023-07-16,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Brightwater Abogados,Legal,1258,19.77,EUR,per m2 per month,3,New Lease,2023-10-13 09:00:00
+WAW-20231-15013,2023-01-22,39 ul. Marynarska,"39 ul. Marynarska, 02-674",City Centre West,Lumen Media,TMT,3447,20.96,EUR,per m2 per month,3,new lease,2023-04-20 09:00:00
+WAW-20253-25005,2025-07-15,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Kestrel Technologies,TMT,1175,19.48,EUR,per m2 per month,12,New Lease,2025-10-12 09:00:00
+WAW-20243-06013,2024-07-10,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Ridgeway Retail Warsaw,Other,3254,238.44,EUR,per m2 per month,10,Expansion,2024-10-16 09:00:00
+WAW-20242-05022,2024-04-06,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Corvid Group Warsaw,Professional Services,448,25.06,EUR,per m2 per month,12,Expansion,2024-07-18 09:00:00
+WAW-20241-04010,2024-02-18,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Kestrel Technologies,TMT,712,18.18,EUR,per m2 per month,12,New Lease,2024-04-17 09:00:00
+WAW-20232-46016,2023-06-17,Linden Building,"51 ul. Towarowa, 00-811",Wola,Arden Retail,Other,538,12.64,EUR,per m2 per month,10,Sublease,2023-07-15 09:00:00
+WAW-20253-25011,2025-08-06,3 ul. Złota,"3 ul. Złota, 00-120",City Centre West,Sable Capital,Banking & Finance,1016,14.18,EUR,per m2 per month,12,New Lease,2025-10-12 09:00:00
+WAW-20263-59004,2026-08-06,69 ul. Towarowa,"69 ul. Towarowa, 00-811",Wola,Helix Technologies,TMT,2038,20.67,EUR,per m2 per month,10,new lease,2026-10-16 09:00:00
+WAW-20241-34012,2024-02-01,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Thorne Capital,Banking & Finance,2156,69.72,PLN,per m2 per month,10,New Lease,2024-04-26 09:00:00
+WAW-20233-17009,2023-07-20,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Osprey Technologies,TMT,575,73.19,PLN,per m2 per month,15,New Lease,2023-10-13 09:00:00
+WAW-20254-11012,2025-12-31,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Meridian Associates Warsaw,Professional Services,3570,18.26,EUR,per m2 per month,12,Sublease,2026-01-16 09:00:00
+WAW-20254-26008,2025-10-15,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Lumen Media Warsaw,TMT,3389,21.14,EUR,per m2 per month,10,New Lease,2026-01-24 09:00:00
+WAW-20262-13013,2026-06-11,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Marlow Diagnostics Warsaw,Life Sciences,1782,,EUR,per m2 per month,10,Renewal,2026-07-12 09:00:00
+WAW-20262-43004,2026-04-22,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Larkspur Services Warsaw,Other,2771,12.32,EUR,per m2 per month,5,Renewal,2026-07-24 09:00:00
+WAW-20243-51003,2024-08-25,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Ridgeway Retail Warsaw,Other,516,18.37,EUR,per m2 per month,15,New Lease,2024-10-17 09:00:00
+WAW-20253-25013,2025-08-15,18 ul. Wołoska,"18 ul. Wołoska, 02-675",City Centre West,Atlas Labs,TMT,3618,17.61,EUR,per m2 per month,5,Renewal,2025-10-12 09:00:00
+WAW-20251-23005,2025-03-30,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Sterling Digital Warsaw,TMT,386,17.17,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20251-08005,2025-03-16,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Thorne Capital,Banking & Finance,2996,77.10,PLN,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20251-38008,2025-03-17,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Nimbus Technologies,TMT,361,16.03,EUR,per m2 per month,5,Renewal,2025-04-24 09:00:00
+WAW-20263-44010,2026-08-12,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Brightwater Abogados,Legal,622,9.55,EUR,per m2 per month,5,Pre-let,2026-10-17 09:00:00
+WAW-20261-57005,2026-01-22,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Orbis Offices Warsaw,Flex Office,555,13.23,EUR,per m2 per month,12,New Lease,2026-04-17 09:00:00
+WAW-20244-07017,2024-12-19,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Halden Associates,Professional Services,857,25.86,EUR,per m2 per month,15,Pre-let,2025-01-14 09:00:00
+WAW-20254-41010,2025-10-31,51 rondo ONZ,"51 rondo ONZ, 00-124",Mokotów,Pinnacle LLP,Legal,1722,12.69,EUR,per m2 per month,12,Sublease,2026-01-22 09:00:00
+WAW-20241-49012,2024-03-26,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Fenwick Advisory,Professional Services,841,20.02,EUR,per m2 per month,10,New Lease,2024-04-16 09:00:00
+WAW-20261-12002,2036-02-12,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Linden Bank,Banking & Finance,859,101.37,PLN,per m2 per month,5,New Lease,2026-04-20 09:00:00
+WAW-20244-07006,2024-10-06,51 ul. Kasprzaka,"51 ul. Kasprzaka, 01-224",CBD,Nimbus Technologies,TMT,2386,92.05,PLN,per m2 per month,10,New Lease,2025-01-14 09:00:00
+WAW-20241-04013,2024-02-16,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Corvid Holdings,Other,1147,20.81,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20241-34004,2024-01-02,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Calder Authority Warsaw,Public Sector,660,50.18,PLN,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20234-18018,2023-11-21,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Brightwater Abogados,Legal,2374,12.79,EUR,per m2 per month,9,Renewal,2024-01-13 09:00:00
+WAW-20233-32005,2023-08-15,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Pinnacle LLP,Legal,3939,8.12,EUR,per m2 per month,12,Sublease,2023-10-14 09:00:00
+WAW-20241-34009,2024-01-13,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Larkspur Services Warsaw,Other,1984,15.59,EUR,per m2 per month,12,Renewal,2024-04-17 09:00:00
+WAW-20263-44011,2026-07-27,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",,Ravel Abogados,Legal,1235,48.94,PLN,per m2 per month,10,Renewal,2026-10-17 09:00:00
+WAW-20262-28013,2026-04-02,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Atlas Labs,TMT,3356,14.94,EUR,per m2 per month,3,Expansion,2026-07-12 09:00:00
+WAW-20244-22011,2024-10-03,135 ul. Prosta,"135 ul. Prosta, 00-838",City Centre West,Lumen Media,TMT,1063,17.76,EUR,per m2 per month,12,new lease,2025-01-23 09:00:00
+WAW-20261-57014,2026-01-17,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Lumen Media,TMT,3448,16.93,EUR,per m2 per month,6,New Lease,2026-04-17 09:00:00
+WAW-20251-38002,2025-03-23,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",,Larkspur Labs,TMT,3023,11.33,EUR,per m2 per month,5,Renewal,2025-04-24 09:00:00
+WAW-20253-70001,2025-08-09,Helix Building,"40 ul. Emilii Plater, 00-125",Żoliborz,Northgate Industries,Industrial,2508,14.77,EUR,per m2 per month,10,Renewal,2025-11-01 09:00:00
+WAW-20253-40007,2025-09-13,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Sterling Bank,Banking & Finance,744,11.65,EUR,per m2 per month,10,New Lease,2025-10-22 09:00:00
+WAW-20241-34007,2024-02-14,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Fenwick Advisory,Professional Services,1811,9.31,EUR,per m2 per month,10,Expansion,2024-04-17 09:00:00
+WAW-20261-57011,2026-01-06,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Meridian Digital,TMT,899,11.72,EUR,per m2 per month,10,Sublease,2026-04-17 09:00:00
+WAW-20241-19015,2024-02-11,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Helix Office,Public Sector,859,19.69,EUR,per m2 per month,6,Expansion,2024-04-13 09:00:00
+WAW-20233-32012,2023-07-27,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Thorne Capital,Banking & Finance,2520,78.75,PLN,per m2 per month,12,Renewal,2023-10-14 09:00:00
+WAW-20231-00010,2023-01-31,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Ridgeway Retail Warsaw,Other,1054,17.10,EUR,per m2 per month,6,New Lease,2023-04-13 09:00:00
+WAW-20231-30005,2023-01-18,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Meridian Capital,Banking & Finance,2089,11.40,EUR,per m2 per month,10,Renewal,2023-04-21 09:00:00
+WAW-20261-42019,2026-02-09,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Tamar Abogados,Legal,2037,12.56,EUR,per m2 per month,5,Sublease,2026-04-21 09:00:00
+WAW-20253-40011,2025-07-28,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Fenwick Advisory,Professional Services,941,11.22,EUR,per m2 per month,3,Sublease,2025-10-22 09:00:00
+WAW-20242-50001,2024-04-30,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Fenwick Foundation Warsaw,Other,1983,19.74,EUR,per m2 per month,15,Renewal,2024-07-23 09:00:00
+WAW-20262-43011,2026-06-23,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",Mokotów,Wren Labs,TMT,1820,9.82,EUR,per m2 per month,15,Sublease,2026-07-24 09:00:00
+WAW-20242-20002,2024-06-05,Wren Gate,"57 ul. Marynarska, 02-674",City Centre West,Atlas Pharma,Life Sciences,816,19.89,EUR,per m2 per month,12,Renewal,2024-07-22 09:00:00
+WAW-20243-06005,2024-08-19,Fenwick Quay,"51 ul. Przyokopowa, 01-208",CBD,Kestrel Technologies,TMT,3089,18.91,EUR,per m2 per month,12,New Lease,2024-10-16 09:00:00
+WAW-20261-57018,2026-03-19,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Osprey Technologies,TMT,2198,17.67,EUR,per m2 per month,5,New Lease,2026-04-17 09:00:00
+WAW-20233-32008,2023-07-28,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Ember Avocats,Legal,1652,14.74,EUR,per m2 per month,10,New Lease,2023-10-14 09:00:00
+WAW-20233-32002,2023-08-31,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Corvid Holdings,Other,1535,11.55,EUR,per m2 per month,9,New Lease,2023-10-14 09:00:00
+WAW-20261-42017,2026-02-03,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Elmgrove Legal Warsaw,Legal,390,8.91,EUR,per m2 per month,5,New Lease,2026-04-21 09:00:00
+WAW-20252-24001,2025-06-25,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Lumen Media Warsaw,TMT,1437,81.40,PLN,per m2 per month,5,New Lease,2025-07-14 09:00:00
+WAW-20261-12021,2026-03-19,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Elmgrove Asset Management,Banking & Finance,2435,27.15,EUR,per m2 per month,12,new lease,2026-04-20 09:00:00
+WAW-20234-33004,2023-11-24,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Kestrel Technologies,TMT,568,8.73,EUR,per m2 per month,6,Sublease,2024-01-13 09:00:00
+WAW-20263-14004,2026-09-05,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Ravel Asset Management Warsaw,Banking & Finance,610,,EUR,per m2 per month,6,New Lease,2026-10-19 09:00:00
+WAW-20254-11010,2025-11-29,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Ashcombe Rechtsanwälte,Legal,3624,28.21,EUR,per m2 per month,10,Expansion,2026-01-16 09:00:00
+WAW-20232-61005,2023-06-25,Ashcombe Place,"164 ul. Wołoska, 02-675",Żoliborz,Helix Office,Public Sector,977,10.47,EUR,per m2 per month,5,New Lease,2023-07-24 09:00:00
+WAW-20231-15014,2023-02-14,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Corvid Group Warsaw,Professional Services,651,11.14,EUR,per m2 per month,6,New Lease,2023-04-20 09:00:00
+WAW-20233-32014,2023-07-27,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Corvid Group Warsaw,Professional Services,231,15.58,EUR,per m2 per month,10,New Lease,2023-10-14 09:00:00
+WAW-20234-03006,2023-12-23,Juniper Building,"24 ul. Słomińskiego, 00-195",,Ravel Asset Management Warsaw,Banking & Finance,4386,18.57,EUR,per m2 per month,6,New Lease,2024-01-12 09:00:00
+WAW-20232-01003,2023-05-03,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Kestrel Technologies,TMT,1485,20.21,EUR,per m2 per month,5,Pre-let,2023-07-20 09:00:00
+WAW-20254-71004,2025-10-13,Kestrel Gate,"139 ul. Kasprzaka, 01-224",Żoliborz,Brightwater Abogados,Legal,1344,44.20,PLN,per m2 per month,5,renewal,2026-01-24 09:00:00
+WAW-20243-66001,2024-09-12,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Lumen Media,TMT,815,8.54,EUR,per m2 per month,9,Expansion,2024-10-13 09:00:00
+WAW-20262-73003,2026-05-06,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",Żoliborz,Cobalt Advisory,Professional Services,1047,11.36,EUR,per m2 per month,10,New Lease,2026-07-14 09:00:00
+WAW-20234-18020,2023-10-21,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Northgate Labs Warsaw,TMT,3731,13.50,EUR,per m2 per month,10,New Lease,2024-01-13 09:00:00
+WAW-20254-56002,2025-10-19,49 ul. Złota,"49 ul. Złota, 00-120",Wola,Pinnacle LLP,Legal,1178,19.63,EUR,per m2 per month,3,New Lease,2026-01-21 09:00:00
+WAW-20231-30008,2023-01-19,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Atlas Pharma,Life Sciences,5882,10.29,EUR,per m2 per month,12,New Lease,2023-04-21 09:00:00
+WAW-20261-42001,2026-01-04,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Sterling Bank,Banking & Finance,1929,13.44,EUR,per m2 per month,10,New Lease,2026-04-21 09:00:00
+WAW-20233-17008,2023-07-28,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Northgate Industries,Industrial,1674,21.29,EUR,per m2 per month,15,New Lease,2023-10-13 09:00:00
+WAW-20242-05017,2024-06-19,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Northgate LLP,Legal,1003,,EUR,per m2 per month,9,Expansion ,2024-07-18 09:00:00
+WAW-20261-27004,2026-03-28,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Northgate LLP,Legal,3056,61.78,PLN,per m2 per month,15,New Lease,2026-04-17 09:00:00
+WAW-20242-05012,2024-05-27,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Orbis Offices Warsaw,Flex Office,2209,113.39,PLN,per m2 per month,5,New Lease,2024-07-18 09:00:00
+WAW-20233-32006,2023-07-23,64 ul. Grzybowska,"64 ul. Grzybowska, 00-844",Mokotów,Veridian Flex Warsaw,Flex Office,1489,12.60,EUR,per m2 per month,10,Renewal,2023-10-14 09:00:00
+WAW-20261-42014,2026-03-09,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Arden Retail,Other,1488,12.97,EUR,per m2 per month,3,New Lease,2026-04-21 09:00:00
+WAW-20234-03005,2023-11-03,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Meridian Digital,TMT,1120,19.99,EUR,per m2 per month,15,Expansion,2024-01-21 09:00:00
+WAW-20263-29006,2026-09-30,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Solace Advisory,Professional Services,2137,23.95,EUR,per m2 per month,5,New Lease ,2026-10-12 09:00:00
+WAW-20244-22012R,2024-12-20,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Pinnacle LLP Ltd,Legal,554,82.69,PLN,per m2 per month,10,Sublease,2025-02-12 09:00:00
+WAW-20261-72001,2026-01-23,129 rondo ONZ,"129 rondo ONZ, 00-124",Żoliborz,Sterling Retail,Other,949,12.28,EUR,per m2 per month,12,New Lease,2026-04-16 09:00:00
+WAW-20231-45005,2023-01-12,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Thorne Capital,Banking & Finance,1548,13.81,EUR,per m2 per month,12,New Lease,2023-04-13 09:00:00
+WAW-20241-34010,2024-01-23,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Quill LLP,Legal,7556,10.71,EUR,per m2 per month,6,Sublease,2024-04-17 09:00:00
+WAW-20244-52010,2024-11-21,Linden Building,"51 ul. Towarowa, 00-811",Wola,Meridian Capital,Banking & Finance,961,18.27,EUR,per m2 per month,5,Renewal,2025-01-12 09:00:00
+WAW-20254-56016,2025-11-14,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Osprey Technologies,TMT,2598,20.00,EUR,per m2 per month,6,Renewal,2026-01-21 09:00:00
+WAW-20253-25006,2025-07-07,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Vantage Associates,Professional Services,778,21.61,EUR,per m2 per month,12,New Lease,2025-10-12 09:00:00
+WAW-20232-46004,2023-04-18,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Lumen Workspace,Flex Office,1772,18.42,EUR,per m2 per month,5,New Lease,2023-07-15 09:00:00
+WAW-20242-20006,2024-06-14,Arden Court,"166 ul. Grzybowska, 00-844",City Centre West,Corvid Group Warsaw,Professional Services,1905,20.00,EUR,per m2 per month,6,Pre-let,2024-07-22 09:00:00
+WAW-20262-13002,2026-04-13,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Beacon Consulting,Professional Services,1522,23.39,EUR,per m2 per month,5,New Lease,2026-07-12 09:00:00
+WAW-20251-23006,2025-01-28,Corvid Centre,"139 al. Jana Pawła II, 00-867",City Centre West,Vantage Associates,Professional Services,3343,21.64,EUR,per m2 per month,10,Renewal,2025-04-15 09:00:00
+WAW-20232-16013,2023-05-20,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Calder Authority Warsaw,Public Sector,4059,22.13,EUR,per m2 per month,5,Expansion,2023-07-20 09:00:00
+WAW-20262-13007,2026-05-21,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Ravel Abogados,Legal,1853,22.41,EUR,per m2 per month,3,New Lease,2026-07-12 09:00:00
+WAW-20252-54002,2025-05-28,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Aldwyn Office,Public Sector,7332,12.98,EUR,per m2 per month,15,New Lease,2025-07-20 09:00:00
+WAW-20234-63001,2023-10-19,Beacon Gate,"83 rondo ONZ, 00-124",Żoliborz,Helix Technologies,TMT,2355,73.38,PLN,per m2 per month,15,Renewal,2024-01-18 09:00:00
+WAW-20251-23007,2025-03-18,142 al. Jana Pawła II,"142 al. Jana Pawła II, 00-867",City Centre West,Lumen Workspace,Flex Office,3766,20.67,EUR,per m2 per month,5,New Lease,2025-04-15 09:00:00
+WAW-20231-30003,2023-02-04,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Solace Assurance Warsaw,Insurance,2962,15.02,EUR,per m2 per month,5,New Lease,2023-04-21 09:00:00
+WAW-20234-63003,2023-10-20,Ashcombe Place,"164 ul. Wołoska, 02-675",Żoliborz,Fenwick Advisory,Professional Services,2805,10.91,EUR,per m2 per month,5,Expansion,2024-01-18 09:00:00
+WAW-20262-28009,2026-04-29,3 ul. Złota,"3 ul. Złota, 00-120",City Centre West,Meridian Digital,TMT,1460,14.95,EUR,per m2 per month,9,New Lease,2026-07-12 09:00:00
+WAW-20232-01012,2023-05-11,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Northgate Industries,Industrial,8738,22.43,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20231-15011,2023-02-18,59 ul. Grzybowska,"59 ul. Grzybowska, 00-844",City Centre West,Nimbus Technologies,TMT,1149,107.93,PLN,per m2 per month,6,Expansion,2023-04-20 09:00:00
+WAW-20262-58002,2026-04-07,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Wren Labs,TMT,574,20.24,EUR,per m2 per month,9,New Lease,2026-07-15 09:00:00
+WAW-20263-59001,2026-09-24,69 ul. Towarowa,"69 ul. Towarowa, 00-811",Wola,Orbis Offices Warsaw,Flex Office,629,88.14,PLN,per m2 per month,12,New Lease,2026-10-16 09:00:00
+WAW-20242-50005,2024-04-28,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Lumen Workspace,Flex Office,2616,13.88,EUR,per m2 per month,10,Sublease,2024-07-23 09:00:00
+WAW-20243-21001,2024-09-20,Cobalt Park,"33 ul. Towarowa, 00-811",City Centre West,Marlow Diagnostics Warsaw,Life Sciences,1401,17.97,EUR,per m2 per month,15,New Lease,2024-10-14 09:00:00
+WAW-20241-04004,2024-01-31,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Corvid Group Warsaw,Professional Services,942,75.42,PLN,per m2 per month,10,Expansion,2024-04-17 09:00:00
+WAW-20234-03019,2023-12-15,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Marlow Diagnostics Warsaw,Life Sciences,2834,26.04,EUR,per m2 per month,3,New Lease,2024-01-12 09:00:00
+WAW-20251-53001,2025-02-06,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Tamar Abogados,Legal,3953,20.40,EUR,per m2 per month,3,Expansion,2025-04-20 09:00:00
+WAW-20253-55008,2025-09-24,Linden Building,"51 ul. Towarowa, 00-811",Wola,Ashcombe Rechtsanwälte,Legal,2689,15.79,EUR,per m2 per month,3,Expansion ,2025-10-12 09:00:00
+WAW-20263-44013,2026-09-03,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Lumen Workspace,Flex Office,3642,14.66,EUR,per m2 per month,3,Renewal,2026-10-17 09:00:00
+WAW-20263-59008,2026-09-29,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Cobalt Flex,Flex Office,2893,16.26,EUR,per m2 per month,10,new lease,2026-10-16 09:00:00
+WAW-20252-09005,2025-04-17,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Harrow Spaces,Flex Office,2436,107.16,PLN,per m2 per month,5,Renewal,2025-07-23 09:00:00
+WAW-20244-07014,2024-10-26,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Ashcombe Rechtsanwälte,Legal,871,23.85,EUR,per m2 per month,5,Expansion,2025-01-14 09:00:00
+WAW-20243-21002,2024-07-27,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Osprey Technologies,TMT,1518,15.26,EUR,per m2 per month,9,New Lease,2024-10-23 09:00:00
+WAW-20241-04005,2024-02-16,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Meridian Associates Warsaw,Professional Services,2604,14.79,EUR,per m2 per month,15,New Lease,2024-04-17 09:00:00
+WAW-20244-67006,2024-11-10,62 al. Jana Pawła II,"62 al. Jana Pawła II, 00-867",Żoliborz,Helix Office,Public Sector,720,12.29,EUR,per m2 per month,5,New Lease,2025-01-24 09:00:00
+WAW-20233-02002,2023-09-26,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Fenwick Advisory,Professional Services,987,25.88,EUR,per m2 per month,10,New Lease,2023-10-17 09:00:00
+WAW-20252-39006,2025-06-02,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Corvid Group Warsaw,Professional Services,3618,14.47,EUR,per m2 per month,3,Renewal,2025-07-15 09:00:00
+WAW-20244-22002,2024-12-26,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Ridgeway Retail Warsaw,Other,2083,75.89,PLN,per m2 per month,5,Expansion,2025-01-23 09:00:00
+WAW-20253-25012,2025-08-24,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Helix Digital Warsaw,TMT,1507,14.61,EUR,per m2 per month,3,Expansion,2025-10-12 09:00:00
+WAW-20233-17007,2023-08-25,Orbis Tower,"78 ul. Grzybowska, 00-844",City Centre West,Arden Retail,Other,837,17.31,EUR,per m2 per month,10,New Lease,2023-10-13 09:00:00
+WAW-20251-53005,2025-02-04,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Atlas Labs,TMT,856,17.94,EUR,per m2 per month,3,New Lease,2025-04-20 09:00:00
+WAW-20244-37003,2024-11-10,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Larkspur Services Warsaw,Other,4363,13.82,EUR,per m2 per month,6,Expansion,2025-01-12 09:00:00
+WAW-20261-42010,2026-03-05,Meridian Centre,"92 ul. Grzybowska, 00-844",Mokotów,Solace Assurance Warsaw,Insurance,723,14.77,EUR,per m2 per month,3,New Lease,2026-04-21 09:00:00
+WAW-20252-09013,2025-04-01,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Sterling Bank,Banking & Finance,5288,25.77,EUR,per m2 per month,5,New Lease,2025-07-23 09:00:00
+WAW-20251-08001,2025-02-14,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Orbis Insurance,Insurance,1166,19.22,EUR,per m2 per month,9,New Lease,2025-04-15 09:00:00
+WAW-20244-07008,2024-11-09,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Granite Rechtsanwälte,Legal,9455,20.42,EUR,per m2 per month,3,Renewal,2025-01-14 09:00:00
+WAW-20253-25003,2025-08-23,Osprey Building,"60 al. Jana Pawła II, 00-867",City Centre West,Ridgeway Retail Warsaw,Other,641,18.42,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20252-54006,2025-04-19,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Quill LLP,Legal,3793,16.22,EUR,per m2 per month,9,Renewal,2025-07-20 09:00:00
+WAW-20253-40003,2025-07-29,Granite Park,"117 ul. Grzybowska, 00-844",,Harrow Spaces,Flex Office,4530,12.14,EUR,per m2 per month,9,Sublease,2025-10-22 09:00:00
+WAW-20234-33022,2023-10-14,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Atlas Labs,TMT,2437,12.33,EUR,per m2 per month,3,New Lease,2024-01-13 09:00:00
+WAW-20253-55002,2025-09-15,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Cobalt Flex,Flex Office,3252,15.99,EUR,per m2 per month,15,New Lease,2025-10-12 09:00:00
+WAW-20232-31018,2023-06-25,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Wren Labs,TMT,513,,EUR,per m2 per month,9,Renewal,2023-07-14 09:00:00
+WAW-20261-57017,2026-03-05,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Brightwater Abogados,Legal,842,16.30,EUR,per m2 per month,9,New Lease,2026-04-17 09:00:00
+WAW-20242-05006,2024-06-15,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Halden Associates,Professional Services,1458,15.91,EUR,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20243-51004,2024-07-16,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Orbis Securities,Banking & Finance,1997,17.70,EUR,per m2 per month,15,New Lease,2024-10-17 09:00:00
+WAW-20252-39002,2025-06-18,58 ul. Kasprzaka,"58 ul. Kasprzaka, 01-224",Mokotów,Cobalt Advisory,Professional Services,2577,9.00,EUR,per m2 per month,10,New Lease,2025-07-15 09:00:00
+WAW-20242-50004,2024-06-13,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Orbis Insurance,Insurance,2703,20.64,EUR,per m2 per month,10,New Lease ,2024-07-23 09:00:00
+WAW-20234-18012,2023-12-17,132 rondo ONZ,"132 rondo ONZ, 00-124",City Centre West,Larkspur Labs,TMT,1718,19.75,EUR,per m2 per month,10,New Lease,2024-01-13 09:00:00
+WAW-20242-50007,2024-05-21,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Vantage Associates,Professional Services,8110,18.10,EUR,per m2 per month,10,Expansion,2024-07-23 09:00:00
+WAW-20244-52018,2024-12-26,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Larkspur Labs,TMT,1362,17.33,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20251-23009,2025-03-25,Sable Place,"47 al. Jerozolimskie, 00-508",City Centre West,Lumen Workspace,Flex Office,2539,17.22,EUR,per m2 per month,6,Expansion,2025-04-15 09:00:00
+WAW-20262-28014,2026-06-14,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Cobalt Advisory,Professional Services,1765,75.51,PLN,per m2 per month,6,Pre-let,2026-07-12 09:00:00
+WAW-20234-18016,2023-11-29,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Elmgrove Legal Warsaw,Legal,4395,19.38,EUR,per m2 per month,6,Renewal,2024-01-13 09:00:00
+WAW-20252-54005,2025-05-18,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Veridian Flex Warsaw,Flex Office,4023,17.04,EUR,per m2 per month,3,Renewal,2025-07-20 09:00:00
+WAW-20251-53002,2025-01-27,118 ul. Prosta,"118 ul. Prosta, 00-838",Wola,Cobalt Flex,Flex Office,5724,13.05,EUR,per m2 per month,10,Sublease,2025-04-20 09:00:00
+WAW-20253-25002,2025-08-12,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,2795,24.68,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20231-00016,2023-03-30,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Cobalt Flex,Flex Office,5341,75.15,PLN,per m2 per month,9,Sublease,2023-04-13 09:00:00
+WAW-20244-52006,2024-11-05,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Fenwick Foundation Warsaw,Other,5917,18.89,EUR,per m2 per month,6,Pre-let,2025-01-12 09:00:00
+WAW-20251-08011,2025-01-24,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Beacon Consulting,Professional Services,921,26.77,EUR,per m2 per month,6,New Lease,2025-04-15 09:00:00
+WAW-20261-72004,2026-01-12,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",Żoliborz,Ravel Asset Management Warsaw,Banking & Finance,1673,10.60,EUR,per m2 per month,10,Expansion,2026-04-16 09:00:00
+WAW-20234-03013,2023-10-30,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Linden Council Warsaw,Public Sector,1408,25.00,EUR,per m2 per month,5,New Lease,2024-01-12 09:00:00
+WAW-20234-33021,2023-11-20,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Harrow Spaces,Flex Office,3882,60.40,PLN,per m2 per month,15,new lease,2024-01-13 09:00:00
+WAW-20253-55012,2025-08-29,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Lumen Workspace,Flex Office,2104,15.48,EUR,per m2 per month,5,New Lease,2025-10-12 09:00:00
+WAW-20242-65003,2024-05-24,167 ul. Emilii Plater,"167 ul. Emilii Plater, 00-125",Żoliborz,Arden Retail,Other,2564,12.50,EUR,per m2 per month,12,Expansion,2024-07-23 09:00:00
+WAW-20252-09003,2025-04-04,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Sable Industries Warsaw,Industrial,3048,21.27,EUR,per m2 per month,3,Expansion,2025-07-23 09:00:00
+WAW-20253-55001,2025-07-11,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Fenwick Foundation Warsaw,Other,1976,16.78,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20241-19008,2024-03-06,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Atlas Pharma,Life Sciences,669,92.44,PLN,per m2 per month,3,New Lease,2024-04-13 09:00:00
+WAW-20244-52005,2024-10-14,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Beacon Consulting,Professional Services,397,20.80,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20254-11001,2025-10-30,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Juniper Technologies,TMT,1274,18.59,EUR,per m2 per month,3,Expansion,2026-01-16 09:00:00
+WAW-20253-40004,2025-07-15,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Marlow Diagnostics Warsaw,Life Sciences,480,13.84,EUR,per m2 per month,15,New Lease,2025-10-22 09:00:00
+WAW-20234-48008,2023-11-01,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Northgate LLP,Legal,2237,15.64,EUR,per m2 per month,10,Renewal,2024-01-21 09:00:00
+WAW-20244-52003,2024-10-10,118 ul. Prosta,"118 ul. Prosta, 00-838",Wola,Sterling Bank,Banking & Finance,2216,16.46,EUR,per m2 per month,15,New Lease,2025-01-12 09:00:00
+WAW-20253-55003,2025-09-05,118 ul. Prosta,"118 ul. Prosta, 00-838",Wola,Solace Advisory,Professional Services,1854,15.16,EUR,per m2 per month,6,Expansion,2025-10-12 09:00:00
+WAW-20243-36009,2024-08-19,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Harrow Spaces,Flex Office,1235,14.76,EUR,per m2 per month,15,Expansion,2024-10-14 09:00:00
+WAW-20242-20003,2024-06-04,132 rondo ONZ,"132 rondo ONZ, 00-124",,Vantage Offices Warsaw,Flex Office,2031,21.28,EUR,per m2 per month,10,New Lease,2024-07-22 09:00:00
+WAW-20243-21012,2024-07-29,3 ul. Złota,"3 ul. Złota, 00-120",City Centre West,Atlas Pharma,Life Sciences,1601,13.07,EUR,per m2 per month,6,New Lease,2024-10-14 09:00:00
+WAW-20263-44012,2026-09-09,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Veridian Partners,Banking & Finance,857,50.27,PLN,per m2 per month,9,expansion,2026-10-17 09:00:00
+WAW-20234-03016,2023-10-31,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Cobalt Flex,Flex Office,799,15.75,EUR,per m2 per month,9,Renewal,2024-01-12 09:00:00
+WAW-20254-11008,2025-11-30,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Orbis Offices Warsaw,Flex Office,1298,76.49,PLN,per m2 per month,15,New Lease,2026-01-16 09:00:00
+WAW-20263-14002,2026-09-21,Thorne Quay,"37 ul. Kasprzaka, 01-224",CBD,Sterling Digital Warsaw,TMT,1390,28.33,EUR,per m2 per month,9,New Lease,2026-10-19 09:00:00
+WAW-20262-28011,2026-06-03,132 rondo ONZ,"132 rondo ONZ, 00-124",City Centre West,Northgate Labs Warsaw,TMT,3064,22.60,EUR,per m2 per month,6,New Lease,2026-07-12 09:00:00
+WAW-20251-53008,2025-01-04,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Brightwater Abogados,Legal,2325,14.95,EUR,per m2 per month,15,Renewal ,2025-04-20 09:00:00
+WAW-20234-48009,2023-10-27,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Veridian Flex Warsaw,Flex Office,1052,15.90,EUR,per m2 per month,15,New Lease,2024-01-21 09:00:00
+WAW-20242-05014,2024-04-23,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Calder Legal,Legal,839,19.02,EUR,per m2 per month,3,Pre-let,2024-07-27 09:00:00
+WAW-20243-36003,2024-09-05,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",Mokotów,Ravel Asset Management Warsaw,Banking & Finance,844,13.16,EUR,per m2 per month,6,Renewal,2024-10-14 09:00:00
+WAW-20244-07009,2024-12-20,127 ul. Marynarska,"127 ul. Marynarska, 02-674",CBD,Veridian Partners,Banking & Finance,525,22.20,EUR,per m2 per month,12,New Lease,2025-01-14 09:00:00
+WAW-20233-17010,2023-07-05,101 ul. Grzybowska,"101 ul. Grzybowska, 00-844",City Centre West,Lumen Media,TMT,1180,15.55,EUR,per m2 per month,15,New Lease,2023-10-13 09:00:00
+WAW-20234-03015,2023-12-07,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Wren Labs,TMT,934,19.28,EUR,per m2 per month,6,Renewal,2024-01-12 09:00:00
+WAW-20232-31015,2023-05-25,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Northgate LLP,Legal,1313,7.87,EUR,per m2 per month,12,Sublease,2023-07-14 09:00:00
+WAW-20254-11019,2025-11-28,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Lumen Media Warsaw,TMT,3125,21.01,EUR,per m2 per month,10,Renewal,2026-01-16 09:00:00
+WAW-20241-19013,2024-03-18,18 ul. Wołoska,"18 ul. Wołoska, 02-675",City Centre West,Solace Assurance Warsaw,Insurance,1025,17.04,EUR,per m2 per month,6,New Lease,2024-04-13 09:00:00
+WAW-20244-37008,2024-10-13,158 ul. Emilii Plater,"158 ul. Emilii Plater, 00-125",,Meridian Digital,TMT,869,12.75,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20234-33002,2023-11-08,Northgate Building,"96 ul. Postępu, 02-676",Mokotów,Pinnacle LLP,Legal,2280,14.31,EUR,per m2 per month,10,New Lease,2024-01-13 09:00:00
+WAW-20251-53003,2025-01-24,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Northgate LLP,Legal,2283,21.08,EUR,per m2 per month,9,Expansion,2025-04-20 09:00:00
+WAW-20241-19002,2024-02-22,3 ul. Złota,"3 ul. Złota, 00-120",City Centre West,Ember Avocats,Legal,1256,16.24,EUR,per m2 per month,5,New Lease,2024-04-13 09:00:00
+WAW-20254-11006,2025-12-03,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Helix Technologies,TMT,3480,17.78,EUR,per m2 per month,12,New Lease,2026-01-16 09:00:00
+WAW-20244-22001,2024-12-03,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Calder Authority Warsaw,Public Sector,1774,16.49,EUR,per m2 per month,12,New Lease,2025-01-23 09:00:00
+WAW-20244-22006,2024-10-08,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Nimbus Technologies,TMT,3392,16.27,EUR,per m2 per month,12,Pre-let,2025-01-23 09:00:00
+WAW-20241-49008,2024-01-19,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Ridgeway Pharma,Life Sciences,685,14.53,EUR,per m2 per month,10,New Lease,2024-04-16 09:00:00
+WAW-20244-37004,2024-10-28,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Nimbus Technologies,TMT,973,71.37,PLN,per m2 per month,15,New Lease,2025-01-12 09:00:00
+WAW-20241-04002,2024-03-10,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Calder Authority Warsaw,Public Sector,423,,EUR,per m2 per month,3,Sublease,2024-04-17 09:00:00
+WAW-20233-47001,2023-07-24,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Northgate Labs Warsaw,TMT,3888,74.34,PLN,per m2 per month,3,New Lease,2023-10-17 09:00:00
+WAW-20234-33007,2023-10-24,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Marlow Mutual,Insurance,5248,11.60,EUR,per m2 per month,12,New Lease,2024-01-13 09:00:00
+WAW-20253-40008,2025-07-20,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Orbis Securities,Banking & Finance,544,42.75,PLN,per m2 per month,6,Expansion,2025-10-22 09:00:00
+WAW-20243-36005,2024-08-06,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Elmgrove Asset Management,Banking & Finance,4017,12.33,EUR,per m2 per month,10,New Lease,2024-10-14 09:00:00
+WAW-20241-19008R,2024-03-06,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Atlas Pharma Ltd,Life Sciences,669,92.44,PLN,per m2 per month,3,New Lease,2024-05-03 09:00:00
+WAW-20252-24007,2025-04-21,Kestrel Building,"123 ul. Prosta, 00-838",City Centre West,Orbis Offices Warsaw,Flex Office,1415,,EUR,per m2 per month,5,New Lease,2025-07-14 09:00:00
+WAW-20232-31013,2023-05-05,81 al. Jerozolimskie,"81 al. Jerozolimskie, 00-508",Mokotów,Sterling Retail,Other,2703,16.73,EUR,per m2 per month,10,New Lease,2023-07-14 09:00:00
+WAW-20233-02010,2023-09-13,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Fenwick Advisory,Professional Services,57768,15.91,EUR,per m2 per month,12,Renewal,2023-10-17 09:00:00
+WAW-20261-42006,2026-01-27,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Vantage Offices Warsaw,Flex Office,2256,12.45,EUR,per m2 per month,6,New Lease,2026-04-21 09:00:00
+WAW-20232-46014,2023-06-22,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Vantage Offices Warsaw,Flex Office,1370,61.39,PLN,per m2 per month,5,Sublease,2023-07-15 09:00:00
+WAW-20234-18006,2023-12-22,Arden Court,"166 ul. Grzybowska, 00-844",City Centre West,Lumen Media,TMT,1540,22.77,EUR,per m2 per month,10,Expansion,2024-01-13 09:00:00
+WAW-20243-36012,2024-09-21,76 ul. Postępu,"76 ul. Postępu, 02-676",Mokotów,Cobalt Advisory,Professional Services,2067,119.52,EUR,per m2 per month,10,Sublease,2024-10-14 09:00:00
+WAW-20253-25007,2025-07-02,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Sterling Bank,Banking & Finance,775,18.40,EUR,per m2 per month,15,Sublease,2025-10-12 09:00:00
+WAW-20234-18021,2023-12-03,146 ul. Przyokopowa,"146 ul. Przyokopowa, 01-208",City Centre West,Northgate Industries,Industrial,3040,14.08,EUR,per m2 per month,9,New Lease,2024-01-13 09:00:00
+WAW-20253-55010,2025-07-06,146 ul. Wołoska,"146 ul. Wołoska, 02-675",Wola,Thorne Capital,Banking & Finance,906,18.89,EUR,per m2 per month,15,Renewal,2025-10-12 09:00:00
+WAW-20234-63002,2023-11-29,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",Żoliborz,Cobalt Flex,Flex Office,1915,11.28,EUR,per m2 per month,5,New Lease,2024-01-18 09:00:00
+WAW-20251-08006,2025-01-03,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Beacon Consulting,Professional Services,2699,94.32,PLN,per m2 per month,9,New Lease,2025-04-15 09:00:00
+WAW-20243-51010,2024-07-10,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Cobalt Advisory,Professional Services,1100,14.24,EUR,per m2 per month,6,Renewal,2024-10-17 09:00:00
+WAW-20243-06006,2024-09-07,51 ul. Kasprzaka,"51 ul. Kasprzaka, 01-224",CBD,Tamar Abogados,Legal,1322,17.20,EUR,per m2 per month,15,Sublease,2024-10-16 09:00:00
+WAW-20231-45009,2023-03-21,Fenwick Court,"153 ul. Przyokopowa, 01-208",Wola,Wren Labs,TMT,1434,18.95,EUR,per m2 per month,12,Renewal,2023-04-13 09:00:00
+WAW-20233-17011,2023-08-17,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Sterling Retail,Other,1664,13.05,EUR,per m2 per month,10,New Lease,2023-10-13 09:00:00
+WAW-20253-55011,2025-09-23,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Thorne Capital,Banking & Finance,8038,16.53,EUR,per m2 per month,6,Sublease,2025-10-12 09:00:00
+WAW-20232-61004,2023-06-28,133 ul. Towarowa,"133 ul. Towarowa, 00-811",Żoliborz,Ravel Asset Management Warsaw,Banking & Finance,1270,14.68,EUR,per m2 per month,10,New Lease,2023-07-24 09:00:00
+WAW-20252-54007,2025-05-25,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Thorne Capital,Banking & Finance,1736,18.25,EUR,per m2 per month,10,Renewal,2025-07-20 09:00:00
+WAW-20234-63004,2023-11-01,Larkspur Building,"138 ul. Kasprzaka, 01-224",Żoliborz,Atlas Labs,TMT,845,14.85,EUR,per m2 per month,15,New Lease,2024-01-18 09:00:00
+WAW-20263-44003,2026-09-20,10 ul. Kasprzaka,"10 ul. Kasprzaka, 01-224",Mokotów,Meridian Digital,TMT,3178,13.56,EUR,per m2 per month,5,New Lease,2026-10-17 09:00:00
+WAW-20252-09009,2025-06-15,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Wren Labs,TMT,3485,20.90,EUR,per m2 per month,5,New Lease,2025-07-23 09:00:00
+WAW-20232-01009,2023-06-17,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Sterling Bank,Banking & Finance,3013,21.80,EUR,per m2 per month,15,New Lease,2023-07-20 09:00:00
+WAW-20232-31011,2023-06-24,Helix Place,"85 ul. Grzybowska, 00-844",Mokotów,Ravel Abogados,Legal,944,12.72,EUR,per m2 per month,3,Renewal,2023-07-14 09:00:00
+WAW-20234-18001,2023-11-29,132 rondo ONZ,"132 rondo ONZ, 00-124",City Centre West,Atlas Pharma,Life Sciences,426,21.31,EUR,per m2 per month,10,Expansion,2024-01-13 09:00:00
+WAW-20261-12008,2026-01-22,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Cobalt Flex,Flex Office,1265,73.81,PLN,per m2 per month,5,New Lease,2026-04-20 09:00:00
+WAW-20241-49010,2024-03-28,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Meridian Associates Warsaw,Professional Services,2037,14.65,EUR,per m2 per month,10,New Lease,2024-04-16 09:00:00
+WAW-20252-54004,2025-04-26,Sterling Quay,"115 al. Jana Pawła II, 00-867",Wola,Atlas Labs,TMT,1053,17.59,EUR,per m2 per month,15,Renewal,2025-07-20 09:00:00
+WAW-20243-51005,2024-07-03,Harrow Building,"14 ul. Rydygiera, 01-793",Wola,Northgate Industries,Industrial,1865,19.61,EUR,per m2 per month,5,New Lease,2024-10-17 09:00:00
+WAW-20232-16005,2023-06-18,Linden Court,"42 ul. Rydygiera, 01-793",City Centre West,Vantage Associates,Professional Services,3577,16.03,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20263-29008,2026-08-11,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Fenwick Foundation Warsaw,Other,1853,20.50,EUR,per m2 per month,5,New Lease,2026-10-12 09:00:00
+WAW-20254-26011,2025-10-14,22 rondo ONZ,"22 rondo ONZ, 00-124",City Centre West,Halden Associates,Professional Services,1344,21.53,EUR,per m2 per month,10,Renewal,2026-01-24 09:00:00
+WAW-20263-29011,2026-07-28,59 ul. Grzybowska,"59 ul. Grzybowska, 00-844",City Centre West,Juniper Technologies,TMT,5408,24.36,EUR,per m2 per month,5,New Lease,2026-10-12 09:00:00
+WAW-20244-07018,2024-11-14,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Tamar Abogados,Legal,683,24.05,EUR,per m2 per month,6,New Lease,2025-01-14 09:00:00
+WAW-20244-52002,2024-10-28,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Brightwater Abogados,Legal,1515,16.97,EUR,per m2 per month,5,Expansion,2025-01-12 09:00:00
+WAW-20251-53007,2025-03-23,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Sable Industries Warsaw,Industrial,1317,17.61,EUR,per m2 per month,10,New Lease,2025-04-20 09:00:00
+WAW-20243-66004,2024-08-29,Helix Building,"40 ul. Emilii Plater, 00-125",Żoliborz,Meridian Capital,Banking & Finance,833,13.56,EUR,per m2 per month,15,Pre-let,2024-10-22 09:00:00
+WAW-20242-05021,2024-05-18,Elmgrove Centre,"105 ul. Kasprzaka, 01-224",CBD,Quill LLP,Legal,1821,97.55,PLN,per m2 per month,5,Sublease,2024-07-18 09:00:00
+WAW-20241-04015,2024-02-07,173 ul. Towarowa,"173 ul. Towarowa, 00-811",CBD,Elmgrove Legal Warsaw,Legal,3000,19.81,EUR,per m2 per month,5,Expansion,2024-04-17 09:00:00
+WAW-20252-69004,2025-05-30,62 ul. Kasprzaka,"62 ul. Kasprzaka, 01-224",Żoliborz,Northgate LLP,Legal,1125,12.22,EUR,per m2 per month,5,Renewal,2025-07-16 09:00:00
+WAW-20241-04003,2024-01-19,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Osprey Technologies,TMT,768,18.08,EUR,per m2 per month,10,New Lease,2024-04-17 09:00:00
+WAW-20244-07015,2024-12-13,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Tern Rechtsanwälte,Legal,922,15.38,EUR,per m2 per month,9,New Lease,2025-01-14 09:00:00
+WAW-20232-31006,2023-05-19,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Granite Rechtsanwälte,Legal,381,14.89,EUR,per m2 per month,10,New Lease,2023-07-14 09:00:00
+WAW-20244-37007,2024-10-27,4 ul. Grzybowska,"4 ul. Grzybowska, 00-844",Mokotów,Veridian Flex Warsaw,Flex Office,1922,7.70,EUR,per m2 per month,10,Sublease,2025-01-12 09:00:00
+WAW-20263-44009,2026-09-04,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Helix Digital Warsaw,TMT,1593,15.91,EUR,per m2 per month,10,New Lease,2026-10-17 09:00:00
+WAW-20233-02008,2023-08-15,Fenwick Quay,"51 ul. Przyokopowa, 01-208",CBD,Linden Council Warsaw,Public Sector,1909,21.45,EUR,per m2 per month,5,New Lease,2023-10-17 09:00:00
+WAW-20263-29004,2026-09-02,11 ul. Towarowa,"11 ul. Towarowa, 00-811",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,1765,24.20,EUR,per m2 per month,6,New Lease,2026-10-12 09:00:00
+WAW-20251-53009,2025-02-17,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Lumen Workspace,Flex Office,1269,18.26,EUR,per m2 per month,10,Pre-let,2025-04-20 09:00:00
+WAW-20243-06004,2024-07-13,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Elmgrove Asset Management,Banking & Finance,1368,16.01,EUR,per m2 per month,15,Pre-let,2024-10-16 09:00:00
+WAW-20254-56012R,2025-11-11,170 ul. Emilii Plater,"170 ul. Emilii Plater, 00-125",Wola,Aldwyn Asset Management Warsaw Ltd,Banking & Finance,1085,19.39,EUR,per m2 per month,15,New Lease,2026-02-10 09:00:00
+WAW-20262-43003,2026-06-21,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Northgate LLP,Legal,2830,13.65,EUR,per m2 per month,10,Renewal,2026-07-24 09:00:00
+WAW-20262-28005,2026-04-07,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Sterling Bank,Banking & Finance,2699,27.29,EUR,per m2 per month,9,New Lease,2026-07-12 09:00:00
+WAW-20261-12019,2026-01-04,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Orbis Securities,Banking & Finance,1740,17.03,EUR,per m2 per month,9,Sublease,2026-04-20 09:00:00
+WAW-20254-41004,2025-11-19,Quill Plaza,"150 ul. Grzybowska, 00-844",Mokotów,Ravel Asset Management Warsaw,Banking & Finance,1100,11.57,EUR,per m2 per month,5,New Lease,2026-01-22 09:00:00
+WAW-20233-62002,2023-07-03,Veridian Plaza,"25 ul. Postępu, 02-676",Żoliborz,Calder Authority Warsaw,Public Sector,2260,40.10,PLN,per m2 per month,10,New Lease,2023-10-12 09:00:00
+WAW-20251-23011,2025-02-15,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Helix Digital Warsaw,TMT,1258,20.55,EUR,per m2 per month,15,Expansion,2025-04-15 09:00:00
+WAW-20254-11024,2025-10-28,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Linden Bank,Banking & Finance,1197,24.72,EUR,per m2 per month,5,New Lease,2026-01-16 09:00:00
+WAW-20242-05018,2024-04-22,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Orbis Insurance,Insurance,1625,19.83,EUR,per m2 per month,5,New Lease,2024-07-18 09:00:00
+WAW-20251-68001,2025-02-14,5 ul. Emilii Plater,"5 ul. Emilii Plater, 00-125",Żoliborz,Orbis Offices Warsaw,Flex Office,1642,10.30,EUR,per m2 per month,5,Renewal,2025-04-14 09:00:00
+WAW-20254-26015,2025-11-28,Ridgeway Plaza,"12 rondo ONZ, 00-124",City Centre West,Ravel Asset Management Warsaw,Banking & Finance,4335,23.56,EUR,per m2 per month,10,New Lease,2026-01-24 09:00:00
+WAW-20234-33009,2023-10-30,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Wren Labs,TMT,500,9.11,EUR,per m2 per month,5,Renewal,2024-01-13 09:00:00
+WAW-20231-45007,2023-03-02,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Granite Rechtsanwälte,Legal,1485,16.90,EUR,per m2 per month,9,Expansion,2023-04-13 09:00:00
+WAW-20242-35014,2024-04-14,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Solace Advisory,Professional Services,1977,15.71,EUR,per m2 per month,5,Renewal,2024-07-23 09:00:00
+WAW-20234-48014,2023-11-12,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Meridian Capital,Banking & Finance,4381,75.25,PLN,per m2 per month,10,New Lease,2024-01-21 09:00:00
+WAW-20233-32004,2023-09-23,48 ul. Złota,"48 ul. Złota, 00-120",Mokotów,Helix Technologies,TMT,4297,14.50,EUR,per m2 per month,9,New Lease,2023-10-14 09:00:00
+WAW-20242-05009,2024-04-28,Fenwick Quay,"51 ul. Przyokopowa, 01-208",CBD,Quill LLP,Legal,688,20.59,EUR,per m2 per month,3,Renewal,2024-07-18 09:00:00
+WAW-20244-52010R,2024-11-21,Linden Building,"51 ul. Towarowa, 00-811",Wola,Meridian Capital Ltd,Banking & Finance,961,18.27,EUR,per m2 per month,5,Renewal,2025-02-01 09:00:00
+WAW-20261-42011,2026-01-25,144 ul. Postępu,"144 ul. Postępu, 02-676",Mokotów,Ridgeway Retail Warsaw,Other,1831,13.84,EUR,per m2 per month,12,renewal,2026-04-21 09:00:00
+WAW-20244-37015,2024-10-19,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Linden Bank,Banking & Finance,1352,8.79,EUR,per m2 per month,6,Expansion,2025-01-12 09:00:00
+WAW-20254-71011,2025-10-14,Granite Quay,"127 al. Jerozolimskie, 00-508",Żoliborz,Larkspur Labs,TMT,544,7.83,EUR,per m2 per month,5,New Lease,2026-01-24 09:00:00
+WAW-20244-07013,2024-11-04,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Helix Technologies,TMT,315,20.31,EUR,per m2 per month,15,New Lease,2025-01-14 09:00:00
+WAW-20254-11002,2025-11-02,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Tern Rechtsanwälte,Legal,1597,87.29,PLN,per m2 per month,5,Expansion,2026-01-16 09:00:00
+WAW-20263-14006,2026-07-10,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Halden Associates,Professional Services,1879,22.96,EUR,per m2 per month,9,New Lease,2026-10-19 09:00:00
+WAW-20254-26014,2025-11-21,132 rondo ONZ,"132 rondo ONZ, 00-124",City Centre West,Orbis Offices Warsaw,Flex Office,2841,17.51,EUR,per m2 per month,15,Sublease,2026-01-24 09:00:00
+WAW-20241-49002,2024-01-19,100 al. Jerozolimskie,"100 al. Jerozolimskie, 00-508",Wola,Lumen Workspace,Flex Office,1486,20.96,EUR,per m2 per month,12,New Lease,2024-04-16 09:00:00
+WAW-20261-12015,2026-02-14,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Pinnacle LLP,Legal,573,22.81,EUR,per m2 per month,9,Renewal,2026-04-20 09:00:00
+WAW-20231-45001,2023-03-26,69 ul. Towarowa,"69 ul. Towarowa, 00-811",Wola,Vantage Offices Warsaw,Flex Office,1761,19.82,EUR,per m2 per month,15,New Lease,2023-04-13 09:00:00
+WAW-20234-33010,2023-10-22,Veridian Square,"10 al. Jana Pawła II, 00-867",Mokotów,Calder Authority Warsaw,Public Sector,281,13.50,EUR,per m2 per month,12,Expansion,2024-01-13 09:00:00
+WAW-20251-38003,2025-03-26,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Sterling Retail,Other,1570,9.59,EUR,per m2 per month,12,Renewal,2025-04-24 09:00:00
+WAW-20263-44001,2026-08-09,107 ul. Grzybowska,"107 ul. Grzybowska, 00-844",Mokotów,Calder Legal,Legal,669,15.04,EUR,per m2 per month,9,Expansion,2026-10-17 09:00:00
+WAW-20254-26012,2025-12-17,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Marlow Diagnostics Warsaw,Life Sciences,1933,14.19,EUR,per m2 per month,12,New Lease,2026-01-24 09:00:00
+WAW-20234-18011,2023-10-07,Kestrel Tower,"77 ul. Marynarska, 02-674",City Centre West,Vantage Offices Warsaw,Flex Office,2574,17.96,EUR,per m2 per month,3,New Lease,2024-01-13 09:00:00
+WAW-20254-41007,2025-11-17,143 al. Jerozolimskie,"143 al. Jerozolimskie, 00-508",Mokotów,Aldwyn Office,Public Sector,721,16.27,EUR,per m2 per month,5,New Lease,2026-01-22 09:00:00
+WAW-20234-48003,2023-11-13,Linden Building,"51 ul. Towarowa, 00-811",Wola,Marlow Mutual,Insurance,1495,15.85,EUR,per m2 per month,10,New Lease,2024-01-21 09:00:00
+WAW-20233-32010,2023-09-26,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Lumen Workspace,Flex Office,2715,11.70,EUR,per m2 per month,10,New Lease,2023-10-14 09:00:00
+WAW-20261-12003,2026-02-24,127 ul. Wołoska,"127 ul. Wołoska, 02-675",,Lumen Media Warsaw,TMT,865,20.70,EUR,per m2 per month,12,New Lease,2026-04-20 09:00:00
+WAW-20244-52011,2024-12-25,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Cobalt Advisory,Professional Services,1241,22.09,EUR,per m2 per month,6,Renewal,2025-01-12 09:00:00
+WAW-20231-60003,2023-03-17,125 ul. Domaniewska,"125 ul. Domaniewska, 02-672",Żoliborz,Orbis Securities,Banking & Finance,2682,67.45,PLN,per m2 per month,6,New Lease,2023-04-15 09:00:00
+WAW-20234-18008,2023-10-06,Veridian Court,"167 ul. Emilii Plater, 00-125",City Centre West,Fenwick Advisory,Professional Services,702,14.87,EUR,per m2 per month,6,Expansion,2024-01-13 09:00:00
+WAW-20242-35004,2024-04-19,60 ul. Wołoska,"60 ul. Wołoska, 02-675",Mokotów,Lumen Media,TMT,1556,15.62,EUR,per m2 per month,6,New Lease,2024-07-23 09:00:00
+WAW-20254-26006,2025-10-16,146 ul. Przyokopowa,"146 ul. Przyokopowa, 01-208",City Centre West,Atlas Labs,TMT,541,14.66,EUR,per m2 per month,12,Renewal,2026-01-24 09:00:00
+WAW-20244-67005,2024-11-26,47 al. Jerozolimskie,"47 al. Jerozolimskie, 00-508",Żoliborz,Meridian Associates Warsaw,Professional Services,1089,12.05,EUR,per m2 per month,3,Renewal,2025-01-24 09:00:00
+WAW-20234-03007,2023-12-23,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Harrow Spaces,Flex Office,1571,86.89,PLN,per m2 per month,3,Renewal,2024-01-12 09:00:00
+WAW-20232-46013,2023-04-14,163 ul. Postępu,"163 ul. Postępu, 02-676",Wola,Meridian Digital,TMT,1131,12.53,EUR,per m2 per month,6,Sublease,2023-07-15 09:00:00
+WAW-20244-07016,2024-11-26,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Marlow Diagnostics Warsaw,Life Sciences,945,22.56,EUR,per m2 per month,5,New Lease,2025-01-14 09:00:00
+WAW-20243-06012,2024-07-03,Solace Square,"176 ul. Słomińskiego, 00-195",CBD,Thorne Capital,Banking & Finance,1162,18.86,EUR,per m2 per month,15,Expansion,2024-10-16 09:00:00
+WAW-20243-06015,2024-07-11,Aldwyn Court,"75 rondo ONZ, 00-124",CBD,Ridgeway Retail Warsaw,Other,618,20.50,EUR,per m2 per month,5,Pre-let,2024-10-16 09:00:00
+WAW-20242-35012,2024-05-15,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Sterling Retail,Other,2786,15.78,EUR,per m2 per month,5,New Lease,2024-07-23 09:00:00
+WAW-20253-10002,2025-08-23,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Linden Bank,Banking & Finance,1362,21.96,EUR,per m2 per month,5,New Lease,2025-10-19 09:00:00
+WAW-20241-34002,2024-03-20,92 al. Jana Pawła II,"92 al. Jana Pawła II, 00-867",Mokotów,Quill LLP,Legal,457,9.50,EUR,per m2 per month,15,New Lease,2024-04-17 09:00:00
+WAW-20252-54010,2025-04-03,Cobalt Centre,"86 al. Jana Pawła II, 00-867",Wola,Elmgrove Legal Warsaw,Legal,1821,15.60,EUR,per m2 per month,9,New Lease,2025-07-20 09:00:00
+WAW-20254-56015,2025-11-26,Solace House,"161 ul. Kasprzaka, 01-224",Wola,Northgate LLP,Legal,2605,19.73,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20254-11015,2025-10-07,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Corvid Holdings,Other,3191,21.75,EUR,per m2 per month,9,New Lease,2026-01-16 09:00:00
+WAW-20261-42004,2026-01-24,101 ul. Postępu,"101 ul. Postępu, 02-676",Mokotów,Meridian Digital,TMT,1118,49.40,PLN,per m2 per month,15,Pre-let,2026-04-21 09:00:00
+WAW-20263-59007,2026-09-30,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Arden Retail,Other,1721,12.60,EUR,per m2 per month,15,Pre-let ,2026-10-16 09:00:00
+WAW-20252-09010,2025-05-20,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Kestrel Technologies,TMT,2582,23.43,EUR,per m2 per month,9,Renewal,2025-07-23 09:00:00
+WAW-20262-43002,2026-04-23,Atlas Quay,"63 ul. Złota, 00-120",Mokotów,Cobalt Advisory,Professional Services,3769,10.17,EUR,per m2 per month,10,Pre-let,2026-07-24 09:00:00
+WAW-20254-26002,2025-11-05,Solace Place,"24 ul. Rydygiera, 01-793",City Centre West,Atlas Pharma,Life Sciences,1247,22.43,EUR,per m2 per month,9,expansion,2026-01-24 09:00:00
+WAW-20253-25001,2025-09-22,Ravel Gate,"108 al. Jerozolimskie, 00-508",City Centre West,Pinnacle LLP,Legal,3588,14.28,EUR,per m2 per month,9,Renewal,2025-10-12 09:00:00
+WAW-20232-46017,2023-05-23,3 ul. Słomińskiego,"3 ul. Słomińskiego, 00-195",Wola,Sterling Bank,Banking & Finance,1608,19.87,EUR,per m2 per month,3,New Lease,2023-07-15 09:00:00
+WAW-20241-64003,2024-01-01,133 ul. Towarowa,"133 ul. Towarowa, 00-811",Żoliborz,Elmgrove Asset Management,Banking & Finance,735,14.04,EUR,per m2 per month,10,New Lease,2024-04-22 09:00:00
+WAW-20243-51012,2024-08-23,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Thorne Capital,Banking & Finance,4952,18.73,EUR,per m2 per month,3,Pre-let,2024-10-17 09:00:00
+WAW-20263-14013,2026-08-20,131 ul. Słomińskiego,"131 ul. Słomińskiego, 00-195",CBD,Orbis Insurance,Insurance,991,18.63,EUR,per m2 per month,10,sublease,2026-10-19 09:00:00
+WAW-20251-53006,2025-02-28,19 ul. Towarowa,"19 ul. Towarowa, 00-811",Wola,Meridian Digital,TMT,1437,11.87,EUR,per m2 per month,6,New Lease,2025-04-20 09:00:00
+WAW-20261-57004,2026-03-22,139 rondo ONZ,"139 rondo ONZ, 00-124",Wola,Larkspur Services Warsaw,Other,1362,217.92,PLN,per m2 per month,5,Expansion,2026-04-17 09:00:00
+WAW-20234-03017,2023-12-17,147 ul. Domaniewska,"147 ul. Domaniewska, 02-672",CBD,Aldwyn Office,Public Sector,471,23.60,EUR,per m2 per month,9,New Lease,2024-01-12 09:00:00
+WAW-20242-05015,2024-05-22,112 ul. Rydygiera,"112 ul. Rydygiera, 01-793",CBD,Sable Capital,Banking & Finance,1101,26.79,EUR,per m2 per month,12,New Lease,2024-07-18 09:00:00
+WAW-20251-08007,2025-01-07,94 ul. Domaniewska,"94 ul. Domaniewska, 02-672",CBD,Ashcombe Rechtsanwälte,Legal,2702,27.34,EUR,per m2 per month,10,New Lease,2025-04-15 09:00:00
+WAW-20261-42021,2026-01-13,38 al. Jerozolimskie,"38 al. Jerozolimskie, 00-508",Mokotów,Juniper Technologies,TMT,1355,12.91,EUR,per m2 per month,5,New Lease,2026-04-21 09:00:00
+WAW-20242-05004,2024-05-20,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Cobalt Advisory,Professional Services,2143,18.44,EUR,per m2 per month,10,New Lease,2024-07-18 09:00:00
+WAW-20241-49001,2024-03-31,Ravel Court,"38 ul. Marynarska, 02-674",Wola,Tamar Abogados,Legal,3761,19.48,EUR,per m2 per month,9,Expansion,2024-04-16 09:00:00
+WAW-20252-09006,2025-06-11,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Calder Authority Warsaw,Public Sector,984,90.32,PLN,per m2 per month,3,New Lease,2025-07-23 09:00:00
+WAW-20254-11020,2025-11-11,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Beacon Consulting,Professional Services,1625,15.96,EUR,per m2 per month,12,Renewal,2026-01-16 09:00:00
+WAW-20243-66002,2024-07-10,139 ul. Marynarska,"139 ul. Marynarska, 02-674",Żoliborz,Nimbus Technologies,TMT,3797,12.96,EUR,per m2 per month,9,Renewal,2024-10-13 09:00:00
+WAW-20232-16003,2023-06-24,92 ul. Marynarska,"92 ul. Marynarska, 02-674",City Centre West,Atlas Labs,TMT,2507,18.97,EUR,per m2 per month,5,Expansion,2023-07-20 09:00:00
+WAW-20232-46005,2023-06-15,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Linden Council Warsaw,Public Sector,2393,82.10,PLN,per m2 per month,15,Expansion,2023-07-15 09:00:00
+WAW-20253-25010,2025-07-22,Ember House,"48 ul. Towarowa, 00-811",City Centre West,Marlow Mutual,Insurance,620,17.06,EUR,per m2 per month,10,New Lease,2025-10-12 09:00:00
+WAW-20253-10004,2025-07-10,Elmgrove Court,"135 ul. Prosta, 00-838",CBD,Sterling Bank,Banking & Finance,1546,79.52,PLN,per m2 per month,10,New Lease,2025-10-19 09:00:00
+WAW-20262-13011,2026-06-23,149 rondo ONZ,"149 rondo ONZ, 00-124",CBD,Calder Authority Warsaw,Public Sector,6040,27.13,EUR,per m2 per month,10,New Lease,2026-07-12 09:00:00
+WAW-20232-01002,2023-04-29,127 ul. Wołoska,"127 ul. Wołoska, 02-675",CBD,Granite Rechtsanwälte,Legal,2984,22.95,EUR,per m2 per month,10,New Lease,2023-07-20 09:00:00
+WAW-20243-06008,2024-08-14,Lumen Quay,"70 ul. Przyokopowa, 01-208",CBD,Vantage Offices Warsaw,Flex Office,1428,18.07,EUR,per m2 per month,5,Renewal,2024-10-16 09:00:00
+WAW-20254-56013,2025-12-21,Fenwick Court,"153 ul. Przyokopowa, 01-208",Wola,Nimbus Technologies,TMT,2380,20.69,EUR,per m2 per month,15,Renewal,2026-01-21 09:00:00
+WAW-20253-25016,2025-07-25,Ember House,"48 ul. Towarowa, 00-811",City Centre West,Linden Bank,Banking & Finance,1424,15.32,EUR,per m2 per month,15,New Lease,2025-10-12 09:00:00
+WAW-20251-08004,2025-03-18,46 ul. Marynarska,"46 ul. Marynarska, 02-674",CBD,Halden Associates,Professional Services,1497,23.24,EUR,per m2 per month,5,New Lease,2025-04-15 09:00:00
+WAW-20243-06003,2024-09-16,Pinnacle Tower,"120 rondo ONZ, 00-124",CBD,Corvid Holdings,Other,4530,20.35,EUR,per m2 per month,12,Pre-let,2024-10-16 09:00:00
+WAW-20244-52014,2024-12-06,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Atlas Pharma,Life Sciences,6516,13.80,EUR,per m2 per month,10,New Lease,2025-01-12 09:00:00
+WAW-20251-38010,2025-03-24,Granite Park,"117 ul. Grzybowska, 00-844",Mokotów,Aldwyn Office,Public Sector,1270,12.34,EUR,per m2 per month,3,Sublease,2025-04-24 09:00:00
+WAW-20254-56019,2025-10-17,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Solace Assurance Warsaw,Insurance,293,19.88,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20261-57001,2026-02-04,115 al. Jerozolimskie,"115 al. Jerozolimskie, 00-508",Wola,Sterling Bank,Banking & Finance,2045,13.40,EUR,per m2 per month,5,New Lease,2026-04-17 09:00:00
+WAW-20242-05002,2024-04-30,76 ul. Emilii Plater,"76 ul. Emilii Plater, 00-125",CBD,Granite Rechtsanwälte,Legal,1369,28.38,EUR,per m2 per month,5,New Lease,2024-07-18 09:00:00
+WAW-20234-48001,2023-11-16,45 ul. Rydygiera,"45 ul. Rydygiera, 01-793",Wola,Linden Council Warsaw,Public Sector,1149,21.82,EUR,per m2 per month,5,Expansion,2024-01-21 09:00:00
+WAW-20254-11011,2025-10-27,149 al. Jana Pawła II,"149 al. Jana Pawła II, 00-867",CBD,Northgate Labs Warsaw,TMT,1103,15.45,EUR,per m2 per month,5,New Lease,2026-01-16 09:00:00
+WAW-20233-47004,2023-07-31,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Vantage Associates,Professional Services,668,18.10,EUR,per m2 per month,9,Renewal,2023-10-17 09:00:00
+WAW-20232-16004,2023-05-16,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",,Beacon Consulting,Professional Services,924,13.44,EUR,per m2 per month,6,Expansion,2023-07-20 09:00:00
+WAW-20243-51014,2024-09-17,65 ul. Prosta,"65 ul. Prosta, 00-838",Wola,Calder Legal,Legal,903,113.50,PLN,per m2 per month,10,New Lease,2024-10-17 09:00:00
+WAW-20242-20004,2024-04-29,62 ul. Przyokopowa,"62 ul. Przyokopowa, 01-208",City Centre West,Marlow Mutual,Insurance,1044,68.29,PLN,per m2 per month,3,Renewal,2024-07-22 09:00:00
+WAW-20241-19009,2024-02-18,Arden Court,"166 ul. Grzybowska, 00-844",City Centre West,Lumen Media Warsaw,TMT,994,19.70,EUR,per m2 per month,9,Expansion,2024-04-13 09:00:00
+WAW-20252-54003,2025-05-24,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Northgate Labs Warsaw,TMT,4522,71.55,PLN,per m2 per month,10,Renewal,2025-07-29 09:00:00
+WAW-20262-28007,2026-06-17,Arden Court,"166 ul. Grzybowska, 00-844",City Centre West,Meridian Capital,Banking & Finance,902,24.02,EUR,per m2 per month,12,Renewal,2026-07-12 09:00:00
+WAW-20234-03009,2023-11-05,Tern House,"64 al. Jana Pawła II, 00-867",CBD,Helix Digital Warsaw,TMT,1746,19.42,EUR,per m2 per month,12,Expansion,2024-01-12 09:00:00
+WAW-20254-26005,2025-10-21,Solace Tower,"94 ul. Towarowa, 00-811",City Centre West,Northgate Industries,Industrial,2286,15.33,EUR,per m2 per month,12,New Lease,2026-01-24 09:00:00
+WAW-20252-69005,2025-04-22,132 ul. Przyokopowa,"132 ul. Przyokopowa, 01-208",Żoliborz,Quill LLP,Legal,3480,53.22,PLN,per m2 per month,6,Renewal,2025-07-16 09:00:00
+WAW-20262-58001,2026-04-24,77 ul. Grzybowska,"77 ul. Grzybowska, 00-844",Wola,Thorne Capital,Banking & Finance,5527,74.50,PLN,per m2 per month,9,New Lease,2026-07-15 09:00:00
+WAW-20254-56021,2025-10-07,Ravel Court,"38 ul. Marynarska, 02-674",,Northgate Labs Warsaw,TMT,3067,17.82,EUR,per m2 per month,10,New Lease,2026-01-21 09:00:00
+WAW-20251-08008,2025-01-06,51 ul. Kasprzaka,"51 ul. Kasprzaka, 01-224",CBD,Helix Office,Public Sector,1401,21.51,EUR,per m2 per month,5,Pre-let,2025-04-15 09:00:00
+WAW-20261-12001,2026-01-11,Elmgrove Park,"94 al. Jerozolimskie, 00-508",CBD,Ridgeway Pharma,Life Sciences,553,81.33,PLN,per m2 per month,5,New Lease,2026-04-20 09:00:00
+WAW-20253-10013,2025-08-28,Juniper Place,"49 ul. Emilii Plater, 00-125",CBD,Ember Avocats,Legal,1133,20.64,EUR,per m2 per month,10,Renewal,2025-10-19 09:00:00
+WAW-20262-73001,2026-06-24,167 ul. Emilii Plater,"167 ul. Emilii Plater, 00-125",Żoliborz,Solace Assurance Warsaw,Insurance,1813,14.64,EUR,per m2 per month,9,Pre-let,2026-07-14 09:00:00
+WAW-20243-51006,2024-08-12,52 ul. Kasprzaka,"52 ul. Kasprzaka, 01-224",Wola,Cobalt Flex,Flex Office,749,13.94,EUR,per m2 per month,12,New Lease,2024-10-17 09:00:00
+WAW-20253-55015,2025-09-02,Helix Park,"167 ul. Domaniewska, 02-672",Wola,Osprey Technologies,TMT,1060,87.23,PLN,per m2 per month,5,Pre-let,2025-10-12 09:00:00
+WAW-20251-53004,2025-03-05,123 ul. Domaniewska,"123 ul. Domaniewska, 02-672",Wola,Solace Assurance Warsaw,Insurance,1865,13.10,EUR,per m2 per month,10,New Lease,2025-04-20 09:00:00
+WAW-20234-18003,2023-11-10,98 ul. Słomińskiego,"98 ul. Słomińskiego, 00-195",City Centre West,Ridgeway Retail Warsaw,Other,1539,12.35,EUR,per m2 per month,6,new lease,2024-01-13 09:00:00
+WAW-20232-46015,2023-04-24,18 al. Jerozolimskie,"18 al. Jerozolimskie, 00-508",Wola,Atlas Labs,TMT,2907,71.65,PLN,per m2 per month,6,New Lease,2023-07-15 09:00:00
+WAW-20232-46007,2023-06-02,130 ul. Prosta,"130 ul. Prosta, 00-838",Wola,Tern Rechtsanwälte,Legal,1952,20.50,EUR,per m2 per month,15,New Lease,2023-07-24 09:00:00
+WAW-20242-05014,2024-04-23,Juniper Building,"24 ul. Słomińskiego, 00-195",CBD,Calder Legal,Legal,839,19.02,EUR,per m2 per month,3,Pre-let,2024-07-18 09:00:00
+WAW-20254-41005,2025-11-27,119 al. Jerozolimskie,"119 al. Jerozolimskie, 00-508",Mokotów,Juniper Technologies,TMT,490,13.51,EUR,per m2 per month,12,Renewal,2026-01-22 09:00:00
+WAW-20254-41013,2025-12-08,60 ul. Wołoska,"60 ul. Wołoska, 02-675",Mokotów,Linden Bank,Banking & Finance,3159,15.33,EUR,per m2 per month,3,new lease,2026-01-22 09:00:00
+WAW-20251-08014,2025-03-12,109 al. Jana Pawła II,"109 al. Jana Pawła II, 00-867",CBD,Ridgeway Retail Warsaw,Other,1790,67.09,PLN,per m2 per month,15,New Lease,2025-04-15 09:00:00
+WAW-20234-03005,2023-11-03,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Meridian Digital,TMT,1120,19.99,EUR,per m2 per month,15,Expansion,2024-01-12 09:00:00
+WAW-20262-13015,2026-05-09,Veridian Quay,"59 ul. Prosta, 00-838",CBD,Cobalt Advisory,Professional Services,1567,21.65,EUR,per m2 per month,15,New Lease,2026-07-12 09:00:00
+WAW-20243-06014,2024-07-19,92 ul. Wołoska,"92 ul. Wołoska, 02-675",CBD,Fenwick Advisory,Professional Services,1575,20.31,EUR,per m2 per month,10,Expansion,2024-10-16 09:00:00
+WAW-20243-36001,2024-09-02,Ashcombe Point,"78 ul. Rydygiera, 01-793",Mokotów,Veridian Flex Warsaw,Flex Office,837,13.56,EUR,per m2 per month,12,New Lease,2024-10-14 09:00:00
+WAW-20263-44006,2026-08-24,Orbis Court,"156 rondo ONZ, 00-124",Mokotów,Beacon Consulting,Professional Services,1589,11.24,EUR,per m2 per month,10,Sublease,2026-10-17 09:00:00
+WAW-20261-42012,2026-02-16,51 rondo ONZ,"51 rondo ONZ, 00-124",Mokotów,Linden Bank,Banking & Finance,555,16.73,EUR,per m2 per month,15,New Lease,2026-04-21 09:00:00
+WAW-20262-58011,2026-06-06,Fenwick Point,"18 ul. Marynarska, 02-674",Wola,Lumen Workspace,Flex Office,1411,15.68,EUR,per m2 per month,5,Expansion,2026-07-15 09:00:00

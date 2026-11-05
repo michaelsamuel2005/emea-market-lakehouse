@@ -1,0 +1,25 @@
+market_id,submarket_id,submarket_name,local_name
+LON,CITY,City,City
+LON,WEND,West End,West End
+LON,MIDT,Midtown,Midtown
+LON,SBNK,Southbank,Southbank
+LON,DOCK,Docklands,Docklands
+PAR,QCA,Paris CBD,Paris QCA
+PAR,LDEF,La Defense,La Défense
+PAR,PCO,Paris Centre West,Paris Centre Ouest (hors QCA)
+PAR,PSUD,Paris South,Paris Sud
+PAR,PDEF,Peri-Defense,Péri-Défense
+AMS,ZUID,Zuidas,Zuidas
+AMS,CENT,Centre,Centrum
+AMS,ZOST,Zuidoost,Zuidoost
+AMS,SLOT,Sloterdijk,Sloterdijk-Teleport
+FRA,BANK,Banking District,Bankenviertel
+FRA,WEST,Westend,Westend
+FRA,INNS,City Centre,Innenstadt
+FRA,ESCH,Eschborn,Eschborn
+FRA,NIED,Niederrad,Niederrad
+WAW,CBD,CBD,CBD
+WAW,CCW,City Centre West,City Centre West
+WAW,MOKO,Mokotow,Mokotów
+WAW,WOLA,Wola,Wola
+WAW,ZOLI,Zoliborz,Żoliborz

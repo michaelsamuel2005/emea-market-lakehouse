@@ -1,0 +1,108 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  DBT_SEND_ANONYMOUS_USAGE_STATS: "false"
+
+jobs:
+  # The project itself: generate, build and test on DuckDB, lint, Python tests, docs.
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Raw files match the generator
+        run: python generator/generate.py --check
+
+      - name: Generated dbt files are current
+        run: |
+          python scripts/scaffold_market.py
+          git diff --exit-code -- models/bronze/sources.yml seeds/bronze/_bronze_seeds.yml
+
+      - name: dbt build (DuckDB; seeds, models, data tests and unit tests)
+        run: dbt build --target duckdb
+
+      - name: Source freshness
+        run: dbt source freshness --target duckdb
+
+      - name: Lint SQL
+        run: sqlfluff lint models tests analyses
+
+      - name: Python tests (pipeline invariants, documentation coverage)
+        run: pytest tests_py -q
+
+      - name: Run summary
+        run: python scripts/monitor.py --top 10
+
+      - name: Docs
+        run: dbt docs generate --target duckdb
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dbt-docs
+          path: |
+            target/index.html
+            target/manifest.json
+            target/catalog.json
+            target/run_results.json
+
+  # The same project on the other two dialects, without a workspace or an account: Apache Spark in ANSI
+  # mode (the Databricks SQL dialect) and the real dbt-snowflake adapter on a Snowflake emulator. Each build
+  # is then compared table by table with the DuckDB build. scripts/engines/README.md explains what this
+  # proves and what only databricks/RUNBOOK.md and snowflake/RUNBOOK.md can.
+  engines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install
+        run: pip install -r requirements.txt -r requirements-engines.txt -r requirements-databricks.txt
+
+      - name: Compile with the real Databricks and Snowflake adapters (no connection; placeholder credentials)
+        env:
+          DATABRICKS_HOST: example.invalid
+          DATABRICKS_HTTP_PATH: /sql/1.0/warehouses/placeholder
+          DATABRICKS_TOKEN: placeholder
+          SNOWFLAKE_ACCOUNT: placeholder
+          SNOWFLAKE_USER: placeholder
+          SNOWFLAKE_PASSWORD: placeholder
+        run: |
+          dbt compile --target databricks_token --no-populate-cache --target-path target/compile_databricks
+          dbt compile --target snowflake_password --no-populate-cache --target-path target/compile_snowflake
+
+      - name: Reference build (DuckDB)
+        run: dbt build --target duckdb
+
+      - name: Build on Apache Spark 4 (ANSI mode)
+        run: python scripts/engines/run_on_spark.py build --target spark
+
+      - name: Spark tables match DuckDB
+        run: python scripts/engines/compare_with_duckdb.py spark
+
+      - name: Build with dbt-snowflake on the fakesnow emulator
+        run: python scripts/engines/run_on_snowflake_emulator.py build --target snowflake_emulator --exclude "test_type:unit"
+
+      - name: Snowflake-emulator tables match DuckDB
+        run: python scripts/engines/compare_with_duckdb.py snowflake_emulator

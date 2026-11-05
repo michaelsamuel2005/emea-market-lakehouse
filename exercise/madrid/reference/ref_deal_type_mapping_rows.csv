@@ -1,0 +1,6 @@
+market_id,local_deal_type,deal_type_code
+MAD,Nuevo contrato,NEW
+MAD,Renovación,REN
+MAD,Ampliación,EXP
+MAD,Subarriendo,SUB
+MAD,Pre-alquiler,PRE

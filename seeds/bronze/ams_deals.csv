@@ -1,0 +1,597 @@
+deal_id,date,building,address,submarket,tenant,sector,area_m2,rent_eur_m2_yr,term_years,deal_type,submitted_at
+AMS-20251-23013,2025-03-23,Aldwyn Centre,"126 Zuidplein, 1077",Centrum,Linden Office,Public Sector,580,361.35,9,New Lease,2025-04-24 09:00:00
+AMS-20243-06012,2024-07-16,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Pinnacle Assurance,Insurance,1304,436.13,6,Expansion,2024-10-16 09:00:00
+AMS-20234-18011,2023-11-23,17 Radarweg,"17 Radarweg, 1043",Centrum,Pinnacle Assurance,Insurance,193,347.01,5,Renewal,2024-01-24 09:00:00
+AMS-20244-07007,2024-10-12,95 Paasheuvelweg,"95 Paasheuvelweg, 1105",Zuidas,Halden Flex,Flex Office,1451,494.43,9,New Lease,2025-01-21 09:00:00
+AMS-20254-41004,2025-12-13,85 Teleportboulevard,"85 Teleportboulevard, 1043",Zuidoost,Brightwater Office,Public Sector,1693,220.97,10,New Lease,2026-01-17 09:00:00
+AMS-20242-50001,2024-04-23,Orbis Plaza,"12 Zuidplein, 1077",Sloterdijk-Teleport,Orbis Office,Public Sector,805,180.85,10,New Lease,2024-07-23 09:00:00
+AMS-20254-26006,2025-11-12,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Halden Labs Amsterdam,TMT,1329,424.36,9,Expansion,2026-01-16 09:00:00
+AMS-20244-37011,2024-12-20,143 Claude Debussylaan,"143 Claude Debussylaan, 1082",Zuidoost,Quill Partners Amsterdam,Professional Services,607,209.31,5,New Lease,2025-01-13 09:00:00
+AMS-20253-25002,2025-09-16,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Lumen Workspace,Flex Office,2016,331.69,15,New Lease,2025-10-20 09:00:00
+AMS-20263-44006,2026-07-30,Solace Plaza,"147 Bijlmerdreef, 1102",Zuidoost,Granite Rechtsanwälte,Legal,708,278.51,15,New Lease,2026-10-14 09:00:00
+AMS-20231-30008,2023-01-15,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Elmgrove Flex,Flex Office,879,160.10,3,Expansion,2023-04-19 09:00:00
+AMS-20262-13016,2026-06-23,10 Radarweg,"10 Radarweg, 1043",Zuidas,Calder Biosciences Amsterdam,Life Sciences,1692,543.67,15,New Lease,2026-07-21 09:00:00
+AMS-20243-06006,2024-07-10,Quill Gate,"108 Radarweg, 1043",Zuidas,Harrow Mutual Amsterdam,Insurance,1523,384.14,5,New Lease,2024-10-16 09:00:00
+AMS-20241-04002,2024-03-13,62 Zuidplein,"62 Zuidplein, 1077",Zuidas,Juniper Flex Amsterdam,Flex Office,843,446.87,6,Sublease,2024-04-15 09:00:00
+AMS-20232-01002,2023-06-17,11 Herengracht,"11 Herengracht, 1017",Zuidas,Juniper Flex Amsterdam,Flex Office,1310,337.17,3,New Lease,2023-07-18 09:00:00
+AMS-20252-09017,2025-05-08,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Ember Underwriting,Insurance,1337,504.65,10,New Lease,2025-07-19 09:00:00
+AMS-20263-29005,2026-09-23,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Halden Labs Amsterdam,TMT,3149,426.33,10,New Lease,2026-10-13 09:00:00
+AMS-20234-18005,2023-10-03,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Atlas Software,TMT,448,293.87,12,Expansion,2024-01-24 09:00:00
+AMS-20241-34002,2024-01-16,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Granite Rechtsanwälte,Legal,486,203.14,10,Pre-let,2024-04-19 09:00:00
+AMS-20243-06013,2024-07-15,62 Zuidplein,"62 Zuidplein, 1077",Zuidas,Northgate Avocats,Legal,980,480.11,5,Expansion,2024-10-16 09:00:00
+AMS-20263-59006,2026-09-30,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Halden Flex,Flex Office,1361,196.37,9,Expansion,2026-10-19 09:00:00
+AMS-20242-35003,2024-05-20,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Northgate LLP,Legal,1125,163.65,12,New Lease,2024-07-14 09:00:00
+AMS-20242-05007,2024-06-29,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Tamar Bank,Banking & Finance,1996,334.46,5,Renewal,2024-07-24 09:00:00
+AMS-20251-38001,2025-02-19,Orbis House,"48 Keizersgracht, 1015",Zuidoost,Lumen Workspace,Flex Office,345,247.84,9,New Lease,2025-04-16 09:00:00
+AMS-20234-33010,2023-12-08,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Ridgeway Pharma,Life Sciences,332,262.89,3,Renewal ,2024-01-24 09:00:00
+AMS-20252-09005,2025-04-08,147 Gustav Mahlerlaan,"147 Gustav Mahlerlaan, 1082",Zuidas,Pinnacle Assurance,Insurance,545,538.56,15,Renewal,2025-07-19 09:00:00
+AMS-20242-05009,2024-04-14,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Orbis Insurance,Insurance,613,386.33,6,Renewal,2024-07-24 09:00:00
+AMS-20234-48002,2023-12-07,Orbis Plaza,"12 Zuidplein, 1077",Sloterdijk-Teleport,Osprey Insurance,Insurance,1133,215.63,3,New Lease,2024-01-14 09:00:00
+AMS-20253-25009,2025-08-05,Harrow Park,"47 Zuidplein, 1077",Centrum,Sterling Pharma,Life Sciences,1167,293.95,5,New Lease,2025-10-20 09:00:00
+AMS-20252-39006,2025-06-08,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Corvid Partners,Professional Services,407,258.71,6,Expansion,2025-07-19 09:00:00
+AMS-20253-10006,2025-07-20,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Wren Retail,Other,3931,428.30,9,New Lease,2025-10-14 09:00:00
+AMS-20234-18007,2023-12-25,Osprey Place,"152 Naritaweg, 1043",Centrum,Northgate Avocats,Legal,354,319.84,15,Sublease,2024-01-24 09:00:00
+AMS-20244-52001,2024-11-26,Atlas Square,"88 Hoogoorddreef, 1101",Sloterdijk-Teleport,Meridian Insurance,Insurance,477,153.06,9,Expansion,2025-01-21 09:00:00
+AMS-20253-40001,2025-09-30,Marlow Park,"132 Paasheuvelweg, 1105",Zuidoost,Beacon Council,Public Sector,1466,256.92,10,new lease,2025-10-22 09:00:00
+AMS-20251-23010,2025-03-28,21 Bijlmerdreef,"21 Bijlmerdreef, 1102",Centrum,Ridgeway Pharma,Life Sciences,445,330.91,5,New Lease,2025-04-24 09:00:00
+AMS-20234-48005,2023-11-05,80 Paasheuvelweg,"80 Paasheuvelweg, 1105",Sloterdijk-Teleport,Harrow Asset Management,Banking & Finance,620,139.90,10,Renewal,2024-01-14 09:00:00
+AMS-20253-10001,2025-09-21,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Ember Underwriting,Insurance,3194,308.71,5,New Lease,2025-10-14 09:00:00
+AMS-20241-19009,2024-03-22,Harrow Park,"47 Zuidplein, 1077",Centrum,Linden Office,Public Sector,381,234.37,9,New Lease,2024-04-17 09:00:00
+AMS-20243-36001,2024-08-22,Vantage Square,"114 Strawinskylaan, 1077",Zuidoost,Kestrel Media,TMT,2810,166.55,6,New Lease,2024-10-12 09:00:00
+AMS-20244-22005,2024-11-18,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Arden Capital,Banking & Finance,2230,313.60,10,New Lease,2025-01-21 09:00:00
+AMS-20241-04003,2024-02-05,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Sterling Bank,Banking & Finance,165,350.53,5,New Lease,2024-04-15 09:00:00
+AMS-20261-27004,2026-03-31,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Vantage Software Amsterdam,TMT,2338,440.42,3,Renewal,2026-04-17 09:00:00
+AMS-20233-17017,2023-09-14,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Linden Office,Public Sector,692,309.71,9,Renewal,2023-10-23 09:00:00
+AMS-20232-46005,2023-05-22,Veridian Park,"53 Basisweg, 1043",Sloterdijk-Teleport,Orbis Insurance,Insurance,485,128.10,12,New Lease,2023-07-13 09:00:00
+AMS-20252-39003,2025-06-28,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Orbis Insurance,Insurance,1054,246.05,5,New Lease,2025-07-19 09:00:00
+AMS-20244-07013,2024-10-30,Quill Gate,"108 Radarweg, 1043",Zuidas,Vantage Group,Professional Services,407,385.62,6,New Lease,2025-01-21 09:00:00
+AMS-20242-05005,2024-04-23,67 Basisweg,"67 Basisweg, 1043",Zuidas,Fenwick Mutual,Insurance,584,414.56,15,New Lease,2024-07-24 09:00:00
+AMS-20252-09016,2025-04-13,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Northgate LLP,Legal,629,417.58,10,New Lease,2025-07-19 09:00:00
+AMS-20253-55007,2025-09-27,54 Gustav Mahlerlaan,"54 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Quill Health,Life Sciences,419,242.37,10,Expansion,2025-10-16 09:00:00
+AMS-20231-00002,2023-03-13,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Lumen Partners Amsterdam,Banking & Finance,2088,316.18,10,New Lease,2023-04-19 09:00:00
+AMS-20252-24011,2025-05-13,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Juniper LLP,Legal,376,344.01,12,Renewal,2025-07-16 09:00:00
+AMS-20253-40004,2025-09-19,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Corvid Partners,Professional Services,926,246.57,15,Renewal,2025-10-31 09:00:00
+AMS-20254-26004,2025-12-07,36 Radarweg,"36 Radarweg, 1043",Centrum,Arden Capital,Banking & Finance,2761,257.05,12,New Lease,2026-01-16 09:00:00
+AMS-20251-38001,2025-02-19,Orbis House,"48 Keizersgracht, 1015",Zuidoost,Lumen Workspace,Flex Office,345,247.84,9,New Lease,2025-04-25 09:00:00
+AMS-20253-40002,2025-08-23,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Pinnacle Assurance,Insurance,736,269.69,10,New Lease,2025-10-22 09:00:00
+AMS-20243-51005,2024-07-30,Aldwyn Tower,"158 Claude Debussylaan, 1082",Sloterdijk-Teleport,Harrow Mutual Amsterdam,Insurance,999,146.29,9,Expansion,2024-10-18 09:00:00
+AMS-20254-26008,2025-12-17,Lumen Square,"54 Keizersgracht, 1015",Centrum,Elmgrove Flex,Flex Office,1738,396.31,12,New Lease,2026-01-16 09:00:00
+AMS-20263-14003,2026-07-13,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Ridgeway Pharma,Life Sciences,536,407.55,9,New Lease,2026-10-13 09:00:00
+AMS-20263-59001,2026-08-27,148 Hullenbergweg,"148 Hullenbergweg, 1101",Sloterdijk-Teleport,Cobalt Insurance,Insurance,955,153.40,10,Sublease,2026-10-19 09:00:00
+AMS-20252-09007,2025-06-01,Quill Gate,"108 Radarweg, 1043",Zuidas,Calder Biosciences Amsterdam,Life Sciences,705,465.32,9,New Lease,2025-07-19 09:00:00
+AMS-20262-13003,2026-05-13,32 Teleportboulevard,"32 Teleportboulevard, 1043",Zuidas,Beacon Council,Public Sector,818,533.19,15,Renewal,2026-07-21 09:00:00
+AMS-20243-51001,2024-08-31,21 Gustav Mahlerlaan,"21 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Osprey Holdings Amsterdam,Other,1066,210.50,12,New Lease,2024-10-18 09:00:00
+AMS-20251-53006,2025-01-07,124 Gustav Mahlerlaan,"124 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Arden Group Amsterdam,Professional Services,1224,129.16,10,New Lease,2025-04-19 09:00:00
+AMS-20242-05011,2024-04-22,141 Keizersgracht,"141 Keizersgracht, 1015",Zuidas,Elmgrove Flex,Flex Office,667,427.27,10,New Lease,2024-07-24 09:00:00
+AMS-20232-01001,2023-06-01,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Elmgrove LLP Amsterdam,Legal,323,329.99,12,Sublease,2023-07-18 09:00:00
+AMS-20251-53004,2025-02-03,79 Strawinskylaan,"79 Strawinskylaan, 1077",Sloterdijk-Teleport,Fenwick Avocats Amsterdam,Legal,510,215.76,10,New Lease,2025-04-19 09:00:00
+AMS-20234-03009,2023-10-09,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Corvid Partners,Professional Services,2163,425.01,5,Pre-let,2024-01-14 09:00:00
+AMS-20233-17015,2023-07-30,Granite Building,"67 Naritaweg, 1043",Centrum,Ridgeway Labs Amsterdam,TMT,701,251.85,5,New Lease,2023-10-23 09:00:00
+AMS-20254-11012,2025-11-22,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Ember Underwriting,Insurance,925,411.27,9,New Lease,2026-01-12 09:00:00
+AMS-20231-00003,2023-01-06,12 Gustav Mahlerlaan,"12 Gustav Mahlerlaan, 1082",Zuidas,Arden Group Amsterdam,Professional Services,302,382.42,15,New Lease,2023-04-19 09:00:00
+AMS-20242-05004,2024-05-25,Ashcombe House,"144 Naritaweg, 1043",Zuidas,Sterling LLP Amsterdam,Legal,1754,453.33,6,Renewal,2024-07-24 09:00:00
+AMS-20244-07002,2024-12-12,Wren Quay,"41 Radarweg, 1043",Zuidas,Linden Office,Public Sector,783,376.55,3,New Lease,2025-01-21 09:00:00
+AMS-20261-57006,2026-03-27,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Wren Energy Amsterdam,Industrial,883,209.44,10,Renewal,2026-04-18 09:00:00
+AMS-20233-02001R,2023-07-12,67 Basisweg,"67 Basisweg, 1043",Zuidas,Kestrel Media Ltd,TMT,526,386.84,5,New Lease ,2023-11-01 09:00:00
+AMS-20251-23011,2025-02-18,136 Basisweg,"136 Basisweg, 1043",Centrum,Harrow Mutual Amsterdam,Insurance,1612,401.87,15,New Lease,2025-04-24 09:00:00
+AMS-20241-34001,2024-03-05,109 Hoogoorddreef,"109 Hoogoorddreef, 1101",Zuidoost,Calder Council,Public Sector,1086,208.55,5,Expansion,2024-04-19 09:00:00
+AMS-20263-14001,2026-07-18,Aldwyn Gate,"178 Strawinskylaan, 1077",Zuidas,Meridian Insurance,Insurance,1323,466.75,9,Sublease,2026-10-13 09:00:00
+AMS-20231-00008,2023-01-26,177 Gustav Mahlerlaan,"177 Gustav Mahlerlaan, 1082",Zuidas,Kestrel Media,TMT,546,322.05,9,New Lease,2023-04-19 09:00:00
+AMS-20234-33005,2023-12-09,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Vantage Group,Professional Services,1816,132.22,5,Sublease,2024-01-24 09:00:00
+AMS-20244-37010,2024-10-29,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Sterling LLP Amsterdam,Legal,304,262.49,5,Renewal,2025-01-13 09:00:00
+AMS-20233-32004,2023-09-07,Veridian Tower,"12 Naritaweg, 1043",Zuidoost,Meridian Insurance,Insurance,1116,177.60,5,New Lease,2023-10-17 09:00:00
+AMS-20232-31003,2023-05-02,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Orbis Insurance,Insurance,320,239.94,9,Renewal,2023-07-15 09:00:00
+AMS-20243-36002,2024-09-30,79 Vijzelstraat,"79 Vijzelstraat, 1017",Zuidoost,Pinnacle Assurance,Insurance,1745,169.48,3,New Lease,2024-10-12 09:00:00
+AMS-20231-15008,2023-03-31,Harrow Park,"47 Zuidplein, 1077",Centrum,Veridian Legal,Legal,796,212.51,10,Sublease,2023-04-21 09:00:00
+AMS-20251-08008,2025-02-05,177 Rokin,"177 Rokin, 1012",Zuidas,Granite Rechtsanwälte,Legal,791,355.94,9,New Lease,2025-04-18 09:00:00
+AMS-20231-00001,2023-01-25,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Wren Retail,Other,1158,356.23,9,Renewal ,2023-04-19 09:00:00
+AMS-20253-40004,2025-09-19,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Corvid Partners,Professional Services,926,246.57,15,Renewal,2025-10-22 09:00:00
+AMS-20233-17003,2023-08-08,33 Radarweg,"33 Radarweg, 1043",,Thorne Consulting,Professional Services,430,326.36,12,New Lease,2023-10-23 09:00:00
+AMS-20261-12008,2026-01-09,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Juniper Flex Amsterdam,Flex Office,1178,392.37,5,Renewal,2026-04-15 09:00:00
+AMS-20252-09006,2025-05-13,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Veridian Legal,Legal,392,544.47,6,New Lease,2025-07-19 09:00:00
+AMS-20244-37004,2024-11-20,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Orbis Office,Public Sector,701,163.81,5,New Lease,2025-01-13 09:00:00
+AMS-20243-21005,2024-08-02,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Tamar Bank,Banking & Finance,505,377.89,12,New Lease,2024-10-15 09:00:00
+AMS-20252-09012,2025-04-05,113 Rokin,"113 Rokin, 1012",Zuidas,Quill Partners Amsterdam,Professional Services,580,372.91,12,New Lease,2025-07-19 09:00:00
+AMS-20231-15006,2023-03-02,Aldwyn Building,"75 Paasheuvelweg, 1105",Centrum,Nimbus Asset Management,Banking & Finance,224,235.73,15,Renewal,2023-04-21 09:00:00
+AMS-20243-51006,2024-07-11,Granite Centre,"65 Hullenbergweg, 1101",Sloterdijk-Teleport,Atlas Software,TMT,1859,180.54,5,New Lease,2024-10-18 09:00:00
+AMS-20251-38009,2025-01-31,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Halden Labs Amsterdam,TMT,415,,6,Pre-let,2025-04-16 09:00:00
+AMS-20251-08002,2025-03-19,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Halden Flex,Flex Office,1766,392.41,12,New Lease,2025-04-18 09:00:00
+AMS-20251-38003,2025-01-27,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Brightwater Health Amsterdam,Life Sciences,287,,6,Pre-let,2025-04-16 09:00:00
+AMS-20232-01009,2023-04-09,121 Claude Debussylaan,"121 Claude Debussylaan, 1082",,Tamar Bank,Banking & Finance,974,360.46,10,New Lease,2023-07-18 09:00:00
+AMS-20262-43003,2026-04-22,94 Vijzelstraat,"94 Vijzelstraat, 1017",Zuidoost,Ridgeway Pharma,Life Sciences,961,206.11,5,Sublease,2026-07-18 09:00:00
+AMS-20232-31002,2023-06-15,Vantage Building,"25 Basisweg, 1043",Zuidoost,Brightwater Office,Public Sector,1284,188.16,15,Renewal,2023-07-15 09:00:00
+AMS-20241-34003,2024-03-28,Osprey House,"11 Vijzelstraat, 1017",Zuidoost,Orbis Insurance,Insurance,937,142.14,10,Renewal,2024-04-19 09:00:00
+AMS-20263-29001,2026-07-26,174 Basisweg,"174 Basisweg, 1043",Centrum,Orbis Insurance,Insurance,746,463.57,5,New Lease,2026-10-13 09:00:00
+AMS-20262-43006,2026-05-20,Orbis House,"48 Keizersgracht, 1015",Zuidoost,Fenwick Mutual,Insurance,1370,210.08,5,New Lease,2026-07-18 09:00:00
+AMS-20261-42001,2026-03-10,Fenwick Plaza,"166 Basisweg, 1043",Zuidoost,Sterling Bank,Banking & Finance,4692,246.90,9,Expansion,2026-04-14 09:00:00
+AMS-20254-11004,2025-11-04,113 Rokin,"113 Rokin, 1012",Zuidas,Cobalt Advisory,Professional Services,397,362.99,12,Expansion,2026-01-12 09:00:00
+AMS-20233-02001,2023-07-12,67 Basisweg,"67 Basisweg, 1043",Zuidas,Kestrel Media,TMT,526,386.84,5,New Lease,2023-10-12 09:00:00
+AMS-20242-20010,2024-05-14,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Marlow Group Amsterdam,Professional Services,2429,261.84,6,New Lease,2024-07-14 09:00:00
+AMS-20232-01014,2023-04-29,Wren Quay,"41 Radarweg, 1043",Zuidas,Marlow Capital,Banking & Finance,1157,424.08,10,Renewal,2023-07-18 09:00:00
+AMS-20254-26007,2025-10-27,Harrow Park,"47 Zuidplein, 1077",Centrum,Wren Energy Amsterdam,Industrial,321,309.63,10,New Lease,2026-01-16 09:00:00
+AMS-20242-05013,2024-06-13,121 Claude Debussylaan,"121 Claude Debussylaan, 1082",Zuidas,Granite Rechtsanwälte,Legal,498,344.80,10,Renewal,2024-07-24 09:00:00
+AMS-20263-14002,2026-09-05,141 Keizersgracht,"141 Keizersgracht, 1015",Zuidas,Lumen Workspace,Flex Office,1550,462.57,5,New Lease,2026-10-13 09:00:00
+AMS-20231-15010,2023-03-03,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Aldwyn Assurance,Insurance,456,408.01,10,New Lease,2023-04-21 09:00:00
+AMS-20251-08010,2025-02-11,Kestrel Court,"79 Herengracht, 1017",Zuidas,Arden Capital,Banking & Finance,666,531.45,6,New Lease,2025-04-18 09:00:00
+AMS-20233-32001R,2023-09-21,109 Hoogoorddreef,"109 Hoogoorddreef, 1101",Zuidoost,RIDGEWAY LABS AMSTERDAM,TMT,2074,196.39,9,Renewal,2023-11-06 09:00:00
+AMS-20242-35005,2024-05-09,Veridian Gate,"76 Naritaweg, 1043",Zuidoost,Ember Underwriting,Insurance,501,186.39,9,New Lease,2024-07-14 09:00:00
+AMS-20261-12010,2026-03-15,67 Basisweg,"67 Basisweg, 1043",Zuidas,Atlas Software,TMT,1452,441.29,5,Renewal,2026-04-15 09:00:00
+AMS-20262-43008R,2026-04-13,Marlow Park,"132 Paasheuvelweg, 1105",Zuidoost,Nimbus Asset Management Ltd,Banking & Finance,265,256.14,15,New Lease,2026-08-07 09:00:00
+AMS-20232-01004,2023-06-03,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Harrow Mutual Amsterdam,Insurance,622,292.67,5,Renewal,2023-07-18 09:00:00
+AMS-20234-33008,2023-11-24,Orbis House,"48 Keizersgracht, 1015",Zuidoost,Orbis Office,Public Sector,1428,185.10,5,New Lease,2024-01-24 09:00:00
+AMS-20253-25014,2025-08-17,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Kestrel Media,TMT,397,310.70,5,new lease,2025-10-20 09:00:00
+AMS-20253-25010,2025-07-08,Linden Square,"99 Basisweg, 1043",Centrum,Lumen Workspace,Flex Office,491,322.88,10,Expansion,2025-10-20 09:00:00
+AMS-20254-41006,2025-10-08,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Ridgeway Pharma,Life Sciences,814,246.17,15,Pre-let,2026-01-17 09:00:00
+AMS-20261-42002,2026-03-29,163 Naritaweg,"163 Naritaweg, 1043",Zuidoost,Sterling Pharma,Life Sciences,2941,212.78,10,New Lease,2026-04-14 09:00:00
+AMS-20231-30004,2023-02-26,143 Claude Debussylaan,"143 Claude Debussylaan, 1082",Zuidoost,Elmgrove Flex,Flex Office,2221,183.40,9,New Lease,2023-04-19 09:00:00
+AMS-20252-54001,2025-06-09,148 Hullenbergweg,"148 Hullenbergweg, 1101",Sloterdijk-Teleport,Harrow Asset Management,Banking & Finance,1128,160.41,3,Renewal,2025-07-19 09:00:00
+AMS-20234-18013,2023-10-29,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Tern Mutual,Insurance,1236,292.31,10,Sublease,2024-01-24 09:00:00
+AMS-20242-20008,2024-05-26,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Ravel Consulting,Professional Services,2011,360.86,5,New Lease,2024-07-14 09:00:00
+AMS-20231-15005,2023-02-13,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Osprey Holdings Amsterdam,Other,376,322.70,10,Renewal,2023-04-21 09:00:00
+AMS-20252-24009,2025-04-01,Aldwyn Place,"6 Paasheuvelweg, 1105",Centrum,Orbis Office,Public Sector,448,459.87,15,New Lease,2025-07-16 09:00:00
+AMS-20234-33004,2023-12-22,87 Naritaweg,"87 Naritaweg, 1043",Zuidoost,Ridgeway Labs Amsterdam,TMT,1230,184.69,9,New Lease,2024-01-24 09:00:00
+AMS-20254-56008,2025-10-11,Granite Centre,"65 Hullenbergweg, 1101",Sloterdijk-Teleport,Aldwyn Assurance,Insurance,557,173.53,5,Pre-let,2026-01-22 09:00:00
+AMS-20252-09003,2025-06-12,Aldwyn Gate,"178 Strawinskylaan, 1077",Zuidas,Calder Biosciences Amsterdam,Life Sciences,1289,475.26,5,New Lease,2025-07-19 09:00:00
+AMS-20242-50005,2024-05-12,54 Gustav Mahlerlaan,"54 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Pinnacle Assurance,Insurance,732,206.71,5,new lease,2024-07-23 09:00:00
+AMS-20231-15015,2023-01-03,59 Zuidplein,"59 Zuidplein, 1077",Centrum,Granite Rechtsanwälte,Legal,909,416.17,3,New Lease,2023-04-21 09:00:00
+AMS-20252-24004,2025-06-28,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Atlas Pharma,Life Sciences,305,356.51,15,Sublease,2025-07-16 09:00:00
+AMS-20263-44001,2026-08-25,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Atlas Software,TMT,1529,241.72,5,renewal,2026-10-14 09:00:00
+AMS-20242-05010,2024-06-26,177 Gustav Mahlerlaan,"177 Gustav Mahlerlaan, 1082",Zuidas,Thorne Consulting,Professional Services,2159,329.65,12,New Lease,2024-07-24 09:00:00
+AMS-20251-23002,2025-02-12,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Arden Group Amsterdam,Professional Services,690,420.47,5,New Lease,2025-04-24 09:00:00
+AMS-20233-32009,2023-07-16,Northgate Plaza,"20 Teleportboulevard, 1043",Zuidoost,Fenwick Avocats Amsterdam,Legal,1973,241.48,5,Renewal,2023-10-17 09:00:00
+AMS-20232-01010,2023-05-10,121 Claude Debussylaan,"121 Claude Debussylaan, 1082",Zuidas,Quill Health,Life Sciences,450,363.45,5,New Lease,2023-07-18 09:00:00
+AMS-20254-41003,2025-12-01,Veridian Tower,"12 Naritaweg, 1043",Zuidoost,Wren Energy Amsterdam,Industrial,1249,238.97,10,New Lease,2026-01-17 09:00:00
+AMS-20242-35002,2024-05-05,Orbis House,"48 Keizersgracht, 1015",Zuidoost,Arden Capital,Banking & Finance,3616,232.33,5,New Lease,2024-07-14 09:00:00
+AMS-20251-08006,2025-03-02,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Cobalt Insurance,Insurance,659,386.09,15,New Lease,2025-04-18 09:00:00
+AMS-20251-23004,2025-02-23,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Fenwick Avocats Amsterdam,Legal,285,368.06,10,New Lease,2025-04-24 09:00:00
+AMS-20243-06014,2024-09-30,67 Basisweg,"67 Basisweg, 1043",Zuidas,Tern Mutual,Insurance,188,384.78,15,New Lease,2024-10-16 09:00:00
+AMS-20263-44002,2026-07-24,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Larkspur Technologies,TMT,516,247.16,9,Expansion,2026-10-14 09:00:00
+AMS-20233-47007,2023-09-10,Veridian Park,"53 Basisweg, 1043",Sloterdijk-Teleport,Granite Labs Amsterdam,TMT,624,11.88,9,Renewal,2023-10-15 09:00:00
+AMS-20262-13012,2026-05-03,Aldwyn Quay,"163 Strawinskylaan, 1077",Zuidas,Osprey Insurance,Insurance,671,469.08,3,New Lease,2026-07-21 09:00:00
+AMS-20233-02006R,2023-08-17,177 Rokin,"177 Rokin, 1012",Zuidas,MERIDIAN CAPITAL,Banking & Finance,2676,412.59,10,New Lease,2023-11-01 09:00:00
+AMS-20253-10005,2025-09-04,59 Radarweg,"59 Radarweg, 1043",Zuidas,Osprey Holdings Amsterdam,Other,1139,450.80,9,New Lease,2025-10-14 09:00:00
+AMS-20252-39001,2025-05-20,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Wren Energy Amsterdam,Industrial,4309,256.97,12,Renewal,2025-07-19 09:00:00
+AMS-20242-20004,2024-05-07,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Sable Partners,Banking & Finance,637,410.34,5,New Lease,2024-07-14 09:00:00
+AMS-20262-13014,2026-06-01,59 Radarweg,"59 Radarweg, 1043",Zuidas,Lumen Flex,Flex Office,830,404.92,15,Renewal,2026-07-21 09:00:00
+AMS-20241-04009,2024-03-09,59 Radarweg,"59 Radarweg, 1043",Zuidas,Ember Legal Amsterdam,Legal,7555,372.98,15,Renewal,2024-04-15 09:00:00
+AMS-20242-50006,2024-05-29,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Sterling LLP Amsterdam,Legal,936,183.04,5,Sublease,2024-07-23 09:00:00
+AMS-20254-56007,2025-11-14,57 Keizersgracht,"57 Keizersgracht, 1015",Sloterdijk-Teleport,Marlow Capital,Banking & Finance,3831,208.69,6,New Lease,2026-01-22 09:00:00
+AMS-20234-03006,2023-11-13,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Ember Underwriting,Insurance,2925,371.60,6,New Lease,2024-01-14 09:00:00
+AMS-20262-28001,2026-05-12,Osprey Place,"152 Naritaweg, 1043",Centrum,Meridian Insurance,Insurance,688,369.01,3,Sublease,2026-07-15 09:00:00
+AMS-20243-21008,2024-08-18,59 Zuidplein,"59 Zuidplein, 1077",Centrum,Orbis Office,Public Sector,762,347.35,3,New Lease,2024-10-15 09:00:00
+AMS-20244-22007,2024-11-29,Aldwyn Building,"75 Paasheuvelweg, 1105",Centrum,Lumen Workspace,Flex Office,624,243.02,3,Renewal,2025-01-21 09:00:00
+AMS-20261-12002,2026-01-25,62 Zuidplein,"62 Zuidplein, 1077",Zuidas,Meridian Insurance,Insurance,1405,553.75,15,New Lease,2026-04-15 09:00:00
+AMS-20251-23012,2025-02-03,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Elmgrove Flex,Flex Office,1744,443.19,10,New Lease,2025-04-24 09:00:00
+AMS-20233-17013,2023-09-22,174 Basisweg,"174 Basisweg, 1043",Centrum,Veridian Associates Amsterdam,Professional Services,670,410.08,12,Expansion,2023-10-23 09:00:00
+AMS-20261-42004,2026-01-29,Northgate Plaza,"20 Teleportboulevard, 1043",Zuidoost,Veridian Associates Amsterdam,Professional Services,606,254.45,10,New Lease,2026-04-14 09:00:00
+AMS-20232-46006,2023-04-24,Aldwyn House,"35 Strawinskylaan, 1077",Sloterdijk-Teleport,Wren Energy Amsterdam,Industrial,2043,181.49,10,Sublease,2023-07-13 09:00:00
+AMS-20241-19013,2024-01-11,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Wren Retail,Other,588,396.15,10,Expansion,2024-04-17 09:00:00
+AMS-20251-08013,2025-03-20,59 Radarweg,"59 Radarweg, 1043",Zuidas,Quill Health,Life Sciences,1717,391.23,12,New Lease,2025-04-18 09:00:00
+AMS-20254-41007,2025-12-27,162 Teleportboulevard,"162 Teleportboulevard, 1043",Zuidoost,Pinnacle Assurance,Insurance,1645,295.73,3,Renewal,2026-01-17 09:00:00
+AMS-20233-32008,2023-08-03,109 Hoogoorddreef,"109 Hoogoorddreef, 1101",Zuidoost,Brightwater Office,Public Sector,579,193.23,10,Renewal,2023-10-17 09:00:00
+AMS-20253-10004,2025-08-14,Kestrel Court,"79 Herengracht, 1017",Zuidas,Osprey Insurance,Insurance,2396,499.97,6,New Lease,2025-10-14 09:00:00
+AMS-20263-14005,2026-08-03,113 Rokin,"113 Rokin, 1012",Zuidas,Veridian Legal,Legal,433,416.28,12,new lease,2026-10-13 09:00:00
+AMS-20242-50004,2024-06-09,54 Gustav Mahlerlaan,"54 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Fenwick Mutual,Insurance,281,206.56,3,Renewal,2024-07-23 09:00:00
+AMS-20233-32002,2023-08-15,Arden Centre,"132 Hoogoorddreef, 1101",Zuidoost,Thorne Consulting,Professional Services,590,196.20,5,New Lease,2023-10-17 09:00:00
+AMS-20263-59004,2026-07-06,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Orbis Insurance,Insurance,398,190.83,10,New Lease,2026-10-19 09:00:00
+AMS-20234-33003,2023-11-24,94 Vijzelstraat,"94 Vijzelstraat, 1017",Zuidoost,Sterling Pharma,Life Sciences,1544,187.07,5,New Lease,2024-01-24 09:00:00
+AMS-20261-12003,2026-01-01,Quill Gate,"108 Radarweg, 1043",Zuidas,Fenwick Avocats Amsterdam,Legal,373,,5,New Lease,2026-04-15 09:00:00
+AMS-20231-45002,2023-02-10,116 Naritaweg,"116 Naritaweg, 1043",Sloterdijk-Teleport,Tamar Bank,Banking & Finance,2206,216.81,3,Renewal,2023-04-19 09:00:00
+AMS-20241-04005,2024-02-21,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Wren Energy Amsterdam,Industrial,1399,484.14,12,New Lease,2024-04-15 09:00:00
+AMS-20241-19006,2024-02-01,Linden Square,"99 Basisweg, 1043",Centrum,Veridian Legal,Legal,409,289.79,5,New Lease,2024-04-17 09:00:00
+AMS-20251-23008,2025-01-27,21 Bijlmerdreef,"21 Bijlmerdreef, 1102",Centrum,Orbis Office,Public Sector,570,323.11,10,Pre-let,2025-04-24 09:00:00
+AMS-20233-17010,2023-08-01,59 Zuidplein,"59 Zuidplein, 1077",Centrum,Juniper LLP,Legal,518,418.99,9,Renewal,2023-10-23 09:00:00
+AMS-20232-16005,2023-04-16,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Elmgrove Flex,Flex Office,537,304.92,12,New Lease,2023-07-12 09:00:00
+AMS-20262-13008,2026-04-02,Quill Gate,"108 Radarweg, 1043",Zuidas,Cobalt Insurance,Insurance,1253,436.44,3,New Lease,2026-07-21 09:00:00
+AMS-20241-04008,2024-03-06,113 Rokin,"113 Rokin, 1012",Zuidas,Orbis Office,Public Sector,1292,372.25,15,Renewal,2024-04-15 09:00:00
+AMS-20233-17008,2023-07-25,Atlas Tower,"128 Zuidplein, 1077",,Aldwyn Assurance,Insurance,1299,324.36,6,Renewal,2023-10-23 09:00:00
+AMS-20234-18005,2023-10-03,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Atlas Software,TMT,448,293.87,12,Expansion,2024-02-02 09:00:00
+AMS-20231-45003,2023-03-19,54 Gustav Mahlerlaan,"54 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Corvid Partners,Professional Services,3560,215.94,15,Expansion,2023-04-19 09:00:00
+AMS-20241-04006,2024-01-11,32 Teleportboulevard,"32 Teleportboulevard, 1043",Zuidas,Vantage Group,Professional Services,1050,443.28,12,New Lease,2024-04-15 09:00:00
+AMS-20244-52003,2024-11-09,Ravel Quay,"60 Vijzelstraat, 1017",Sloterdijk-Teleport,Elmgrove LLP Amsterdam,Legal,1339,194.00,5,New Lease,2025-01-21 09:00:00
+AMS-20241-49004,2024-02-07,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Vantage Group,Professional Services,747,178.96,10,New Lease,2024-04-21 09:00:00
+AMS-20261-12006,2026-02-03,12 Gustav Mahlerlaan,"12 Gustav Mahlerlaan, 1082",Zuidas,Aldwyn Assurance,Insurance,2712,469.05,10,Expansion,2026-04-15 09:00:00
+AMS-20243-06010,2024-09-10,59 Radarweg,"59 Radarweg, 1043",Zuidas,Aldwyn Assurance,Insurance,557,348.33,5,Sublease,2024-10-16 09:00:00
+AMS-20261-57003,2026-01-26,Atlas Square,"88 Hoogoorddreef, 1101",Sloterdijk-Teleport,Cobalt Insurance,Insurance,455,196.06,6,New Lease,2026-04-18 09:00:00
+AMS-20243-36003,2024-08-01,Veridian Gate,"76 Naritaweg, 1043",Zuidoost,Elmgrove LLP Amsterdam,Legal,1006,187.47,10,New Lease,2024-10-12 09:00:00
+AMS-20233-02008,2023-08-20,Kestrel Court,"79 Herengracht, 1017",Zuidas,Veridian Legal,Legal,2024,420.87,5,Renewal,2023-10-12 09:00:00
+AMS-20254-11007,2025-10-12,10 Radarweg,"10 Radarweg, 1043",Zuidas,Juniper LLP,Legal,757,612.95,5,Renewal,2026-01-21 09:00:00
+AMS-20242-20009,2024-06-05,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Orbis Insurance,Insurance,817,327.26,10,New Lease,2024-07-14 09:00:00
+AMS-20232-01008,2023-04-27,67 Basisweg,"67 Basisweg, 1043",Zuidas,Marlow Group Amsterdam,Professional Services,301,373.16,3,Renewal,2023-07-18 09:00:00
+AMS-20234-48005,2023-11-05,80 Paasheuvelweg,"80 Paasheuvelweg, 1105",Sloterdijk-Teleport,Harrow Asset Management,Banking & Finance,620,139.90,10,Renewal,2024-01-23 09:00:00
+AMS-20234-18004,2023-10-08,33 Radarweg,"33 Radarweg, 1043",Centrum,Granite Labs Amsterdam,TMT,1569,332.15,10,Pre-let,2024-01-24 09:00:00
+AMS-20231-15011,2023-03-28,Aldwyn Centre,"126 Zuidplein, 1077",Centrum,Ridgeway Labs Amsterdam,TMT,651,400.53,5,New Lease,2023-04-21 09:00:00
+AMS-20251-38008,2025-01-26,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Harrow Mutual Amsterdam,Insurance,660,181.42,12,Pre-let,2025-04-16 09:00:00
+AMS-20243-21004,2024-07-23,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Osprey Insurance,Insurance,353,309.84,15,Expansion,2024-10-15 09:00:00
+AMS-20253-25011,2025-07-30,7 Vijzelstraat,"7 Vijzelstraat, 1017",Centrum,Juniper LLP,Legal,458,437.08,12,New Lease,2025-10-29 09:00:00
+AMS-20241-19004,2024-02-05,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Marlow Group Amsterdam,Professional Services,743,371.69,10,New Lease,2024-04-17 09:00:00
+AMS-20253-25005,2025-07-10,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Cobalt Advisory,Professional Services,718,326.60,5,Sublease,2025-10-20 09:00:00
+AMS-20263-44003,2026-08-24,Arden Centre,"132 Hoogoorddreef, 1101",Zuidoost,Brightwater Health Amsterdam,Life Sciences,399,205.41,10,New Lease,2026-10-14 09:00:00
+AMS-20261-42005,2026-01-14,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Granite Rechtsanwälte,Legal,295,237.72,15,Renewal,2026-04-14 09:00:00
+AMS-20263-29007,2026-08-16,Harrow Park,"47 Zuidplein, 1077",Centrum,Beacon Partners Amsterdam,Banking & Finance,817,294.68,15,Renewal,2026-10-13 09:00:00
+AMS-20262-13005,2026-06-27,177 Gustav Mahlerlaan,"177 Gustav Mahlerlaan, 1082",Zuidas,Halden Labs Amsterdam,TMT,930,360.31,9,New Lease,2026-07-21 09:00:00
+AMS-20234-03008,2023-11-24,Kestrel Court,"79 Herengracht, 1017",Zuidas,Calder Biosciences Amsterdam,Life Sciences,5992,397.94,6,sublease,2024-01-14 09:00:00
+AMS-20261-27002,2026-03-06,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Cobalt Insurance,Insurance,978,288.39,10,Pre-let,2026-04-17 09:00:00
+AMS-20252-24001,2025-04-07,Aldwyn Place,"6 Paasheuvelweg, 1105",Centrum,Osprey Holdings Amsterdam,Other,1006,349.30,10,New Lease,2025-07-16 09:00:00
+AMS-20251-23009,2025-02-14,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Lumen Workspace,Flex Office,366,370.19,6,New Lease,2025-04-24 09:00:00
+AMS-20263-14009,2026-09-08,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Ember Legal Amsterdam,Legal,1444,329.46,12,New Lease,2026-10-13 09:00:00
+AMS-20244-52004,2024-10-05,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Northgate LLP,Legal,891,204.98,15,New Lease,2025-01-21 09:00:00
+AMS-20254-11001,2025-11-27,Kestrel Court,"79 Herengracht, 1017",Zuidas,Calder Biosciences Amsterdam,Life Sciences,1387,546.15,3,Expansion,2026-01-12 09:00:00
+AMS-20233-02002,2023-09-09,Wren Quay,"41 Radarweg, 1043",,Elmgrove LLP Amsterdam,Legal,996,350.02,10,New Lease,2023-10-12 09:00:00
+AMS-20244-52005,2024-12-23,Orbis Plaza,"12 Zuidplein, 1077",Sloterdijk-Teleport,Helix Foundation,Other,4121,202.92,10,Pre-let,2025-01-21 09:00:00
+AMS-20241-34008,2024-02-13,Fenwick Plaza,"166 Basisweg, 1043",Zuidoost,Atlas Software,TMT,365,232.23,5,New Lease,2024-04-19 09:00:00
+AMS-20234-03003,2023-10-15,Aldwyn Quay,"163 Strawinskylaan, 1077",Zuidas,Larkspur Technologies,TMT,445,418.20,15,New Lease,2024-01-14 09:00:00
+AMS-20241-34007,2024-03-11,Marlow Park,"132 Paasheuvelweg, 1105",Zuidoost,Thorne Consulting,Professional Services,1179,233.96,10,New Lease,2024-04-19 09:00:00
+AMS-20241-19012,2024-03-04,Granite Building,"67 Naritaweg, 1043",Centrum,Nimbus Asset Management,Banking & Finance,1495,249.34,9,New Lease,2024-04-17 09:00:00
+AMS-20254-11008,2025-12-05,141 Keizersgracht,"141 Keizersgracht, 1015",Zuidas,Quill Partners Amsterdam,Professional Services,2118,486.27,9,Renewal,2026-01-12 09:00:00
+AMS-20241-19001,2024-01-17,136 Basisweg,"136 Basisweg, 1043",Centrum,Halden Flex,Flex Office,1214,390.70,5,New Lease,2024-04-17 09:00:00
+AMS-20263-59005,2026-08-02,124 Gustav Mahlerlaan,"124 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Ravel Consulting,Professional Services,1266,135.35,10,Pre-let,2026-10-19 09:00:00
+AMS-20232-46001,2023-06-23,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Marlow Group Amsterdam,Professional Services,2115,171.03,15,New Lease ,2023-07-13 09:00:00
+AMS-20231-30002,2023-01-19,Vantage Square,"114 Strawinskylaan, 1077",Zuidoost,Orbis Office,Public Sector,247,164.07,15,New Lease,2023-04-19 09:00:00
+AMS-20261-57001,2026-01-28,Aldwyn House,"35 Strawinskylaan, 1077",Sloterdijk-Teleport,Arden Group Amsterdam,Professional Services,476,194.88,5,Expansion,2026-04-18 09:00:00
+AMS-20261-57002,2026-02-09,136 Naritaweg,"136 Naritaweg, 1043",Sloterdijk-Teleport,Brightwater Office,Public Sector,1212,259.12,6,New Lease,2026-04-18 09:00:00
+AMS-20261-12013,2026-03-10,11 Herengracht,"11 Herengracht, 1017",,Nimbus Asset Management,Banking & Finance,491,444.32,3,New Lease,2026-04-15 09:00:00
+AMS-20233-17006,2023-09-07,Aldwyn Building,"75 Paasheuvelweg, 1105",Centrum,Brightwater Health Amsterdam,Life Sciences,325,,10,Renewal,2023-10-23 09:00:00
+AMS-20262-13007,2026-04-03,Quill Gate,"108 Radarweg, 1043",Zuidas,Wren Retail,Other,218,468.47,10,New Lease,2026-07-21 09:00:00
+AMS-20241-49006,2024-03-29,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Orbis Insurance,Insurance,1056,165.64,9,New Lease,2024-04-21 09:00:00
+AMS-20244-22006,2024-12-02,Granite Building,"67 Naritaweg, 1043",Centrum,Helix Foundation,Other,1298,300.14,5,New Lease,2025-01-21 09:00:00
+AMS-20262-28004,2026-05-23,33 Zuidplein,"33 Zuidplein, 1077",Centrum,Orbis Insurance,Insurance,733,428.05,6,Renewal,2026-07-15 09:00:00
+AMS-20263-44008,2026-08-29,Calder Tower,"16 Strawinskylaan, 1077",Zuidoost,Brightwater Office,Public Sector,738,273.91,5,New Lease,2026-10-14 09:00:00
+AMS-20232-46008,2023-04-23,79 Strawinskylaan,"79 Strawinskylaan, 1077",Sloterdijk-Teleport,Sable Partners,Banking & Finance,4765,161.43,15,Sublease,2023-07-13 09:00:00
+AMS-20243-06008,2024-07-11,Kestrel Court,"79 Herengracht, 1017",Zuidas,Brightwater Office,Public Sector,1876,567.80,5,Pre-let,2024-10-16 09:00:00
+AMS-20243-51004,2024-09-06,104 Teleportboulevard,"104 Teleportboulevard, 1043",Sloterdijk-Teleport,Granite Labs Amsterdam,TMT,561,157.14,3,Sublease,2024-10-18 09:00:00
+AMS-20263-14008,2026-09-09,141 Keizersgracht,"141 Keizersgracht, 1015",Zuidas,Ember Underwriting,Insurance,518,496.39,5,New Lease,2026-10-13 09:00:00
+AMS-20232-46003,2023-05-13,148 Hullenbergweg,"148 Hullenbergweg, 1101",Sloterdijk-Teleport,Kestrel Media,TMT,1269,171.39,12,New Lease,2023-07-13 09:00:00
+AMS-20254-11009,2025-11-24,Orbis Building,"57 Hullenbergweg, 1101",,Ridgeway Pharma,Life Sciences,4866,343.68,5,Renewal,2026-01-12 09:00:00
+AMS-20262-43002,2026-05-09,Northgate Plaza,"20 Teleportboulevard, 1043",Zuidoost,Beacon Partners Amsterdam,Banking & Finance,1286,242.12,5,Sublease,2026-07-18 09:00:00
+AMS-20234-33006,2023-12-13,163 Naritaweg,"163 Naritaweg, 1043",Zuidoost,Vantage Software Amsterdam,TMT,579,176.64,10,New Lease,2024-01-24 09:00:00
+AMS-20243-06004,2024-07-06,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Larkspur Technologies,TMT,242,345.92,10,New Lease,2024-10-16 09:00:00
+AMS-20232-01017,2023-06-01,Aldwyn Gate,"178 Strawinskylaan, 1077",Zuidas,Orbis Insurance,Insurance,316,446.80,9,New Lease,2023-07-18 09:00:00
+AMS-20233-02009,2023-07-14,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Kestrel Media,TMT,2504,404.47,3,Renewal,2023-10-12 09:00:00
+AMS-20263-14011,2026-09-16,177 Gustav Mahlerlaan,"177 Gustav Mahlerlaan, 1082",Zuidas,Atlas Software,TMT,990,305.02,10,New Lease,2026-10-13 09:00:00
+AMS-20243-51002,2024-07-13,57 Keizersgracht,"57 Keizersgracht, 1015",Sloterdijk-Teleport,Sable Partners,Banking & Finance,2267,143.20,10,Renewal,2024-10-18 09:00:00
+AMS-20254-11003,2025-11-05,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Fenwick Avocats Amsterdam,Legal,3904,401.21,5,New Lease,2026-01-12 09:00:00
+AMS-20232-16008,2023-05-24,21 Bijlmerdreef,"21 Bijlmerdreef, 1102",Centrum,Elmgrove LLP Amsterdam,Legal,695,334.91,6,New Lease,2023-07-12 09:00:00
+AMS-20232-01003,2023-06-16,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Fenwick Avocats Amsterdam,Legal,1600,413.52,10,Sublease,2023-07-18 09:00:00
+AMS-20254-26002,2025-10-14,7 Vijzelstraat,"7 Vijzelstraat, 1017",Centrum,Tern Mutual,Insurance,18938,378.95,6,Renewal,2026-01-16 09:00:00
+AMS-20262-43009,2026-05-03,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Orbis Insurance,Insurance,1279,254.46,10,Pre-let,2026-07-18 09:00:00
+AMS-20243-21001,2024-07-11,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Marlow Capital,Banking & Finance,1085,351.40,15,New Lease,2024-10-15 09:00:00
+AMS-20244-37009,2024-10-17,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Beacon Partners Amsterdam,Banking & Finance,244,186.72,5,New Lease,2025-01-13 09:00:00
+AMS-20261-42003,2026-01-16,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Marlow Capital,Banking & Finance,334,144.07,5,New Lease,2026-04-14 09:00:00
+AMS-20234-48001,2023-10-12,Atlas Square,"88 Hoogoorddreef, 1101",Sloterdijk-Teleport,Osprey Insurance,Insurance,1079,177.56,10,Expansion,2024-01-14 09:00:00
+AMS-20254-11006,2025-10-20,Aldwyn Quay,"163 Strawinskylaan, 1077",Zuidas,Juniper LLP,Legal,1918,378.27,10,Pre-let,2026-01-12 09:00:00
+AMS-20243-36004,2024-07-17,63 Paasheuvelweg,"63 Paasheuvelweg, 1105",Zuidoost,Lumen Partners Amsterdam,Banking & Finance,684,283.72,10,New Lease,2024-10-12 09:00:00
+AMS-20241-19002,2024-01-17,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Sterling Bank,Banking & Finance,906,327.01,5,Renewal,2024-04-17 09:00:00
+AMS-20263-44007,2026-07-03,94 Vijzelstraat,"94 Vijzelstraat, 1017",Zuidoost,Nimbus Asset Management,Banking & Finance,388,239.21,5,New Lease,2026-10-14 09:00:00
+AMS-20252-24005,2025-04-06,59 Zuidplein,"59 Zuidplein, 1077",Centrum,Ember Legal Amsterdam,Legal,1055,391.44,10,Renewal,2025-07-16 09:00:00
+AMS-20254-41005,2025-10-03,63 Paasheuvelweg,"63 Paasheuvelweg, 1105",Zuidoost,Lumen Workspace,Flex Office,859,289.35,15,New Lease,2026-01-17 09:00:00
+AMS-20231-15007,2023-01-08,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Tamar Bank,Banking & Finance,1081,333.96,10,New Lease,2023-04-21 09:00:00
+AMS-20263-14013,2026-09-16,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Tamar Bank,Banking & Finance,623,422.93,5,New Lease,2026-10-13 09:00:00
+AMS-20254-11001,2025-11-27,Kestrel Court,"79 Herengracht, 1017",Zuidas,Calder Biosciences Amsterdam,Life Sciences,1387,546.15,3,Expansion,2026-01-21 09:00:00
+AMS-20252-54006,2025-06-03,136 Naritaweg,"136 Naritaweg, 1043",Sloterdijk-Teleport,Marlow Group Amsterdam,Professional Services,1013,233.10,6,Expansion,2025-07-19 09:00:00
+AMS-20231-30001,2023-02-03,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Veridian Legal,Legal,658,198.65,9,New Lease,2023-04-19 09:00:00
+AMS-20242-20006,2024-04-06,174 Basisweg,"174 Basisweg, 1043",Centrum,Kestrel Media,TMT,1178,388.97,5,New Lease,2024-07-14 09:00:00
+AMS-20253-55004,2025-07-29,Elmgrove Square,"25 Claude Debussylaan, 1082",Sloterdijk-Teleport,Juniper LLP,Legal,232,122.19,15,New Lease,2025-10-16 09:00:00
+AMS-20244-37007,2024-11-01,163 Naritaweg,"163 Naritaweg, 1043",Zuidoost,Marlow Capital,Banking & Finance,1239,231.98,15,Renewal,2025-01-13 09:00:00
+AMS-20262-13009,2026-06-28,147 Gustav Mahlerlaan,"147 Gustav Mahlerlaan, 1082",Zuidas,Meridian Insurance,Insurance,178,528.45,10,New Lease,2026-07-21 09:00:00
+AMS-20261-12007,2026-03-27,11 Herengracht,"11 Herengracht, 1017",Zuidas,Wren Energy Amsterdam,Industrial,352,383.09,12,New Lease,2026-04-15 09:00:00
+AMS-20243-06011,2024-09-21,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Marlow Group Amsterdam,Professional Services,266,380.52,12,New Lease,2024-10-16 09:00:00
+AMS-20263-44005,2026-08-05,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Ashcombe Digital,TMT,1315,181.72,6,Expansion,2026-10-14 09:00:00
+AMS-20232-16004,2023-05-26,Aldwyn Place,"6 Paasheuvelweg, 1105",Centrum,Sterling Pharma,Life Sciences,969,409.65,5,Renewal,2023-07-12 09:00:00
+AMS-20254-26005,2025-12-21,59 Zuidplein,"59 Zuidplein, 1077",Centrum,Ember Underwriting,Insurance,329,347.93,5,Sublease,2026-01-16 09:00:00
+AMS-20234-03002,2023-12-20,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Helix Foundation,Other,3502,360.86,15,New Lease,2024-01-14 09:00:00
+AMS-20242-20005,2024-06-16,174 Basisweg,"174 Basisweg, 1043",Centrum,Helix Foundation,Other,1629,378.31,6,New Lease,2024-07-14 09:00:00
+AMS-20241-04007,2024-03-04,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Halden Flex,Flex Office,585,322.67,6,New Lease,2024-04-15 09:00:00
+AMS-20241-19010,2024-02-14,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Sterling LLP Amsterdam,Legal,998,311.90,10,New Lease,2024-04-17 09:00:00
+AMS-20262-28006,2026-04-07,Granite Building,"67 Naritaweg, 1043",Centrum,Orbis Office,Public Sector,756,287.48,3,Expansion,2026-07-15 09:00:00
+AMS-20253-25001,2025-09-08,33 Radarweg,"33 Radarweg, 1043",Centrum,Vantage Software Amsterdam,TMT,446,351.30,10,Renewal,2025-10-20 09:00:00
+AMS-20231-00009,2023-02-01,12 Gustav Mahlerlaan,"12 Gustav Mahlerlaan, 1082",Zuidas,Tamar Bank,Banking & Finance,486,411.68,5,Renewal,2023-04-19 09:00:00
+AMS-20252-39002,2025-06-29,Vantage Square,"114 Strawinskylaan, 1077",Zuidoost,Sable Partners,Banking & Finance,592,164.40,3,New Lease,2025-07-19 09:00:00
+AMS-20234-33001,2023-12-05,79 Vijzelstraat,"79 Vijzelstraat, 1017",Zuidoost,Sable Partners,Banking & Finance,316,142.77,10,New Lease,2024-01-24 09:00:00
+AMS-20253-55006,2025-08-20,Helix Gate,"18 Hoogoorddreef, 1101",Sloterdijk-Teleport,Wren Retail,Other,2484,172.88,5,New Lease ,2025-10-16 09:00:00
+AMS-20252-39005,2025-04-03,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Northgate LLP,Legal,1670,147.48,6,New Lease,2025-07-19 09:00:00
+AMS-20262-58002,2026-04-29,Helix Square,"135 Bijlmerdreef, 1102",Sloterdijk-Teleport,Harrow Asset Management,Banking & Finance,907,199.22,3,New Lease,2026-07-17 09:00:00
+AMS-20262-13006,2026-04-18,53 Hoogoorddreef,"53 Hoogoorddreef, 1101",Zuidas,Wren Retail,Other,285,465.86,3,New Lease,2026-07-21 09:00:00
+AMS-20242-05002,2024-06-10,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Brightwater Office,Public Sector,970,362.76,10,New Lease,2024-07-24 09:00:00
+AMS-20232-31007,2023-05-06,87 Naritaweg,"87 Naritaweg, 1043",Zuidoost,Tamar Bank,Banking & Finance,1156,174.04,12,New Lease,2023-07-15 09:00:00
+AMS-20253-25008,2025-08-05,Atlas Tower,"128 Zuidplein, 1077",Centrum,Vantage Group,Professional Services,1933,345.41,3,New Lease,2025-10-20 09:00:00
+AMS-20252-24012,2025-04-16,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Ravel Consulting,Professional Services,1175,288.41,10,Expansion,2025-07-16 09:00:00
+AMS-20233-17011,2023-07-16,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Granite Rechtsanwälte,Legal,1019,329.89,10,New Lease,2023-10-23 09:00:00
+AMS-20254-11005,2025-10-20,59 Radarweg,"59 Radarweg, 1043",Zuidas,Quill Health,Life Sciences,997,410.96,5,Renewal,2026-01-12 09:00:00
+AMS-20252-24013,2025-06-18,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Ember Legal Amsterdam,Legal,1159,325.90,5,New Lease,2025-07-16 09:00:00
+AMS-20234-18006,2023-11-11,Harrow Park,"47 Zuidplein, 1077",Centrum,Juniper Flex Amsterdam,Flex Office,253,279.61,5,expansion,2024-01-24 09:00:00
+AMS-20233-02005,2023-08-15,32 Teleportboulevard,"32 Teleportboulevard, 1043",Zuidas,Sable Partners,Banking & Finance,643,430.73,10,Sublease,2023-10-12 09:00:00
+AMS-20242-50008,2024-05-08,127 Paasheuvelweg,"127 Paasheuvelweg, 1105",Sloterdijk-Teleport,Orbis Office,Public Sector,542,187.75,10,New Lease,2024-07-23 09:00:00
+AMS-20231-00005,2023-02-26,Aldwyn Quay,"163 Strawinskylaan, 1077",Zuidas,Beacon Partners Amsterdam,Banking & Finance,482,319.52,3,Sublease,2023-04-19 09:00:00
+AMS-20244-22003,2024-10-19,Aldwyn Place,"6 Paasheuvelweg, 1105",Centrum,Meridian Capital,Banking & Finance,3620,445.67,6,Expansion,2025-01-21 09:00:00
+AMS-20231-30005,2023-03-18,20 Zuidplein,"20 Zuidplein, 1077",Zuidoost,Beacon Partners Amsterdam,Banking & Finance,1123,255.74,3,Expansion ,2023-04-19 09:00:00
+AMS-20244-07014,2024-10-25,Kestrel Court,"79 Herengracht, 1017",Zuidas,Beacon Council,Public Sector,1075,465.25,15,Renewal,2025-01-21 09:00:00
+AMS-20263-14012,2026-08-04,113 Rokin,"113 Rokin, 1012",Zuidas,Sable Partners,Banking & Finance,339,419.65,12,Sublease,2026-10-13 09:00:00
+AMS-20231-15013,2023-01-18,33 Zuidplein,"33 Zuidplein, 1077",Centrum,Arden Capital,Banking & Finance,856,345.80,9,New Lease,2023-04-21 09:00:00
+AMS-20231-15003,2023-03-12,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Tern Mutual,Insurance,694,332.63,10,Sublease,2023-04-21 09:00:00
+AMS-20262-28009,2026-05-14,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Atlas Software,TMT,2233,365.78,5,new lease,2026-07-15 09:00:00
+AMS-20262-43004,2026-05-23,94 Vijzelstraat,"94 Vijzelstraat, 1017",Zuidoost,Atlas Software,TMT,1086,213.20,6,New Lease,2026-07-18 09:00:00
+AMS-20244-22001,2024-10-12,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Nimbus Asset Management,Banking & Finance,1083,208.61,12,Sublease,2025-01-21 09:00:00
+AMS-20242-20002,2024-06-27,Harrow Park,"47 Zuidplein, 1077",Centrum,Pinnacle Assurance,Insurance,450,276.80,9,New Lease,2024-07-14 09:00:00
+AMS-20243-36006,2024-09-22,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Larkspur Technologies,TMT,2284,222.77,10,New Lease,2024-10-12 09:00:00
+AMS-20261-12004,2026-01-09,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Halden Labs Amsterdam,TMT,811,339.52,9,Renewal,2026-04-15 09:00:00
+AMS-20243-21010,2024-07-23,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Tamar Bank,Banking & Finance,1748,328.36,3,New Lease,2024-10-15 09:00:00
+AMS-20232-16010,2023-05-08,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Brightwater Health Amsterdam,Life Sciences,312,408.52,10,Renewal,2023-07-12 09:00:00
+AMS-20232-31004,2023-05-07,163 Naritaweg,"163 Naritaweg, 1043",Zuidoost,Vantage Group,Professional Services,331,190.01,15,New Lease,2023-07-15 09:00:00
+AMS-20242-35006,2024-04-30,Vantage Building,"25 Basisweg, 1043",Zuidoost,Vantage Software Amsterdam,TMT,809,202.45,9,New Lease,2024-07-14 09:00:00
+AMS-20251-23014,2025-02-05,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Granite Labs Amsterdam,TMT,1506,409.76,5,New Lease,2025-04-24 09:00:00
+AMS-20254-41004,2025-12-13,85 Teleportboulevard,"85 Teleportboulevard, 1043",Zuidoost,Brightwater Office,Public Sector,1693,220.97,10,New Lease,2026-01-26 09:00:00
+AMS-20232-01015,2023-04-14,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Osprey Holdings Amsterdam,Other,316,323.15,15,Renewal,2023-07-18 09:00:00
+AMS-20244-37003,2024-12-18,162 Teleportboulevard,"162 Teleportboulevard, 1043",Zuidoost,Juniper LLP,Legal,648,266.59,9,New Lease,2025-01-13 09:00:00
+AMS-20252-24007,2025-04-24,Osprey Place,"152 Naritaweg, 1043",Centrum,Wren Retail,Other,1148,401.14,3,New Lease,2025-07-16 09:00:00
+AMS-20234-18015,2023-10-13,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Vantage Software Amsterdam,TMT,1921,347.27,10,Sublease,2024-01-24 09:00:00
+AMS-20241-34004,2024-01-18,Arden Centre,"132 Hoogoorddreef, 1101",Zuidoost,Veridian Associates Amsterdam,Professional Services,787,221.77,9,New Lease,2024-04-19 09:00:00
+AMS-20251-23006,2025-03-19,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Osprey Insurance,Insurance,552,367.51,6,New Lease,2025-04-24 09:00:00
+AMS-20242-35008,2024-05-27,87 Naritaweg,"87 Naritaweg, 1043",Zuidoost,Sable Partners,Banking & Finance,540,210.79,9,New Lease,2024-07-14 09:00:00
+AMS-20251-53005,2035-01-31,104 Teleportboulevard,"104 Teleportboulevard, 1043",Sloterdijk-Teleport,Sterling Pharma,Life Sciences,606,242.00,6,Expansion,2025-04-19 09:00:00
+AMS-20254-56002,2025-11-17,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Sable Partners,Banking & Finance,1126,166.26,3,Expansion,2026-01-22 09:00:00
+AMS-20243-06001,2024-07-02,177 Gustav Mahlerlaan,"177 Gustav Mahlerlaan, 1082",Zuidas,Granite Labs Amsterdam,TMT,2486,326.04,5,New Lease,2024-10-16 09:00:00
+AMS-20251-38004,2025-02-03,20 Zuidplein,"20 Zuidplein, 1077",Zuidoost,Harrow Asset Management,Banking & Finance,2212,264.73,12,New Lease,2025-04-16 09:00:00
+AMS-20252-54003,2025-04-20,Brightwater Court,"163 Herengracht, 1017",Sloterdijk-Teleport,Halden Flex,Flex Office,1467,169.92,9,New Lease,2025-07-19 09:00:00
+AMS-20262-28002,2026-05-18,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Marlow Group Amsterdam,Professional Services,983,334.56,9,New Lease,2026-07-15 09:00:00
+AMS-20262-28008,2026-04-24,33 Radarweg,"33 Radarweg, 1043",Centrum,Northgate Avocats,Legal,650,344.19,9,Expansion,2026-07-15 09:00:00
+AMS-20251-38007,2025-02-13,Calder Tower,"16 Strawinskylaan, 1077",Zuidoost,Aldwyn Assurance,Insurance,733,285.83,9,New Lease,2025-04-16 09:00:00
+AMS-20263-29002,2026-08-14,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Ember Legal Amsterdam,Legal,2273,352.61,6,Pre-let,2026-10-13 09:00:00
+AMS-20231-45001,2023-03-29,79 Strawinskylaan,"79 Strawinskylaan, 1077",Sloterdijk-Teleport,Ashcombe Digital,TMT,1678,219.27,5,New Lease,2023-04-19 09:00:00
+AMS-20232-01011,2023-05-12,Wren Quay,"41 Radarweg, 1043",Zuidas,Ember Underwriting,Insurance,1085,398.49,12,New Lease,2023-07-18 09:00:00
+AMS-20234-18014,2023-10-15,17 Radarweg,"17 Radarweg, 1043",Centrum,Thorne Consulting,Professional Services,748,367.21,5,New Lease,2024-01-24 09:00:00
+AMS-20253-25012,2025-07-27,Aldwyn Place,"6 Paasheuvelweg, 1105",Centrum,Ravel Consulting,Professional Services,417,434.83,15,New Lease,2025-10-20 09:00:00
+AMS-20231-15012,2023-02-12,Harrow Park,"47 Zuidplein, 1077",Centrum,Ridgeway Labs Amsterdam,TMT,716,238.91,12,Renewal,2023-04-21 09:00:00
+AMS-20234-48004,2023-10-15,Ravel Quay,"60 Vijzelstraat, 1017",Sloterdijk-Teleport,Wren Energy Amsterdam,Industrial,766,155.66,3,New Lease,2024-01-14 09:00:00
+AMS-20241-34005,2024-01-11,109 Hoogoorddreef,"109 Hoogoorddreef, 1101",Zuidoost,Wren Retail,Other,3070,214.31,3,New Lease,2024-04-19 09:00:00
+AMS-20244-52002,2024-11-02,Halden Building,"145 Claude Debussylaan, 1082",Sloterdijk-Teleport,Meridian Insurance,Insurance,1186,,10,New Lease,2025-01-21 09:00:00
+AMS-20233-32003,2023-07-29,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Brightwater Office,Public Sector,1237,205.99,5,Sublease,2023-10-17 09:00:00
+AMS-20243-06005,2024-08-06,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Pinnacle Assurance,Insurance,564,414.40,15,New Lease,2024-10-16 09:00:00
+AMS-20244-07006,2024-12-23,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Quill Health,Life Sciences,625,358.90,10,New Lease,2025-01-21 09:00:00
+AMS-20262-28007,2026-05-22,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Marlow Capital,Banking & Finance,1170,405.83,10,New Lease,2026-07-15 09:00:00
+AMS-20242-05006,2024-05-06,Wren Quay,"41 Radarweg, 1043",Zuidas,Lumen Workspace,Flex Office,310,420.19,10,Renewal,2024-07-24 09:00:00
+AMS-20261-27001,2026-01-12,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Lumen Workspace,Flex Office,2010,314.48,6,New Lease,2026-04-17 09:00:00
+AMS-20261-12012,2026-02-06,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Corvid Partners,Professional Services,1738,551.00,12,New Lease,2026-04-15 09:00:00
+AMS-20234-18001,2023-11-09,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Orbis Office,Public Sector,1580,290.42,10,New Lease,2024-01-24 09:00:00
+AMS-20252-39007,2025-06-13,Halden Point,"128 Basisweg, 1043",Zuidoost,Cobalt Insurance,Insurance,1413,235.38,9,Expansion,2025-07-19 09:00:00
+AMS-20263-29006,2026-09-01,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Ridgeway Pharma,Life Sciences,926,327.73,3,Renewal,2026-10-13 09:00:00
+AMS-20252-54008,2025-05-02,Brightwater Court,"163 Herengracht, 1017",Sloterdijk-Teleport,Fenwick Mutual,Insurance,633,169.41,9,New Lease,2025-07-19 09:00:00
+AMS-20254-56004,2025-12-19,Calder Square,"112 Claude Debussylaan, 1082",Sloterdijk-Teleport,Quill Health,Life Sciences,1513,178.46,5,New Lease,2026-01-22 09:00:00
+AMS-20234-18002,2023-11-21,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Vantage Group,Professional Services,860,304.01,12,Expansion,2024-01-24 09:00:00
+AMS-20261-12005,2026-02-14,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Ravel Consulting,Professional Services,744,,3,New Lease,2026-04-15 09:00:00
+AMS-20232-01018,2023-06-11,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Vantage Software Amsterdam,TMT,574,384.19,12,Expansion,2023-07-18 09:00:00
+AMS-20233-47005,2023-09-01,Elmgrove Square,"25 Claude Debussylaan, 1082",Sloterdijk-Teleport,Linden Office,Public Sector,1371,140.31,9,New Lease,2023-10-15 09:00:00
+AMS-20234-03004,2023-11-07,11 Herengracht,"11 Herengracht, 1017",Zuidas,Helix Foundation,Other,878,412.79,5,New Lease,2024-01-14 09:00:00
+AMS-20241-49002,2024-03-15,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Elmgrove LLP Amsterdam,Legal,1127,220.72,12,New Lease,2024-04-21 09:00:00
+AMS-20243-06002,2024-07-12,Lumen Point,"22 Paasheuvelweg, 1105",Zuidas,Cobalt Advisory,Professional Services,1302,510.00,15,Renewal,2024-10-16 09:00:00
+AMS-20242-50007,2024-05-16,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Elmgrove Flex,Flex Office,287,165.40,12,Renewal,2024-07-23 09:00:00
+AMS-20232-16001,2023-06-07,Aldwyn Building,"75 Paasheuvelweg, 1105",Centrum,Ridgeway Pharma,Life Sciences,460,272.75,10,Expansion,2023-07-12 09:00:00
+AMS-20233-17014,2023-08-08,Atlas Tower,"128 Zuidplein, 1077",Centrum,Sable Partners,Banking & Finance,1667,298.27,5,New Lease,2023-10-23 09:00:00
+AMS-20252-24008,2025-06-23,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Osprey Holdings Amsterdam,Other,847,421.94,10,New Lease,2025-07-16 09:00:00
+AMS-20252-09010,2025-06-11,Ashcombe House,"144 Naritaweg, 1043",Zuidas,Cobalt Insurance,Insurance,518,520.67,9,New Lease,2025-07-19 09:00:00
+AMS-20231-15001,2023-03-12,Lumen Square,"54 Keizersgracht, 1015",Centrum,Tamar Bank,Banking & Finance,868,382.33,10,Expansion,2023-04-21 09:00:00
+AMS-20251-08014,2025-01-03,113 Rokin,"113 Rokin, 1012",Zuidas,Orbis Insurance,Insurance,678,403.84,15,Pre-let,2025-04-18 09:00:00
+AMS-20233-32001,2023-09-21,109 Hoogoorddreef,"109 Hoogoorddreef, 1101",Zuidoost,Ridgeway Labs Amsterdam,TMT,2074,196.39,9,Renewal,2023-10-17 09:00:00
+AMS-20262-13015,2026-04-17,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Sterling Pharma,Life Sciences,701,373.50,3,New Lease,2026-07-21 09:00:00
+AMS-20243-36005,2024-09-23,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Linden Office,Public Sector,1049,265.02,3,New Lease,2024-10-12 09:00:00
+AMS-20244-37012,2024-11-02,Halden Point,"128 Basisweg, 1043",Zuidoost,Corvid Partners,Professional Services,3909,257.14,10,Renewal,2025-01-13 09:00:00
+AMS-20252-24002,2025-04-22,Linden Square,"99 Basisweg, 1043",Centrum,Ridgeway Labs Amsterdam,TMT,6534,380.94,10,Pre-let,2025-07-16 09:00:00
+AMS-20253-10007,2025-08-21,59 Radarweg,"59 Radarweg, 1043",Zuidas,Calder Council,Public Sector,771,414.14,12,New Lease ,2025-10-14 09:00:00
+AMS-20261-12001,2026-02-15,11 Herengracht,"11 Herengracht, 1017",Zuidas,Orbis Office,Public Sector,1939,452.75,6,Renewal,2026-04-15 09:00:00
+AMS-20241-34006,2024-03-01,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Halden Labs Amsterdam,TMT,1581,193.12,5,New Lease,2024-04-19 09:00:00
+AMS-20232-16002,2023-04-25,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Juniper Flex Amsterdam,Flex Office,592,321.39,6,New Lease,2023-07-12 09:00:00
+AMS-20253-25011,2025-07-30,7 Vijzelstraat,"7 Vijzelstraat, 1017",Centrum,Juniper LLP,Legal,458,437.08,12,New Lease,2025-10-20 09:00:00
+AMS-20252-24010,2025-05-15,136 Basisweg,"136 Basisweg, 1043",Centrum,Ridgeway Labs Amsterdam,TMT,1420,398.62,10,Expansion,2025-07-16 09:00:00
+AMS-20251-08009,2025-03-31,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Larkspur Technologies,TMT,1249,459.30,15,New Lease,2025-04-18 09:00:00
+AMS-20242-20007,2024-06-26,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Aldwyn Assurance,Insurance,1238,314.61,6,New Lease,2024-07-14 09:00:00
+AMS-20252-09008,2025-05-27,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Tamar Bank,Banking & Finance,1065,377.01,10,Pre-let,2025-07-19 09:00:00
+AMS-20244-37008,2024-10-27,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Corvid Partners,Professional Services,2115,156.98,5,New Lease,2025-01-13 09:00:00
+AMS-20233-32006,2023-07-27,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Granite Rechtsanwälte,Legal,308,234.55,10,Expansion,2023-10-17 09:00:00
+AMS-20253-40006R,2025-08-02,Calder Tower,"16 Strawinskylaan, 1077",Zuidoost,QUILL HEALTH,Life Sciences,2096,258.99,12,New Lease,2025-11-11 09:00:00
+AMS-20242-35001,2024-06-22,Osprey House,"11 Vijzelstraat, 1017",Zuidoost,Ridgeway Pharma,Life Sciences,521,161.43,6,New Lease,2024-07-14 09:00:00
+AMS-20234-18012,2023-11-20,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Marlow Capital,Banking & Finance,782,338.66,10,Renewal,2024-01-24 09:00:00
+AMS-20244-37005,2024-10-07,Veridian Gate,"76 Naritaweg, 1043",Zuidoost,Osprey Insurance,Insurance,588,195.39,6,Renewal,2025-01-13 09:00:00
+AMS-20253-10003,2025-07-25,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Cobalt Insurance,Insurance,689,402.28,12,Expansion,2025-10-14 09:00:00
+AMS-20234-03007,2023-12-24,11 Herengracht,"11 Herengracht, 1017",Zuidas,Arden Capital,Banking & Finance,719,326.70,5,Sublease,2024-01-14 09:00:00
+AMS-20261-12011,2026-03-06,Aldwyn Quay,"163 Strawinskylaan, 1077",Zuidas,Northgate Avocats,Legal,304,408.62,10,renewal,2026-04-15 09:00:00
+AMS-20253-40003,2025-09-29,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Quill Partners Amsterdam,Professional Services,1091,168.26,3,Sublease,2025-10-22 09:00:00
+AMS-20241-49001,2024-01-05,Aldwyn Tower,"158 Claude Debussylaan, 1082",Sloterdijk-Teleport,Brightwater Office,Public Sector,1746,193.37,10,New Lease,2024-04-21 09:00:00
+AMS-20252-09014,2025-04-06,95 Paasheuvelweg,"95 Paasheuvelweg, 1105",Zuidas,Sterling LLP Amsterdam,Legal,1080,406.79,12,New Lease,2025-07-19 09:00:00
+AMS-20253-55003,2025-08-07,Thorne Building,"48 Teleportboulevard, 1043",Sloterdijk-Teleport,Veridian Legal,Legal,1433,185.16,12,Renewal,2025-10-16 09:00:00
+AMS-20233-17007,2023-08-28,Linden Square,"99 Basisweg, 1043",Centrum,Cobalt Advisory,Professional Services,1417,292.54,6,New Lease,2023-10-23 09:00:00
+AMS-20262-28010,2026-06-02,Harrow Park,"47 Zuidplein, 1077",Centrum,Juniper Flex Amsterdam,Flex Office,1221,272.19,3,Renewal,2026-07-15 09:00:00
+AMS-20234-18003,2023-11-27,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Tern Mutual,Insurance,614,369.83,6,New Lease,2024-01-24 09:00:00
+AMS-20241-04004,2024-01-04,Quill Gate,"108 Radarweg, 1043",Zuidas,Northgate LLP,Legal,326,384.66,5,expansion,2024-04-15 09:00:00
+AMS-20252-54005,2025-04-16,Helix Gate,"18 Hoogoorddreef, 1101",Sloterdijk-Teleport,Ember Underwriting,Insurance,1257,164.02,9,Renewal,2025-07-19 09:00:00
+AMS-20254-11010,2025-12-15,Kestrel Court,"79 Herengracht, 1017",Zuidas,Marlow Group Amsterdam,Professional Services,1486,458.72,9,Sublease,2026-01-12 09:00:00
+AMS-20242-20001,2024-05-14,36 Radarweg,"36 Radarweg, 1043",Centrum,Veridian Associates Amsterdam,Professional Services,545,252.96,3,renewal,2024-07-14 09:00:00
+AMS-20231-15002,2023-02-11,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Atlas Pharma,Life Sciences,1185,299.49,15,Renewal,2023-04-21 09:00:00
+AMS-20262-43010,2026-06-29,20 Zuidplein,"20 Zuidplein, 1077",Zuidoost,Juniper Flex Amsterdam,Flex Office,2035,251.60,6,New Lease,2026-07-18 09:00:00
+AMS-20253-25007,2025-09-15,Aldwyn Building,"75 Paasheuvelweg, 1105",Centrum,Aldwyn Assurance,Insurance,591,272.44,10,Renewal,2025-10-20 09:00:00
+AMS-20261-57005,2026-01-18,136 Naritaweg,"136 Naritaweg, 1043",Sloterdijk-Teleport,Wren Retail,Other,1293,237.07,5,New Lease,2026-04-18 09:00:00
+AMS-20233-02006,2023-08-17,177 Rokin,"177 Rokin, 1012",Zuidas,Meridian Capital,Banking & Finance,2676,412.59,10,New Lease,2023-10-12 09:00:00
+AMS-20262-13010,2026-04-18,Aldwyn Gate,"178 Strawinskylaan, 1077",Zuidas,Corvid Partners,Professional Services,644,482.13,12,New Lease,2026-07-21 09:00:00
+AMS-20241-19011,2024-02-26,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Juniper LLP,Legal,799,298.21,12,New Lease,2024-04-17 09:00:00
+AMS-20233-02007,2023-09-26,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Fenwick Mutual,Insurance,1257,457.69,12,Renewal,2023-10-12 09:00:00
+AMS-20262-13004,2026-05-16,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Brightwater Office,Public Sector,1736,402.89,15,Renewal,2026-07-21 09:00:00
+AMS-20233-17005,2023-08-30,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Atlas Pharma,Life Sciences,723,338.72,5,New Lease,2023-10-23 09:00:00
+AMS-20262-43005,2026-05-20,Marlow Park,"132 Paasheuvelweg, 1105",Zuidoost,Fenwick Mutual,Insurance,736,268.73,3,Pre-let,2026-07-18 09:00:00
+AMS-20232-01005,2023-04-21,67 Basisweg,"67 Basisweg, 1043",Zuidas,Thorne Consulting,Professional Services,1656,440.99,15,New Lease,2023-07-18 09:00:00
+AMS-20241-04009R,2024-03-09,59 Radarweg,"59 Radarweg, 1043",Zuidas,Ember Legal Amsterdam Ltd,Legal,7555,372.98,15,Renewal,2024-05-05 09:00:00
+AMS-20244-07004,2024-12-01,Quill Gate,"108 Radarweg, 1043",Zuidas,Orbis Office,Public Sector,2163,424.72,10,New Lease,2025-01-21 09:00:00
+AMS-20251-08011,2025-01-18,11 Herengracht,"11 Herengracht, 1017",Zuidas,Pinnacle Assurance,Insurance,1498,420.86,10,Renewal ,2025-04-18 09:00:00
+AMS-20231-15004,2023-03-14,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Corvid Partners,Professional Services,1025,381.10,6,New Lease,2023-04-21 09:00:00
+AMS-20263-14004,2026-08-23,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Tamar Bank,Banking & Finance,1350,532.36,10,Expansion,2026-10-13 09:00:00
+AMS-20232-01007,2023-06-13,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Fenwick Avocats Amsterdam,Legal,905,449.23,6,Renewal,2023-07-27 09:00:00
+AMS-20243-21003,2024-09-27,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Ridgeway Pharma,Life Sciences,836,328.46,5,New Lease,2024-10-15 09:00:00
+AMS-20233-47006,2023-09-06,Calder Square,"112 Claude Debussylaan, 1082",Sloterdijk-Teleport,Cobalt Insurance,Insurance,356,174.24,5,Expansion,2023-10-24 09:00:00
+AMS-20232-46002,2023-06-10,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Fenwick Avocats Amsterdam,Legal,1174,222.16,3,Expansion,2023-07-13 09:00:00
+AMS-20252-09013,2025-05-15,11 Herengracht,"11 Herengracht, 1017",Zuidas,Northgate LLP,Legal,1123,415.06,5,New Lease,2025-07-19 09:00:00
+AMS-20231-15009,2023-03-25,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Calder Biosciences Amsterdam,Life Sciences,1062,259.65,10,Renewal,2023-04-21 09:00:00
+AMS-20243-06003,2024-09-09,Quill Gate,"108 Radarweg, 1043",Zuidas,Atlas Software,TMT,1520,354.29,5,New Lease,2024-10-16 09:00:00
+AMS-20251-38005,2025-01-06,Calder Tower,"16 Strawinskylaan, 1077",Zuidoost,Nimbus Asset Management,Banking & Finance,548,236.95,6,Renewal,2025-04-16 09:00:00
+AMS-20241-04001,2024-01-15,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Meridian Insurance,Insurance,258,402.78,3,Sublease,2024-04-15 09:00:00
+AMS-20263-14010,2026-07-19,67 Basisweg,"67 Basisweg, 1043",Zuidas,Veridian Associates Amsterdam,Professional Services,454,399.47,5,New Lease,2026-10-13 09:00:00
+AMS-20234-33009,2023-10-05,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Beacon Partners Amsterdam,Banking & Finance,841,159.33,9,New Lease,2024-01-24 09:00:00
+AMS-20254-26001,2025-12-21,Osprey Place,"152 Naritaweg, 1043",Centrum,Quill Partners Amsterdam,Professional Services,1293,425.40,15,New Lease,2026-01-16 09:00:00
+AMS-20254-11002,2025-12-23,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Orbis Insurance,Insurance,340,419.65,3,Pre-let,2026-01-12 09:00:00
+AMS-20252-39004,2025-04-29,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Larkspur Technologies,TMT,986,225.00,15,New Lease,2025-07-19 09:00:00
+AMS-20262-58001,2026-06-25,Ravel Quay,"60 Vijzelstraat, 1017",Sloterdijk-Teleport,Arden Capital,Banking & Finance,5278,177.65,6,New Lease,2026-07-17 09:00:00
+AMS-20243-06007,2024-08-14,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Nimbus Asset Management,Banking & Finance,217,433.57,10,New Lease,2024-10-16 09:00:00
+AMS-20242-50002,2024-04-06,136 Naritaweg,"136 Naritaweg, 1043",Sloterdijk-Teleport,Veridian Legal,Legal,1394,205.18,5,New Lease,2024-07-23 09:00:00
+AMS-20243-06015,2024-07-25,147 Gustav Mahlerlaan,"147 Gustav Mahlerlaan, 1082",Zuidas,Osprey Insurance,Insurance,477,459.31,15,renewal,2024-10-16 09:00:00
+AMS-20233-17009,2023-08-14,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Lumen Workspace,Flex Office,1286,323.03,15,Pre-let,2023-10-23 09:00:00
+AMS-20262-43008,2026-04-13,Marlow Park,"132 Paasheuvelweg, 1105",Zuidoost,Nimbus Asset Management,Banking & Finance,265,256.14,15,New Lease,2026-07-18 09:00:00
+AMS-20242-35004,2024-05-25,51 Keizersgracht,"51 Keizersgracht, 1015",Zuidoost,Halden Labs Amsterdam,TMT,240,190.65,12,New Lease,2024-07-14 09:00:00
+AMS-20261-42001,2026-03-10,Fenwick Plaza,"166 Basisweg, 1043",Zuidoost,Sterling Bank,Banking & Finance,4692,246.90,9,Expansion,2026-04-23 09:00:00
+AMS-20231-30006,2023-01-10,46 Claude Debussylaan,"46 Claude Debussylaan, 1082",Zuidoost,Veridian Legal,Legal,847,266.61,15,New Lease,2023-04-19 09:00:00
+AMS-20262-13013,2026-05-07,12 Gustav Mahlerlaan,"12 Gustav Mahlerlaan, 1082",Zuidas,Thorne Consulting,Professional Services,2446,449.09,9,New Lease,2026-07-21 09:00:00
+AMS-20244-37006,2024-11-24,Solace Plaza,"147 Bijlmerdreef, 1102",Zuidoost,Tamar Bank,Banking & Finance,871,218.08,6,Sublease,2025-01-13 09:00:00
+AMS-20244-07012,2024-11-18,Kestrel Court,"79 Herengracht, 1017",Zuidas,Atlas Pharma,Life Sciences,3101,421.52,10,New Lease,2025-01-21 09:00:00
+AMS-20243-21002,2024-07-10,33 Zuidplein,"33 Zuidplein, 1077",Centrum,Lumen Partners Amsterdam,Banking & Finance,1277,451.90,10,Renewal,2024-10-15 09:00:00
+AMS-20251-08004,2025-02-26,Lumen Point,"22 Paasheuvelweg, 1105",Zuidas,Cobalt Insurance,Insurance,190,486.86,6,New Lease,2025-04-18 09:00:00
+AMS-20244-22009,2024-10-20,Linden Square,"99 Basisweg, 1043",Centrum,Ember Underwriting,Insurance,3762,,10,new lease,2025-01-21 09:00:00
+AMS-20253-25003,2025-08-20,Kestrel Plaza,"111 Gustav Mahlerlaan, 1082",Centrum,Nimbus Asset Management,Banking & Finance,362,456.65,10,New Lease,2025-10-20 09:00:00
+AMS-20263-44009,2026-09-28,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Veridian Associates Amsterdam,Professional Services,333,232.94,12,Pre-let,2026-10-14 09:00:00
+AMS-20234-48007,2023-11-08,Cobalt Court,"51 Vijzelstraat, 1017",Sloterdijk-Teleport,Helix Technologies,TMT,882,218.90,9,New Lease,2024-01-14 09:00:00
+AMS-20251-23001,2025-01-02,17 Radarweg,"17 Radarweg, 1043",Centrum,Sable Partners,Banking & Finance,357,392.48,9,Renewal,2025-04-24 09:00:00
+AMS-20263-14007,2026-09-20,59 Radarweg,"59 Radarweg, 1043",Zuidas,Thorne Consulting,Professional Services,2517,444.51,10,Renewal,2026-10-13 09:00:00
+AMS-20241-19008,2024-03-07,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Tamar Bank,Banking & Finance,559,316.25,12,Renewal,2024-04-17 09:00:00
+AMS-20242-05008,2024-04-17,Kestrel Court,"79 Herengracht, 1017",Zuidas,Sable Partners,Banking & Finance,1169,495.99,12,Pre-let,2024-07-24 09:00:00
+AMS-20254-11011,2025-10-05,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Beacon Council,Public Sector,828,407.82,3,New Lease,2026-01-12 09:00:00
+AMS-20262-43001,2026-06-07,Veridian Gate,"76 Naritaweg, 1043",Zuidoost,Granite Rechtsanwälte,Legal,905,238.28,3,Renewal,2026-07-18 09:00:00
+AMS-20252-54007,2025-05-12,Helix Square,"135 Bijlmerdreef, 1102",Sloterdijk-Teleport,Tamar Bank,Banking & Finance,655,158.45,12,Renewal,2025-07-19 09:00:00
+AMS-20254-56001,2025-10-25,Thorne Building,"48 Teleportboulevard, 1043",Sloterdijk-Teleport,Juniper Flex Amsterdam,Flex Office,352,213.53,10,New Lease,2026-01-22 09:00:00
+AMS-20234-33007,2023-11-11,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Marlow Capital,Banking & Finance,590,,9,Pre-let,2024-01-24 09:00:00
+AMS-20244-07001,2024-10-20,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Halden Labs Amsterdam,TMT,454,455.12,15,New Lease,2025-01-21 09:00:00
+AMS-20233-47002,2023-09-26,Brightwater Court,"163 Herengracht, 1017",Sloterdijk-Teleport,Harrow Asset Management,Banking & Finance,863,168.11,15,New Lease,2023-10-15 09:00:00
+AMS-20263-29003,2026-09-30,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Osprey Insurance,Insurance,796,435.37,12,New Lease,2026-10-13 09:00:00
+AMS-20252-09015,2025-06-02,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Vantage Group,Professional Services,742,424.85,5,Expansion,2025-07-19 09:00:00
+AMS-20253-55001,2025-07-03,43 Keizersgracht,"43 Keizersgracht, 1015",Sloterdijk-Teleport,Marlow Capital,Banking & Finance,252,175.83,12,Renewal,2025-10-16 09:00:00
+AMS-20253-25004,2025-07-31,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Wren Retail,Other,911,441.54,5,New Lease,2025-10-20 09:00:00
+AMS-20252-09011,2025-05-03,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Osprey Insurance,Insurance,322,570.40,10,New Lease,2025-07-19 09:00:00
+AMS-20253-55005,2025-09-01,Thorne Building,"48 Teleportboulevard, 1043",Sloterdijk-Teleport,Northgate Avocats,Legal,2021,200.14,12,Expansion,2025-10-16 09:00:00
+AMS-20242-05003,2024-06-27,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Arden Group Amsterdam,Professional Services,874,354.77,9,Renewal,2024-07-24 09:00:00
+AMS-20261-27005,2026-03-03,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Sterling Pharma,Life Sciences,2408,294.90,5,New Lease,2026-04-17 09:00:00
+AMS-20244-22002,2024-10-12,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Kestrel Media,TMT,1111,349.25,10,New Lease,2025-01-21 09:00:00
+AMS-20244-07008,2024-12-05,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Sterling Bank,Banking & Finance,1683,290.35,5,Expansion,2025-01-21 09:00:00
+AMS-20232-16007,2023-06-28,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Halden Labs Amsterdam,TMT,700,368.00,3,Expansion,2023-07-12 09:00:00
+AMS-20233-17002,2023-08-16,26 Gustav Mahlerlaan,"26 Gustav Mahlerlaan, 1082",Centrum,Cobalt Insurance,Insurance,241,398.65,3,New Lease,2023-10-23 09:00:00
+AMS-20232-16006,2023-04-09,33 Radarweg,"33 Radarweg, 1043",Centrum,Ashcombe Digital,TMT,3270,312.03,15,New Lease,2023-07-12 09:00:00
+AMS-20263-59002,2026-08-31,Aldwyn Tower,"158 Claude Debussylaan, 1082",Sloterdijk-Teleport,Larkspur Technologies,TMT,563,175.78,10,Expansion,2026-10-19 09:00:00
+AMS-20254-11007,2025-10-12,10 Radarweg,"10 Radarweg, 1043",Zuidas,Juniper LLP,Legal,757,612.95,5,Renewal,2026-01-12 09:00:00
+AMS-20232-31005,2023-05-23,20 Zuidplein,"20 Zuidplein, 1077",Zuidoost,Osprey Holdings Amsterdam,Other,1112,265.38,5,Renewal,2023-07-15 09:00:00
+AMS-20263-44010,2026-07-22,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Corvid Partners,Professional Services,362,193.05,10,Sublease,2026-10-14 09:00:00
+AMS-20233-47006,2023-09-06,Calder Square,"112 Claude Debussylaan, 1082",Sloterdijk-Teleport,Cobalt Insurance,Insurance,356,174.24,5,Expansion,2023-10-15 09:00:00
+AMS-20261-12009,2026-01-07,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Linden Office,Public Sector,360,512.96,5,New Lease ,2026-04-15 09:00:00
+AMS-20252-09009,2025-05-16,11 Herengracht,"11 Herengracht, 1017",Zuidas,Fenwick Avocats Amsterdam,Legal,881,345.29,12,Sublease,2025-07-19 09:00:00
+AMS-20244-07003,2024-12-21,Northgate Tower,"60 Naritaweg, 1043",Zuidas,Tern Mutual,Insurance,3297,407.94,3,New Lease,2025-01-21 09:00:00
+AMS-20261-57004,2026-02-24,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Veridian Associates Amsterdam,Professional Services,1897,181.43,15,New Lease,2026-04-18 09:00:00
+AMS-20234-33002,2023-10-29,143 Claude Debussylaan,"143 Claude Debussylaan, 1082",Zuidoost,Lumen Flex,Flex Office,1174,211.35,10,Renewal,2024-01-24 09:00:00
+AMS-20234-18008,2023-11-17,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Lumen Flex,Flex Office,816,238.37,3,Pre-let,2024-01-24 09:00:00
+AMS-20263-14006,2026-09-29,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Ridgeway Labs Amsterdam,TMT,1118,434.64,15,New Lease,2026-10-13 09:00:00
+AMS-20254-56005,2025-12-22,Veridian Park,"53 Basisweg, 1043",Sloterdijk-Teleport,Osprey Insurance,Insurance,1403,139.33,12,New Lease,2026-01-22 09:00:00
+AMS-20251-38006,2025-02-25,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Juniper Flex Amsterdam,Flex Office,529,263.05,6,New Lease,2025-04-16 09:00:00
+AMS-20251-23003,2025-02-21,Aldwyn Centre,"126 Zuidplein, 1077",Centrum,Cobalt Insurance,Insurance,212,403.93,3,Renewal,2025-04-24 09:00:00
+AMS-20261-12008,2026-01-09,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Juniper Flex Amsterdam,Flex Office,1178,392.37,5,Renewal,2026-04-24 09:00:00
+AMS-20251-53001,2025-01-31,Orbis Gate,"93 Paasheuvelweg, 1105",Sloterdijk-Teleport,Tern Mutual,Insurance,2942,149.51,9,Expansion,2025-04-19 09:00:00
+AMS-20251-08005,2025-01-03,Ashcombe House,"144 Naritaweg, 1043",Zuidas,Kestrel Media,TMT,1361,439.10,3,Sublease,2025-04-18 09:00:00
+AMS-20242-20003,2024-04-21,36 Radarweg,"36 Radarweg, 1043",Centrum,Lumen Flex,Flex Office,234,279.92,9,New Lease,2024-07-14 09:00:00
+AMS-20231-00007,2023-02-10,Quill Gate,"108 Radarweg, 1043",Zuidas,Ember Underwriting,Insurance,3658,374.81,3,Renewal,2023-04-19 09:00:00
+AMS-20252-24003,2025-05-10,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Sable Partners,Banking & Finance,1003,344.57,12,Expansion,2025-07-16 09:00:00
+AMS-20234-18010,2023-12-08,17 Radarweg,"17 Radarweg, 1043",Centrum,Ashcombe Digital,TMT,841,344.34,12,New Lease,2024-01-24 09:00:00
+AMS-20234-48006,2023-10-29,80 Paasheuvelweg,"80 Paasheuvelweg, 1105",Sloterdijk-Teleport,Vantage Software Amsterdam,TMT,1172,119.68,9,Sublease,2024-01-14 09:00:00
+AMS-20244-07009,2024-12-22,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Orbis Office,Public Sector,442,,15,New Lease,2025-01-21 09:00:00
+AMS-20233-17016,2023-08-21,33 Zuidplein,"33 Zuidplein, 1077",Centrum,Ember Legal Amsterdam,Legal,824,387.11,3,Renewal,2023-10-23 09:00:00
+AMS-20244-22008,2024-12-26,Harrow Park,"47 Zuidplein, 1077",Centrum,Calder Council,Public Sector,790,227.67,15,Renewal,2025-01-21 09:00:00
+AMS-20241-19007,2024-02-07,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Calder Biosciences Amsterdam,Life Sciences,365,305.30,12,Pre-let,2024-04-17 09:00:00
+AMS-20232-01013,2023-04-19,32 Teleportboulevard,"32 Teleportboulevard, 1043",Zuidas,Meridian Capital,Banking & Finance,419,460.58,10,New Lease,2023-07-18 09:00:00
+AMS-20263-44004,2026-08-20,99 Claude Debussylaan,"99 Claude Debussylaan, 1082",Zuidoost,Pinnacle Assurance,Insurance,2380,170.88,10,New Lease,2026-10-14 09:00:00
+AMS-20233-17001,2023-08-06,114 Bijlmerdreef,"114 Bijlmerdreef, 1102",Centrum,Atlas Software,TMT,449,367.55,9,Renewal,2023-10-23 09:00:00
+AMS-20242-35007,2024-04-28,Pinnacle Building,"101 Gustav Mahlerlaan, 1082",Zuidoost,Meridian Capital,Banking & Finance,410,228.14,15,Expansion,2024-07-14 09:00:00
+AMS-20262-28005,2026-04-02,36 Radarweg,"36 Radarweg, 1043",Centrum,Quill Partners Amsterdam,Professional Services,1008,267.44,5,New Lease,2026-07-15 09:00:00
+AMS-20251-08003,2025-03-18,Quill Gate,"108 Radarweg, 1043",Zuidas,Solace Authority,Public Sector,1328,458.15,5,Renewal,2025-04-18 09:00:00
+AMS-20252-09001,2025-05-21,67 Basisweg,"67 Basisweg, 1043",Zuidas,Larkspur Technologies,TMT,1604,396.76,5,New Lease,2025-07-19 09:00:00
+AMS-20262-13001,2026-05-23,Ashcombe House,"144 Naritaweg, 1043",Zuidas,Ravel Consulting,Professional Services,419,448.25,5,New Lease,2026-07-21 09:00:00
+AMS-20253-55002,2025-09-04,Orbis Plaza,"12 Zuidplein, 1077",Sloterdijk-Teleport,Lumen Workspace,Flex Office,2192,181.54,3,Sublease,2025-10-16 09:00:00
+AMS-20242-05001,2024-06-21,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Meridian Capital,Banking & Finance,1647,345.94,10,Renewal,2024-07-24 09:00:00
+AMS-20234-03005,2023-12-09,11 Herengracht,"11 Herengracht, 1017",Zuidas,Helix Technologies,TMT,553,322.36,12,New Lease,2024-01-14 09:00:00
+AMS-20244-07010,2024-10-08,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Halden Flex,Flex Office,750,456.13,15,New Lease,2025-01-21 09:00:00
+AMS-20231-00006,2023-01-16,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Granite Labs Amsterdam,TMT,1589,297.74,10,Renewal,2023-04-19 09:00:00
+AMS-20233-32005,2023-09-10,144 Basisweg,"144 Basisweg, 1043",Zuidoost,Orbis Insurance,Insurance,665,252.24,12,New Lease,2023-10-17 09:00:00
+AMS-20244-07011,2024-11-08,Lumen Point,"22 Paasheuvelweg, 1105",Zuidas,Sterling Bank,Banking & Finance,967,436.15,6,New Lease,2025-01-21 09:00:00
+AMS-20243-21006,2024-07-06,7 Vijzelstraat,"7 Vijzelstraat, 1017",Centrum,Quill Partners Amsterdam,Professional Services,1261,379.62,5,New Lease,2024-10-15 09:00:00
+AMS-20242-20011,2024-04-10,Linden Square,"99 Basisweg, 1043",Centrum,Ember Legal Amsterdam,Legal,407,348.20,5,New Lease,2024-07-14 09:00:00
+AMS-20231-30003,2023-02-28,144 Teleportboulevard,"144 Teleportboulevard, 1043",Zuidoost,Meridian Capital,Banking & Finance,1483,229.57,5,New Lease,2023-04-19 09:00:00
+AMS-20244-37002,2024-12-15,63 Paasheuvelweg,"63 Paasheuvelweg, 1105",Zuidoost,Larkspur Technologies,TMT,205,252.91,3,New Lease,2025-01-13 09:00:00
+AMS-20253-40005,2025-09-12,79 Vijzelstraat,"79 Vijzelstraat, 1017",Zuidoost,Helix Technologies,TMT,852,171.93,5,Expansion,2025-10-22 09:00:00
+AMS-20242-35009,2024-04-12,Arden Centre,"132 Hoogoorddreef, 1101",Zuidoost,Cobalt Advisory,Professional Services,1415,208.80,5,New Lease,2024-07-14 09:00:00
+AMS-20243-51003,2024-07-27,Aldwyn Tower,"158 Claude Debussylaan, 1082",Sloterdijk-Teleport,Vantage Group,Professional Services,152,,10,New Lease,2024-10-18 09:00:00
+AMS-20251-53002,2025-03-29,Cobalt Court,"51 Vijzelstraat, 1017",,Atlas Software,TMT,1995,171.27,6,Sublease,2025-04-19 09:00:00
+AMS-20254-56006,2025-11-21,Veridian Building,"111 Bijlmerdreef, 1102",Sloterdijk-Teleport,Cobalt Advisory,Professional Services,216,188.56,3,New Lease,2026-01-22 09:00:00
+AMS-20232-01016,2023-06-13,32 Teleportboulevard,"32 Teleportboulevard, 1043",Zuidas,Brightwater Health Amsterdam,Life Sciences,642,454.66,10,New Lease,2023-07-18 09:00:00
+AMS-20254-41001,2025-10-13,Fenwick Plaza,"166 Basisweg, 1043",Zuidoost,Vantage Group,Professional Services,1837,226.49,9,Pre-let,2026-01-17 09:00:00
+AMS-20251-23005,2025-03-26,Osprey Place,"152 Naritaweg, 1043",Centrum,Fenwick Mutual,Insurance,475,393.49,3,New Lease,2025-04-24 09:00:00
+AMS-20242-05012,2024-05-15,113 Rokin,"113 Rokin, 1012",Zuidas,Linden Office,Public Sector,587,412.69,5,Renewal,2024-07-24 09:00:00
+AMS-20233-02004,2023-08-06,Quill Gate,"108 Radarweg, 1043",Zuidas,Linden Office,Public Sector,1325,391.65,12,New Lease,2023-10-12 09:00:00
+AMS-20244-37001,2024-12-18,94 Vijzelstraat,"94 Vijzelstraat, 1017",Zuidoost,Orbis Office,Public Sector,561,202.95,10,New Lease,2025-01-13 09:00:00
+AMS-20233-17004,2023-08-26,Corvid House,"155 Bijlmerdreef, 1102",Centrum,Marlow Group Amsterdam,Professional Services,1280,406.61,5,New Lease,2023-10-23 09:00:00
+AMS-20233-17012,2023-07-26,57 Vijzelstraat,"57 Vijzelstraat, 1017",Centrum,Harrow Asset Management,Banking & Finance,594,,5,Sublease,2023-10-23 09:00:00
+AMS-20233-47003,2023-07-02,21 Gustav Mahlerlaan,"21 Gustav Mahlerlaan, 1082",Sloterdijk-Teleport,Beacon Partners Amsterdam,Banking & Finance,2282,220.87,3,Renewal,2023-10-15 09:00:00
+AMS-20252-24006,2025-06-15,21 Bijlmerdreef,"21 Bijlmerdreef, 1102",Centrum,Osprey Insurance,Insurance,343,313.02,3,New Lease,2025-07-16 09:00:00
+AMS-20244-07005,2024-10-05,Thorne Court,"144 Keizersgracht, 1015",Zuidas,Cobalt Advisory,Professional Services,1267,37.76,12,New Lease,2025-01-21 09:00:00
+AMS-20231-00004,2023-03-20,Wren Quay,"41 Radarweg, 1043",Zuidas,Quill Partners Amsterdam,Professional Services,975,339.90,15,New Lease,2023-04-19 09:00:00
+AMS-20234-48008,2023-11-23,104 Teleportboulevard,"104 Teleportboulevard, 1043",Sloterdijk-Teleport,Juniper Flex Amsterdam,Flex Office,584,193.63,10,Renewal,2024-01-14 09:00:00
+AMS-20232-16009,2023-05-06,Linden Square,"99 Basisweg, 1043",Centrum,Calder Council,Public Sector,683,255.30,5,Expansion,2023-07-12 09:00:00
+AMS-20251-08012,2025-01-29,10 Radarweg,"10 Radarweg, 1043",Zuidas,Harrow Asset Management,Banking & Finance,376,473.35,12,New Lease,2025-04-18 09:00:00
+AMS-20261-27003,2026-02-18,Harrow Park,"47 Zuidplein, 1077",Centrum,Osprey Insurance,Insurance,1890,304.23,9,Expansion,2026-04-17 09:00:00
+AMS-20262-28003,2026-05-04,16 Bijlmerdreef,"16 Bijlmerdreef, 1102",Centrum,Juniper LLP,Legal,1516,397.67,5,New Lease,2026-07-15 09:00:00
+AMS-20253-10008,2025-09-24,12 Gustav Mahlerlaan,"12 Gustav Mahlerlaan, 1082",Zuidas,Vantage Software Amsterdam,TMT,1979,419.55,6,Renewal,2025-10-14 09:00:00
+AMS-20234-18009,2023-12-15,136 Basisweg,"136 Basisweg, 1043",Centrum,Orbis Office,Public Sector,832,395.36,12,Renewal,2024-01-24 09:00:00
+AMS-20254-56003,2025-10-14,Veridian Park,"53 Basisweg, 1043",Sloterdijk-Teleport,Harrow Mutual Amsterdam,Insurance,773,133.75,10,New Lease,2026-01-22 09:00:00
+AMS-20254-26003,2025-10-17,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Kestrel Media,TMT,1297,401.91,10,New Lease,2026-01-16 09:00:00
+AMS-20232-46004,2023-04-21,Orbis Gate,"93 Paasheuvelweg, 1105",,Tamar Bank,Banking & Finance,842,160.53,10,Expansion,2023-07-13 09:00:00
+AMS-20254-41002,2025-10-26,79 Vijzelstraat,"79 Vijzelstraat, 1017",Zuidoost,Sterling Bank,Banking & Finance,1086,141.16,10,New Lease,2026-01-17 09:00:00
+AMS-20241-49003,2024-01-14,Helix Square,"135 Bijlmerdreef, 1102",Sloterdijk-Teleport,Brightwater Health Amsterdam,Life Sciences,810,12.31,9,Expansion,2024-04-21 09:00:00
+AMS-20243-21009,2024-09-15,41 Hoogoorddreef,"41 Hoogoorddreef, 1101",Centrum,Elmgrove LLP Amsterdam,Legal,1865,218.49,5,New Lease,2024-10-15 09:00:00
+AMS-20232-01012,2023-04-07,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Brightwater Health Amsterdam,Life Sciences,664,387.17,10,New Lease,2023-07-18 09:00:00
+AMS-20231-30007,2023-02-10,163 Naritaweg,"163 Naritaweg, 1043",Zuidoost,Elmgrove Flex,Flex Office,513,198.22,6,Expansion,2023-04-19 09:00:00
+AMS-20232-01007,2023-06-13,95 Bijlmerdreef,"95 Bijlmerdreef, 1102",Zuidas,Fenwick Avocats Amsterdam,Legal,905,449.23,6,Renewal,2023-07-18 09:00:00
+AMS-20232-46007,2023-05-30,57 Keizersgracht,"57 Keizersgracht, 1015",Sloterdijk-Teleport,Marlow Capital,Banking & Finance,1092,171.84,10,Renewal,2023-07-13 09:00:00
+AMS-20253-10002,2025-07-06,62 Zuidplein,"62 Zuidplein, 1077",Zuidas,Calder Biosciences Amsterdam,Life Sciences,872,492.36,15,New Lease,2025-10-14 09:00:00
+AMS-20251-23007,2025-02-01,159 Zuidplein,"159 Zuidplein, 1077",Centrum,Sterling Pharma,Life Sciences,397,384.36,15,New Lease,2025-04-24 09:00:00
+AMS-20233-02003,2023-07-14,10 Radarweg,"10 Radarweg, 1043",Zuidas,Calder Council,Public Sector,991,494.05,15,New Lease,2023-10-12 09:00:00
+AMS-20243-06009,2024-07-09,Aldwyn Gate,"178 Strawinskylaan, 1077",Zuidas,Brightwater Health Amsterdam,Life Sciences,542,472.39,9,New Lease,2024-10-16 09:00:00
+AMS-20232-16003,2023-04-20,7 Vijzelstraat,"7 Vijzelstraat, 1017",Centrum,Northgate Avocats,Legal,958,449.83,9,New Lease,2023-07-12 09:00:00
+AMS-20252-09002,2025-05-18,Orbis Building,"57 Hullenbergweg, 1101",Zuidas,Beacon Council,Public Sector,519,317.44,5,New Lease,2025-07-19 09:00:00
+AMS-20251-38002,2025-03-13,Solace Plaza,"147 Bijlmerdreef, 1102",Zuidoost,Arden Capital,Banking & Finance,1696,242.26,12,Renewal,2025-04-16 09:00:00
+AMS-20252-54002,2025-05-14,Aldwyn Tower,"158 Claude Debussylaan, 1082",Sloterdijk-Teleport,Sterling LLP Amsterdam,Legal,278,193.94,15,New Lease,2025-07-19 09:00:00
+AMS-20252-09004,2025-04-07,158 Paasheuvelweg,"158 Paasheuvelweg, 1105",Zuidas,Arden Capital,Banking & Finance,1097,341.02,15,Expansion,2025-07-19 09:00:00
+AMS-20234-03001,2023-10-02,Meridian Park,"30 Paasheuvelweg, 1105",Zuidas,Halden Flex,Flex Office,421,460.26,5,new lease,2024-01-14 09:00:00
+AMS-20244-22004,2024-12-18,Aldwyn Square,"109 Claude Debussylaan, 1082",Centrum,Orbis Office,Public Sector,347,305.17,15,Renewal,2025-01-21 09:00:00
+AMS-20263-59003,2026-09-26,Orbis Gate,"93 Paasheuvelweg, 1105",Sloterdijk-Teleport,Tern Mutual,Insurance,2387,176.40,10,Renewal,2026-10-19 09:00:00
+AMS-20244-52006,2024-11-25,43 Keizersgracht,"43 Keizersgracht, 1015",Sloterdijk-Teleport,Osprey Holdings Amsterdam,Other,995,183.87,10,Renewal,2025-01-21 09:00:00
+AMS-20241-19005,2024-03-06,Linden Square,"99 Basisweg, 1043",Centrum,Northgate LLP,Legal,956,342.54,10,New Lease,2024-04-17 09:00:00
+AMS-20251-08001,2025-03-31,124 Strawinskylaan,"124 Strawinskylaan, 1077",Zuidas,Atlas Pharma,Life Sciences,1546,500.10,12,New Lease,2025-04-18 09:00:00
+AMS-20241-49005,2024-02-26,Wren Park,"142 Herengracht, 1017",Sloterdijk-Teleport,Tern Mutual,Insurance,1594,186.27,6,Renewal,2024-04-21 09:00:00
+AMS-20262-43007,2026-04-23,Arden Centre,"132 Hoogoorddreef, 1101",Zuidoost,Beacon Council,Public Sector,586,208.19,10,Renewal,2026-07-18 09:00:00
+AMS-20251-53003,2025-01-21,57 Keizersgracht,"57 Keizersgracht, 1015",Sloterdijk-Teleport,Arden Capital,Banking & Finance,994,196.17,5,New Lease,2025-04-19 09:00:00
+AMS-20232-31001,2023-05-14,Osprey House,"11 Vijzelstraat, 1017",Zuidoost,Lumen Partners Amsterdam,Banking & Finance,529,153.38,15,Renewal,2023-07-15 09:00:00
+AMS-20252-54004,2025-05-16,148 Hullenbergweg,"148 Hullenbergweg, 1101",Sloterdijk-Teleport,Solace Authority,Public Sector,449,187.12,15,New Lease,2025-07-19 09:00:00
+AMS-20251-08007,2025-01-23,67 Basisweg,"67 Basisweg, 1043",Zuidas,Wren Energy Amsterdam,Industrial,399,331.83,10,Sublease,2025-04-18 09:00:00
+AMS-20262-13011,2026-05-27,11 Herengracht,"11 Herengracht, 1017",Zuidas,Arden Group Amsterdam,Professional Services,1242,339.94,3,Pre-let,2026-07-21 09:00:00
+AMS-20232-31006,2023-05-19,Osprey House,"11 Vijzelstraat, 1017",Zuidoost,Meridian Insurance,Insurance,3373,176.85,6,New Lease,2023-07-15 09:00:00
+AMS-20253-25006,2025-09-29,17 Radarweg,"17 Radarweg, 1043",Centrum,Brightwater Office,Public Sector,1436,499.12,9,New Lease,2025-10-20 09:00:00
+AMS-20231-15014,2023-03-03,80 Zuidplein,"80 Zuidplein, 1077",Centrum,Pinnacle Assurance,Insurance,157,,5,Sublease,2023-04-21 09:00:00
+AMS-20241-19003,2024-03-15,110 Paasheuvelweg,"110 Paasheuvelweg, 1105",Centrum,Ridgeway Pharma,Life Sciences,832,285.99,12,Expansion,2024-04-17 09:00:00
+AMS-20234-48003,2023-11-25,Brightwater Court,"163 Herengracht, 1017",Sloterdijk-Teleport,Wren Retail,Other,2064,196.39,12,Renewal,2024-01-14 09:00:00
+AMS-20243-21007,2024-07-13,17 Radarweg,"17 Radarweg, 1043",Centrum,Lumen Flex,Flex Office,462,382.76,12,New Lease,2024-10-15 09:00:00
+AMS-20233-47001,2023-07-04,104 Teleportboulevard,"104 Teleportboulevard, 1043",Sloterdijk-Teleport,Halden Labs Amsterdam,TMT,587,213.82,5,Renewal,2023-10-15 09:00:00
+AMS-20253-40006,2025-08-02,Calder Tower,"16 Strawinskylaan, 1077",Zuidoost,Quill Health,Life Sciences,2096,258.99,12,New Lease,2025-10-22 09:00:00
+AMS-20242-50003,2024-05-17,80 Paasheuvelweg,"80 Paasheuvelweg, 1105",Sloterdijk-Teleport,Halden Flex,Flex Office,2075,147.38,10,New Lease,2024-07-23 09:00:00
+AMS-20262-13002,2026-05-16,147 Gustav Mahlerlaan,"147 Gustav Mahlerlaan, 1082",,Wren Retail,Other,1106,494.74,15,Renewal,2026-07-21 09:00:00
+AMS-20253-25013,2025-07-23,12 Bijlmerdreef,"12 Bijlmerdreef, 1102",Centrum,Lumen Workspace,Flex Office,226,358.38,9,New Lease,2025-10-20 09:00:00
+AMS-20263-29004,2026-08-13,17 Radarweg,"17 Radarweg, 1043",Centrum,Marlow Capital,Banking & Finance,1017,432.73,10,New Lease ,2026-10-13 09:00:00
+AMS-20233-47004,2023-07-10,Atlas Square,"88 Hoogoorddreef, 1101",Sloterdijk-Teleport,Arden Capital,Banking & Finance,451,176.16,3,Expansion,2023-10-15 09:00:00
+AMS-20233-32007,2023-08-31,72 Bijlmerdreef,"72 Bijlmerdreef, 1102",Zuidoost,Sterling Pharma,Life Sciences,929,127.98,10,Sublease,2023-10-17 09:00:00
+AMS-20232-01006,2023-05-01,66 Vijzelstraat,"66 Vijzelstraat, 1017",Zuidas,Arden Group Amsterdam,Professional Services,1546,377.47,9,New Lease,2023-07-18 09:00:00

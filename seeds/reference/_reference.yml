@@ -1,0 +1,100 @@
+version: 2
+
+seeds:
+  - name: ref_markets
+    description: The onboarded markets and the conventions each reports in.
+    columns:
+      - name: market_id
+        data_tests: [unique, not_null]
+      - name: currency_code
+        data_tests:
+          - accepted_values: {arguments: {values: [GBP, EUR, PLN]}}
+      - name: area_unit
+        data_tests:
+          - accepted_values: {arguments: {values: [sqft, m2]}}
+      - name: rent_unit
+        data_tests:
+          - accepted_values: {arguments: {values: [per_sqft_year, per_m2_year, per_m2_month]}}
+
+  - name: ref_submarkets
+    description: Shared submarket ids with the local name each market uses. Adding a market means adding its rows here.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, submarket_id]
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, local_name]
+    columns:
+      - name: market_id
+        data_tests:
+          - relationships: {arguments: {to: ref('ref_markets'), field: market_id}}
+
+  - name: ref_fx_rates
+    description: Quarterly FX rates as units of local currency per euro (synthetic; docs/extension_real_data.md replaces them with ECB reference rates).
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [quarter_id, currency_code]
+    columns:
+      - name: units_per_eur
+        data_tests: [not_null, is_positive]
+
+  - name: ref_grade_mapping
+    description: Each market's building-grade labels mapped to the shared A / B / C codes.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, local_grade]
+    columns:
+      - name: grade_code
+        data_tests:
+          - relationships: {arguments: {to: ref('ref_grades'), field: grade_code}}
+
+  - name: ref_deal_type_mapping
+    description: Each market's deal-type labels mapped to the shared codes.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, local_deal_type]
+    columns:
+      - name: deal_type_code
+        data_tests:
+          - relationships: {arguments: {to: ref('ref_deal_types'), field: deal_type_code}}
+
+  - name: ref_sector_mapping
+    description: Each market's occupier-sector labels mapped to the shared codes.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, local_sector]
+    columns:
+      - name: sector_code
+        data_tests:
+          - relationships: {arguments: {to: ref('ref_sectors'), field: sector_code}}
+
+  - name: ref_sectors
+    description: Shared occupier-sector codes.
+    columns:
+      - name: sector_code
+        data_tests: [unique, not_null]
+
+  - name: ref_deal_types
+    description: Shared deal-type codes.
+    columns:
+      - name: deal_type_code
+        data_tests: [unique, not_null]
+
+  - name: ref_grades
+    description: Shared building-grade codes.
+    columns:
+      - name: grade_code
+        data_tests: [unique, not_null]
+
+  - name: ref_metric_definitions
+    description: "The KPI definitions: name, gold column, definition, unit, formula, grain and owner. The data contract as data."
+    columns:
+      - name: metric_name
+        data_tests: [unique, not_null]
+      - name: gold_column
+        data_tests: [unique, not_null]

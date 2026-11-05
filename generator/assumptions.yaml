@@ -1,0 +1,164 @@
+# Illustrative market assumptions for the synthetic data. These are NOT market data: the levels are
+# plausible for 2026 office markets but are chosen to exercise the pipeline (units, currencies,
+# conventions, reconciliations), not to describe any market. Every number the pipeline reports
+# comes from here plus documented noise, so the "answer key" is reproducible.
+#
+# rent_unit is the convention the market reports in: per_sqft_year (GBP), per_m2_year (EUR), per_m2_month (EUR).
+# vacancy values are rates of stock; take_up is quarterly, in the market's own area unit AFTER conversion to m2 here
+# (the generator converts to the market's reporting unit when it writes the files).
+
+seed: 20261104
+quarters:
+  first: 2023Q1
+  last: 2026Q3
+
+markets:
+  LON:
+    name: London
+    country: GB
+    currency: GBP
+    area_unit: sqft
+    rent_unit: per_sqft_year
+    period_format: uk            # "Q3 2026"
+    date_format: dmy_slash       # 30/09/2026
+    number_format: point         # 1,234.5 (thousands comma, decimal point)
+    deals_language: en
+    avg_deal_m2: 1900
+    submarkets:
+      - {id: CITY, name: City, local_name: City, stock_m2: 8000000, vacancy: 0.095, prime_rent: 85,  yield: 0.0525, take_up_m2: 120000, rent_growth: 0.04}
+      - {id: WEND, name: West End, local_name: West End, stock_m2: 7000000, vacancy: 0.065, prime_rent: 150, yield: 0.0375, take_up_m2: 80000, rent_growth: 0.05}
+      - {id: MIDT, name: Midtown, local_name: Midtown, stock_m2: 2500000, vacancy: 0.085, prime_rent: 80,  yield: 0.045,  take_up_m2: 25000, rent_growth: 0.035}
+      - {id: SBNK, name: Southbank, local_name: Southbank, stock_m2: 1000000, vacancy: 0.075, prime_rent: 75,  yield: 0.0475, take_up_m2: 15000, rent_growth: 0.03}
+      - {id: DOCK, name: Docklands, local_name: Docklands, stock_m2: 2000000, vacancy: 0.16,  prime_rent: 55,  yield: 0.06,   take_up_m2: 20000, rent_growth: 0.01}
+  PAR:
+    name: Paris
+    country: FR
+    currency: EUR
+    area_unit: m2
+    rent_unit: per_m2_year
+    period_format: fr            # "T3 2026"
+    date_format: dmy_slash
+    number_format: fr            # 1 050,50 (thousands space, decimal comma)
+    deals_language: fr
+    avg_deal_m2: 2000
+    submarkets:
+      - {id: QCA,  name: Paris CBD, local_name: Paris QCA, stock_m2: 7000000, vacancy: 0.035, prime_rent: 1050, yield: 0.04,  take_up_m2: 90000, rent_growth: 0.05}
+      - {id: LDEF, name: La Defense, local_name: La Défense, stock_m2: 3700000, vacancy: 0.17,  prime_rent: 560,  yield: 0.055, take_up_m2: 35000, rent_growth: 0.01}
+      - {id: PCO,  name: Paris Centre West, local_name: Paris Centre Ouest (hors QCA), stock_m2: 2500000, vacancy: 0.05, prime_rent: 750, yield: 0.045, take_up_m2: 40000, rent_growth: 0.035}
+      - {id: PSUD, name: Paris South, local_name: Paris Sud, stock_m2: 3000000, vacancy: 0.06,  prime_rent: 600,  yield: 0.05,  take_up_m2: 45000, rent_growth: 0.03}
+      - {id: PDEF, name: Peri-Defense, local_name: Péri-Défense, stock_m2: 2800000, vacancy: 0.20, prime_rent: 400, yield: 0.06, take_up_m2: 30000, rent_growth: 0.0}
+  AMS:
+    name: Amsterdam
+    country: NL
+    currency: EUR
+    area_unit: m2
+    rent_unit: per_m2_year
+    period_format: iso_q         # "2026-Q3"
+    date_format: iso             # 2026-09-30
+    number_format: plain         # 1234.5 (no thousands separator)
+    deals_language: en
+    avg_deal_m2: 900
+    submarkets:
+      - {id: ZUID, name: Zuidas, local_name: Zuidas, stock_m2: 1200000, vacancy: 0.05, prime_rent: 550, yield: 0.045, take_up_m2: 15000, rent_growth: 0.04}
+      - {id: CENT, name: Centre, local_name: Centrum, stock_m2: 1000000, vacancy: 0.04, prime_rent: 450, yield: 0.0475, take_up_m2: 12000, rent_growth: 0.035}
+      - {id: ZOST, name: Zuidoost, local_name: Zuidoost, stock_m2: 1100000, vacancy: 0.12, prime_rent: 275, yield: 0.06, take_up_m2: 10000, rent_growth: 0.02}
+      - {id: SLOT, name: Sloterdijk, local_name: Sloterdijk-Teleport, stock_m2: 900000, vacancy: 0.15, prime_rent: 225, yield: 0.065, take_up_m2: 8000, rent_growth: 0.01}
+  FRA:
+    name: Frankfurt
+    country: DE
+    currency: EUR
+    area_unit: m2
+    rent_unit: per_m2_month
+    period_format: de            # "3. Quartal 2026"
+    date_format: dmy_dot         # 30.09.2026
+    number_format: de            # 30.000,50 (thousands point, decimal comma)
+    deals_language: de
+    vacancy_reported_as: rate    # Frankfurt reports a vacancy rate, not vacant area
+    avg_deal_m2: 1200
+    submarkets:
+      - {id: BANK, name: Banking District, local_name: Bankenviertel, stock_m2: 1600000, vacancy: 0.08, prime_rent: 50, yield: 0.0475, take_up_m2: 30000, rent_growth: 0.04}
+      - {id: WEST, name: Westend, local_name: Westend, stock_m2: 1300000, vacancy: 0.07, prime_rent: 45, yield: 0.049, take_up_m2: 20000, rent_growth: 0.035}
+      - {id: INNS, name: City Centre, local_name: Innenstadt, stock_m2: 1400000, vacancy: 0.09, prime_rent: 36, yield: 0.05, take_up_m2: 25000, rent_growth: 0.03}
+      - {id: ESCH, name: Eschborn, local_name: Eschborn, stock_m2: 1000000, vacancy: 0.15, prime_rent: 16, yield: 0.06, take_up_m2: 12000, rent_growth: 0.01}
+      - {id: NIED, name: Niederrad, local_name: Niederrad, stock_m2: 900000, vacancy: 0.18, prime_rent: 15, yield: 0.0625, take_up_m2: 8000, rent_growth: 0.0}
+  WAW:
+    name: Warsaw
+    country: PL
+    currency: EUR                # rents quoted in EUR; some deals report PLN
+    local_currency: PLN
+    area_unit: m2
+    rent_unit: per_m2_month
+    period_format: compact       # "2026Q3"
+    date_format: iso
+    number_format: plain
+    deals_language: en
+    avg_deal_m2: 1500
+    pln_deal_share: 0.12
+    submarkets:
+      - {id: CBD,  name: CBD, local_name: CBD, stock_m2: 1600000, vacancy: 0.09, prime_rent: 28, yield: 0.06, take_up_m2: 35000, rent_growth: 0.035}
+      - {id: CCW,  name: City Centre West, local_name: City Centre West, stock_m2: 1500000, vacancy: 0.12, prime_rent: 24, yield: 0.0625, take_up_m2: 25000, rent_growth: 0.03}
+      - {id: MOKO, name: Mokotow, local_name: Mokotów, stock_m2: 1600000, vacancy: 0.16, prime_rent: 16, yield: 0.07, take_up_m2: 30000, rent_growth: 0.01}
+      - {id: WOLA, name: Wola, local_name: Wola, stock_m2: 1300000, vacancy: 0.10, prime_rent: 22, yield: 0.065, take_up_m2: 30000, rent_growth: 0.03}
+      - {id: ZOLI, name: Zoliborz, local_name: Żoliborz, stock_m2: 400000, vacancy: 0.08, prime_rent: 15, yield: 0.0675, take_up_m2: 8000, rent_growth: 0.02}
+  MAD:                           # generated for the onboarding exercise; not modelled in the shipped project
+    name: Madrid
+    country: ES
+    currency: EUR
+    area_unit: m2
+    rent_unit: per_m2_month
+    period_format: es            # "3T 2026"
+    date_format: dmy_slash
+    number_format: fr            # 1.234,50 is German style; Spain uses point thousands and comma decimal -> same as de
+    deals_language: es
+    avg_deal_m2: 1100
+    submarkets:
+      - {id: CBD,  name: CBD, local_name: CBD (Castellana), stock_m2: 2400000, vacancy: 0.05, prime_rent: 40, yield: 0.045, take_up_m2: 30000, rent_growth: 0.04}
+      - {id: SEC,  name: Secondary Centre, local_name: Centro Secundario, stock_m2: 2200000, vacancy: 0.09, prime_rent: 22, yield: 0.055, take_up_m2: 25000, rent_growth: 0.03}
+      - {id: PERI, name: Periphery, local_name: Periferia, stock_m2: 3000000, vacancy: 0.14, prime_rent: 16, yield: 0.06, take_up_m2: 35000, rent_growth: 0.02}
+      - {id: SAT,  name: Satellite, local_name: Satélite, stock_m2: 2000000, vacancy: 0.18, prime_rent: 12, yield: 0.065, take_up_m2: 20000, rent_growth: 0.0}
+
+# Quarterly FX: units of local currency per 1 EUR (synthetic, slowly drifting around plausible 2023-2026 levels)
+fx:
+  GBP: {start: 0.88, end: 0.85}
+  PLN: {start: 4.68, end: 4.28}
+  EUR: {start: 1.0, end: 1.0}
+
+# Shared taxonomies the markets map onto
+sectors:
+  - {code: FIN, name: Banking and Finance}
+  - {code: LEG, name: Legal}
+  - {code: PRO, name: Professional Services}
+  - {code: TMT, name: Technology, Media and Telecoms}
+  - {code: PUB, name: Public Sector}
+  - {code: INS, name: Insurance}
+  - {code: FLX, name: Flexible Workspace}
+  - {code: LSC, name: Life Sciences}
+  - {code: MFG, name: Manufacturing and Industrial}
+  - {code: OTH, name: Other}
+deal_types:
+  - {code: NEW, name: New lease}
+  - {code: REN, name: Renewal}
+  - {code: EXP, name: Expansion}
+  - {code: SUB, name: Sublease}
+  - {code: PRE, name: Pre-let}
+grades:
+  - {code: A, name: Grade A}
+  - {code: B, name: Grade B}
+  - {code: C, name: Grade C}
+
+# Realism defects injected into the raw files, each logged in the answer key with the row it affects
+defects:
+  deals:
+    exact_duplicate_share: 0.02       # resubmitted rows
+    near_duplicate_share: 0.01        # tenant spelt differently, same deal
+    missing_submarket_share: 0.015    # submarket blank (derivable from the building)
+    wrong_rent_unit_share: 0.005      # monthly market with an annual figure (12x) or vice versa
+    wrong_area_unit_share: 0.004      # London row in m2 instead of sq ft
+    future_date_share: 0.002          # typo in the year
+    confidential_rent_share: 0.02     # rent withheld: not a defect, documented
+  market_stats:
+    resubmitted_quarters: 2           # a market-quarter submitted twice; the later submission wins
+    vacancy_mismatch_quarters: 1      # reported vacancy diverges from the building bottom-up by > 2pp (reconciliation warning)
+  buildings:
+    refurbished_resubmissions: 6      # a building sent twice with a later last_updated and a new grade
+    missing_grade_share: 0.03

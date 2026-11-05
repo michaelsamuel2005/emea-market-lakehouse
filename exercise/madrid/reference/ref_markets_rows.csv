@@ -1,0 +1,2 @@
+market_id,market_name,country_code,country_name,currency_code,area_unit,rent_unit,region,timezone
+MAD,Madrid,ES,Spain,EUR,m2,per_m2_month,Western Europe,Europe/Madrid

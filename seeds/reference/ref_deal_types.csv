@@ -1,0 +1,6 @@
+deal_type_code,deal_type_name
+NEW,New lease
+REN,Renewal
+EXP,Expansion
+SUB,Sublease
+PRE,Pre-let

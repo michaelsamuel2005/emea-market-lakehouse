@@ -1,0 +1,51 @@
+market_id,local_sector,sector_code
+LON,Banking & Finance,FIN
+LON,Legal,LEG
+LON,Professional Services,PRO
+LON,TMT,TMT
+LON,Public Sector,PUB
+LON,Insurance,INS
+LON,Flex Office,FLX
+LON,Life Sciences,LSC
+LON,Industrial,MFG
+LON,Other,OTH
+PAR,Banque-Finance,FIN
+PAR,Juridique,LEG
+PAR,Services aux entreprises,PRO
+PAR,Tech-Médias-Télécoms,TMT
+PAR,Secteur public,PUB
+PAR,Assurance,INS
+PAR,Espaces flexibles,FLX
+PAR,Santé-Sciences de la vie,LSC
+PAR,Industrie,MFG
+PAR,Autre,OTH
+AMS,Banking & Finance,FIN
+AMS,Legal,LEG
+AMS,Professional Services,PRO
+AMS,TMT,TMT
+AMS,Public Sector,PUB
+AMS,Insurance,INS
+AMS,Flex Office,FLX
+AMS,Life Sciences,LSC
+AMS,Industrial,MFG
+AMS,Other,OTH
+FRA,Banken/Finanzen,FIN
+FRA,Rechtsberatung,LEG
+FRA,Unternehmensberatung,PRO
+FRA,IT/Medien/Telekommunikation,TMT
+FRA,Öffentliche Hand,PUB
+FRA,Versicherungen,INS
+FRA,Flexible Büros,FLX
+FRA,Pharma/Life Sciences,LSC
+FRA,Industrie,MFG
+FRA,Sonstige,OTH
+WAW,Banking & Finance,FIN
+WAW,Legal,LEG
+WAW,Professional Services,PRO
+WAW,TMT,TMT
+WAW,Public Sector,PUB
+WAW,Insurance,INS
+WAW,Flex Office,FLX
+WAW,Life Sciences,LSC
+WAW,Industrial,MFG
+WAW,Other,OTH

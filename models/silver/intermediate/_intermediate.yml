@@ -1,0 +1,195 @@
+version: 2
+
+models:
+  - name: int_market_stats_unioned
+    description: Every configured market's quarterly submission rows stacked (union_markets); no rules applied. Read by int_market_stats.
+  - name: int_deals_unioned
+    description: Every configured market's deal log rows stacked (union_markets); no rules applied. Read by int_deals.
+  - name: int_buildings_unioned
+    description: Every configured market's building register rows stacked, all versions (union_markets). Read by int_building_versions.
+  - name: int_availability_unioned
+    description: Every configured market's availability rows stacked (union_markets); no rules applied. Read by int_availability.
+
+  - name: int_market_stats
+    description: >
+      Every market's quarterly submission in one conformed table: one row per market, submarket and quarter,
+      latest submission only, submarkets mapped to shared ids, prime rent converted to EUR per m2 per year.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, submarket_id, quarter_id]
+      - distinct_count_equals:
+          arguments:
+            column_name: market_id
+            expected: 5
+    columns:
+      - name: market_quarter_key
+        description: Surrogate key of market, submarket and quarter.
+        data_tests: [unique, not_null]
+      - name: market_id
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('ref_markets'), field: market_id}}
+      - name: submarket_id
+        description: Shared submarket id (null would mean an unmapped local name; see ops_dq_unmapped_codes).
+        data_tests: [not_null]
+      - name: quarter_id
+        data_tests: [not_null]
+      - name: vacancy_rate
+        description: vacant_m2 / stock_m2.
+        data_tests:
+          - not_null
+          - expect_between: {arguments: {min_value: 0.0, max_value: 0.5}}
+      - name: prime_rent_eur_m2_yr
+        description: Prime rent converted once to EUR per m2 per year with the quarter's FX rate.
+        data_tests:
+          - not_null
+          - expect_between: {arguments: {min_value: 100, max_value: 3000}}
+      - name: prime_yield
+        data_tests:
+          - expect_between: {arguments: {min_value: 0.02, max_value: 0.12}}
+      - name: submission_rank
+        description: 1 for the row kept; the model only returns rank 1.
+        data_tests:
+          - accepted_values: {arguments: {values: [1], quote: false}}
+      - name: submission_count
+        description: How many times the market-quarter was submitted (2 = resubmitted once).
+
+  - name: int_building_versions
+    description: >
+      Every version of every building the markets have sent, with the dates each was valid (slowly changing
+      dimension, type 2). A version applies to dates d with valid_from <= d < valid_to; the first version starts
+      at 1900-01-01 and the current one ends at 9999-12-31. int_buildings is the current version of each building.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, building_id_local, version_number]
+    columns:
+      - name: building_version_key
+        description: Surrogate key of market, local building id and version number.
+        data_tests: [unique, not_null]
+      - name: building_key
+        description: Surrogate key of market and local building id; the same for every version of a building.
+        data_tests: [not_null]
+      - name: version_number
+        description: 1 for the first row the market sent for the building, 2 for the next, and so on.
+        data_tests: [not_null, is_positive]
+      - name: valid_from
+        data_tests: [not_null]
+      - name: valid_to
+        description: Exclusive end of the version's validity; 9999-12-31 for the current version.
+        data_tests: [not_null]
+      - name: is_current
+        description: True for the latest version of each building (the row int_buildings keeps).
+        data_tests: [not_null]
+      - name: submarket_id
+        data_tests: [not_null]
+      - name: grade_code
+        data_tests:
+          - accepted_values: {arguments: {values: [A, B, C]}}
+
+  - name: int_buildings
+    description: Every market's building register, current version of each building, grades mapped to A/B/C.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, building_id_local]
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, building_name]
+    columns:
+      - name: building_key
+        data_tests: [unique, not_null]
+      - name: submarket_id
+        data_tests: [not_null]
+      - name: grade_code
+        description: Shared grade code; null only where the market left the grade blank.
+        data_tests:
+          - accepted_values: {arguments: {values: [A, B, C]}}
+      - name: total_area_m2
+        data_tests: [not_null, is_positive]
+      - name: version_rank
+        data_tests:
+          - accepted_values: {arguments: {values: [1], quote: false}}
+
+  - name: int_availability
+    description: Quarterly availability per tracked building, joined to the register for submarket and building area.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, building_id_local, quarter_id]
+    columns:
+      - name: building_quarter_key
+        data_tests: [unique, not_null]
+      - name: building_key
+        description: Every availability row must belong to a building in the register.
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('int_buildings'), field: building_key}}
+      - name: available_m2
+        data_tests: [not_null]
+      - name: availability_rate
+        description: available_m2 / building total_area_m2.
+        data_tests:
+          - expect_between: {arguments: {min_value: 0.0, max_value: 1.0}}
+
+  - name: int_deals
+    description: >
+      Every submitted deal row with the outcome of the silver checks: quarantine_reason for rows held back
+      (duplicates, dates after submission, impossible areas, unknown buildings, unmapped codes) and
+      rent_suppressed_reason for rows kept with their rent withheld (rent far outside the submarket's prime rent).
+    columns:
+      - name: deal_row_key
+        description: Unique per submitted row (market, deal reference and submission time).
+        data_tests: [unique, not_null]
+      - name: deal_key
+        description: Surrogate key of market and deal reference; unique once duplicates are removed (int_deals_clean).
+        data_tests: [not_null]
+      - name: market_id
+        data_tests: [not_null]
+      - name: deal_ref
+        data_tests: [not_null]
+      - name: quarantine_reason
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [duplicate_submission, missing_deal_date, deal_dated_after_submission, missing_area,
+                         area_out_of_range, unknown_building, area_exceeds_building, missing_submarket,
+                         unmapped_deal_type, unmapped_sector, missing_fx_rate]
+      - name: rent_suppressed_reason
+        data_tests:
+          - accepted_values: {arguments: {values: [rent_out_of_range]}}
+      - name: duplicate_rank
+        description: 1 for the first submission of a deal; higher for repeats of the same deal.
+      - name: duplicate_of_deal_ref
+        description: For a repeated submission, the reference of the first one.
+
+  - name: int_deals_clean
+    description: The deals that passed every check; the source of gold.fct_leasing_deal.
+    columns:
+      - name: deal_key
+        data_tests: [unique, not_null]
+      - name: deal_date
+        data_tests: [not_null]
+      - name: submarket_id
+        data_tests: [not_null]
+      - name: building_key
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('int_buildings'), field: building_key}}
+      - name: area_m2
+        data_tests:
+          - not_null
+          - expect_between: {arguments: {min_value: 100, max_value: 60000}}
+      - name: rent_eur_m2_yr
+        description: Null when the market withheld the rent or the rent was suppressed as implausible.
+        data_tests:
+          - expect_between: {arguments: {min_value: 50, max_value: 3500}}
+      - name: deal_type_code
+        data_tests:
+          - not_null
+          - accepted_values: {arguments: {values: [NEW, REN, EXP, SUB, PRE]}}
+      - name: sector_code
+        data_tests: [not_null]
+      - name: quarantine_reason
+        description: Always null here.

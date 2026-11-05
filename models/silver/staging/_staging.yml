@@ -1,0 +1,199 @@
+version: 2
+
+# The staging layer: one model per market and dataset, all producing the SAME columns. The column
+# definitions are written once per dataset, on the London model (YAML anchors), and attached to every
+# other market's model with an alias.
+
+models:
+  - name: stg_lon__market_stats
+    description: London quarterly market submission in the shared staging layout (sq ft and GBP per sq ft per year as reported).
+    columns: &market_stats_columns
+      - name: market_id
+        description: Market code (LON, PAR, AMS, FRA, WAW).
+        data_tests: [not_null]
+      - name: submarket_local_name
+        description: The submarket name exactly as the market writes it; mapped to a shared id in silver.int_market_stats.
+        data_tests: [not_null]
+      - name: period_label
+        description: The quarter exactly as the market writes it, e.g. "Q3 2026", "T3 2026", "3. Quartal 2026".
+      - name: period_year
+        description: Year parsed from period_label.
+        data_tests: [not_null]
+      - name: period_quarter
+        description: Quarter number (1-4) parsed from period_label.
+        data_tests:
+          - not_null
+          - accepted_values: {arguments: {values: [1, 2, 3, 4], quote: false}}
+      - name: quarter_id
+        description: Standard quarter id, e.g. 2026Q3.
+        data_tests: [not_null]
+      - name: period_end_date
+        description: Last day of the quarter.
+        data_tests: [not_null]
+      - name: stock_m2
+        description: Total office stock in square metres (converted from square feet where the market reports in sq ft).
+        data_tests:
+          - not_null
+          - is_positive
+      - name: vacant_m2
+        description: Vacant space in square metres. Where the market reports a vacancy rate, this is stock x rate.
+        data_tests: [not_null]
+      - name: take_up_m2
+        description: Take-up in the quarter, square metres.
+        data_tests: [not_null]
+      - name: prime_rent_local
+        description: Prime rent as reported, in the market's own currency and basis (see rent_currency, rent_unit).
+        data_tests: [not_null]
+      - name: rent_currency
+        description: Currency of prime_rent_local.
+        data_tests:
+          - accepted_values: {arguments: {values: [GBP, EUR, PLN]}}
+      - name: rent_unit
+        description: Basis of prime_rent_local.
+        data_tests:
+          - accepted_values: {arguments: {values: [per_sqft_year, per_m2_year, per_m2_month]}}
+      - name: prime_yield
+        description: Prime yield as a fraction (0.04 = 4%), whatever notation the market used.
+        data_tests:
+          - not_null
+          - expect_between: {arguments: {min_value: 0.02, max_value: 0.12}}
+      - name: completions_m2
+        description: Space completed in the quarter, square metres.
+      - name: under_construction_m2
+        description: Space under construction at the quarter end, square metres.
+      - name: submitted_at
+        description: When the market submitted the row (portal timestamp).
+        data_tests: [not_null]
+      - name: source_table
+        description: The bronze table the row came from.
+  - name: stg_par__market_stats
+    description: Paris quarterly market submission in the shared staging layout (French number formats and "T3 2026" quarters parsed).
+    columns: *market_stats_columns
+  - name: stg_ams__market_stats
+    description: Amsterdam quarterly market submission in the shared staging layout.
+    columns: *market_stats_columns
+  - name: stg_fra__market_stats
+    description: Frankfurt quarterly market submission in the shared staging layout (vacancy reported as a rate, rents per month, German number formats).
+    columns: *market_stats_columns
+  - name: stg_waw__market_stats
+    description: Warsaw quarterly market submission in the shared staging layout (yields reported as decimals, rents per month).
+    columns: *market_stats_columns
+
+  - name: stg_lon__deals
+    description: London leasing deal log in the shared staging layout.
+    columns: &deals_columns
+      - name: market_id
+        data_tests: [not_null]
+      - name: deal_ref
+        description: The market's own deal reference.
+        data_tests: [not_null]
+      - name: deal_date_raw
+        description: The date exactly as the market wrote it.
+      - name: deal_date
+        description: Deal date parsed from the market's format.
+      - name: building_name
+        description: Building name as written in the deal log; matched to the register in silver.int_deals.
+      - name: building_address
+      - name: submarket_local_name
+        description: Submarket as written, or null when the market left it blank (silver derives it from the building).
+      - name: tenant_name_raw
+        description: Tenant name as written.
+      - name: sector_local
+        description: Tenant sector label in the market's own vocabulary.
+      - name: area_m2
+        description: Let area in square metres.
+      - name: rent_local
+        description: Rent as reported, in the market's own currency and basis; null when the market withheld it.
+      - name: rent_currency
+        data_tests:
+          - accepted_values: {arguments: {values: [GBP, EUR, PLN]}}
+      - name: rent_unit
+        data_tests:
+          - accepted_values: {arguments: {values: [per_sqft_year, per_m2_year, per_m2_month]}}
+      - name: lease_term_years
+      - name: deal_type_local
+        description: Deal type label in the market's own vocabulary.
+      - name: submitted_at
+        data_tests: [not_null]
+      - name: source_table
+  - name: stg_par__deals
+    description: Paris leasing deal log in the shared staging layout (French headers and labels).
+    columns: *deals_columns
+  - name: stg_ams__deals
+    description: Amsterdam leasing deal log in the shared staging layout.
+    columns: *deals_columns
+  - name: stg_fra__deals
+    description: Frankfurt leasing deal log in the shared staging layout (German headers and labels).
+    columns: *deals_columns
+  - name: stg_waw__deals
+    description: Warsaw leasing deal log in the shared staging layout; some deals are reported in PLN.
+    columns: *deals_columns
+
+  - name: stg_lon__buildings
+    description: London building register in the shared staging layout.
+    columns: &buildings_columns
+      - name: market_id
+        data_tests: [not_null]
+      - name: building_id_local
+        description: The market's own building id.
+        data_tests: [not_null]
+      - name: building_name
+      - name: building_address
+      - name: postcode
+      - name: submarket_local_name
+      - name: grade_local
+        description: Building grade in the market's own scale (e.g. "Seconde main récent", "Klasse A", "B+").
+      - name: total_area_m2
+        description: Lettable area in square metres.
+        data_tests: [not_null, is_positive]
+      - name: year_built
+      - name: year_refurbished
+      - name: last_updated
+        description: When the market last updated the row; the latest row per building wins in silver.
+        data_tests: [not_null]
+      - name: source_table
+  - name: stg_par__buildings
+    description: Paris building register in the shared staging layout.
+    columns: *buildings_columns
+  - name: stg_ams__buildings
+    description: Amsterdam building register in the shared staging layout.
+    columns: *buildings_columns
+  - name: stg_fra__buildings
+    description: Frankfurt building register in the shared staging layout.
+    columns: *buildings_columns
+  - name: stg_waw__buildings
+    description: Warsaw building register in the shared staging layout.
+    columns: *buildings_columns
+
+  - name: stg_lon__availability
+    description: London quarterly building availability in the shared staging layout.
+    columns: &availability_columns
+      - name: market_id
+        data_tests: [not_null]
+      - name: building_id_local
+        data_tests: [not_null]
+      - name: period_label
+      - name: quarter_id
+        data_tests: [not_null]
+      - name: period_end_date
+        data_tests: [not_null]
+      - name: available_m2
+        description: Space available in the building at the quarter end, square metres.
+        data_tests: [not_null]
+      - name: sublease_m2
+        description: Of which offered for sublease, square metres.
+      - name: submitted_at
+        data_tests: [not_null]
+      - name: source_table
+  - name: stg_par__availability
+    description: Paris quarterly building availability in the shared staging layout.
+    columns: *availability_columns
+  - name: stg_ams__availability
+    description: Amsterdam quarterly building availability in the shared staging layout.
+    columns: *availability_columns
+  - name: stg_fra__availability
+    description: Frankfurt quarterly building availability in the shared staging layout.
+    columns: *availability_columns
+  - name: stg_waw__availability
+    description: Warsaw quarterly building availability in the shared staging layout.
+    columns: *availability_columns

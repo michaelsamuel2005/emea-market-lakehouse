@@ -1,0 +1,109 @@
+// DAX measures for the EMEA Office Markets report (powerbi/README.md, step 4).
+// Paste each one with Home > New measure, on the table named in its comment. The definitions match
+// gold.dim_metric_definition and the Databricks metric view / Snowflake semantic view: ratios are
+// built from sums, prime rent is the highest submarket, prime yield the keenest.
+
+// ---------------------------------------------------------------------------------------------
+// Table: fct_market_quarter  (market statistics as reported, one row per market, submarket, quarter)
+// ---------------------------------------------------------------------------------------------
+
+Stock (sq m) =
+SUM ( fct_market_quarter[stock_m2] )
+
+Vacant (sq m) =
+SUM ( fct_market_quarter[vacant_m2] )
+
+// Stock-weighted: sum of vacant over sum of stock, never an average of submarket rates. Format: percentage, 1 decimal.
+Vacancy rate =
+DIVIDE ( [Vacant (sq m)], [Stock (sq m)] )
+
+Take-up (sq m) =
+SUM ( fct_market_quarter[take_up_m2] )
+
+// The market's prime rent is its best submarket.
+Prime rent (EUR/sq m/yr) =
+MAX ( fct_market_quarter[prime_rent_eur_m2_yr] )
+
+// The market's prime yield is its keenest submarket. Format: percentage, 2 decimals.
+Prime yield =
+MIN ( fct_market_quarter[prime_yield] )
+
+Deals =
+SUM ( fct_market_quarter[deal_count] )
+
+// Bottom-up vacancy from the tracked building register, for the reconciliation visual. Format: percentage, 1 decimal.
+Register vacancy rate =
+DIVIDE (
+    SUM ( fct_market_quarter[register_available_m2] ),
+    SUM ( fct_market_quarter[register_tracked_area_m2] )
+)
+
+// The same KPI pinned to the latest quarter in the data, for a card row that should not depend on the
+// quarter slicer. The same pattern works for any measure above.
+Vacancy rate (latest quarter) =
+VAR latest =
+    CALCULATE ( MAX ( fct_market_quarter[quarter_id] ), REMOVEFILTERS ( dim_quarter ) )
+RETURN
+    CALCULATE ( [Vacancy rate], dim_quarter[quarter_id] = latest )
+
+// ---------------------------------------------------------------------------------------------
+// Table: mart_market_kpis  (the shared KPI definitions, one row per market and quarter)
+// ---------------------------------------------------------------------------------------------
+
+// Read from the mart, not recomputed: a definition that lives in one place. Blank unless exactly one
+// market and one quarter are in context, because the mart's growth figure is defined at that grain.
+// Format: percentage, 1 decimal.
+Prime rent growth YoY =
+IF (
+    HASONEVALUE ( dim_market[market_id] ) && HASONEVALUE ( dim_quarter[quarter_id] ),
+    MAX ( mart_market_kpis[prime_rent_growth_yoy] )
+)
+
+Net absorption (sq m) =
+IF (
+    HASONEVALUE ( dim_market[market_id] ) && HASONEVALUE ( dim_quarter[quarter_id] ),
+    MAX ( mart_market_kpis[net_absorption_m2] )
+)
+
+// Must be 0.0 for every market and quarter: the rate re-aggregated from the fact equals the mart's.
+// The same invariant as tests/assert_market_kpis_match_fact.sql, visible on the report.
+KPI check: vacancy =
+IF (
+    HASONEVALUE ( dim_market[market_id] ) && HASONEVALUE ( dim_quarter[quarter_id] ),
+    [Vacancy rate] - MAX ( mart_market_kpis[vacancy_rate] )
+)
+
+// ---------------------------------------------------------------------------------------------
+// Table: fct_leasing_deal  (one row per deal that passed every silver check)
+// ---------------------------------------------------------------------------------------------
+
+Deals (count) =
+COUNTROWS ( fct_leasing_deal )
+
+Area let (sq m) =
+SUM ( fct_leasing_deal[area_m2] )
+
+Average deal size (sq m) =
+DIVIDE ( [Area let (sq m)], [Deals (count)] )
+
+// Area-weighted average rent of the deals that have a rent (141 of 5,608 have none: withheld by the
+// market or suppressed as implausible). Both sides exclude them, as in the metric view.
+Achieved rent (EUR/sq m/yr) =
+DIVIDE (
+    SUM ( fct_leasing_deal[annual_rent_eur] ),
+    CALCULATE (
+        SUM ( fct_leasing_deal[area_m2] ),
+        NOT ISBLANK ( fct_leasing_deal[rent_eur_m2_yr] )
+    )
+)
+
+Average lease term (years) =
+AVERAGE ( fct_leasing_deal[lease_term_years] )
+
+// Deals signed while the building was in an earlier version than today's (before a refurbishment the
+// market later reported). 207 on the committed data. Needs the relationship to dim_building_history.
+Deals in re-graded buildings =
+CALCULATE (
+    [Deals (count)],
+    dim_building_history[is_current] = FALSE ()
+)

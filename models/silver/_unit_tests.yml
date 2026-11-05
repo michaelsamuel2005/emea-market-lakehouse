@@ -1,0 +1,169 @@
+version: 2
+
+# dbt unit tests: fixed input rows -> the exact output the logic must produce. They test the rules,
+# not the data, and run in `dbt build` before the model they test (`dbt test --select test_type:unit`
+# runs them alone). Values are chosen to be exact in floating point (12.5% of 1,600,000 is 200,000).
+
+unit_tests:
+
+  - name: frankfurt_formats_parse_to_the_shared_layout
+    description: >
+      German quarter labels ("3. Quartal 2026"), thousands points and decimal commas, a vacancy reported as a
+      rate in percent, and a quarter label that matches no pattern (it must become null, not a wrong quarter).
+    model: stg_fra__market_stats
+    given:
+      - input: source('bronze', 'fra_market_stats')
+        rows:
+          - {Quartal: "3. Quartal 2026", Teilmarkt: Bankenviertel, Flaechenbestand_m2: "1.600.000", Leerstandsquote_prozent: "12,5",
+             Flaechenumsatz_m2: "28.195", Spitzenmiete_EUR_m2_monat: "50,00", Spitzenrendite_prozent: "4,75",
+             Fertigstellungen_m2: "0", Im_Bau_m2: "62.909", Gemeldet_am: "2026-10-23 09:00:00"}
+          - {Quartal: "4. Quartal 2025", Teilmarkt: Westend, Flaechenbestand_m2: "800.000", Leerstandsquote_prozent: "10",
+             Flaechenumsatz_m2: "12.000", Spitzenmiete_EUR_m2_monat: "48,50", Spitzenrendite_prozent: "5",
+             Fertigstellungen_m2: "1.500", Im_Bau_m2: "0", Gemeldet_am: "2026-01-20 09:00:00"}
+          - {Quartal: "Q3/2026", Teilmarkt: Westend, Flaechenbestand_m2: "800.000", Leerstandsquote_prozent: "10",
+             Flaechenumsatz_m2: "0", Spitzenmiete_EUR_m2_monat: "48,50", Spitzenrendite_prozent: "5",
+             Fertigstellungen_m2: "0", Im_Bau_m2: "0", Gemeldet_am: "2026-10-23 09:00:00"}
+      - input: ref('fra_market_stats')
+        rows: []
+    expect:
+      rows:
+        - {market_id: FRA, submarket_local_name: Bankenviertel, quarter_id: 2026Q3, period_end_date: 2026-09-30,
+           stock_m2: 1600000.0, vacant_m2: 200000.0, take_up_m2: 28195.0, prime_rent_local: 50.0, rent_currency: EUR,
+           rent_unit: per_m2_month, prime_yield: 0.0475, completions_m2: 0.0, under_construction_m2: 62909.0}
+        - {market_id: FRA, submarket_local_name: Westend, quarter_id: 2025Q4, period_end_date: 2025-12-31,
+           stock_m2: 800000.0, vacant_m2: 80000.0, take_up_m2: 12000.0, prime_rent_local: 48.5, rent_currency: EUR,
+           rent_unit: per_m2_month, prime_yield: 0.05, completions_m2: 1500.0, under_construction_m2: 0.0}
+        - {market_id: FRA, submarket_local_name: Westend, quarter_id: null, period_end_date: null,
+           stock_m2: 800000.0, vacant_m2: 80000.0, take_up_m2: 0.0, prime_rent_local: 48.5, rent_currency: EUR,
+           rent_unit: per_m2_month, prime_yield: 0.05, completions_m2: 0.0, under_construction_m2: 0.0}
+
+  - name: warsaw_yields_are_fractions_not_percentages
+    description: Warsaw writes yields as 0.0625; rate_format fraction must keep them as they are, not divide by 100.
+    model: stg_waw__market_stats
+    given:
+      - input: source('bronze', 'waw_market_stats')
+        rows:
+          - {period: 2026Q3, submarket: CBD, stock_m2: "1600000", vacant_m2: "200000", take_up_m2: "32332",
+             prime_rent_eur_m2_month: "25.50", prime_yield: "0.0625", completions_m2: "0", under_construction_m2: "49586",
+             submitted_at: "2026-10-13 09:00:00"}
+      - input: ref('waw_market_stats')
+        rows: []
+    expect:
+      rows:
+        - {quarter_id: 2026Q3, period_end_date: 2026-09-30, prime_yield: 0.0625, vacant_m2: 200000.0, prime_rent_local: 25.5}
+
+  - name: london_deal_dates_parse_or_become_null
+    description: >
+      London's deal log writes dates as dd/mm/yyyy, sometimes with one-digit days and months. An impossible date
+      (31 February) or a blank must become null, which int_deals then quarantines as missing_deal_date.
+    model: stg_lon__deals
+    given:
+      - input: source('bronze', 'lon_deals')
+        rows:
+          - {Deal_Ref: L1, Deal_Date: "14/08/2026", Building: Cobalt Square, Submarket: City, Tenant: Atlas Institute,
+             Area_sq_ft: "10,000", Rent_GBP_psf_pa: "131.20", Deal_Type: "New Lease ", Submitted_At: "2026-10-15 09:00:00"}
+          - {Deal_Ref: L2, Deal_Date: "1/9/2026", Building: Cobalt Square, Submarket: City, Tenant: Atlas Institute,
+             Area_sq_ft: "5,000", Rent_GBP_psf_pa: "", Deal_Type: Renewal, Submitted_At: "2026-10-15 09:00:00"}
+          - {Deal_Ref: L3, Deal_Date: "31/02/2026", Building: Cobalt Square, Submarket: "", Tenant: Atlas Institute,
+             Area_sq_ft: "5,000", Rent_GBP_psf_pa: "60", Deal_Type: Renewal, Submitted_At: "2026-10-15 09:00:00"}
+          - {Deal_Ref: L4, Deal_Date: "", Building: Cobalt Square, Submarket: City, Tenant: Atlas Institute,
+             Area_sq_ft: "5,000", Rent_GBP_psf_pa: "60", Deal_Type: Renewal, Submitted_At: "2026-10-15 09:00:00"}
+      - input: ref('lon_deals')
+        rows: []
+    expect:
+      rows:
+        - {deal_ref: L1, deal_date: 2026-08-14, deal_type_local: New Lease, submarket_local_name: City, rent_local: 131.2,
+           rent_currency: GBP, rent_unit: per_sqft_year}
+        - {deal_ref: L2, deal_date: 2026-09-01, deal_type_local: Renewal, submarket_local_name: City, rent_local: null,
+           rent_currency: GBP, rent_unit: per_sqft_year}
+        - {deal_ref: L3, deal_date: null, deal_type_local: Renewal, submarket_local_name: null, rent_local: 60.0,
+           rent_currency: GBP, rent_unit: per_sqft_year}
+        - {deal_ref: L4, deal_date: null, deal_type_local: Renewal, submarket_local_name: City, rent_local: 60.0,
+           rent_currency: GBP, rent_unit: per_sqft_year}
+
+  - name: deal_checks_quarantine_or_repair_each_planted_problem
+    description: >
+      The silver rules that decide what reaches gold, one deal per rule: a clean deal passes; the same deal sent again
+      with the tenant spelt differently is a duplicate of the first; a deal dated after its submission, an impossible
+      area, an area bigger than its building and an unknown building are quarantined; a rent typed per month into an
+      annual file is suppressed but the deal is kept.
+    model: int_deals
+    given:
+      - input: ref('int_deals_unioned')
+        rows:
+          - {market_id: LON, deal_ref: D1, deal_date: 2026-05-10, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: Acme Ltd, sector_local: Finance, area_m2: 1000.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+          - {market_id: LON, deal_ref: D1-again, deal_date: 2026-05-10, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: ACME, sector_local: Finance, area_m2: 1000.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-24 09:00:00"}
+          - {market_id: LON, deal_ref: D3, deal_date: 2026-08-01, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: Birch, sector_local: Finance, area_m2: 1200.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+          - {market_id: LON, deal_ref: D4, deal_date: 2026-05-12, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: Cedar, sector_local: Finance, area_m2: 50.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+          - {market_id: LON, deal_ref: D5, deal_date: 2026-05-13, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: Delta, sector_local: Finance, area_m2: 6000.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+          - {market_id: LON, deal_ref: D6, deal_date: 2026-05-14, building_name: Test House, submarket_local_name: City,
+             tenant_name_raw: Elm, sector_local: Finance, area_m2: 800.0, rent_local: 4.5, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+          - {market_id: LON, deal_ref: D7, deal_date: 2026-05-15, building_name: Nowhere Tower, submarket_local_name: City,
+             tenant_name_raw: Fir, sector_local: Finance, area_m2: 800.0, rent_local: 50.0, rent_currency: GBP,
+             rent_unit: per_sqft_year, deal_type_local: New Lease, submitted_at: "2026-07-15 09:00:00"}
+      - input: ref('int_buildings')
+        rows:
+          - {building_key: b1, market_id: LON, building_id_local: LON-B9999, building_name: Test House, submarket_id: CITY,
+             total_area_m2: 5000.0}
+      - input: ref('ref_submarkets')
+        rows:
+          - {market_id: LON, submarket_id: CITY, submarket_name: City, local_name: City}
+      - input: ref('ref_deal_type_mapping')
+        rows:
+          - {market_id: LON, local_deal_type: New Lease, deal_type_code: NEW}
+      - input: ref('ref_sector_mapping')
+        rows:
+          - {market_id: LON, local_sector: Finance, sector_code: FIN}
+      - input: ref('ref_fx_rates')
+        rows:
+          - {quarter_id: 2026Q2, currency_code: GBP, units_per_eur: 0.8}
+      - input: ref('int_market_stats')
+        rows:
+          - {market_id: LON, submarket_id: CITY, quarter_id: 2026Q2, prime_rent_eur_m2_yr: 1000.0}
+    expect:
+      rows:
+        - {deal_ref: D1, quarantine_reason: null, rent_suppressed_reason: null, duplicate_of_deal_ref: null, tenant_name_norm: acme}
+        - {deal_ref: D1-again, quarantine_reason: duplicate_submission, rent_suppressed_reason: null, duplicate_of_deal_ref: D1, tenant_name_norm: acme}
+        - {deal_ref: D3, quarantine_reason: deal_dated_after_submission, rent_suppressed_reason: null, duplicate_of_deal_ref: null, tenant_name_norm: birch}
+        - {deal_ref: D4, quarantine_reason: area_out_of_range, rent_suppressed_reason: null, duplicate_of_deal_ref: null, tenant_name_norm: cedar}
+        - {deal_ref: D5, quarantine_reason: area_exceeds_building, rent_suppressed_reason: null, duplicate_of_deal_ref: null, tenant_name_norm: delta}
+        - {deal_ref: D6, quarantine_reason: null, rent_suppressed_reason: rent_out_of_range, duplicate_of_deal_ref: null, tenant_name_norm: elm}
+        - {deal_ref: D7, quarantine_reason: unknown_building, rent_suppressed_reason: null, duplicate_of_deal_ref: null, tenant_name_norm: fir}
+
+  - name: building_versions_tile_time
+    description: >
+      A building sent twice (refurbished from grade B to A) gets two versions: the first valid from 1900-01-01 until
+      the second's register date, the second current until 9999-12-31. A building sent once has one current version.
+    model: int_building_versions
+    given:
+      - input: ref('int_buildings_unioned')
+        rows:
+          - {market_id: AMS, building_id_local: AMS-B0020, building_name: 12 Gustav Mahlerlaan, submarket_local_name: Zuidas,
+             grade_local: B, total_area_m2: 5297.0, year_built: 1990, year_refurbished: 2017, last_updated: 2026-03-05}
+          - {market_id: AMS, building_id_local: AMS-B0020, building_name: 12 Gustav Mahlerlaan, submarket_local_name: Zuidas,
+             grade_local: A, total_area_m2: 5297.0, year_built: 1990, year_refurbished: 2026, last_updated: 2026-10-10}
+          - {market_id: AMS, building_id_local: AMS-B0021, building_name: Wren Quay, submarket_local_name: Zuidas,
+             grade_local: B, total_area_m2: 24471.0, year_built: 1976, last_updated: 2026-07-27}
+      - input: ref('ref_submarkets')
+        rows:
+          - {market_id: AMS, submarket_id: ZUID, submarket_name: Zuidas, local_name: Zuidas}
+      - input: ref('ref_grade_mapping')
+        rows:
+          - {market_id: AMS, local_grade: A, grade_code: A}
+          - {market_id: AMS, local_grade: B, grade_code: B}
+    expect:
+      rows:
+        - {building_id_local: AMS-B0020, version_number: 1, grade_code: B, valid_from: 1900-01-01, valid_to: 2026-10-10, is_current: false}
+        - {building_id_local: AMS-B0020, version_number: 2, grade_code: A, valid_from: 2026-10-10, valid_to: 9999-12-31, is_current: true}
+        - {building_id_local: AMS-B0021, version_number: 1, grade_code: B, valid_from: 1900-01-01, valid_to: 9999-12-31, is_current: true}

@@ -1,0 +1,2 @@
+# Run the project on a Databricks workspace: databricks/RUNBOOK.md
+dbt-databricks==1.13.0

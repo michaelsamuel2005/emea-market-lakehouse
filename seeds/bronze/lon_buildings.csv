@@ -1,0 +1,157 @@
+Building_ID,Building_Name,Address,Postcode,Submarket,Grade,NIA_sq_ft,Year_Built,Last_Refurbished,Last_Updated
+LON-B0001,162 Kingsway,162 Kingsway,WC2B,City,Grade A,"179,090",2019,,05/04/2026
+LON-B0002,147 Gresham Street,147 Gresham Street,EC2R,City,Grade A,"151,298",1990,2020,21/05/2026
+LON-B0003,34 Canada Square,34 Canada Square,E14,City,Grade B,"262,295",1986,2011,13/04/2026
+LON-B0004,Lumen Centre,108 Leadenhall Street,EC3A,City,Grade B,"176,033",1970,2005,20/07/2026
+LON-B0005,123 High Holborn,123 High Holborn,WC1V,City,Grade B,"288,946",2021,,27/05/2026
+LON-B0006,142 Blackfriars Road,142 Blackfriars Road,SE1,City,Grade B,"347,825",1975,2020,02/04/2026
+LON-B0007,73 Cannon Street,73 Cannon Street,EC4N,City,Grade B,"97,661",1965,2007,03/07/2026
+LON-B0008,23 Regent Street,23 Regent Street,W1B,City,Grade A,"138,101",1968,,26/03/2026
+LON-B0009,131 Canada Square,131 Canada Square,E14,City,Grade A,"78,426",2006,,27/01/2026
+LON-B0010,Cobalt Square,93 Blackfriars Road,SE1,City,Grade B,"38,352",2011,2024,20/07/2026
+LON-B0011,167 Cheapside,167 Cheapside,EC2V,City,Grade A,"94,604",1987,2008,30/07/2026
+LON-B0012,1 Leadenhall Street,1 Leadenhall Street,EC3A,City,Grade B,"131,255",1998,2005,26/07/2026
+LON-B0013,51 Blackfriars Road,51 Blackfriars Road,SE1,City,Grade B,"241,994",2013,,24/06/2026
+LON-B0014,81 Bank Street,81 Bank Street,E14,City,Grade B,"134,129",2014,,16/07/2026
+LON-B0015,Lumen House,97 Cannon Street,EC4N,City,Grade A,"90,600",1987,2011,01/07/2026
+LON-B0016,Osprey Building,66 Southwark Street,SE1,City,Grade A,"43,906",2022,,18/01/2026
+LON-B0017,169 Berkeley Square,169 Berkeley Square,W1J,City,Grade A,"117,736",1998,,09/06/2026
+LON-B0018,Juniper Court,157 Moorgate,EC2Y,City,Grade A,"305,264",1981,,26/01/2026
+LON-B0019,173 Hanover Square,173 Hanover Square,W1S,City,Grade C,"58,136",2013,2023,28/07/2026
+LON-B0020,Marlow Centre,150 Cannon Street,EC4N,City,Grade B,"175,000",1994,,26/07/2026
+LON-B0021,116 Cheapside,116 Cheapside,EC2V,City,Grade B,"246,300",1960,2019,03/02/2026
+LON-B0022,Aldwyn Square,141 High Holborn,WC1V,City,Grade A,"179,822",2016,,30/05/2026
+LON-B0023,Corvid Gate,53 Grosvenor Street,W1K,City,Grade C,"76,790",2020,,10/06/2026
+LON-B0024,73 Berkeley Square,73 Berkeley Square,W1J,City,Grade B,"97,952",2002,2013,24/01/2026
+LON-B0025,27 Fenchurch Street,27 Fenchurch Street,EC3M,City,Grade B,"190,672",1998,2012,25/06/2026
+LON-B0026,18 Bishopsgate,18 Bishopsgate,EC2M,City,Grade A,"142,396",2023,,04/02/2026
+LON-B0027,Granite Building,64 Bishopsgate,EC2M,City,Grade B,"171,297",1981,2023,10/02/2026
+LON-B0028,Solace Point,127 Cheapside,EC2V,City,Grade A,"108,274",2017,,01/08/2026
+LON-B0029,Orbis Centre,67 Chancery Lane,WC2A,City,Grade B,"57,652",1986,2015,08/06/2026
+LON-B0030,79 Blackfriars Road,79 Blackfriars Road,SE1,City,Grade A,"124,614",1991,2025,29/01/2026
+LON-B0031,97 Southwark Street,97 Southwark Street,SE1,West End,Grade B,"121,503",1991,2011,06/07/2026
+LON-B0032,158 Cannon Street,158 Cannon Street,EC4N,West End,Grade A,"115,787",1966,2008,22/05/2026
+LON-B0033,4 Chancery Lane,4 Chancery Lane,WC2A,West End,Grade C,"82,193",2017,,26/05/2026
+LON-B0034,150 Southwark Street,150 Southwark Street,SE1,West End,Grade A,"132,837",2010,,06/07/2026
+LON-B0035,Ember Plaza,174 Oxford Street,W1D,West End,Grade C,"152,966",1965,2018,07/02/2026
+LON-B0036,70 Cannon Street,70 Cannon Street,EC4N,West End,Grade A,"107,833",1978,,11/03/2026
+LON-B0037,12 Moorgate,12 Moorgate,EC2Y,West End,Grade B,"52,743",2016,,07/07/2026
+LON-B0038,118 Southwark Street,118 Southwark Street,SE1,West End,Grade A,"283,338",1989,,26/04/2026
+LON-B0039,29 Berkeley Square,29 Berkeley Square,W1J,West End,Grade C,"104,109",2012,,16/06/2026
+LON-B0040,20 Hanover Square,20 Hanover Square,W1S,West End,Grade A,"341,431",1980,,10/03/2026
+LON-B0041,28 Gresham Street,28 Gresham Street,EC2R,West End,Grade B,"195,882",1985,,21/01/2026
+LON-B0042,140 Oxford Street,140 Oxford Street,W1D,West End,Grade B,"113,064",2020,,20/03/2026
+LON-B0043,79 Bishopsgate,79 Bishopsgate,EC2M,West End,Grade B,"126,153",1981,2019,17/04/2026
+LON-B0044,Harrow Quay,10 Kingsway,WC2B,West End,Grade B,"201,167",1960,,28/07/2026
+LON-B0045,Ridgeway Park,32 Bishopsgate,EC2M,West End,Grade B,"145,173",2003,2009,11/07/2026
+LON-B0046,33 Moorgate,33 Moorgate,EC2Y,West End,Grade A,"82,591",1992,2014,06/03/2026
+LON-B0047,Helix Centre,22 Chancery Lane,WC2A,West End,Grade B,"91,106",1971,,11/06/2026
+LON-B0048,Marlow Square,177 Fenchurch Street,EC3M,West End,Grade B,"106,498",2007,2024,31/05/2026
+LON-B0049,Granite Square,7 Oxford Street,W1D,West End,Grade B,"90,126",1990,2015,04/02/2026
+LON-B0050,Osprey Gate,18 Grosvenor Street,W1K,West End,Grade B,"45,574",2001,2008,03/06/2026
+LON-B0051,161 Blackfriars Road,161 Blackfriars Road,SE1,West End,Grade B,"91,795",2002,2007,13/02/2026
+LON-B0052,23 Kingsway,23 Kingsway,WC2B,West End,Grade B,"55,445",2017,,18/01/2026
+LON-B0053,Atlas Court,97 Southwark Street,SE1,West End,Grade C,"143,946",2000,,08/06/2026
+LON-B0054,69 Blackfriars Road,69 Blackfriars Road,SE1,West End,Grade C,"39,665",1983,,23/05/2026
+LON-B0055,Quill Centre,57 Chancery Lane,WC2A,West End,Grade C,"183,449",1976,,25/04/2026
+LON-B0056,4 Moorgate,4 Moorgate,EC2Y,West End,Grade B,"222,135",2011,2025,01/02/2026
+LON-B0057,Ridgeway Tower,39 Berkeley Square,W1J,West End,Grade C,"38,050",2019,,26/02/2026
+LON-B0058,56 Bank Street,56 Bank Street,E14,West End,Grade A,"450,943",2021,,27/01/2026
+LON-B0059,78 Leadenhall Street,78 Leadenhall Street,EC3A,West End,Grade B,"85,670",1988,2005,23/03/2026
+LON-B0060,Halden House,50 Bishopsgate,EC2M,West End,Grade C,"182,556",1970,2008,10/07/2026
+LON-B0061,Helix Quay,98 Hanover Square,W1S,Midtown,Grade A,"63,023",1987,,31/01/2026
+LON-B0062,Orbis Plaza,151 Grosvenor Street,W1K,Midtown,Grade B,"168,563",1965,2018,10/02/2026
+LON-B0063,Northgate Park,60 Regent Street,W1B,Midtown,Grade A,"95,444",1967,,13/03/2026
+LON-B0064,103 Chancery Lane,103 Chancery Lane,WC2A,Midtown,Grade A,"168,380",2019,,30/05/2026
+LON-B0065,Kestrel Gate,179 Blackfriars Road,SE1,Midtown,Grade B,"430,718",2012,,23/03/2026
+LON-B0066,130 Blackfriars Road,130 Blackfriars Road,SE1,Midtown,Grade B,"116,713",1974,2020,04/07/2026
+LON-B0067,48 Gresham Street,48 Gresham Street,EC2R,Midtown,Grade A,"72,355",1991,2012,05/05/2026
+LON-B0068,Juniper Park,103 Oxford Street,W1D,Midtown,Grade A,"257,903",2002,2022,18/06/2026
+LON-B0069,178 Cheapside,178 Cheapside,EC2V,Midtown,Grade A,"121,449",1967,,10/05/2026
+LON-B0070,Corvid Point,71 Cannon Street,EC4N,Midtown,Grade B,"61,817",1988,2007,21/07/2026
+LON-B0071,Ashcombe Point,175 Canada Square,E14,Midtown,Grade B,"106,670",2021,,02/04/2026
+LON-B0072,Veridian Square,13 Moorgate,EC2Y,Midtown,Grade A,"105,465",1980,2018,26/07/2026
+LON-B0073,26 Fenchurch Street,26 Fenchurch Street,EC3M,Midtown,Grade C,"159,973",2000,2011,15/06/2026
+LON-B0074,Osprey Plaza,52 Bank Street,E14,Midtown,Grade A,"348,083",1971,,08/04/2026
+LON-B0075,Ashcombe Tower,9 Oxford Street,W1D,Midtown,Grade C,"202,222",2020,,11/07/2026
+LON-B0076,Granite Park,118 Blackfriars Road,SE1,Midtown,,"136,831",1977,2012,24/07/2026
+LON-B0077,108 Bishopsgate,108 Bishopsgate,EC2M,Midtown,Grade A,"242,070",1990,2010,06/07/2026
+LON-B0078,116 Canada Square,116 Canada Square,E14,Midtown,Grade B,"64,422",1962,2013,30/04/2026
+LON-B0079,151 Gresham Street,151 Gresham Street,EC2R,Midtown,Grade B,"185,688",1987,,26/03/2026
+LON-B0080,Sterling Plaza,142 Cannon Street,EC4N,Midtown,Grade B,"173,686",2001,2016,30/07/2026
+LON-B0081,50 Berkeley Square,50 Berkeley Square,W1J,Midtown,Grade A,"66,790",1995,,19/02/2026
+LON-B0082,Granite Place,92 Bank Street,E14,Midtown,Grade B,"59,492",1970,2011,04/06/2026
+LON-B0083,Halden Court,155 Cheapside,EC2V,Midtown,Grade A,"129,490",1977,,01/05/2026
+LON-B0084,Northgate Place,111 Oxford Street,W1D,Midtown,Grade A,"372,571",2016,,01/05/2026
+LON-B0085,Arden Gate,161 Leadenhall Street,EC3A,Midtown,Grade A,"223,975",1983,,01/02/2026
+LON-B0086,11 Oxford Street,11 Oxford Street,W1D,Midtown,Grade B,"133,053",2003,,25/01/2026
+LON-B0087,22 Canada Square,22 Canada Square,E14,Midtown,Grade A,"90,869",1992,,07/07/2026
+LON-B0088,164 Oxford Street,164 Oxford Street,W1D,Midtown,Grade B,"170,952",1999,,15/02/2026
+LON-B0089,Sterling Centre,60 Kingsway,WC2B,Midtown,Grade A,"260,002",2017,,10/05/2026
+LON-B0090,Quill House,64 Southwark Street,SE1,Midtown,Grade B,"88,404",1975,,02/03/2026
+LON-B0091,Aldwyn Quay,101 Leadenhall Street,EC3A,Southbank,Grade C,"163,202",2017,,30/03/2026
+LON-B0092,127 Kingsway,127 Kingsway,WC2B,Southbank,Grade B,"151,567",1984,,04/03/2026
+LON-B0093,Harrow Square,140 Bank Street,E14,Southbank,Grade B,"62,700",2011,2022,30/07/2026
+LON-B0094,Helix Place,5 High Holborn,WC1V,Southbank,Grade B,"135,625",1969,,16/03/2026
+LON-B0095,56 Berkeley Square,56 Berkeley Square,W1J,Southbank,Grade A,"133,623",2007,,17/07/2026
+LON-B0096,143 Canada Square,143 Canada Square,E14,Southbank,Grade C,"72,495",1985,,20/03/2026
+LON-B0097,146 High Holborn,146 High Holborn,WC1V,Southbank,Grade A,"108,285",2019,,26/02/2026
+LON-B0098,163 Gresham Street,163 Gresham Street,EC2R,Southbank,Grade B,"136,110",1965,2021,13/02/2026
+LON-B0099,Larkspur Square,10 Canada Square,E14,Southbank,Grade B,"105,540",1989,,16/07/2026
+LON-B0100,109 Fenchurch Street,109 Fenchurch Street,EC3M,Southbank,Grade A,"255,718",2021,,20/05/2026
+LON-B0101,Quill Place,104 Grosvenor Street,W1K,Southbank,Grade B,"72,043",2001,,31/07/2026
+LON-B0102,86 Cannon Street,86 Cannon Street,EC4N,Southbank,Grade A,"94,712",2015,,24/07/2026
+LON-B0103,172 High Holborn,172 High Holborn,WC1V,Southbank,Grade A,"274,049",2023,,11/02/2026
+LON-B0104,93 Oxford Street,93 Oxford Street,W1D,Southbank,Grade A,"136,766",1972,2007,09/03/2026
+LON-B0105,179 Bank Street,179 Bank Street,E14,Southbank,Grade A,"75,272",1982,2013,22/02/2026
+LON-B0106,10 Regent Street,10 Regent Street,W1B,Southbank,Grade B,"67,124",2022,,28/07/2026
+LON-B0107,Harrow Place,150 Berkeley Square,W1J,Southbank,Grade C,"54,465",2011,,24/07/2026
+LON-B0108,78 Kingsway,78 Kingsway,WC2B,Southbank,Grade A,"161,222",2010,,20/04/2026
+LON-B0109,54 Fenchurch Street,54 Fenchurch Street,EC3M,Southbank,Grade A,"90,266",1971,,19/03/2026
+LON-B0110,Juniper Plaza,3 Bank Street,E14,Southbank,Grade A,"111,213",2011,,05/04/2026
+LON-B0111,Beacon Place,48 Kingsway,WC2B,Southbank,Grade A,"150,856",1972,2011,21/04/2026
+LON-B0112,118 Canada Square,118 Canada Square,E14,Southbank,Grade A,"72,323",1987,,01/07/2026
+LON-B0113,Elmgrove Point,25 Grosvenor Street,W1K,Southbank,Grade B,"106,401",1969,2011,31/05/2026
+LON-B0114,91 Fenchurch Street,91 Fenchurch Street,EC3M,Southbank,Grade A,"40,397",1960,,20/04/2026
+LON-B0115,166 High Holborn,166 High Holborn,WC1V,Southbank,Grade A,"41,742",1961,2010,12/04/2026
+LON-B0116,Aldwyn Building,55 Bishopsgate,EC2M,Southbank,Grade C,"117,499",2009,2014,12/05/2026
+LON-B0117,8 High Holborn,8 High Holborn,WC1V,Southbank,Grade B,"53,820",1982,,21/02/2026
+LON-B0118,Ashcombe Centre,171 Gresham Street,EC2R,Southbank,Grade C,"255,568",1965,2020,20/06/2026
+LON-B0119,9 Cannon Street,9 Cannon Street,EC4N,Southbank,Grade A,"103,624",1977,2018,30/04/2026
+LON-B0120,Atlas Square,86 Bank Street,E14,Southbank,Grade B,"231,607",1964,,12/07/2026
+LON-B0121,136 Blackfriars Road,136 Blackfriars Road,SE1,Docklands,Grade A,"91,698",1961,,01/04/2026
+LON-B0122,141 Moorgate,141 Moorgate,EC2Y,Docklands,Grade C,"224,837",2015,,10/05/2026
+LON-B0123,109 Cheapside,109 Cheapside,EC2V,Docklands,Grade C,"149,242",2002,,16/06/2026
+LON-B0124,Arden Square,65 St James's Square,SW1Y,Docklands,Grade A,"191,038",1998,,12/04/2026
+LON-B0125,Northgate Tower,99 Grosvenor Street,W1K,Docklands,Grade A,"169,941",1972,,24/01/2026
+LON-B0126,Quill Quay,154 Blackfriars Road,SE1,Docklands,Grade B,"64,863",1965,2019,18/03/2026
+LON-B0127,Tamar Court,156 Leadenhall Street,EC3A,Docklands,Grade C,"126,551",1973,2023,12/04/2026
+LON-B0128,Aldwyn Plaza,137 Fenchurch Street,EC3M,Docklands,Grade A,"96,359",1962,,14/05/2026
+LON-B0129,Thorne House,141 High Holborn,WC1V,Docklands,,"55,994",1996,2021,15/07/2026
+LON-B0130,Meridian Building,52 Leadenhall Street,EC3A,Docklands,Grade B,"103,334",1980,,13/02/2026
+LON-B0131,Beacon Tower,105 Hanover Square,W1S,Docklands,Grade B,"76,187",1974,2006,20/03/2026
+LON-B0132,31 Hanover Square,31 Hanover Square,W1S,Docklands,Grade A,"126,024",1973,2018,21/02/2026
+LON-B0133,Solace Court,126 Bank Street,E14,Docklands,Grade A,"67,953",2021,,04/03/2026
+LON-B0134,152 Southwark Street,152 Southwark Street,SE1,Docklands,Grade B,"108,048",1986,,14/03/2026
+LON-B0135,32 Berkeley Square,32 Berkeley Square,W1J,Docklands,Grade A,"49,815",1992,,06/04/2026
+LON-B0136,Tern Point,105 Regent Street,W1B,Docklands,Grade A,"69,621",1977,2022,16/02/2026
+LON-B0137,14 Blackfriars Road,14 Blackfriars Road,SE1,Docklands,Grade A,"475,668",2014,,13/04/2026
+LON-B0138,139 Blackfriars Road,139 Blackfriars Road,SE1,Docklands,Grade B,"217,872",1983,,12/03/2026
+LON-B0139,Sable Building,21 Grosvenor Street,W1K,Docklands,Grade B,"137,638",1980,2021,08/05/2026
+LON-B0140,48 Bank Street,48 Bank Street,E14,Docklands,Grade A,"232,920",1995,,01/06/2026
+LON-B0141,Halden Gate,163 Moorgate,EC2Y,Docklands,Grade A,"95,594",1987,,29/06/2026
+LON-B0142,127 Gresham Street,127 Gresham Street,EC2R,Docklands,Grade A,"161,878",1962,,27/06/2026
+LON-B0143,81 Kingsway,81 Kingsway,WC2B,Docklands,Grade B,"95,799",2019,,14/06/2026
+LON-B0144,118 Grosvenor Street,118 Grosvenor Street,W1K,Docklands,Grade A,"94,830",1966,2011,11/07/2026
+LON-B0145,123 Berkeley Square,123 Berkeley Square,W1J,Docklands,Grade A,"170,802",1993,2008,19/03/2026
+LON-B0146,Ravel Point,104 Fenchurch Street,EC3M,Docklands,Grade A,"122,418",2001,,21/03/2026
+LON-B0147,173 St James's Square,173 St James's Square,SW1Y,Docklands,Grade A,"100,944",1972,2013,01/04/2026
+LON-B0148,Helix Court,178 Southwark Street,SE1,Docklands,Grade A,"167,852",1968,2011,22/06/2026
+LON-B0149,Ember Park,76 Grosvenor Street,W1K,Docklands,Grade A,"167,626",1985,2010,11/03/2026
+LON-B0150,Thorne Square,111 St James's Square,SW1Y,Docklands,Grade A,"50,321",2023,,23/03/2026
+LON-B0096,143 Canada Square,143 Canada Square,E14,Southbank,Grade A,"72,495",1985,2026,22/09/2026
+LON-B0014,81 Bank Street,81 Bank Street,E14,City,Grade A,"134,129",2014,2026,09/09/2026
+LON-B0124,Arden Square,65 St James's Square,SW1Y,Docklands,Grade A,"191,038",1998,2026,26/09/2026
+LON-B0041,28 Gresham Street,28 Gresham Street,EC2R,West End,Grade A,"195,882",1985,2026,01/09/2026
+LON-B0107,Harrow Place,150 Berkeley Square,W1J,Southbank,Grade A,"54,465",2011,2026,10/10/2026
+LON-B0104,93 Oxford Street,93 Oxford Street,W1D,Southbank,Grade A,"136,766",1972,2026,11/09/2026

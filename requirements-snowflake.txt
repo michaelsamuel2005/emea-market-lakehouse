@@ -1,0 +1,2 @@
+# Run the project on a Snowflake account: snowflake/RUNBOOK.md
+dbt-snowflake==1.12.5

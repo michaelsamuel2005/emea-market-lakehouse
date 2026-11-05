@@ -1,0 +1,224 @@
+name: emea_market_lakehouse
+version: 1.0.0
+config-version: 2
+require-dbt-version: ">=1.8.0"
+
+profile: emea_market_lakehouse
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analyses"]
+docs-paths: ["docs/dbt"]
+
+target-path: target
+clean-targets: [target, dbt_packages]
+
+# Every run (and every test run) writes its timings and row counts to ops.dbt_run_results. See macros/store_run_results.sql.
+on-run-end:
+  - "{{ store_run_results(results) }}"
+
+# The medallion layers are dbt schemas (bronze / silver / gold / ops). generate_schema_name uses the custom
+# schema name as given, so on Databricks they become workspace.bronze, workspace.silver ... and on DuckDB
+# plain schemas in the local database file.
+models:
+  emea_market_lakehouse:
+    silver:
+      +schema: silver
+      +materialized: view
+      intermediate:
+        +materialized: table
+    gold:
+      +schema: gold
+      +materialized: table
+      # Descriptions from _gold.yml become table and column comments in the warehouse, where
+      # Catalog Explorer, Genie, Snowsight and Cortex Analyst read them. Gold is the contract;
+      # silver and ops are internal, so their comments stay in the dbt docs site only.
+      # The CI Snowflake emulator (scripts/engines/) cannot store comments; every real warehouse does.
+      +persist_docs:
+        relation: "{{ target.name != 'snowflake_emulator' }}"
+        columns: "{{ target.name != 'snowflake_emulator' }}"
+    ops:
+      +schema: ops
+      +materialized: table
+
+seeds:
+  emea_market_lakehouse:
+    +quote_columns: false
+    bronze:
+      +schema: bronze
+      +docs:
+        node_color: "#8c6d1f"
+    reference:
+      +schema: reference
+      ref_fx_rates:
+        +column_types:
+          units_per_eur: double
+    answer_key:
+      +schema: answer_key
+
+tests:
+  emea_market_lakehouse:
+    +store_failures: true
+    +schema: ops
+
+vars:
+  # Reconciliation tolerances used by the ops models and the warning-level tests
+  vacancy_reconciliation_tolerance_pp: 2.0     # percentage points between reported vacancy and the building register
+  take_up_reconciliation_tolerance_pct: 10.0   # percent between reported take-up and the sum of logged deals
+  quarantine_rate_threshold_pct: 5.0           # a market whose quarantined deal rows exceed this share fails the build
+  sqft_per_m2: 10.763910416709722
+
+  # ------------------------------------------------------------------------------------------
+  # Market onboarding configuration. One block per market: its conventions and, for each of the
+  # four datasets, the bronze table and how its columns map onto the shared staging layout.
+  # The staging macros (macros/stage_*.sql) read this block, so onboarding a market means
+  # adding a block here, its raw files as seeds, its code mappings in seeds/reference, and four
+  # one-line staging models. See docs/onboarding_a_market.md.
+  # ------------------------------------------------------------------------------------------
+  markets:
+    LON:
+      market_name: London
+      currency: GBP
+      area_unit: sqft            # sqft | m2
+      rent_unit: per_sqft_year   # per_sqft_year | per_m2_year | per_m2_month
+      number_format: point       # point (1,234.5) | plain (1234.5) | fr (1 234,5) | de (1.234,5)
+      period_format: uk          # uk "Q3 2026" | fr "T3 2026" | iso_q "2026-Q3" | de "3. Quartal 2026" | compact "2026Q3" | es "3T 2026"
+      date_format: dmy_slash     # dmy_slash 30/09/2026 | dmy_dot 30.09.2026 | iso 2026-09-30
+      vacancy_reported_as: area  # area (vacant space) | rate (a vacancy rate, written as rate_format says)
+      rate_format: percent       # percent ("3.75%", "3,75 %", "3.75") | fraction (0.0375): yields, and vacancy where it is a rate
+      market_stats:
+        source: lon_market_stats
+        columns: {period: Period, submarket: Submarket, stock: Total_Stock_sq_ft, vacant: Available_Space_sq_ft,
+                  take_up: Take_Up_sq_ft, prime_rent: Prime_Rent_GBP_psf_pa, prime_yield: Prime_Yield,
+                  completions: Completions_sq_ft, under_construction: Under_Construction_sq_ft, submitted_at: Submitted_At}
+      deals:
+        source: lon_deals
+        columns: {deal_ref: Deal_Ref, deal_date: Deal_Date, building: Building, address: Address, submarket: Submarket,
+                  tenant: Tenant, sector: Sector, area: Area_sq_ft, rent: Rent_GBP_psf_pa, term_years: Term_years,
+                  deal_type: Deal_Type, submitted_at: Submitted_At}
+      buildings:
+        source: lon_buildings
+        columns: {building_id: Building_ID, name: Building_Name, address: Address, postcode: Postcode, submarket: Submarket,
+                  grade: Grade, area: NIA_sq_ft, year_built: Year_Built, year_refurbished: Last_Refurbished, last_updated: Last_Updated}
+      availability:
+        source: lon_availability
+        columns: {period: Period, building_id: Building_ID, available: Available_sq_ft, sublease: Of_Which_Sublet_sq_ft,
+                  submitted_at: Submitted_At}
+
+    PAR:
+      market_name: Paris
+      currency: EUR
+      area_unit: m2
+      rent_unit: per_m2_year
+      number_format: fr
+      period_format: fr
+      date_format: dmy_slash
+      vacancy_reported_as: area
+      rate_format: percent
+      market_stats:
+        source: par_market_stats
+        columns: {period: Trimestre, submarket: Secteur, stock: Parc_total_m2, vacant: Offre_immediate_m2,
+                  take_up: Demande_placee_m2, prime_rent: Loyer_prime_EUR_m2_an, prime_yield: Taux_prime,
+                  completions: Livraisons_m2, under_construction: En_chantier_m2, submitted_at: Date_envoi}
+      deals:
+        source: par_deals
+        columns: {deal_ref: Ref, deal_date: Date_signature, building: Immeuble, address: Adresse, submarket: Secteur,
+                  tenant: Preneur, sector: Secteur_activite, area: Surface_m2, rent: Loyer_facial_EUR_m2_an,
+                  term_years: Duree_ferme_ans, deal_type: Type_transaction, submitted_at: Date_envoi}
+      buildings:
+        source: par_buildings
+        columns: {building_id: Id_immeuble, name: Nom, address: Adresse, postcode: Code_postal, submarket: Secteur,
+                  grade: Classe, area: Surface_utile_m2, year_built: Annee_construction, year_refurbished: Annee_renovation,
+                  last_updated: Mise_a_jour}
+      availability:
+        source: par_availability
+        columns: {period: Trimestre, building_id: Id_immeuble, available: Disponible_m2, sublease: Dont_sous_location_m2,
+                  submitted_at: Date_envoi}
+
+    AMS:
+      market_name: Amsterdam
+      currency: EUR
+      area_unit: m2
+      rent_unit: per_m2_year
+      number_format: plain
+      period_format: iso_q
+      date_format: iso
+      vacancy_reported_as: area
+      rate_format: percent
+      market_stats:
+        source: ams_market_stats
+        columns: {period: Quarter, submarket: Submarket, stock: Stock_m2, vacant: Vacant_m2, take_up: Take_up_m2,
+                  prime_rent: Prime_rent_eur_m2_yr, prime_yield: Prime_yield_pct, completions: Completions_m2,
+                  under_construction: Under_construction_m2, submitted_at: Submitted_at}
+      deals:
+        source: ams_deals
+        columns: {deal_ref: deal_id, deal_date: date, building: building, address: address, submarket: submarket,
+                  tenant: tenant, sector: sector, area: area_m2, rent: rent_eur_m2_yr, term_years: term_years,
+                  deal_type: deal_type, submitted_at: submitted_at}
+      buildings:
+        source: ams_buildings
+        columns: {building_id: building_id, name: name, address: address, postcode: postcode, submarket: submarket,
+                  grade: grade, area: lfa_m2, year_built: year_built, year_refurbished: year_refurbished, last_updated: last_updated}
+      availability:
+        source: ams_availability
+        columns: {period: quarter, building_id: building_id, available: available_m2, sublease: sublease_m2, submitted_at: submitted_at}
+
+    FRA:
+      market_name: Frankfurt
+      currency: EUR
+      area_unit: m2
+      rent_unit: per_m2_month
+      number_format: de
+      period_format: de
+      date_format: dmy_dot
+      vacancy_reported_as: rate
+      rate_format: percent
+      market_stats:
+        source: fra_market_stats
+        columns: {period: Quartal, submarket: Teilmarkt, stock: Flaechenbestand_m2, vacant: Leerstandsquote_prozent,
+                  take_up: Flaechenumsatz_m2, prime_rent: Spitzenmiete_EUR_m2_monat, prime_yield: Spitzenrendite_prozent,
+                  completions: Fertigstellungen_m2, under_construction: Im_Bau_m2, submitted_at: Gemeldet_am}
+      deals:
+        source: fra_deals
+        columns: {deal_ref: Vorgang, deal_date: Datum, building: Objekt, address: Adresse, submarket: Teilmarkt,
+                  tenant: Mieter, sector: Branche, area: Flaeche_m2, rent: Miete_EUR_m2_monat, term_years: Laufzeit_jahre,
+                  deal_type: Vertragsart, submitted_at: Gemeldet_am}
+      buildings:
+        source: fra_buildings
+        columns: {building_id: Objekt_ID, name: Objektname, address: Adresse, postcode: PLZ, submarket: Teilmarkt,
+                  grade: Qualitaet, area: Mietflaeche_m2, year_built: Baujahr, year_refurbished: Sanierung, last_updated: Aktualisiert}
+      availability:
+        source: fra_availability
+        columns: {period: Quartal, building_id: Objekt_ID, available: Verfuegbar_m2, sublease: Davon_Untermiete_m2,
+                  submitted_at: Gemeldet_am}
+
+    WAW:
+      market_name: Warsaw
+      currency: EUR
+      area_unit: m2
+      rent_unit: per_m2_month
+      number_format: plain
+      period_format: compact
+      date_format: iso
+      vacancy_reported_as: area
+      rate_format: fraction
+      market_stats:
+        source: waw_market_stats
+        columns: {period: period, submarket: submarket, stock: stock_m2, vacant: vacant_m2, take_up: take_up_m2,
+                  prime_rent: prime_rent_eur_m2_month, prime_yield: prime_yield, completions: completions_m2,
+                  under_construction: under_construction_m2, submitted_at: submitted_at}
+      deals:
+        source: waw_deals
+        columns: {deal_ref: deal_id, deal_date: date, building: building, address: address, submarket: submarket,
+                  tenant: tenant, sector: sector, area: area_m2, rent: rent, term_years: term_years, deal_type: deal_type,
+                  submitted_at: submitted_at}
+        rent_currency_column: rent_currency   # Warsaw logs some deals in PLN; the column says which
+      buildings:
+        source: waw_buildings
+        columns: {building_id: building_id, name: name, address: address, postcode: postcode, submarket: submarket,
+                  grade: class, area: gla_m2, year_built: year_built, year_refurbished: year_refurbished, last_updated: last_updated}
+      availability:
+        source: waw_availability
+        columns: {period: period, building_id: building_id, available: available_m2, sublease: sublease_m2, submitted_at: submitted_at}

@@ -1,0 +1,18 @@
+market_id,local_grade,grade_code
+LON,Grade A,A
+LON,Grade B,B
+LON,Grade C,C
+PAR,Prime,A
+PAR,Neuf ou restructuré,A
+PAR,Seconde main récent,B
+PAR,Seconde main ancien,C
+AMS,A,A
+AMS,B,B
+AMS,C,C
+FRA,Klasse A,A
+FRA,Klasse B,B
+FRA,Klasse C,C
+WAW,A,A
+WAW,B,B
+WAW,B+,B
+WAW,C,C

@@ -1,0 +1,127 @@
+Id_edificio,Nombre,Direccion,CP,Submercado,Categoria,SBA_m2,Ano_construccion,Ano_reforma,Actualizado
+MAD-B0001,67 calle de la Ribera del Loira,67 calle de la Ribera del Loira,28042,CBD (Castellana),B,4 815,2002,2022,01/03/2026
+MAD-B0002,Lumen Centre,170 calle de Velázquez,28001,CBD (Castellana),A,8 895,1998,,10/03/2026
+MAD-B0003,49 calle de Orense,49 calle de Orense,28020,CBD (Castellana),A+,7 535,1962,2023,25/07/2026
+MAD-B0004,42 calle de Orense,42 calle de Orense,28020,CBD (Castellana),,19 920,1994,2024,12/04/2026
+MAD-B0005,Marlow Gate,174 calle de Julián Camarillo,28037,CBD (Castellana),A,15 764,1992,,10/07/2026
+MAD-B0006,50 calle de Alcalá,50 calle de Alcalá,28027,CBD (Castellana),A+,17 526,2019,,29/03/2026
+MAD-B0007,32 avenida de Manoteras,32 avenida de Manoteras,28050,CBD (Castellana),A,13 677,2004,,31/05/2026
+MAD-B0008,Juniper Quay,37 avenida de Aragón,28022,CBD (Castellana),B,6 913,1975,2024,09/05/2026
+MAD-B0009,Linden Point,101 calle de la Ribera del Loira,28042,CBD (Castellana),A+,29 506,2002,,26/05/2026
+MAD-B0010,60 paseo de la Habana,60 paseo de la Habana,28036,CBD (Castellana),A+,7 564,1995,2023,19/04/2026
+MAD-B0011,Corvid Place,162 calle de Orense,28020,CBD (Castellana),A,7 900,2010,2025,11/03/2026
+MAD-B0012,55 calle de Alcalá,55 calle de Alcalá,28027,CBD (Castellana),B,11 987,1996,,05/04/2026
+MAD-B0013,Pinnacle Building,82 calle de Alcalá,28027,CBD (Castellana),B,9 229,1990,,04/03/2026
+MAD-B0014,Pinnacle Place,95 calle de Serrano,28001,CBD (Castellana),B,8 396,1972,,18/05/2026
+MAD-B0015,Meridian Tower,148 calle de Alcalá,28027,CBD (Castellana),C,5 433,1995,,11/06/2026
+MAD-B0016,83 calle de Julián Camarillo,83 calle de Julián Camarillo,28037,CBD (Castellana),B,50 742,1998,2006,08/03/2026
+MAD-B0017,Sable Place,90 calle de Alcalá,28014,CBD (Castellana),A+,5 487,1987,2006,08/06/2026
+MAD-B0018,116 avenida de Europa,116 avenida de Europa,28224,CBD (Castellana),,11 027,1992,,24/02/2026
+MAD-B0019,28 avenida de Aragón,28 avenida de Aragón,28022,CBD (Castellana),,15 307,2008,2018,15/01/2026
+MAD-B0020,Elmgrove House,15 calle de Alcalá,28014,CBD (Castellana),B,10 458,2000,2024,05/05/2026
+MAD-B0021,28 calle de Julián Camarillo,28 calle de Julián Camarillo,28037,CBD (Castellana),A+,18 972,1964,2014,19/04/2026
+MAD-B0022,166 paseo de la Habana,166 paseo de la Habana,28036,CBD (Castellana),B,15 637,1968,,26/06/2026
+MAD-B0023,Harrow Gate,49 calle de la Ribera del Loira,28042,CBD (Castellana),A+,13 841,2003,,31/05/2026
+MAD-B0024,79 calle de la Ribera del Loira,79 calle de la Ribera del Loira,28042,CBD (Castellana),A+,19 109,2021,,04/07/2026
+MAD-B0025,38 calle de Goya,38 calle de Goya,28001,CBD (Castellana),B,13 629,1994,2025,25/05/2026
+MAD-B0026,Arden Building,61 avenida de Burgos,28036,CBD (Castellana),B,9 711,1961,2019,27/07/2026
+MAD-B0027,Sterling Square,36 calle de Julián Camarillo,28037,CBD (Castellana),A+,12 282,2018,,24/05/2026
+MAD-B0028,19 calle de Velázquez,19 calle de Velázquez,28001,CBD (Castellana),A+,14 606,2008,,02/05/2026
+MAD-B0029,Cobalt Square,55 calle de Velázquez,28001,CBD (Castellana),A+,10 423,2007,2017,03/03/2026
+MAD-B0030,Granite Gate,137 calle de Alcalá,28027,CBD (Castellana),B,30 244,1985,,12/04/2026
+MAD-B0031,Pinnacle Court,175 Paseo de la Castellana,28046,Centro Secundario,A,12 606,1991,2022,19/02/2026
+MAD-B0032,58 calle de Velázquez,58 calle de Velázquez,28001,Centro Secundario,A+,18 279,1983,,11/02/2026
+MAD-B0033,66 avenida de Burgos,66 avenida de Burgos,28036,Centro Secundario,A,21 153,1996,,08/05/2026
+MAD-B0034,136 calle de la Ribera del Loira,136 calle de la Ribera del Loira,28042,Centro Secundario,C,23 965,2003,2016,28/05/2026
+MAD-B0035,Atlas Gate,63 avenida de Aragón,28022,Centro Secundario,B,8 506,1960,2017,02/05/2026
+MAD-B0036,Lumen House,44 avenida de Europa,28224,Centro Secundario,B,9 622,2012,,09/05/2026
+MAD-B0037,126 avenida de Burgos,126 avenida de Burgos,28036,Centro Secundario,A,12 082,2007,,08/02/2026
+MAD-B0038,Halden Square,113 calle de Albarracín,28037,Centro Secundario,B,27 517,2018,,13/03/2026
+MAD-B0039,141 calle de Velázquez,141 calle de Velázquez,28001,Centro Secundario,A+,22 748,2004,2024,07/03/2026
+MAD-B0040,37 calle de Orense,37 calle de Orense,28020,Centro Secundario,A,7 322,2007,2012,25/02/2026
+MAD-B0041,Lumen Square,151 calle de la Ribera del Loira,28042,Centro Secundario,A+,8 079,1990,2016,25/02/2026
+MAD-B0042,Ravel Park,78 calle de Goya,28001,Centro Secundario,A+,5 487,1997,2013,25/05/2026
+MAD-B0043,91 calle de Albarracín,91 calle de Albarracín,28037,Centro Secundario,C,9 348,2013,,23/01/2026
+MAD-B0044,Beacon Park,136 calle de la Ribera del Loira,28042,Centro Secundario,C,14 344,2019,,04/07/2026
+MAD-B0045,80 calle de Serrano,80 calle de Serrano,28001,Centro Secundario,B,13 223,1990,2019,06/07/2026
+MAD-B0046,Sterling Centre,14 calle de Orense,28020,Centro Secundario,A,19 846,1970,2014,18/02/2026
+MAD-B0047,Wren Gate,41 calle de la Ribera del Loira,28042,Centro Secundario,,19 258,2009,2016,01/06/2026
+MAD-B0048,Vantage House,172 calle de Alcalá,28014,Centro Secundario,B,16 381,1978,2005,03/02/2026
+MAD-B0049,Brightwater Point,120 calle de Julián Camarillo,28037,Centro Secundario,B,23 750,1974,,21/05/2026
+MAD-B0050,147 calle de Orense,147 calle de Orense,28020,Centro Secundario,A+,22 022,1960,2019,16/03/2026
+MAD-B0051,Wren Tower,69 calle de Orense,28020,Centro Secundario,A+,12 288,2019,,13/03/2026
+MAD-B0052,Kestrel Point,83 avenida de Burgos,28036,Centro Secundario,B,15 959,1994,2020,05/07/2026
+MAD-B0053,86 avenida de Europa,86 avenida de Europa,28224,Centro Secundario,A,8 099,2008,,08/05/2026
+MAD-B0054,Thorne Building,114 calle de Velázquez,28001,Centro Secundario,B,6 497,2002,2015,15/06/2026
+MAD-B0055,171 calle de Orense,171 calle de Orense,28020,Centro Secundario,B,8 555,2009,2017,06/03/2026
+MAD-B0056,116 calle de Orense,116 calle de Orense,28020,Centro Secundario,B,14 695,1999,2015,11/03/2026
+MAD-B0057,54 calle de Julián Camarillo,54 calle de Julián Camarillo,28037,Centro Secundario,A,28 602,2017,,19/01/2026
+MAD-B0058,54 Paseo de la Castellana,54 Paseo de la Castellana,28046,Centro Secundario,C,56 611,1981,,30/07/2026
+MAD-B0059,139 paseo de la Habana,139 paseo de la Habana,28036,Centro Secundario,A,6 173,1967,,17/03/2026
+MAD-B0060,42 calle de Velázquez,42 calle de Velázquez,28001,Centro Secundario,,18 372,2022,,29/01/2026
+MAD-B0061,Sable Gate,55 calle de Goya,28001,Periferia,B,6 679,2004,,22/02/2026
+MAD-B0062,Wren Plaza,164 Paseo de la Castellana,28046,Periferia,A+,5 352,1982,,24/07/2026
+MAD-B0063,171 calle de Goya,171 calle de Goya,28001,Periferia,C,14 958,2023,,23/06/2026
+MAD-B0064,Nimbus Plaza,101 calle de Goya,28001,Periferia,A,8 047,1982,,28/06/2026
+MAD-B0065,3 avenida de Aragón,3 avenida de Aragón,28022,Periferia,C,21 349,2020,,09/02/2026
+MAD-B0066,45 calle de la Ribera del Loira,45 calle de la Ribera del Loira,28042,Periferia,B,12 337,1968,2005,14/06/2026
+MAD-B0067,Helix Place,4 calle de Josefa Valcárcel,28027,Periferia,A+,8 283,1991,2007,05/05/2026
+MAD-B0068,64 calle de Goya,64 calle de Goya,28001,Periferia,B,8 230,2007,2022,21/05/2026
+MAD-B0069,87 paseo de la Habana,87 paseo de la Habana,28036,Periferia,C,17 914,1985,2023,14/03/2026
+MAD-B0070,Tern Point,59 avenida de Burgos,28036,Periferia,B,6 006,2023,,25/01/2026
+MAD-B0071,Meridian House,94 calle de Julián Camarillo,28037,Periferia,A,3 608,2017,,17/02/2026
+MAD-B0072,Tamar Gate,103 avenida de Aragón,28022,Periferia,B,4 070,2019,,29/03/2026
+MAD-B0073,44 calle de la Ribera del Loira,44 calle de la Ribera del Loira,28042,Periferia,B,9 803,1988,,07/02/2026
+MAD-B0074,Calder Point,34 avenida de Aragón,28022,Periferia,B,26 859,1999,,08/07/2026
+MAD-B0075,130 calle de Alcalá,130 calle de Alcalá,28014,Periferia,B,7 223,1963,2020,18/03/2026
+MAD-B0076,54 avenida de Manoteras,54 avenida de Manoteras,28050,Periferia,A+,13 025,2017,,11/05/2026
+MAD-B0077,Juniper Plaza,109 calle de Orense,28020,Periferia,C,5 685,2021,,27/07/2026
+MAD-B0078,Atlas Centre,151 calle de Velázquez,28001,Periferia,B,20 691,2010,,24/04/2026
+MAD-B0079,133 calle de Alcalá,133 calle de Alcalá,28027,Periferia,B,3 996,1989,,31/07/2026
+MAD-B0080,44 calle de Alcalá,44 calle de Alcalá,28014,Periferia,A,10 594,1987,2015,21/04/2026
+MAD-B0081,58 avenida de Manoteras,58 avenida de Manoteras,28050,Periferia,C,7 604,1977,,10/03/2026
+MAD-B0082,4 avenida de Europa,4 avenida de Europa,28224,Periferia,B,4 687,2002,2008,09/05/2026
+MAD-B0083,Corvid Quay,139 calle de Goya,28001,Periferia,B,9 848,1982,2018,28/06/2026
+MAD-B0084,Helix Park,146 Paseo de la Castellana,28046,Periferia,B,6 847,1998,,27/04/2026
+MAD-B0085,80 calle de Albarracín,80 calle de Albarracín,28037,Periferia,A,9 357,1999,2011,02/03/2026
+MAD-B0086,Ravel Court,18 calle de Alcalá,28027,Periferia,B,14 377,2006,2019,13/02/2026
+MAD-B0087,Granite Quay,81 calle de Orense,28020,Periferia,C,19 351,2014,2020,21/04/2026
+MAD-B0088,30 calle de Serrano,30 calle de Serrano,28001,Periferia,,15 729,2008,2014,14/07/2026
+MAD-B0089,Tern Plaza,167 Paseo de la Castellana,28046,Periferia,A+,10 286,1990,,26/02/2026
+MAD-B0090,139 calle de la Ribera del Loira,139 calle de la Ribera del Loira,28042,Periferia,B,10 509,1998,,20/01/2026
+MAD-B0091,Harrow Building,155 avenida de Burgos,28036,Satélite,B,12 666,1998,2014,11/03/2026
+MAD-B0092,93 calle de Alcalá,93 calle de Alcalá,28014,Satélite,B,15 474,1973,2020,10/06/2026
+MAD-B0093,40 calle de Goya,40 calle de Goya,28001,Satélite,A,15 828,1998,2009,18/03/2026
+MAD-B0094,Tern Tower,80 calle de Alcalá,28014,Satélite,B,5 234,1995,2015,21/02/2026
+MAD-B0095,Marlow Park,24 Paseo de la Castellana,28046,Satélite,C,7 040,2003,,04/05/2026
+MAD-B0096,Wren Place,125 calle de Velázquez,28001,Satélite,A+,12 497,1964,,05/03/2026
+MAD-B0097,Vantage Square,40 calle de Julián Camarillo,28037,Satélite,C,7 189,1995,,30/07/2026
+MAD-B0098,4 calle de Josefa Valcárcel,4 calle de Josefa Valcárcel,28027,Satélite,A,10 835,1997,2014,09/03/2026
+MAD-B0099,Wren Park,153 calle de Julián Camarillo,28037,Satélite,C,18 070,2004,,11/05/2026
+MAD-B0100,75 calle de Velázquez,75 calle de Velázquez,28001,Satélite,A,12 096,1979,,07/03/2026
+MAD-B0101,Cobalt Point,64 paseo de la Habana,28036,Satélite,B,5 600,1979,2016,10/04/2026
+MAD-B0102,144 paseo de la Habana,144 paseo de la Habana,28036,Satélite,B,12 143,1981,2006,10/05/2026
+MAD-B0103,178 avenida de Europa,178 avenida de Europa,28224,Satélite,A,9 823,1995,2022,04/06/2026
+MAD-B0104,Cobalt House,20 calle de Orense,28020,Satélite,C,8 255,2003,2022,04/07/2026
+MAD-B0105,2 Paseo de la Castellana,2 Paseo de la Castellana,28046,Satélite,B,14 287,1985,2014,25/07/2026
+MAD-B0106,20 calle de Goya,20 calle de Goya,28001,Satélite,C,5 753,1986,2006,11/02/2026
+MAD-B0107,66 calle de Serrano,66 calle de Serrano,28001,Satélite,A+,17 474,2006,2014,03/06/2026
+MAD-B0108,Nimbus Centre,14 avenida de Manoteras,28050,Satélite,A,7 439,1986,2008,01/04/2026
+MAD-B0109,Sterling Tower,44 avenida de Manoteras,28050,Satélite,A,9 070,1993,,10/07/2026
+MAD-B0110,Granite Court,118 calle de Goya,28001,Satélite,A+,17 695,2012,,01/08/2026
+MAD-B0111,171 avenida de Manoteras,171 avenida de Manoteras,28050,Satélite,C,7 872,1978,,29/04/2026
+MAD-B0112,74 calle de Orense,74 calle de Orense,28020,Satélite,A,18 051,1965,2022,07/02/2026
+MAD-B0113,Helix Court,20 calle de Velázquez,28001,Satélite,B,8 089,2001,2010,29/06/2026
+MAD-B0114,128 avenida de Burgos,128 avenida de Burgos,28036,Satélite,B,4 187,1974,2009,10/06/2026
+MAD-B0115,Halden Building,46 avenida de Burgos,28036,Satélite,A,2 022,2021,,21/06/2026
+MAD-B0116,15 calle de Goya,15 calle de Goya,28001,Satélite,A,5 403,1984,,05/07/2026
+MAD-B0117,Ravel Square,157 calle de Alcalá,28027,Satélite,B,9 221,1999,2010,16/01/2026
+MAD-B0118,Thorne Court,64 calle de Alcalá,28014,Satélite,B,20 253,1971,2021,26/01/2026
+MAD-B0119,152 calle de Orense,152 calle de Orense,28020,Satélite,B,8 648,1964,,28/04/2026
+MAD-B0120,157 avenida de Aragón,157 avenida de Aragón,28022,Satélite,B,17 993,1963,,20/03/2026
+MAD-B0069,87 paseo de la Habana,87 paseo de la Habana,28036,Periferia,A,17 914,1985,2026,19/09/2026
+MAD-B0025,38 calle de Goya,38 calle de Goya,28001,CBD (Castellana),A,13 629,1994,2026,05/10/2026
+MAD-B0018,116 avenida de Europa,116 avenida de Europa,28224,CBD (Castellana),A,11 027,1992,2026,03/10/2026
+MAD-B0117,Ravel Square,157 calle de Alcalá,28027,Satélite,A,9 221,1999,2026,01/10/2026
+MAD-B0078,Atlas Centre,151 calle de Velázquez,28001,Periferia,A,20 691,2010,2026,21/09/2026
+MAD-B0048,Vantage House,172 calle de Alcalá,28014,Centro Secundario,A,16 381,1978,2026,07/10/2026

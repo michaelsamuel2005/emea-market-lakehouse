@@ -1,0 +1,127 @@
+building_id,name,address,postcode,submarket,grade,lfa_m2,year_built,year_refurbished,last_updated
+AMS-B0001,177 Rokin,177 Rokin,1012,Zuidas,B,13925,2013,2021,2026-05-29
+AMS-B0002,Wren Quay,41 Radarweg,1043,Zuidas,B,24471,1976,2024,2026-07-27
+AMS-B0003,53 Hoogoorddreef,53 Hoogoorddreef,1101,Zuidas,B,14360,1993,2021,2026-07-07
+AMS-B0004,113 Rokin,113 Rokin,1012,Zuidas,B,8799,1964,2009,2026-03-06
+AMS-B0005,Orbis Building,57 Hullenbergweg,1101,Zuidas,C,12696,1978,,2026-04-05
+AMS-B0006,Meridian Park,30 Paasheuvelweg,1105,Zuidas,A,12948,2015,,2026-04-03
+AMS-B0007,141 Keizersgracht,141 Keizersgracht,1015,Zuidas,A,41352,1979,,2026-03-30
+AMS-B0008,62 Zuidplein,62 Zuidplein,1077,Zuidas,A,7724,1962,,2026-08-02
+AMS-B0009,95 Paasheuvelweg,95 Paasheuvelweg,1105,Zuidas,B,21247,1991,,2026-03-15
+AMS-B0010,67 Basisweg,67 Basisweg,1043,Zuidas,B,18843,2013,,2026-03-15
+AMS-B0011,Ashcombe House,144 Naritaweg,1043,Zuidas,A,10208,1993,,2026-03-16
+AMS-B0012,Kestrel Court,79 Herengracht,1017,Zuidas,A,9865,1971,2016,2026-04-18
+AMS-B0013,177 Gustav Mahlerlaan,177 Gustav Mahlerlaan,1082,Zuidas,C,13032,2019,,2026-03-25
+AMS-B0014,11 Herengracht,11 Herengracht,1017,Zuidas,B,12160,1982,2021,2026-05-02
+AMS-B0015,10 Radarweg,10 Radarweg,1043,Zuidas,A,14062,1978,2017,2026-01-27
+AMS-B0016,32 Teleportboulevard,32 Teleportboulevard,1043,Zuidas,,4810,2006,2015,2026-03-21
+AMS-B0017,121 Claude Debussylaan,121 Claude Debussylaan,1082,Zuidas,B,8454,1974,2011,2026-03-15
+AMS-B0018,95 Bijlmerdreef,95 Bijlmerdreef,1102,Zuidas,B,4062,2019,,2026-01-24
+AMS-B0019,Aldwyn Quay,163 Strawinskylaan,1077,Zuidas,B,11963,1971,,2026-03-09
+AMS-B0020,12 Gustav Mahlerlaan,12 Gustav Mahlerlaan,1082,Zuidas,B,5297,1961,2017,2026-03-05
+AMS-B0021,124 Strawinskylaan,124 Strawinskylaan,1077,Zuidas,A,14279,1965,,2026-06-19
+AMS-B0022,59 Radarweg,59 Radarweg,1043,Zuidas,B,8611,2012,2025,2026-05-31
+AMS-B0023,Quill Gate,108 Radarweg,1043,Zuidas,B,6563,1963,2021,2026-04-24
+AMS-B0024,147 Gustav Mahlerlaan,147 Gustav Mahlerlaan,1082,Zuidas,A,23112,2001,2019,2026-03-11
+AMS-B0025,Northgate Tower,60 Naritaweg,1043,Zuidas,B,11138,1967,,2026-02-14
+AMS-B0026,158 Paasheuvelweg,158 Paasheuvelweg,1105,Zuidas,C,9260,1994,,2026-04-23
+AMS-B0027,Thorne Court,144 Keizersgracht,1015,Zuidas,A,11355,2011,,2026-02-05
+AMS-B0028,66 Vijzelstraat,66 Vijzelstraat,1017,Zuidas,B,9040,1976,2014,2026-07-30
+AMS-B0029,Aldwyn Gate,178 Strawinskylaan,1077,Zuidas,A,47194,2014,,2026-07-10
+AMS-B0030,Lumen Point,22 Paasheuvelweg,1105,Zuidas,A,9352,1980,2009,2026-04-16
+AMS-B0031,Harrow Park,47 Zuidplein,1077,Centrum,C,15926,1993,,2026-03-12
+AMS-B0032,12 Bijlmerdreef,12 Bijlmerdreef,1102,Centrum,B,4290,1986,,2026-07-26
+AMS-B0033,110 Paasheuvelweg,110 Paasheuvelweg,1105,Centrum,B,10084,2002,2020,2026-04-19
+AMS-B0034,16 Bijlmerdreef,16 Bijlmerdreef,1102,Centrum,A,9728,2010,2025,2026-07-17
+AMS-B0035,136 Basisweg,136 Basisweg,1043,Centrum,A,11338,1962,2005,2026-02-13
+AMS-B0036,17 Radarweg,17 Radarweg,1043,Centrum,A,23334,2000,2008,2026-03-27
+AMS-B0037,Granite Building,67 Naritaweg,1043,Centrum,C,14026,2016,,2026-02-18
+AMS-B0038,7 Vijzelstraat,7 Vijzelstraat,1017,Centrum,A,11631,1963,,2026-02-01
+AMS-B0039,41 Hoogoorddreef,41 Hoogoorddreef,1101,Centrum,C,8926,2023,,2026-05-25
+AMS-B0040,80 Zuidplein,80 Zuidplein,1077,Centrum,B,7309,1995,2016,2026-05-11
+AMS-B0041,Kestrel Plaza,111 Gustav Mahlerlaan,1082,Centrum,A,14868,2015,,2026-05-07
+AMS-B0042,21 Bijlmerdreef,21 Bijlmerdreef,1102,Centrum,B,7573,2019,,2026-01-25
+AMS-B0043,Lumen Square,54 Keizersgracht,1015,Centrum,A,5290,2010,2025,2026-06-08
+AMS-B0044,Linden Square,99 Basisweg,1043,Centrum,B,11286,2000,2013,2026-07-18
+AMS-B0045,Osprey Place,152 Naritaweg,1043,Centrum,A,20018,2013,2024,2026-02-05
+AMS-B0046,159 Zuidplein,159 Zuidplein,1077,Centrum,A,13272,2004,,2026-02-26
+AMS-B0047,Atlas Tower,128 Zuidplein,1077,Centrum,B,6204,1981,2006,2026-05-12
+AMS-B0048,59 Zuidplein,59 Zuidplein,1077,Centrum,A,17515,2023,,2026-05-17
+AMS-B0049,33 Radarweg,33 Radarweg,1043,Centrum,B,8948,1990,,2026-01-15
+AMS-B0050,33 Zuidplein,33 Zuidplein,1077,Centrum,A,7595,1995,,2026-03-20
+AMS-B0051,26 Gustav Mahlerlaan,26 Gustav Mahlerlaan,1082,Centrum,A,20267,1992,2009,2026-04-14
+AMS-B0052,Aldwyn Square,109 Claude Debussylaan,1082,Centrum,B,15866,2023,,2026-06-19
+AMS-B0053,Aldwyn Centre,126 Zuidplein,1077,Centrum,A,4247,1981,,2026-07-22
+AMS-B0054,36 Radarweg,36 Radarweg,1043,Centrum,C,13131,2008,,2026-06-27
+AMS-B0055,Aldwyn Building,75 Paasheuvelweg,1105,Centrum,C,6632,2004,,2026-05-12
+AMS-B0056,174 Basisweg,174 Basisweg,1043,Centrum,A,11980,2008,2022,2026-06-25
+AMS-B0057,Corvid House,155 Bijlmerdreef,1102,Centrum,B,21454,1988,,2026-03-27
+AMS-B0058,Aldwyn Place,6 Paasheuvelweg,1105,Centrum,A,15522,1961,2012,2026-03-01
+AMS-B0059,114 Bijlmerdreef,114 Bijlmerdreef,1102,Centrum,B,6447,1985,,2026-04-04
+AMS-B0060,57 Vijzelstraat,57 Vijzelstraat,1017,Centrum,B,11355,2007,,2026-05-28
+AMS-B0061,144 Basisweg,144 Basisweg,1043,Zuidoost,A,11903,1983,,2026-07-14
+AMS-B0062,20 Zuidplein,20 Zuidplein,1077,Zuidoost,A,11672,1984,,2026-07-24
+AMS-B0063,46 Claude Debussylaan,46 Claude Debussylaan,1082,Zuidoost,A,9292,1995,2012,2026-04-24
+AMS-B0064,Orbis House,48 Keizersgracht,1015,Zuidoost,B,24612,2020,,2026-06-17
+AMS-B0065,63 Paasheuvelweg,63 Paasheuvelweg,1105,Zuidoost,A,24509,1968,,2026-05-25
+AMS-B0066,Calder Tower,16 Strawinskylaan,1077,Zuidoost,A,37106,2017,,2026-06-17
+AMS-B0067,99 Claude Debussylaan,99 Claude Debussylaan,1082,Zuidoost,C,8330,2003,2019,2026-07-29
+AMS-B0068,Arden Centre,132 Hoogoorddreef,1101,Zuidoost,B,5333,1962,2015,2026-05-07
+AMS-B0069,87 Naritaweg,87 Naritaweg,1043,Zuidoost,B,16458,2019,,2026-06-17
+AMS-B0070,Vantage Square,114 Strawinskylaan,1077,Zuidoost,C,10843,1975,2023,2026-07-27
+AMS-B0071,Veridian Tower,12 Naritaweg,1043,Zuidoost,B,27015,2007,2024,2026-06-02
+AMS-B0072,72 Bijlmerdreef,72 Bijlmerdreef,1102,Zuidoost,C,7136,1983,2013,2026-02-14
+AMS-B0073,Marlow Park,132 Paasheuvelweg,1105,Zuidoost,A,14826,1972,,2026-04-14
+AMS-B0074,85 Teleportboulevard,85 Teleportboulevard,1043,Zuidoost,A,6519,2005,2022,2026-03-21
+AMS-B0075,144 Teleportboulevard,144 Teleportboulevard,1043,Zuidoost,A,8401,2003,2021,2026-01-29
+AMS-B0076,163 Naritaweg,163 Naritaweg,1043,Zuidoost,B,16848,1969,2011,2026-07-09
+AMS-B0077,79 Vijzelstraat,79 Vijzelstraat,1017,Zuidoost,C,14720,1977,,2026-06-30
+AMS-B0078,51 Keizersgracht,51 Keizersgracht,1015,Zuidoost,B,7910,1981,,2026-07-04
+AMS-B0079,Veridian Gate,76 Naritaweg,1043,Zuidoost,B,2976,1985,2014,2026-06-24
+AMS-B0080,109 Hoogoorddreef,109 Hoogoorddreef,1101,Zuidoost,B,4875,2002,2024,2026-06-09
+AMS-B0081,Northgate Plaza,20 Teleportboulevard,1043,Zuidoost,A,5607,1999,,2026-05-21
+AMS-B0082,Fenwick Plaza,166 Basisweg,1043,Zuidoost,A,9419,1994,,2026-06-07
+AMS-B0083,Pinnacle Building,101 Gustav Mahlerlaan,1082,Zuidoost,A,13663,2019,,2026-05-17
+AMS-B0084,94 Vijzelstraat,94 Vijzelstraat,1017,Zuidoost,B,6671,2007,2023,2026-05-21
+AMS-B0085,143 Claude Debussylaan,143 Claude Debussylaan,1082,Zuidoost,B,7778,2001,2017,2026-01-17
+AMS-B0086,Solace Plaza,147 Bijlmerdreef,1102,Zuidoost,A,15303,2005,,2026-06-14
+AMS-B0087,Osprey House,11 Vijzelstraat,1017,Zuidoost,C,11645,1968,2020,2026-07-05
+AMS-B0088,162 Teleportboulevard,162 Teleportboulevard,1043,Zuidoost,A,11364,1963,,2026-05-13
+AMS-B0089,Halden Point,128 Basisweg,1043,Zuidoost,A,7429,1967,2015,2026-02-07
+AMS-B0090,Vantage Building,25 Basisweg,1043,Zuidoost,B,9183,2012,2018,2026-05-01
+AMS-B0091,Granite Centre,65 Hullenbergweg,1101,Sloterdijk-Teleport,B,13717,2017,,2026-07-27
+AMS-B0092,Brightwater Court,163 Herengracht,1017,Sloterdijk-Teleport,B,10815,2006,,2026-02-05
+AMS-B0093,Veridian Park,53 Basisweg,1043,Sloterdijk-Teleport,C,25858,2000,2025,2026-02-05
+AMS-B0094,21 Gustav Mahlerlaan,21 Gustav Mahlerlaan,1082,Sloterdijk-Teleport,A,39714,1960,2024,2026-06-30
+AMS-B0095,54 Gustav Mahlerlaan,54 Gustav Mahlerlaan,1082,Sloterdijk-Teleport,A,13914,2022,,2026-07-16
+AMS-B0096,Wren Park,142 Herengracht,1017,Sloterdijk-Teleport,B,8073,1987,2008,2026-04-12
+AMS-B0097,Cobalt Court,51 Vijzelstraat,1017,Sloterdijk-Teleport,A,12825,1996,2007,2026-07-05
+AMS-B0098,Aldwyn House,35 Strawinskylaan,1077,Sloterdijk-Teleport,A,6762,1981,2007,2026-05-28
+AMS-B0099,Ravel Quay,60 Vijzelstraat,1017,Sloterdijk-Teleport,B,7130,1960,,2026-04-05
+AMS-B0100,80 Paasheuvelweg,80 Paasheuvelweg,1105,Sloterdijk-Teleport,C,11648,1982,,2026-05-17
+AMS-B0101,79 Strawinskylaan,79 Strawinskylaan,1077,Sloterdijk-Teleport,A,6723,1982,,2026-05-12
+AMS-B0102,Helix Square,135 Bijlmerdreef,1102,Sloterdijk-Teleport,B,9548,1981,2022,2026-04-27
+AMS-B0103,57 Keizersgracht,57 Keizersgracht,1015,Sloterdijk-Teleport,B,13246,1973,2020,2026-05-21
+AMS-B0104,43 Keizersgracht,43 Keizersgracht,1015,Sloterdijk-Teleport,B,6030,2005,,2026-01-22
+AMS-B0105,136 Naritaweg,136 Naritaweg,1043,Sloterdijk-Teleport,A,4545,1961,2022,2026-08-01
+AMS-B0106,116 Naritaweg,116 Naritaweg,1043,Sloterdijk-Teleport,A,6985,1997,2024,2026-02-24
+AMS-B0107,Elmgrove Square,25 Claude Debussylaan,1082,Sloterdijk-Teleport,C,4460,1974,,2026-07-27
+AMS-B0108,Veridian Building,111 Bijlmerdreef,1102,Sloterdijk-Teleport,B,7006,1987,2019,2026-01-23
+AMS-B0109,Orbis Gate,93 Paasheuvelweg,1105,Sloterdijk-Teleport,B,27716,1984,2007,2026-03-17
+AMS-B0110,Orbis Plaza,12 Zuidplein,1077,Sloterdijk-Teleport,A,18682,2005,2012,2026-06-03
+AMS-B0111,Calder Square,112 Claude Debussylaan,1082,Sloterdijk-Teleport,B,12379,2000,,2026-06-30
+AMS-B0112,Halden Building,145 Claude Debussylaan,1082,Sloterdijk-Teleport,B,14037,1976,,2026-04-06
+AMS-B0113,Atlas Square,88 Hoogoorddreef,1101,Sloterdijk-Teleport,B,10459,2000,2021,2026-07-28
+AMS-B0114,Aldwyn Tower,158 Claude Debussylaan,1082,Sloterdijk-Teleport,B,15071,2009,2015,2026-06-12
+AMS-B0115,127 Paasheuvelweg,127 Paasheuvelweg,1105,Sloterdijk-Teleport,B,8667,1965,,2026-03-23
+AMS-B0116,104 Teleportboulevard,104 Teleportboulevard,1043,Sloterdijk-Teleport,A,8916,1988,,2026-07-25
+AMS-B0117,Thorne Building,48 Teleportboulevard,1043,Sloterdijk-Teleport,,4719,1999,2007,2026-02-23
+AMS-B0118,Helix Gate,18 Hoogoorddreef,1101,Sloterdijk-Teleport,B,24958,2000,,2026-07-27
+AMS-B0119,124 Gustav Mahlerlaan,124 Gustav Mahlerlaan,1082,Sloterdijk-Teleport,C,37220,1999,,2026-01-30
+AMS-B0120,148 Hullenbergweg,148 Hullenbergweg,1101,Sloterdijk-Teleport,B,8900,2023,,2026-02-13
+AMS-B0089,Halden Point,128 Basisweg,1043,Zuidoost,A,7429,1967,2026,2026-09-07
+AMS-B0112,Halden Building,145 Claude Debussylaan,1082,Sloterdijk-Teleport,A,14037,1976,2026,2026-09-06
+AMS-B0020,12 Gustav Mahlerlaan,12 Gustav Mahlerlaan,1082,Zuidas,A,5297,1961,2026,2026-10-10
+AMS-B0075,144 Teleportboulevard,144 Teleportboulevard,1043,Zuidoost,A,8401,2003,2026,2026-09-19
+AMS-B0084,94 Vijzelstraat,94 Vijzelstraat,1017,Zuidoost,A,6671,2007,2026,2026-09-06
+AMS-B0083,Pinnacle Building,101 Gustav Mahlerlaan,1082,Zuidoost,A,13663,2019,2026,2026-10-06

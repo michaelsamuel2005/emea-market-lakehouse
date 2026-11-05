@@ -1,0 +1,13 @@
+# Pinned so every machine builds the same project. Python 3.11 or later.
+# DuckDB (the default target, and CI) needs only this file.
+dbt-core==1.12.6
+dbt-duckdb==1.11.1
+duckdb==2.0.0
+numpy==2.5.3
+pyyaml==6.0.3
+pytest==9.0.2
+sqlfluff==4.5.0
+sqlfluff-templater-dbt==4.5.0
+# Databricks:  pip install -r requirements.txt -r requirements-databricks.txt
+# Snowflake:   pip install -r requirements.txt -r requirements-snowflake.txt
+# CI engines:  pip install -r requirements.txt -r requirements-engines.txt   (scripts/engines/README.md)

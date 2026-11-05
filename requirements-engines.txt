@@ -1,0 +1,7 @@
+# CI only: build the project on Apache Spark (in-process) and through dbt-snowflake on the fakesnow emulator.
+# scripts/engines/README.md explains both. Spark also needs Java 17 or later.
+dbt-spark[session]==1.10.3
+pyspark==4.0.5
+dbt-snowflake==1.12.5
+snowflake-connector-python==4.8.1
+fakesnow==0.12.1

@@ -1,0 +1,157 @@
+Id_immeuble,Nom,Adresse,Code_postal,Secteur,Classe,Surface_utile_m2,Annee_construction,Annee_renovation,Mise_a_jour
+PAR-B0001,Pinnacle Place,130 avenue de Wagram,75017,Paris QCA,Prime,20 374,2006,,05/04/2026
+PAR-B0002,75 esplanade du Général de Gaulle,75 esplanade du Général de Gaulle,92400,Paris QCA,Seconde main récent,13 412,2003,,09/04/2026
+PAR-B0003,152 rue du Faubourg Saint-Antoine,152 rue du Faubourg Saint-Antoine,75012,Paris QCA,Seconde main récent,15 747,1987,2006,13/03/2026
+PAR-B0004,Fenwick Square,158 rue de Vaugirard,75015,Paris QCA,Neuf ou restructuré,8 100,2016,,10/02/2026
+PAR-B0005,Atlas Building,140 rue de Villiers,92300,Paris QCA,Seconde main récent,19 610,1970,2019,14/05/2026
+PAR-B0006,52 rue de Vaugirard,52 rue de Vaugirard,75015,Paris QCA,Seconde main récent,11 930,1983,,31/01/2026
+PAR-B0007,Brightwater House,23 esplanade du Général de Gaulle,92400,Paris QCA,Prime,11 924,2020,,07/05/2026
+PAR-B0008,46 cours Valmy,46 cours Valmy,92800,Paris QCA,Seconde main récent,24 781,1975,,24/04/2026
+PAR-B0009,Elmgrove House,166 rue Saint-Honoré,75001,Paris QCA,Seconde main récent,30 189,1967,,28/03/2026
+PAR-B0010,Northgate Tower,124 rue de Villiers,92300,Paris QCA,Prime,4 910,1964,,21/06/2026
+PAR-B0011,113 rue Michelet,113 rue Michelet,92110,Paris QCA,Seconde main récent,12 215,1989,,12/06/2026
+PAR-B0012,Elmgrove Square,64 avenue du Président Wilson,92800,Paris QCA,Seconde main récent,5 632,1994,,12/04/2026
+PAR-B0013,30 rue de Courcelles,30 rue de Courcelles,75017,Paris QCA,Prime,11 279,1961,2016,25/05/2026
+PAR-B0014,30 rue de Vaugirard,30 rue de Vaugirard,75015,Paris QCA,Prime,11 954,2022,,21/06/2026
+PAR-B0015,Granite Building,113 rue de Courcelles,75017,Paris QCA,Seconde main ancien,8 665,1998,2011,06/02/2026
+PAR-B0016,178 place de la Défense,178 place de la Défense,92400,Paris QCA,Seconde main récent,8 927,2019,,29/01/2026
+PAR-B0017,119 rue Saint-Honoré,119 rue Saint-Honoré,75001,Paris QCA,Prime,20 122,1968,,02/02/2026
+PAR-B0018,Pinnacle Gate,10 avenue d'Italie,75013,Paris QCA,Seconde main récent,9 546,2012,,09/06/2026
+PAR-B0019,18 rue du Faubourg Saint-Antoine,18 rue du Faubourg Saint-Antoine,75012,Paris QCA,Neuf ou restructuré,11 607,2012,2020,06/02/2026
+PAR-B0020,Ashcombe Square,161 avenue d'Italie,75013,Paris QCA,Seconde main récent,15 342,1992,2007,26/05/2026
+PAR-B0021,112 rue Michelet,112 rue Michelet,92110,Paris QCA,Seconde main récent,12 249,2022,,28/07/2026
+PAR-B0022,60 avenue des Champs-Élysées,60 avenue des Champs-Élysées,75008,Paris QCA,Seconde main récent,18 054,1970,,28/04/2026
+PAR-B0023,169 rue du Faubourg Saint-Antoine,169 rue du Faubourg Saint-Antoine,75012,Paris QCA,Seconde main récent,16 148,2004,2025,17/05/2026
+PAR-B0024,Kestrel Tower,149 avenue d'Italie,75013,Paris QCA,Prime,13 549,2015,,02/08/2026
+PAR-B0025,129 rue de la Paix,129 rue de la Paix,75002,Paris QCA,Seconde main récent,7 879,2009,,04/03/2026
+PAR-B0026,106 boulevard du Montparnasse,106 boulevard du Montparnasse,75014,Paris QCA,Seconde main récent,8 162,2018,,31/05/2026
+PAR-B0027,Corvid Quay,72 place de la Défense,92400,Paris QCA,Seconde main ancien,14 086,2014,2025,29/07/2026
+PAR-B0028,134 avenue des Champs-Élysées,134 avenue des Champs-Élysées,75008,Paris QCA,Neuf ou restructuré,10 404,1969,2020,11/05/2026
+PAR-B0029,Thorne Quay,56 rue du Faubourg Saint-Antoine,75012,Paris QCA,Prime,6 762,2005,,13/02/2026
+PAR-B0030,140 avenue d'Italie,140 avenue d'Italie,75013,Paris QCA,Seconde main récent,12 542,1976,,22/01/2026
+PAR-B0031,Veridian Centre,45 rue du Faubourg Saint-Antoine,75012,La Défense,Prime,19 213,1993,,28/01/2026
+PAR-B0032,Halden Court,52 rue du Faubourg Saint-Antoine,75012,La Défense,Neuf ou restructuré,2 820,1991,2006,09/06/2026
+PAR-B0033,112 boulevard Haussmann,112 boulevard Haussmann,75009,La Défense,Prime,9 015,1971,,14/03/2026
+PAR-B0034,34 avenue du Président Wilson,34 avenue du Président Wilson,92800,La Défense,Seconde main récent,27 292,1973,2005,13/07/2026
+PAR-B0035,31 rue du Faubourg Saint-Antoine,31 rue du Faubourg Saint-Antoine,75012,La Défense,Seconde main récent,14 506,1987,2025,02/02/2026
+PAR-B0036,Beacon Gate,53 place de la Défense,92400,La Défense,Neuf ou restructuré,4 835,1987,2012,10/06/2026
+PAR-B0037,Veridian Building,102 avenue des Champs-Élysées,75008,La Défense,Prime,6 666,1967,,04/05/2026
+PAR-B0038,135 avenue de Wagram,135 avenue de Wagram,75017,La Défense,Neuf ou restructuré,6 135,1984,2023,07/05/2026
+PAR-B0039,Marlow Quay,167 rue de Vaugirard,75015,La Défense,Seconde main ancien,3 216,1965,,20/06/2026
+PAR-B0040,Sterling Court,75 boulevard du Montparnasse,75014,La Défense,Neuf ou restructuré,3 019,1968,2018,02/07/2026
+PAR-B0041,38 boulevard Haussmann,38 boulevard Haussmann,75009,La Défense,Seconde main récent,22 769,1965,,23/01/2026
+PAR-B0042,Lumen Square,122 avenue de France,75013,La Défense,Seconde main récent,7 071,1992,,04/03/2026
+PAR-B0043,30 avenue de France,30 avenue de France,75013,La Défense,Prime,25 957,2001,2010,02/03/2026
+PAR-B0044,112 rue de Villiers,112 rue de Villiers,92300,La Défense,Seconde main récent,12 086,2018,,15/04/2026
+PAR-B0045,141 avenue du Président Wilson,141 avenue du Président Wilson,92800,La Défense,Seconde main récent,7 458,1963,,16/03/2026
+PAR-B0046,Tamar Point,91 rue de Villiers,92300,La Défense,Seconde main ancien,21 542,1969,,08/03/2026
+PAR-B0047,101 place de la Défense,101 place de la Défense,92400,La Défense,Seconde main récent,6 426,2008,,29/05/2026
+PAR-B0048,Aldwyn Place,18 boulevard du Montparnasse,75014,La Défense,Seconde main ancien,35 453,1969,2012,23/03/2026
+PAR-B0049,Osprey Park,171 rue Saint-Honoré,75001,La Défense,Seconde main récent,16 511,1990,2014,08/03/2026
+PAR-B0050,57 boulevard de Stalingrad,57 boulevard de Stalingrad,92240,La Défense,Prime,44 120,1995,,10/06/2026
+PAR-B0051,8 boulevard du Montparnasse,8 boulevard du Montparnasse,75014,La Défense,Prime,8 047,2014,,19/01/2026
+PAR-B0052,27 rue Saint-Honoré,27 rue Saint-Honoré,75001,La Défense,Seconde main récent,16 200,2022,,10/05/2026
+PAR-B0053,29 rue de Courcelles,29 rue de Courcelles,75017,La Défense,Neuf ou restructuré,4 879,1995,,04/07/2026
+PAR-B0054,92 place de la Défense,92 place de la Défense,92400,La Défense,Seconde main ancien,6 774,1961,2009,30/07/2026
+PAR-B0055,Wren Place,105 avenue de France,75013,La Défense,Seconde main ancien,5 668,1972,2008,04/04/2026
+PAR-B0056,179 rue Michelet,179 rue Michelet,92110,La Défense,Prime,12 092,1993,2009,10/02/2026
+PAR-B0057,102 cours Valmy,102 cours Valmy,92800,La Défense,Neuf ou restructuré,10 060,2008,,18/05/2026
+PAR-B0058,56 avenue de Wagram,56 avenue de Wagram,75017,La Défense,Seconde main récent,9 668,2010,2016,18/01/2026
+PAR-B0059,Linden House,160 rue Saint-Honoré,75001,La Défense,Seconde main récent,12 656,1969,,14/02/2026
+PAR-B0060,145 rue de la Paix,145 rue de la Paix,75002,La Défense,Seconde main récent,9 798,2016,,16/01/2026
+PAR-B0061,123 rue de Villiers,123 rue de Villiers,92300,Paris Centre Ouest (hors QCA),Neuf ou restructuré,6 858,2020,,23/02/2026
+PAR-B0062,173 place de la Défense,173 place de la Défense,92400,Paris Centre Ouest (hors QCA),Seconde main récent,16 612,2004,,29/03/2026
+PAR-B0063,Nimbus Point,139 avenue de Wagram,75017,Paris Centre Ouest (hors QCA),Seconde main récent,18 106,1975,,20/02/2026
+PAR-B0064,Helix Point,71 cours Valmy,92800,Paris Centre Ouest (hors QCA),Neuf ou restructuré,19 313,1969,2020,18/05/2026
+PAR-B0065,87 rue de Villiers,87 rue de Villiers,92300,Paris Centre Ouest (hors QCA),Seconde main récent,17 278,1967,2025,12/04/2026
+PAR-B0066,Beacon Place,53 avenue du Président Wilson,92800,Paris Centre Ouest (hors QCA),Seconde main ancien,7 238,2010,2020,26/07/2026
+PAR-B0067,98 avenue Hoche,98 avenue Hoche,75008,Paris Centre Ouest (hors QCA),Neuf ou restructuré,13 233,1979,,08/07/2026
+PAR-B0068,38 rue de Vaugirard,38 rue de Vaugirard,75015,Paris Centre Ouest (hors QCA),Seconde main ancien,4 196,1972,2013,06/05/2026
+PAR-B0069,25 rue de Courcelles,25 rue de Courcelles,75017,Paris Centre Ouest (hors QCA),Neuf ou restructuré,6 115,1997,,15/01/2026
+PAR-B0070,86 esplanade du Général de Gaulle,86 esplanade du Général de Gaulle,92400,Paris Centre Ouest (hors QCA),Seconde main récent,10 823,2007,2013,22/01/2026
+PAR-B0071,Orbis Point,179 rue du Faubourg Saint-Antoine,75012,Paris Centre Ouest (hors QCA),Seconde main récent,20 527,1990,,13/05/2026
+PAR-B0072,12 avenue Hoche,12 avenue Hoche,75008,Paris Centre Ouest (hors QCA),Seconde main ancien,10 679,1994,,07/05/2026
+PAR-B0073,Lumen Building,89 avenue Hoche,75008,Paris Centre Ouest (hors QCA),Neuf ou restructuré,11 125,2001,,08/03/2026
+PAR-B0074,Helix Tower,128 cours Valmy,92800,Paris Centre Ouest (hors QCA),Seconde main récent,18 239,2008,2024,21/07/2026
+PAR-B0075,Osprey Plaza,149 rue de Vaugirard,75015,Paris Centre Ouest (hors QCA),Prime,19 076,2009,2017,27/06/2026
+PAR-B0076,51 esplanade du Général de Gaulle,51 esplanade du Général de Gaulle,92400,Paris Centre Ouest (hors QCA),Prime,7 584,2009,,29/06/2026
+PAR-B0077,Larkspur Tower,98 rue du Faubourg Saint-Antoine,75012,Paris Centre Ouest (hors QCA),Seconde main récent,8 880,2004,2024,21/02/2026
+PAR-B0078,105 rue du Faubourg Saint-Antoine,105 rue du Faubourg Saint-Antoine,75012,Paris Centre Ouest (hors QCA),Seconde main récent,8 545,1960,2016,05/04/2026
+PAR-B0079,158 avenue de Wagram,158 avenue de Wagram,75017,Paris Centre Ouest (hors QCA),Seconde main récent,23 765,1991,,25/01/2026
+PAR-B0080,20 rue de la Paix,20 rue de la Paix,75002,Paris Centre Ouest (hors QCA),Neuf ou restructuré,1 958,1962,,29/01/2026
+PAR-B0081,Wren Plaza,79 rue du Faubourg Saint-Antoine,75012,Paris Centre Ouest (hors QCA),Seconde main récent,9 313,1999,,23/03/2026
+PAR-B0082,Veridian Quay,29 rue de la Paix,75002,Paris Centre Ouest (hors QCA),Seconde main ancien,7 938,1996,2020,01/06/2026
+PAR-B0083,11 avenue des Champs-Élysées,11 avenue des Champs-Élysées,75008,Paris Centre Ouest (hors QCA),Seconde main récent,20 113,1982,2011,31/01/2026
+PAR-B0084,84 rue de Courcelles,84 rue de Courcelles,75017,Paris Centre Ouest (hors QCA),Seconde main récent,36 555,2005,2024,20/05/2026
+PAR-B0085,Kestrel Place,136 rue de Vaugirard,75015,Paris Centre Ouest (hors QCA),Neuf ou restructuré,12 616,1963,,16/07/2026
+PAR-B0086,6 rue de la Paix,6 rue de la Paix,75002,Paris Centre Ouest (hors QCA),Prime,14 911,1992,,23/02/2026
+PAR-B0087,Ridgeway Plaza,105 boulevard de Stalingrad,92240,Paris Centre Ouest (hors QCA),Prime,19 816,2010,,11/06/2026
+PAR-B0088,118 cours Valmy,118 cours Valmy,92800,Paris Centre Ouest (hors QCA),Seconde main récent,8 916,1982,,05/07/2026
+PAR-B0089,Osprey Building,115 cours Valmy,92800,Paris Centre Ouest (hors QCA),,8 219,1999,,30/07/2026
+PAR-B0090,Veridian Court,62 rue Michelet,92110,Paris Centre Ouest (hors QCA),Seconde main récent,28 903,1989,,19/02/2026
+PAR-B0091,89 rue de Villiers,89 rue de Villiers,92300,Paris Sud,Seconde main récent,12 935,2023,,28/05/2026
+PAR-B0092,Linden Square,131 boulevard de Stalingrad,92240,Paris Sud,Seconde main récent,13 580,1968,,24/02/2026
+PAR-B0093,Orbis Square,19 avenue Hoche,75008,Paris Sud,Neuf ou restructuré,9 195,1977,2013,27/06/2026
+PAR-B0094,Ember Gate,24 avenue d'Italie,75013,Paris Sud,Prime,31 530,1963,2017,13/03/2026
+PAR-B0095,Meridian Plaza,75 boulevard Haussmann,75009,Paris Sud,Seconde main récent,4 971,1970,,16/02/2026
+PAR-B0096,26 rue de Villiers,26 rue de Villiers,92300,Paris Sud,Seconde main récent,7 583,1991,2022,16/05/2026
+PAR-B0097,Osprey Quay,126 boulevard du Montparnasse,75014,Paris Sud,Neuf ou restructuré,38 644,1984,,01/07/2026
+PAR-B0098,1 cours Valmy,1 cours Valmy,92800,Paris Sud,Seconde main récent,13 267,1982,2018,13/05/2026
+PAR-B0099,148 boulevard du Montparnasse,148 boulevard du Montparnasse,75014,Paris Sud,Seconde main récent,9 270,1996,2013,31/03/2026
+PAR-B0100,132 avenue Hoche,132 avenue Hoche,75008,Paris Sud,,8 942,1964,,14/06/2026
+PAR-B0101,Sterling Square,43 boulevard du Montparnasse,75014,Paris Sud,Neuf ou restructuré,12 218,2013,,21/01/2026
+PAR-B0102,Sterling Point,111 avenue d'Italie,75013,Paris Sud,Seconde main récent,15 723,1975,,07/05/2026
+PAR-B0103,53 boulevard de Stalingrad,53 boulevard de Stalingrad,92240,Paris Sud,Seconde main ancien,5 580,1977,2017,21/01/2026
+PAR-B0104,163 rue Saint-Honoré,163 rue Saint-Honoré,75001,Paris Sud,Seconde main récent,2 968,2009,2020,27/02/2026
+PAR-B0105,42 place de la Défense,42 place de la Défense,92400,Paris Sud,Seconde main récent,5 487,2021,,01/08/2026
+PAR-B0106,Atlas Square,114 rue Michelet,92110,Paris Sud,Seconde main récent,29 511,1974,,31/01/2026
+PAR-B0107,15 rue de Courcelles,15 rue de Courcelles,75017,Paris Sud,Seconde main récent,14 950,1992,2008,03/06/2026
+PAR-B0108,Beacon Square,76 place de la Défense,92400,Paris Sud,Neuf ou restructuré,5 539,2020,,09/07/2026
+PAR-B0109,Helix Quay,33 avenue d'Italie,75013,Paris Sud,Seconde main récent,21 016,1961,2012,21/04/2026
+PAR-B0110,81 rue de la Paix,81 rue de la Paix,75002,Paris Sud,Seconde main récent,8 823,1989,2019,09/07/2026
+PAR-B0111,Atlas Point,20 rue de Villiers,92300,Paris Sud,Prime,11 264,1974,,25/05/2026
+PAR-B0112,48 cours Valmy,48 cours Valmy,92800,Paris Sud,Prime,13 193,1977,2007,16/05/2026
+PAR-B0113,Cobalt Plaza,114 boulevard de Stalingrad,92240,Paris Sud,Seconde main récent,10 191,1975,2024,26/06/2026
+PAR-B0114,Wren Court,38 boulevard Haussmann,75009,Paris Sud,Seconde main ancien,7 382,1985,2018,28/04/2026
+PAR-B0115,32 place de la Défense,32 place de la Défense,92400,Paris Sud,Neuf ou restructuré,19 304,1984,2018,28/07/2026
+PAR-B0116,63 avenue Charles de Gaulle,63 avenue Charles de Gaulle,92200,Paris Sud,Neuf ou restructuré,8 898,1985,,01/03/2026
+PAR-B0117,Tamar Quay,58 rue Michelet,92110,Paris Sud,Neuf ou restructuré,6 730,1975,2025,19/05/2026
+PAR-B0118,5 rue de Vaugirard,5 rue de Vaugirard,75015,Paris Sud,Neuf ou restructuré,15 917,1970,2013,08/02/2026
+PAR-B0119,Beacon Court,43 avenue de France,75013,Paris Sud,Seconde main récent,28 184,1965,2006,13/03/2026
+PAR-B0120,161 rue de la Paix,161 rue de la Paix,75002,Paris Sud,Neuf ou restructuré,10 465,2002,2008,06/03/2026
+PAR-B0121,175 avenue du Président Wilson,175 avenue du Président Wilson,92800,Péri-Défense,Prime,16 536,1990,2017,25/01/2026
+PAR-B0122,11 boulevard de Stalingrad,11 boulevard de Stalingrad,92240,Péri-Défense,Seconde main ancien,7 396,2021,,21/02/2026
+PAR-B0123,Halden House,36 rue de Courcelles,75017,Péri-Défense,Seconde main récent,41 260,2000,,28/04/2026
+PAR-B0124,Lumen Park,143 boulevard du Montparnasse,75014,Péri-Défense,Seconde main ancien,8 171,1993,,13/06/2026
+PAR-B0125,Ridgeway Tower,17 avenue du Président Wilson,92800,Péri-Défense,Prime,7 536,1961,,25/02/2026
+PAR-B0126,145 rue Michelet,145 rue Michelet,92110,Péri-Défense,Seconde main récent,10 522,1971,2011,09/06/2026
+PAR-B0127,167 avenue d'Italie,167 avenue d'Italie,75013,Péri-Défense,Seconde main récent,8 949,1985,2025,26/07/2026
+PAR-B0128,21 rue Saint-Honoré,21 rue Saint-Honoré,75001,Péri-Défense,Seconde main récent,10 611,1966,2009,22/02/2026
+PAR-B0129,33 rue de la Paix,33 rue de la Paix,75002,Péri-Défense,Prime,30 764,2002,,06/07/2026
+PAR-B0130,9 avenue de Wagram,9 avenue de Wagram,75017,Péri-Défense,Seconde main ancien,10 114,2007,,29/06/2026
+PAR-B0131,66 boulevard de Stalingrad,66 boulevard de Stalingrad,92240,Péri-Défense,Seconde main récent,9 274,1960,,26/05/2026
+PAR-B0132,111 avenue Charles de Gaulle,111 avenue Charles de Gaulle,92200,Péri-Défense,Seconde main ancien,9 960,1969,,11/05/2026
+PAR-B0133,Ridgeway Court,32 cours Valmy,92800,Péri-Défense,Seconde main ancien,5 672,1972,,03/02/2026
+PAR-B0134,113 rue Saint-Honoré,113 rue Saint-Honoré,75001,Péri-Défense,Seconde main récent,4 772,2012,2024,23/06/2026
+PAR-B0135,Ember Building,43 boulevard de Stalingrad,92240,Péri-Défense,Seconde main ancien,13 571,1967,,17/01/2026
+PAR-B0136,Linden Gate,25 boulevard du Montparnasse,75014,Péri-Défense,Seconde main récent,23 905,2013,,12/02/2026
+PAR-B0137,95 rue de Courcelles,95 rue de Courcelles,75017,Péri-Défense,Neuf ou restructuré,10 678,2005,,05/06/2026
+PAR-B0138,150 rue Saint-Honoré,150 rue Saint-Honoré,75001,Péri-Défense,Neuf ou restructuré,14 372,2009,2021,28/02/2026
+PAR-B0139,35 rue du Faubourg Saint-Antoine,35 rue du Faubourg Saint-Antoine,75012,Péri-Défense,Neuf ou restructuré,8 664,2009,2023,03/05/2026
+PAR-B0140,19 boulevard Haussmann,19 boulevard Haussmann,75009,Péri-Défense,Seconde main récent,19 208,1994,,31/03/2026
+PAR-B0141,Harrow Building,145 avenue du Président Wilson,92800,Péri-Défense,,7 219,2001,2025,21/03/2026
+PAR-B0142,52 rue de Courcelles,52 rue de Courcelles,75017,Péri-Défense,Neuf ou restructuré,6 695,2006,,19/02/2026
+PAR-B0143,Vantage Tower,75 cours Valmy,92800,Péri-Défense,Seconde main récent,13 225,1992,2021,21/03/2026
+PAR-B0144,145 esplanade du Général de Gaulle,145 esplanade du Général de Gaulle,92400,Péri-Défense,Neuf ou restructuré,3 704,1979,2017,27/07/2026
+PAR-B0145,Wren Quay,131 rue de la Paix,75002,Péri-Défense,Seconde main récent,4 785,2015,,03/05/2026
+PAR-B0146,61 boulevard du Montparnasse,61 boulevard du Montparnasse,75014,Péri-Défense,Seconde main récent,16 396,1976,2008,07/04/2026
+PAR-B0147,Aldwyn House,99 avenue des Champs-Élysées,75008,Péri-Défense,Neuf ou restructuré,3 901,1967,2006,09/02/2026
+PAR-B0148,Corvid Building,82 esplanade du Général de Gaulle,92400,Péri-Défense,Neuf ou restructuré,3 666,1961,,05/03/2026
+PAR-B0149,157 cours Valmy,157 cours Valmy,92800,Péri-Défense,Prime,12 364,2001,2010,24/06/2026
+PAR-B0150,120 esplanade du Général de Gaulle,120 esplanade du Général de Gaulle,92400,Péri-Défense,Seconde main récent,30 166,2006,,02/06/2026
+PAR-B0054,92 place de la Défense,92 place de la Défense,92400,La Défense,Prime,6 774,1961,2026,01/10/2026
+PAR-B0062,173 place de la Défense,173 place de la Défense,92400,Paris Centre Ouest (hors QCA),Prime,16 612,2004,2026,08/10/2026
+PAR-B0048,Aldwyn Place,18 boulevard du Montparnasse,75014,La Défense,Prime,35 453,1969,2026,11/09/2026
+PAR-B0001,Pinnacle Place,130 avenue de Wagram,75017,Paris QCA,Prime,20 374,2006,2026,15/09/2026
+PAR-B0071,Orbis Point,179 rue du Faubourg Saint-Antoine,75012,Paris Centre Ouest (hors QCA),Prime,20 527,1990,2026,14/09/2026
+PAR-B0144,145 esplanade du Général de Gaulle,145 esplanade du Général de Gaulle,92400,Péri-Défense,Prime,3 704,1979,2026,28/09/2026

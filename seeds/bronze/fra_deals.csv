@@ -1,0 +1,1021 @@
+Vorgang,Datum,Objekt,Adresse,Teilmarkt,Mieter,Branche,Flaeche_m2,Miete_EUR_m2_monat,Laufzeit_jahre,Vertragsart,Gemeldet_am
+FRA-20254-41008,19.11.2025,Tamar House,"121 Westendstraße, 60325",Innenstadt,Sable Capital,Banken/Finanzen,3.159,"38,07",9,Neuvermietung,2026-01-12 09:00:00
+FRA-20251-53001,01.03.2025,26 Westendstraße,"26 Westendstraße, 60325",Eschborn,Arden Industries Frankfurt,Industrie,825,"14,65",15,Verlängerung ,2025-04-16 09:00:00
+FRA-20262-13011,26.06.2026,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,605,"41,32",10,Neuvermietung,2026-07-16 09:00:00
+FRA-20253-55014,01.08.2025,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Sable Capital,Banken/Finanzen,865,"14,93",5,Verlängerung,2025-10-20 09:00:00
+FRA-20263-29006,20.08.2026,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Kestrel Authority,Öffentliche Hand,798,"40,42",9,Verlängerung,2026-10-12 09:00:00
+FRA-20263-14011,04.07.2026,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Beacon Associates,Unternehmensberatung,2.522,"40,80",12,Untervermietung,2026-10-12 09:00:00
+FRA-20233-32014,09.07.2023,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Calder Biosciences,Pharma/Life Sciences,527,"25,03",12,Untervermietung,2023-10-24 09:00:00
+FRA-20253-55011,04.07.2025,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Granite Associates,Unternehmensberatung,1.414,"11,10",5,Neuvermietung ,2025-10-20 09:00:00
+FRA-20252-24005,30.05.2025,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Arden Industries Frankfurt,Industrie,789,"31,45",12,Neuvermietung,2025-07-17 09:00:00
+FRA-20244-37009,16.11.2024,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Sterling Workspace Frankfurt,Flexible Büros,814,"31,95",5,Neuvermietung,2025-01-16 09:00:00
+FRA-20251-08006,13.02.2025,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Tamar Consulting Frankfurt,Unternehmensberatung,1.595,"46,46",3,Neuvermietung,2025-04-22 09:00:00
+FRA-20263-29008,26.07.2026,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Cobalt Capital,Banken/Finanzen,1.185,"40,29",10,Vorvermietung,2026-10-12 09:00:00
+FRA-20254-11002,24.10.2025,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Kestrel Authority,Öffentliche Hand,1.438,"32,46",6,Neuvermietung,2026-01-18 09:00:00
+FRA-20263-14015,28.07.2026,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,336,"25,85",15,Neuvermietung,2026-10-12 09:00:00
+FRA-20242-65001,01.06.2024,12 Zeil,"12 Zeil, 60313",Niederrad,Osprey Avocats,Rechtsberatung,1.270,"12,29",15,Untervermietung,2024-07-21 09:00:00
+FRA-20233-62005,16.09.2023,74 Mainzer Landstraße,"74 Mainzer Landstraße, 60325",Niederrad,Pinnacle Media,IT/Medien/Telekommunikation,1.133,"9,37",10,Neuvermietung,2023-10-17 09:00:00
+FRA-20262-13003,23.06.2026,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Calder Holdings Frankfurt,Sonstige,634,"39,51",6,Neuvermietung,2026-07-16 09:00:00
+FRA-20254-41023,12.11.2025,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Sterling Consulting,Unternehmensberatung,2.258,"29,52",12,Neuvermietung,2026-01-12 09:00:00
+FRA-20232-31007,06.04.2023,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Orbis Insurance,Versicherungen,1.666,"25,74",10,Verlängerung,2023-07-23 09:00:00
+FRA-20251-08009,26.01.2025,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Orbis Insurance,Versicherungen,1.574,"31,18",12,Untervermietung,2025-04-22 09:00:00
+FRA-20242-05007,16.04.2024,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Corvid Consulting,Unternehmensberatung,714,,15,Verlängerung,2024-07-23 09:00:00
+FRA-20234-33018,27.10.2023,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Orbis Flex,Flexible Büros,1.854,"31,18",9,Verlängerung,2024-01-17 09:00:00
+FRA-20263-44017,21.08.2026,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Pinnacle Media,IT/Medien/Telekommunikation,286,"37,00",9,Verlängerung,2026-10-20 09:00:00
+FRA-20262-58005,25.06.2026,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Arden Hub,Flexible Büros,1.011,"12,01",10,Neuvermietung,2026-07-12 09:00:00
+FRA-20244-22007,05.11.2024,Tern House,"102 Taunusanlage, 60329",Westend,Granite Council Frankfurt,Öffentliche Hand,1.039,"29,16",12,Verlängerung,2025-01-16 09:00:00
+FRA-20263-14004,14.08.2026,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Aldwyn Rechtsanwälte,Rechtsberatung,908,"42,57",5,Verlängerung,2026-10-12 09:00:00
+FRA-20244-67002,26.10.2024,114 Mergenthalerallee,"114 Mergenthalerallee, 65760",Niederrad,Arden Industries Frankfurt,Industrie,841,"13,16",10,Neuvermietung,2025-01-24 09:00:00
+FRA-20253-10003,25.09.2025,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Vantage Holdings,Sonstige,938,"30,58",10,Erweiterung ,2025-10-15 09:00:00
+FRA-20243-66001,19.09.2024,52 Junghofstraße,"52 Junghofstraße, 60311",Niederrad,Sterling Workspace Frankfurt,Flexible Büros,1.017,"12,80",6,Neuvermietung,2024-10-16 09:00:00
+FRA-20253-25011,16.08.2025,111 Taunustor,"111 Taunustor, 60310",Westend,Veridian Authority Frankfurt,Öffentliche Hand,972,"40,03",15,Verlängerung,2025-10-21 09:00:00
+FRA-20263-29009,18.07.2026,Harrow Plaza,"150 Mergenthalerallee, 65760",Westend,Elmgrove Authority,Öffentliche Hand,1.003,"50,19",3,Vorvermietung,2026-10-12 09:00:00
+FRA-20251-68003,31.01.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Sable Capital,Banken/Finanzen,529,"15,04",9,Neuvermietung,2025-04-21 09:00:00
+FRA-20262-58006,11.06.2026,102 Junghofstraße,"102 Junghofstraße, 60311",Eschborn,Ember Institute Frankfurt,Öffentliche Hand,1.247,"11,38",12,Neuvermietung,2026-07-12 09:00:00
+FRA-20234-18003,24.11.2023,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,1.149,"45,77",9,Neuvermietung,2024-01-24 09:00:00
+FRA-20244-07024,09.10.2024,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Tern Capital Frankfurt,Banken/Finanzen,522,"42,04",6,Verlängerung,2025-01-23 09:00:00
+FRA-20242-05002,15.06.2024,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Beacon Associates,Unternehmensberatung,412,"38,39",5,Neuvermietung,2024-07-23 09:00:00
+FRA-20252-24012,19.04.2025,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Juniper Avocats,Rechtsberatung,639,"33,86",10,Verlängerung,2025-07-17 09:00:00
+FRA-20233-17004,23.08.2023,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,1.395,"40,97",10,Erweiterung,2023-10-23 09:00:00
+FRA-20242-50007,23.05.2024,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Veridian Authority Frankfurt,Öffentliche Hand,1.432,"14,14",6,Verlängerung,2024-07-17 09:00:00
+FRA-20252-09020,04.04.2025,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,2.957,"40,29",5,Verlängerung,2025-07-15 09:00:00
+FRA-20253-70001,19.09.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Larkspur Diagnostics,Pharma/Life Sciences,700,"11,96",10,Untervermietung,2025-10-16 09:00:00
+FRA-20242-50008,27.04.2024,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Elmgrove Authority,Öffentliche Hand,985,"11,12",5,Erweiterung,2024-07-17 09:00:00
+FRA-20263-59005,14.07.2026,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Ravel Offices,Flexible Büros,966,"11,13",12,Neuvermietung,2026-10-21 09:00:00
+FRA-20241-19009,07.03.2024,Harrow Plaza,"150 Mergenthalerallee, 65760",Westend,Tern Group,Unternehmensberatung,1.918,"38,81",10,Neuvermietung,2024-04-20 09:00:00
+FRA-20231-30004,12.02.2023,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Osprey Avocats,Rechtsberatung,2.522,"25,72",3,Neuvermietung,2023-04-19 09:00:00
+FRA-20262-43007,06.04.2026,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Ember Re,Versicherungen,980,"28,03",10,Verlängerung,2026-07-16 09:00:00
+FRA-20232-16009,27.04.2023,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Thorne Associates,Unternehmensberatung,509,"43,95",6,Neuvermietung,2023-07-29 09:00:00
+FRA-20244-67006,10.10.2024,12 Zeil,"12 Zeil, 60313",Niederrad,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,348,"13,11",6,Verlängerung,2025-01-24 09:00:00
+FRA-20251-23002,25.03.2025,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Helix Technologies,IT/Medien/Telekommunikation,1.137,"37,90",10,Verlängerung,2025-04-22 09:00:00
+FRA-20243-21011,10.07.2024,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Fenwick Labs,IT/Medien/Telekommunikation,1.207,"33,27",12,Neuvermietung,2024-10-15 09:00:00
+FRA-20254-56007,14.10.2025,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Wren Partners,Banken/Finanzen,938,"13,52",5,Vorvermietung,2026-01-24 09:00:00
+FRA-20254-71002,16.12.2025,135 Große Eschenheimer Straße,"135 Große Eschenheimer Straße, 60313",Niederrad,Sterling Consulting,Unternehmensberatung,2.794,"14,29",12,Neuvermietung,2026-01-13 09:00:00
+FRA-20262-58001,09.05.2026,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Tamar Consulting Frankfurt,Unternehmensberatung,528,"13,94",10,Neuvermietung,2026-07-12 09:00:00
+FRA-20262-13021,27.05.2026,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Juniper Avocats,Rechtsberatung,1.525,"34,08",12,Neuvermietung,2026-07-16 09:00:00
+FRA-20232-01023,08.04.2023,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Calder Biosciences,Pharma/Life Sciences,1.260,"42,53",10,Neuvermietung,2023-07-23 09:00:00
+FRA-20241-34016,02.03.2024,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Granite Council Frankfurt,Öffentliche Hand,4.412,"29,28",15,Vorvermietung,2024-04-21 09:00:00
+FRA-20262-28011,30.06.2026,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Marlow Underwriting,Versicherungen,1.854,"34,97",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20231-00001,04.02.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Solace Offices,Flexible Büros,795,"39,50",12,Vorvermietung,2023-04-23 09:00:00
+FRA-20232-01014,30.06.2023,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Tern Capital Frankfurt,Banken/Finanzen,472,"33,37",9,Neuvermietung,2023-07-23 09:00:00
+FRA-20234-03002,27.10.2023,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Veridian Health,Pharma/Life Sciences,2.811,"38,17",10,Vorvermietung,2024-01-17 09:00:00
+FRA-20242-20009,26.06.2024,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Sable Avocats Frankfurt,Rechtsberatung,1.292,"30,16",6,Neuvermietung,2024-07-21 09:00:00
+FRA-20232-16015,25.04.2023,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Pinnacle Media,IT/Medien/Telekommunikation,1.273,"29,96",10,Neuvermietung,2023-07-20 09:00:00
+FRA-20251-38007,18.02.2025,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Harrow Asset Management,Banken/Finanzen,909,"35,28",9,Verlängerung,2025-04-14 09:00:00
+FRA-20232-16013,11.06.2023,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Meridian Consulting,Unternehmensberatung,2.999,"37,40",9,Verlängerung,2023-07-20 09:00:00
+FRA-20241-04003,05.02.2024,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Atlas Consulting,Unternehmensberatung,2.289,"43,58",10,Neuvermietung,2024-04-24 09:00:00
+FRA-20251-08019,23.01.2025,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,1.130,"26,34",6,Erweiterung ,2025-04-22 09:00:00
+FRA-20234-03004,04.11.2023,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Linden Capital,Banken/Finanzen,532,"46,02",10,verlängerung,2024-01-17 09:00:00
+FRA-20251-08015,09.02.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Thorne Associates,Unternehmensberatung,1.259,"36,99",10,Verlängerung,2025-04-22 09:00:00
+FRA-20232-61004,05.06.2023,170 Mergenthalerallee,"170 Mergenthalerallee, 65760",Niederrad,Ashcombe Diagnostics,Pharma/Life Sciences,2.369,"9,98",10,Untervermietung,2023-07-14 09:00:00
+FRA-20262-28003,23.06.2026,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Granite Associates,Unternehmensberatung,698,"27,28",9,Neuvermietung,2026-07-22 09:00:00
+FRA-20243-21007,08.08.2024,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Osprey Avocats,Rechtsberatung,599,"30,10",6,Neuvermietung,2024-10-15 09:00:00
+FRA-20231-45002,21.02.2023,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Solace Offices,Flexible Büros,787,"9,50",5,Verlängerung,2023-04-22 09:00:00
+FRA-20254-41004,17.10.2025,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Northgate LLP,Rechtsberatung,634,"29,22",5,Neuvermietung,2026-01-12 09:00:00
+FRA-20231-45005,30.03.2023,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,678,"13,22",10,Neuvermietung,2023-04-22 09:00:00
+FRA-20263-59002,27.09.2026,Linden Plaza,"148 Kaiserstraße, 60329",Eschborn,Fenwick Labs,IT/Medien/Telekommunikation,384,"15,03",10,Neuvermietung,2026-10-21 09:00:00
+FRA-20243-51006,08.09.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Calder Biosciences,Pharma/Life Sciences,821,"12,31",9,Neuvermietung,2024-10-13 09:00:00
+FRA-20244-37008,04.12.2024,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Meridian Capital,Banken/Finanzen,2.089,"27,69",10,Neuvermietung,2025-01-16 09:00:00
+FRA-20242-20014,08.04.2024,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Sterling Bank,Banken/Finanzen,1.249,"44,29",10,Erweiterung,2024-07-21 09:00:00
+FRA-20233-32018,21.09.2023,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Tern Group,Unternehmensberatung,869,"33,97",5,Verlängerung,2023-10-24 09:00:00
+FRA-20254-11005,05.12.2025,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,1.305,"45,06",5,Verlängerung,2026-01-18 09:00:00
+FRA-20234-18013,18.11.2023,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Arden Industries Frankfurt,Industrie,1.512,"35,16",3,Verlängerung,2024-01-15 09:00:00
+FRA-20262-13014,15.05.2026,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,680,"28,77",5,Neuvermietung,2026-07-16 09:00:00
+FRA-20251-23008,31.01.2025,111 Taunustor,"111 Taunustor, 60310",Westend,Harrow Capital Frankfurt,Banken/Finanzen,2.033,"45,25",10,Neuvermietung,2025-04-22 09:00:00
+FRA-20262-13023,29.04.2026,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",,Northgate LLP,Rechtsberatung,992,"37,71",10,Untervermietung,2026-07-16 09:00:00
+FRA-20253-10019,10.08.2025,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Calder Holdings Frankfurt,Sonstige,1.747,"37,55",5,Neuvermietung,2025-10-15 09:00:00
+FRA-20253-40008,08.09.2025,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Elmgrove Authority,Öffentliche Hand,666,"30,00",5,Vorvermietung,2025-10-15 09:00:00
+FRA-20231-00012,26.01.2023,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Brightwater Consulting,Unternehmensberatung,1.866,"40,42",10,Verlängerung,2023-04-23 09:00:00
+FRA-20251-38016,12.01.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Thorne Associates,Unternehmensberatung,431,"33,47",10,Verlängerung,2025-04-14 09:00:00
+FRA-20243-36006,11.09.2024,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Ember Re,Versicherungen,703,"27,32",3,Vorvermietung,2024-10-16 09:00:00
+FRA-20232-46006,01.06.2023,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Marlow Underwriting,Versicherungen,1.852,"9,80",6,Verlängerung,2023-07-22 09:00:00
+FRA-20252-24016,11.05.2025,Granite House,"151 Zeil, 60313",Westend,Brightwater Consulting,Unternehmensberatung,3.826,"28,33",9,Neuvermietung,2025-07-17 09:00:00
+FRA-20233-62001,18.09.2023,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Ravel Offices,Flexible Büros,1.956,"16,16",12,Verlängerung,2023-10-17 09:00:00
+FRA-20231-45004,06.03.2023,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Granite Council Frankfurt,Öffentliche Hand,1.250,"8,76",5,Neuvermietung,2023-04-22 09:00:00
+FRA-20252-39006,28.05.2025,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Wren Bank Frankfurt,Banken/Finanzen,2.278,"24,71",5,Vorvermietung,2025-07-21 09:00:00
+FRA-20254-41014,19.10.2025,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Ridgeway Institute,Öffentliche Hand,965,"26,65",9,Neuvermietung,2026-01-12 09:00:00
+FRA-20253-55009,21.09.2025,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,992,"9,44",9,Neuvermietung,2025-10-20 09:00:00
+FRA-20244-07009,19.12.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Calder Biosciences,Pharma/Life Sciences,1.018,"41,17",10,Verlängerung,2025-01-23 09:00:00
+FRA-20263-44014,07.07.2026,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Osprey Avocats,Rechtsberatung,652,"33,15",3,Erweiterung,2026-10-20 09:00:00
+FRA-20232-01022,13.06.2023,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,329,"44,10",3,Neuvermietung,2023-07-23 09:00:00
+FRA-20253-40012,18.07.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,685,"32,09",5,Untervermietung,2025-10-15 09:00:00
+FRA-20243-66002,19.07.2024,114 Mergenthalerallee,"114 Mergenthalerallee, 65760",Niederrad,Meridian Capital,Banken/Finanzen,1.144,"12,16",5,Verlängerung,2024-10-16 09:00:00
+FRA-20252-39003,12.05.2025,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Arden Industries Frankfurt,Industrie,697,"24,30",5,Verlängerung ,2025-07-21 09:00:00
+FRA-20254-41024,29.10.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Sterling Bank,Banken/Finanzen,1.724,"33,06",5,Neuvermietung,2026-01-12 09:00:00
+FRA-20251-08018,07.01.2025,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Lumen Diagnostics,Pharma/Life Sciences,1.234,"43,71",10,Neuvermietung,2025-04-22 09:00:00
+FRA-20254-41022,27.11.2025,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Solace Offices,Flexible Büros,506,"30,89",15,neuvermietung,2026-01-12 09:00:00
+FRA-20263-44015,28.08.2026,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,990,"27,73",5,Erweiterung,2026-10-20 09:00:00
+FRA-20263-59011,12.08.2026,Granite Gate,"60 Herriotstraße, 60528",Eschborn,Marlow Underwriting,Versicherungen,872,"11,72",10,Neuvermietung,2026-10-21 09:00:00
+FRA-20232-31014,05.04.2023,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Solace Underwriting Frankfurt,Versicherungen,1.312,"26,39",10,Erweiterung,2023-07-23 09:00:00
+FRA-20232-46003,20.04.2023,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Lumen Workspace,Flexible Büros,1.548,"13,78",12,Vorvermietung,2023-07-22 09:00:00
+FRA-20252-54003,04.06.2025,106 Zeil,"106 Zeil, 60313",Eschborn,Lumen Workspace,Flexible Büros,1.872,"17,31",15,Neuvermietung,2025-07-14 09:00:00
+FRA-20241-19003,08.02.2024,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Harrow Asset Management,Banken/Finanzen,633,"30,06",5,Verlängerung,2024-04-20 09:00:00
+FRA-20263-44005,10.08.2026,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Linden Capital,Banken/Finanzen,967,"27,35",12,Neuvermietung,2026-10-20 09:00:00
+FRA-20242-35004,12.04.2024,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Sable Capital,Banken/Finanzen,2.866,"29,32",9,Verlängerung,2024-07-14 09:00:00
+FRA-20234-33008,08.11.2023,Tamar House,"121 Westendstraße, 60325",Innenstadt,Tern Group,Unternehmensberatung,1.617,"37,08",5,Neuvermietung,2024-01-17 09:00:00
+FRA-20244-07021,15.10.2024,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,3.532,"43,06",3,Erweiterung ,2025-01-23 09:00:00
+FRA-20231-15007,08.01.2023,113 Neue Mainzer Straße,"113 Neue Mainzer Straße, 60311",Westend,Calder Holdings Frankfurt,Sonstige,462,"42,95",15,Erweiterung,2023-04-13 09:00:00
+FRA-20262-13019,12.04.2026,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Atlas Associates Frankfurt,Unternehmensberatung,1.548,"47,61",5,Neuvermietung ,2026-07-16 09:00:00
+FRA-20242-20005,29.04.2024,Osprey Gate,"8 Taunustor, 60310",Westend,Lumen Workspace,Flexible Büros,694,"37,57",15,Neuvermietung,2024-07-21 09:00:00
+FRA-20244-07018,04.12.2024,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Fenwick Labs,IT/Medien/Telekommunikation,1.449,"35,97",15,Erweiterung,2025-01-23 09:00:00
+FRA-20241-34011,30.03.2024,56 Zeil,"56 Zeil, 60313",Innenstadt,Orbis Insurance,Versicherungen,2.568,"22,12",10,Neuvermietung,2024-04-21 09:00:00
+FRA-20242-20003,01.05.2024,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Pinnacle Media,IT/Medien/Telekommunikation,11.060,"32,32",9,Neuvermietung,2024-07-21 09:00:00
+FRA-20232-01009,24.06.2023,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,2.379,"38,49",5,Verlängerung,2023-07-23 09:00:00
+FRA-20261-12017,18.01.2026,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Osprey Avocats,Rechtsberatung,566,"28,86",15,Vorvermietung,2026-04-22 09:00:00
+FRA-20231-00009,02.03.2023,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Meridian Capital,Banken/Finanzen,1.072,"39,82",3,Neuvermietung,2023-04-23 09:00:00
+FRA-20234-03025,13.12.2023,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Fenwick Labs,IT/Medien/Telekommunikation,939,"34,97",5,Untervermietung,2024-01-17 09:00:00
+FRA-20243-06019,14.09.2024,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Sable Avocats Frankfurt,Rechtsberatung,1.111,"31,78",12,Neuvermietung,2024-10-14 09:00:00
+FRA-20234-18007,29.12.2023,111 Taunustor,"111 Taunustor, 60310",Westend,Orbis Insurance,Versicherungen,411,"36,60",9,Vorvermietung,2024-01-15 09:00:00
+FRA-20242-05003,17.05.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,1.125,"33,79",3,Untervermietung,2024-07-23 09:00:00
+FRA-20254-26009,26.10.2025,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Tamar Rechtsanwälte,Rechtsberatung,357,"31,93",3,Erweiterung,2026-01-14 09:00:00
+FRA-20242-20007,13.04.2024,Granite Point,"48 Junghofstraße, 60311",Westend,Meridian Capital,Banken/Finanzen,587,"33,93",12,Verlängerung,2024-07-21 09:00:00
+FRA-20261-72001,28.03.2026,170 Mergenthalerallee,"170 Mergenthalerallee, 65760",Niederrad,Cobalt Advisory,Unternehmensberatung,829,"11,66",6,Neuvermietung,2026-04-24 09:00:00
+FRA-20251-38012,16.03.2025,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,1.593,"24,04",12,Untervermietung,2025-04-14 09:00:00
+FRA-20241-19008,29.02.2024,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Atlas Consulting,Unternehmensberatung,1.434,"44,82",6,Erweiterung,2024-04-20 09:00:00
+FRA-20261-27003,19.03.2026,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Aldwyn Abogados Frankfurt,Rechtsberatung,1.851,"39,73",3,Erweiterung,2026-04-18 09:00:00
+FRA-20254-11004,07.12.2025,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Osprey Avocats,Rechtsberatung,1.533,"45,34",10,Neuvermietung,2026-01-18 09:00:00
+FRA-20243-06003,27.08.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Lumen Diagnostics,Pharma/Life Sciences,987,"33,10",6,Erweiterung,2024-10-14 09:00:00
+FRA-20242-35011,04.04.2024,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,751,"19,29",10,Verlängerung,2024-07-14 09:00:00
+FRA-20253-10016,11.07.2025,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Solace Offices,Flexible Büros,1.236,"40,72",10,Neuvermietung,2025-10-15 09:00:00
+FRA-20244-07012,08.10.2024,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.001,"38,93",9,Verlängerung,2025-01-23 09:00:00
+FRA-20254-41017,16.10.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Solace Offices,Flexible Büros,1.218,,9,Neuvermietung,2026-01-12 09:00:00
+FRA-20254-26003,28.10.2025,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Arden Industries Frankfurt,Industrie,967,"33,06",15,Vorvermietung,2026-01-14 09:00:00
+FRA-20254-41001,09.11.2025,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Ember Institute Frankfurt,Öffentliche Hand,705,"19,67",3,Verlängerung,2026-01-12 09:00:00
+FRA-20253-25005,26.08.2025,111 Taunustor,"111 Taunustor, 60310",Westend,Meridian Capital,Banken/Finanzen,1.455,"35,60",15,Untervermietung,2025-10-21 09:00:00
+FRA-20232-01002,27.05.2023,Arden House,"114 Westendstraße, 60325",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,1.615,"42,11",15,Verlängerung,2023-07-23 09:00:00
+FRA-20263-44007,06.09.2026,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Ember Re,Versicherungen,318,"34,30",6,Verlängerung,2026-10-20 09:00:00
+FRA-20234-33013,26.12.2023,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Sterling Consulting,Unternehmensberatung,1.264,"21,53",15,Untervermietung,2024-01-17 09:00:00
+FRA-20253-40011,11.07.2025,71 Westendstraße,"71 Westendstraße, 60325",Innenstadt,Orbis Insurance,Versicherungen,1.559,"24,87",15,Erweiterung,2025-10-15 09:00:00
+FRA-20232-16009,27.04.2023,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Thorne Associates,Unternehmensberatung,509,"43,95",6,Neuvermietung,2023-07-20 09:00:00
+FRA-20263-74003,30.09.2026,1 Bockenheimer Landstraße,"1 Bockenheimer Landstraße, 60323",Niederrad,Arden Industries Frankfurt,Industrie,1.858,"10,75",12,Erweiterung,2026-10-24 09:00:00
+FRA-20262-58011,31.05.2026,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Tern Group,Unternehmensberatung,680,"15,42",9,Verlängerung,2026-07-12 09:00:00
+FRA-20233-32012,08.09.2023,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Harrow Asset Management,Banken/Finanzen,1.534,"24,17",6,Verlängerung,2023-10-24 09:00:00
+FRA-20232-61006,25.06.2023,114 Mergenthalerallee,"114 Mergenthalerallee, 65760",Niederrad,Ridgeway Institute,Öffentliche Hand,865,"8,12",15,Untervermietung,2023-07-14 09:00:00
+FRA-20232-01015,26.06.2023,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Osprey Avocats,Rechtsberatung,936,"49,78",6,Neuvermietung,2023-07-23 09:00:00
+FRA-20261-27008,09.01.2026,Granite Point,"48 Junghofstraße, 60311",Westend,Osprey Avocats,Rechtsberatung,804,"36,79",3,Verlängerung,2026-04-18 09:00:00
+FRA-20234-48006,26.12.2033,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,914,"11,49",15,Erweiterung,2024-01-18 09:00:00
+FRA-20261-27005,14.02.2026,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Calder Holdings Frankfurt,Sonstige,614,"42,78",5,Neuvermietung,2026-04-18 09:00:00
+FRA-20233-17005,15.08.2023,111 Taunustor,"111 Taunustor, 60310",Westend,Sterling Consulting,Unternehmensberatung,1.690,"36,82",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20263-29007,29.09.2026,Osprey Gate,"8 Taunustor, 60310",Westend,Meridian Capital,Banken/Finanzen,1.792,"39,30",10,Vorvermietung,2026-10-12 09:00:00
+FRA-20251-23005,28.03.2025,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Arden Industries Frankfurt,Industrie,489,"30,53",9,Neuvermietung,2025-04-22 09:00:00
+FRA-20244-37005,01.11.2024,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Beacon Associates,Unternehmensberatung,1.595,"25,08",3,Verlängerung,2025-01-16 09:00:00
+FRA-20254-41011,16.12.2025,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Calder Biosciences,Pharma/Life Sciences,2.754,"27,44",10,Neuvermietung,2026-01-12 09:00:00
+FRA-20262-13021,27.05.2026,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Juniper Avocats,Rechtsberatung,1.525,"34,08",12,Neuvermietung,2026-07-25 09:00:00
+FRA-20233-02013,20.08.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,1.421,"33,24",3,Vorvermietung,2023-10-14 09:00:00
+FRA-20241-64004,19.01.2024,74 Mainzer Landstraße,"74 Mainzer Landstraße, 60325",Niederrad,Kestrel Authority,Öffentliche Hand,1.930,,9,Neuvermietung,2024-04-17 09:00:00
+FRA-20253-25010,06.09.2025,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Atlas Associates Frankfurt,Unternehmensberatung,749,"33,04",10,Neuvermietung,2025-10-21 09:00:00
+FRA-20232-01006,16.06.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Vantage Holdings,Sonstige,1.126,"44,14",3,Neuvermietung,2023-07-23 09:00:00
+FRA-20263-44015,28.08.2026,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,990,"27,73",5,Erweiterung,2026-10-29 09:00:00
+FRA-20261-57001,30.01.2026,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Fenwick Labs,IT/Medien/Telekommunikation,422,"14,86",15,Erweiterung,2026-04-16 09:00:00
+FRA-20253-40007,30.07.2025,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Atlas Consulting,Unternehmensberatung,535,"24,71",5,Verlängerung,2025-10-15 09:00:00
+FRA-20261-27004,29.01.2026,Osprey Gate,"8 Taunustor, 60310",Westend,Cobalt Capital,Banken/Finanzen,872,"42,56",9,Neuvermietung,2026-04-18 09:00:00
+FRA-20254-11011,21.11.2025,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Halden Consulting,Unternehmensberatung,55.548,"38,96",10,Neuvermietung,2026-01-18 09:00:00
+FRA-20244-37006,24.11.2024,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Northgate Assurance,Versicherungen,3.099,"30,56",5,Neuvermietung,2025-01-16 09:00:00
+FRA-20233-17006,01.07.2023,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Orbis Insurance,Versicherungen,1.208,"25,16",10,Verlängerung,2023-10-14 09:00:00
+FRA-20251-38003,18.02.2025,56 Zeil,"56 Zeil, 60313",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,2.990,"27,45",15,Neuvermietung,2025-04-14 09:00:00
+FRA-20231-30015,21.02.2023,56 Zeil,"56 Zeil, 60313",Innenstadt,Helix Biosciences,Pharma/Life Sciences,2.058,"24,65",5,Erweiterung,2023-04-28 09:00:00
+FRA-20262-58008,14.05.2026,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Atlas Associates Frankfurt,Unternehmensberatung,2.109,"11,34",12,Verlängerung,2026-07-12 09:00:00
+FRA-20253-55001,07.08.2025,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Kestrel Authority,Öffentliche Hand,1.077,"10,76",10,neuvermietung,2025-10-20 09:00:00
+FRA-20244-22004,18.12.2024,166 Taunusanlage,"166 Taunusanlage, 60329",Westend,Tamar Consulting Frankfurt,Unternehmensberatung,1.516,"29,60",6,Verlängerung,2025-01-16 09:00:00
+FRA-20232-01003,15.06.2023,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Veridian Authority Frankfurt,Öffentliche Hand,672,"34,82",10,verlängerung,2023-07-23 09:00:00
+FRA-20251-53005,22.02.2025,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.189,"15,30",15,Verlängerung,2025-04-16 09:00:00
+FRA-20244-07005,28.11.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Nimbus Assurance,Versicherungen,575,"40,51",15,Neuvermietung,2025-01-23 09:00:00
+FRA-20253-70007,30.08.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Tamar Consulting Frankfurt,Unternehmensberatung,1.108,"12,96",5,Verlängerung,2025-10-25 09:00:00
+FRA-20263-29014,02.09.2026,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Sterling Bank,Banken/Finanzen,2.279,"35,45",5,Untervermietung,2026-10-12 09:00:00
+FRA-20232-01025,16.04.2023,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,1.623,"28,72",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20251-08013,26.01.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,400,"37,06",3,Vorvermietung,2025-04-22 09:00:00
+FRA-20243-21003,14.09.2024,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Arden Hub,Flexible Büros,2.555,"28,49",15,Neuvermietung,2024-10-15 09:00:00
+FRA-20234-18004,14.12.2023,171 Bockenheimer Landstraße,"171 Bockenheimer Landstraße, 60323",Westend,Sterling Consulting,Unternehmensberatung,659,"30,41",12,Verlängerung,2024-01-15 09:00:00
+FRA-20252-09012,29.06.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Sterling Consulting,Unternehmensberatung,1.440,"29,05",10,Untervermietung,2025-07-15 09:00:00
+FRA-20251-68001,02.01.2025,Lumen Court,"41 Düsseldorfer Straße, 65760",Niederrad,Larkspur Diagnostics,Pharma/Life Sciences,2.119,"13,26",5,Vorvermietung,2025-04-21 09:00:00
+FRA-20232-01027,01.06.2023,21 Zeil,"21 Zeil, 60313",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,1.875,"35,09",12,Vorvermietung,2023-07-23 09:00:00
+FRA-20241-19001,01.03.2024,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Northgate LLP,Rechtsberatung,877,"39,18",6,Vorvermietung,2024-04-20 09:00:00
+FRA-20253-40020,20.09.2025,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Meridian Capital,Banken/Finanzen,1.307,"31,88",12,Vorvermietung,2025-10-15 09:00:00
+FRA-20233-02003,30.07.2023,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Solace Offices,Flexible Büros,972,"35,06",5,Verlängerung,2023-10-14 09:00:00
+FRA-20253-40020R,20.09.2025,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Meridian Capital Ltd,Banken/Finanzen,1.307,"31,88",12,Vorvermietung,2025-11-04 09:00:00
+FRA-20231-30008,18.02.2023,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Linden Capital,Banken/Finanzen,1.954,"26,79",10,Vorvermietung,2023-04-19 09:00:00
+FRA-20253-10008,06.07.2025,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,925,"35,32",10,Untervermietung,2025-10-15 09:00:00
+FRA-20261-27010,18.03.2026,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Solace Underwriting Frankfurt,Versicherungen,4.135,"41,83",9,Neuvermietung,2026-04-18 09:00:00
+FRA-20244-52004,13.10.2024,102 Junghofstraße,"102 Junghofstraße, 60311",Eschborn,Lumen Diagnostics,Pharma/Life Sciences,627,"10,73",12,Untervermietung,2025-01-12 09:00:00
+FRA-20232-46002,08.05.2023,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Calder Holdings Frankfurt,Sonstige,1.415,"9,81",12,Untervermietung,2023-07-22 09:00:00
+FRA-20233-02016,23.07.2023,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,326,"36,06",5,Erweiterung,2023-10-14 09:00:00
+FRA-20254-41020,24.12.2025,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,414,"28,38",15,Neuvermietung,2026-01-12 09:00:00
+FRA-20263-14010,27.08.2026,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,1.086,"50,33",5,Neuvermietung,2026-10-12 09:00:00
+FRA-20254-26005,30.12.2025,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Ember Institute Frankfurt,Öffentliche Hand,1.578,"27,82",10,Neuvermietung,2026-01-14 09:00:00
+FRA-20234-03007,04.12.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Juniper Avocats,Rechtsberatung,1.844,"32,57",10,Neuvermietung,2024-01-17 09:00:00
+FRA-20252-09003,29.04.2025,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Tern Group,Unternehmensberatung,743,"33,94",12,Neuvermietung,2025-07-15 09:00:00
+FRA-20234-18014,01.11.2023,Granite Point,"48 Junghofstraße, 60311",Westend,Tamar Rechtsanwälte,Rechtsberatung,7.723,"28,08",5,Verlängerung,2024-01-15 09:00:00
+FRA-20244-22011,04.10.2024,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Ravel Offices,Flexible Büros,4.315,"35,57",5,Erweiterung,2025-01-16 09:00:00
+FRA-20253-40018,12.09.2025,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,960,"29,41",9,Verlängerung,2025-10-15 09:00:00
+FRA-20231-45003,04.03.2023,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Solace Offices,Flexible Büros,1.420,"9,38",3,Neuvermietung,2023-04-22 09:00:00
+FRA-20251-38002,09.02.2025,Tamar House,"121 Westendstraße, 60325",Innenstadt,Lumen Workspace,Flexible Büros,576,"26,38",5,Untervermietung,2025-04-14 09:00:00
+FRA-20232-16008,02.04.2023,166 Taunusanlage,"166 Taunusanlage, 60329",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,543,"34,66",6,Neuvermietung,2023-07-20 09:00:00
+FRA-20241-34011R,30.03.2024,56 Zeil,"56 Zeil, 60313",Innenstadt,ORBIS INSURANCE,Versicherungen,2.568,"22,12",10,Neuvermietung,2024-05-11 09:00:00
+FRA-20234-48005,29.11.2023,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Fenwick Labs,IT/Medien/Telekommunikation,1.032,"15,66",10,Neuvermietung,2024-01-18 09:00:00
+FRA-20243-21014,04.09.2024,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Atlas Associates Frankfurt,Unternehmensberatung,1.800,"31,43",10,Untervermietung,2024-10-15 09:00:00
+FRA-20253-55006,04.08.2025,Granite Gate,"60 Herriotstraße, 60528",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,422,"11,99",5,Vorvermietung,2025-10-20 09:00:00
+FRA-20233-17009,25.07.2023,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Tern Group,Unternehmensberatung,2.688,"29,12",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20234-03001,19.12.2023,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Cobalt Advisory,Unternehmensberatung,381,"30,49",5,Erweiterung,2024-01-17 09:00:00
+FRA-20234-18015,23.11.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Brightwater Consulting,Unternehmensberatung,1.101,"32,95",5,Neuvermietung,2024-01-15 09:00:00
+FRA-20251-38006,18.02.2025,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Arden Hub,Flexible Büros,658,"25,38",9,Neuvermietung,2025-04-23 09:00:00
+FRA-20244-67003,29.11.2024,114 Mergenthalerallee,"114 Mergenthalerallee, 65760",Niederrad,Sable Capital,Banken/Finanzen,630,"11,32",12,Verlängerung,2025-01-24 09:00:00
+FRA-20263-29016,13.08.2026,171 Bockenheimer Landstraße,"171 Bockenheimer Landstraße, 60323",Westend,Granite Associates,Unternehmensberatung,1.698,"29,71",3,Untervermietung,2026-10-12 09:00:00
+FRA-20232-16007,09.06.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Marlow Underwriting,Versicherungen,609,"42,73",9,Verlängerung,2023-07-20 09:00:00
+FRA-20261-42005,21.03.2026,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,2.902,"23,26",10,Neuvermietung,2026-04-20 09:00:00
+FRA-20252-54005,11.06.2025,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Wren Bank Frankfurt,Banken/Finanzen,426,"12,61",9,Erweiterung,2025-07-14 09:00:00
+FRA-20253-10001,07.09.2025,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Ravel Offices,Flexible Büros,1.161,"41,46",5,Vorvermietung,2025-10-15 09:00:00
+FRA-20261-12010,12.02.2026,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Marlow Underwriting,Versicherungen,1.775,"39,13",6,Neuvermietung,2026-04-22 09:00:00
+FRA-20252-09018,18.05.2025,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Ravel Offices,Flexible Büros,978,"37,00",3,Untervermietung,2025-07-15 09:00:00
+FRA-20262-28002,14.05.2026,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Arden Hub,Flexible Büros,2.171,"33,20",3,Neuvermietung,2026-07-22 09:00:00
+FRA-20243-51009,31.07.2024,60 Frankfurter Straße,"60 Frankfurter Straße, 65760",Eschborn,Ashcombe Diagnostics,Pharma/Life Sciences,486,"16,76",5,Neuvermietung,2024-10-13 09:00:00
+FRA-20242-05013,26.04.2024,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Cobalt Advisory,Unternehmensberatung,809,"40,06",6,Neuvermietung,2024-07-23 09:00:00
+FRA-20263-29010,09.09.2026,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Fenwick Labs,IT/Medien/Telekommunikation,448,"36,44",5,Neuvermietung,2026-10-12 09:00:00
+FRA-20253-40001,03.08.2025,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Pinnacle Media,IT/Medien/Telekommunikation,560,"27,75",5,Untervermietung,2025-10-15 09:00:00
+FRA-20243-06002,24.07.2024,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.358,"38,55",10,Neuvermietung,2024-10-14 09:00:00
+FRA-20233-02007,25.08.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.998,"32,64",6,Untervermietung,2023-10-14 09:00:00
+FRA-20262-28005,21.05.2026,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Vantage Holdings,Sonstige,265,"37,83",9,Neuvermietung,2026-07-22 09:00:00
+FRA-20261-72002,03.02.2026,173 Hahnstraße,"173 Hahnstraße, 60528",Niederrad,Cobalt Advisory,Unternehmensberatung,278,"10,85",6,Erweiterung,2026-04-24 09:00:00
+FRA-20254-11010,13.11.2025,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,677,"34,44",5,Verlängerung,2026-01-18 09:00:00
+FRA-20251-08020,01.02.2025,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Meridian Capital,Banken/Finanzen,1.854,"41,68",10,Neuvermietung,2025-04-22 09:00:00
+FRA-20232-01002,27.05.2023,Arden House,"114 Westendstraße, 60325",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,1.615,"42,11",15,Verlängerung,2023-08-01 09:00:00
+FRA-20254-56002,10.10.2025,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,1.942,"11,25",12,Untervermietung,2026-01-24 09:00:00
+FRA-20262-43013,24.05.2026,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Kestrel Authority,Öffentliche Hand,1.754,"353,52",5,Verlängerung,2026-07-16 09:00:00
+FRA-20241-04008,09.01.2024,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Halden Consulting,Unternehmensberatung,1.812,"40,84",12,Vorvermietung,2024-04-24 09:00:00
+FRA-20243-21015,17.08.2024,166 Taunusanlage,"166 Taunusanlage, 60329",Westend,Tamar Consulting Frankfurt,Unternehmensberatung,3.167,"29,39",5,Verlängerung,2024-10-15 09:00:00
+FRA-20242-05017,09.04.2024,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Harrow Asset Management,Banken/Finanzen,1.492,"27,32",3,Neuvermietung,2024-07-23 09:00:00
+FRA-20241-19005,01.03.2024,Harrow Plaza,"150 Mergenthalerallee, 65760",Westend,Juniper Avocats,Rechtsberatung,1.120,"35,95",15,Neuvermietung,2024-04-20 09:00:00
+FRA-20243-21009,07.09.2024,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Ridgeway Institute,Öffentliche Hand,219,"36,40",12,Neuvermietung,2024-10-15 09:00:00
+FRA-20241-34006,19.02.2024,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Pinnacle Media,IT/Medien/Telekommunikation,863,"23,22",5,Vorvermietung,2024-04-21 09:00:00
+FRA-20232-01026,30.05.2023,Kestrel Place,"166 Zeil, 60313",,Juniper Avocats,Rechtsberatung,250,"32,14",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20243-36003R,10.09.2024,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Tamar Consulting Frankfurt Ltd,Unternehmensberatung,879,"29,27",10,Erweiterung,2024-11-05 09:00:00
+FRA-20244-07025,25.11.2024,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,350,"28,97",10,Verlängerung,2025-01-23 09:00:00
+FRA-20254-71001,12.11.2025,173 Hahnstraße,"173 Hahnstraße, 60528",Niederrad,Pinnacle Foundation Frankfurt,Sonstige,696,"12,71",9,Verlängerung,2026-01-13 09:00:00
+FRA-20244-07010,30.10.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Sterling Consulting,Unternehmensberatung,1.560,"46,22",10,Neuvermietung,2025-01-23 09:00:00
+FRA-20233-47004,11.07.2023,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Aldwyn Rechtsanwälte,Rechtsberatung,862,"10,46",15,Neuvermietung,2023-10-12 09:00:00
+FRA-20231-30015,21.02.2023,56 Zeil,"56 Zeil, 60313",Innenstadt,Helix Biosciences,Pharma/Life Sciences,2.058,"24,65",5,Erweiterung,2023-04-19 09:00:00
+FRA-20243-06004,19.08.2024,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Sable Avocats Frankfurt,Rechtsberatung,1.185,"48,50",5,Neuvermietung,2024-10-14 09:00:00
+FRA-20263-14013,22.07.2026,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Pinnacle Media,IT/Medien/Telekommunikation,280,"39,67",3,Neuvermietung,2026-10-12 09:00:00
+FRA-20261-57002,10.03.2026,147 Taunusanlage,"147 Taunusanlage, 60329",Eschborn,Lumen Diagnostics,Pharma/Life Sciences,2.058,"10,87",5,Neuvermietung,2026-04-16 09:00:00
+FRA-20232-31005,08.04.2023,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,515,"33,21",15,Vorvermietung ,2023-07-23 09:00:00
+FRA-20243-36016,30.07.2024,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Arden Hub,Flexible Büros,1.557,"25,21",10,Untervermietung,2024-10-16 09:00:00
+FRA-20262-13010,17.06.2026,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,856,"42,75",9,Vorvermietung,2026-07-16 09:00:00
+FRA-20232-01016,17.06.2023,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Tamar Consulting Frankfurt,Unternehmensberatung,2.878,"41,35",9,Neuvermietung,2023-07-23 09:00:00
+FRA-20253-55003,12.08.2025,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Beacon Associates,Unternehmensberatung,639,"12,96",10,Neuvermietung,2025-10-20 09:00:00
+FRA-20241-34003,28.03.2024,40 Zeil,"40 Zeil, 60313",Innenstadt,Fenwick Labs,IT/Medien/Telekommunikation,769,"26,91",15,Neuvermietung,2024-04-21 09:00:00
+FRA-20252-39011,17.04.2025,71 Westendstraße,"71 Westendstraße, 60325",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,6.039,"24,34",10,Neuvermietung,2025-07-21 09:00:00
+FRA-20234-03005,14.10.2023,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,1.256,"28,81",5,Neuvermietung,2024-01-17 09:00:00
+FRA-20233-32017,20.08.2023,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Kestrel Authority,Öffentliche Hand,2.631,"26,74",10,Untervermietung,2023-10-24 09:00:00
+FRA-20234-18001,23.12.2023,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Sable Capital,Banken/Finanzen,1.008,"38,17",5,Erweiterung,2024-01-15 09:00:00
+FRA-20261-42009,03.02.2026,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Vantage Media Frankfurt,IT/Medien/Telekommunikation,901,"25,77",9,Verlängerung,2026-04-20 09:00:00
+FRA-20252-09001,04.04.2025,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Veridian Health,Pharma/Life Sciences,1.112,"37,42",5,Untervermietung,2025-07-15 09:00:00
+FRA-20251-08014,31.01.2025,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,670,"44,95",6,Verlängerung,2025-04-22 09:00:00
+FRA-20232-61001,15.05.2023,170 Mergenthalerallee,"170 Mergenthalerallee, 65760",Niederrad,Atlas Consulting,Unternehmensberatung,641,"11,03",15,Neuvermietung,2023-07-14 09:00:00
+FRA-20252-54006,28.05.2025,Cobalt Park,"162 Junghofstraße, 60311",Eschborn,Northgate LLP,Rechtsberatung,850,"13,26",5,Neuvermietung,2025-07-14 09:00:00
+FRA-20232-16010,25.04.2023,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.373,"37,09",15,Neuvermietung,2023-07-20 09:00:00
+FRA-20234-03018,02.11.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Ravel Offices,Flexible Büros,418,"32,25",5,Erweiterung,2024-01-17 09:00:00
+FRA-20243-66006,05.09.2024,128 Mainzer Landstraße,"128 Mainzer Landstraße, 60325",Niederrad,Calder Holdings Frankfurt,Sonstige,1.230,"11,72",3,verlängerung,2024-10-16 09:00:00
+FRA-20244-22001,04.12.2024,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Larkspur Diagnostics,Pharma/Life Sciences,694,"37,60",10,Neuvermietung,2025-01-16 09:00:00
+FRA-20234-18005,16.10.2023,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Osprey Avocats,Rechtsberatung,1.908,,9,Neuvermietung,2024-01-15 09:00:00
+FRA-20261-12012,09.03.2026,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Sterling Bank,Banken/Finanzen,565,"50,12",15,Neuvermietung,2026-04-22 09:00:00
+FRA-20263-44019,23.09.2026,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,1.020,"30,46",15,Neuvermietung,2026-10-20 09:00:00
+FRA-20262-13008,22.05.2026,Arden House,"114 Westendstraße, 60325",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,1.128,"46,17",5,Neuvermietung,2026-07-16 09:00:00
+FRA-20244-22002,22.12.2024,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Tern Capital Frankfurt,Banken/Finanzen,426,"31,37",10,Neuvermietung,2025-01-16 09:00:00
+FRA-20233-02004,19.08.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,629,"33,45",3,Neuvermietung,2023-10-14 09:00:00
+FRA-20253-25004,08.09.2025,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Osprey Avocats,Rechtsberatung,834,"34,42",10,Neuvermietung,2025-10-21 09:00:00
+FRA-20262-43008,11.06.2026,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Calder Biosciences,Pharma/Life Sciences,939,"20,78",3,Erweiterung,2026-07-16 09:00:00
+FRA-20232-46008R,17.05.2023,96 Taunusanlage,"96 Taunusanlage, 60329",Eschborn,Lumen Workspace Ltd,Flexible Büros,1.176,"17,00",15,Verlängerung,2023-08-11 09:00:00
+FRA-20251-23009,20.02.2025,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Northgate Assurance,Versicherungen,2.485,"38,57",5,Verlängerung,2025-04-22 09:00:00
+FRA-20234-18008,17.11.2023,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Calder Biosciences,Pharma/Life Sciences,1.099,"35,82",3,Neuvermietung,2024-01-15 09:00:00
+FRA-20242-35002,12.05.2024,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Aldwyn Rechtsanwälte,Rechtsberatung,796,"25,69",15,Neuvermietung,2024-07-14 09:00:00
+FRA-20233-47002,26.07.2023,60 Frankfurter Straße,"60 Frankfurter Straße, 65760",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,3.686,"13,09",5,Vorvermietung,2023-10-12 09:00:00
+FRA-20252-39008,18.04.2025,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Vantage Media Frankfurt,IT/Medien/Telekommunikation,651,"29,45",10,Verlängerung,2025-07-21 09:00:00
+FRA-20243-06011,10.07.2024,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Nimbus Assurance,Versicherungen,1.419,"42,55",3,Vorvermietung,2024-10-14 09:00:00
+FRA-20251-23012,06.01.2025,Granite House,"151 Zeil, 60313",Westend,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,1.642,"31,61",5,Neuvermietung,2025-04-22 09:00:00
+FRA-20262-58004,03.05.2026,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Nimbus Assurance,Versicherungen,2.087,"13,66",3,Neuvermietung,2026-07-12 09:00:00
+FRA-20233-47008,23.09.2023,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Pinnacle Foundation Frankfurt,Sonstige,551,"8,69",6,Neuvermietung,2023-10-12 09:00:00
+FRA-20234-33016R,27.12.2023,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,MARLOW UNDERWRITING,Versicherungen,2.810,"30,05",5,Neuvermietung,2024-02-06 09:00:00
+FRA-20253-55008,24.09.2025,11 Westendstraße,"11 Westendstraße, 60325",,Tamar Rechtsanwälte,Rechtsberatung,1.424,"8,80",10,Neuvermietung,2025-10-20 09:00:00
+FRA-20252-24015,15.04.2025,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Aldwyn Rechtsanwälte,Rechtsberatung,292,"38,95",12,Neuvermietung,2025-07-17 09:00:00
+FRA-20231-60001,04.01.2023,52 Junghofstraße,"52 Junghofstraße, 60311",Niederrad,Orbis Flex,Flexible Büros,1.272,"14,76",6,Neuvermietung,2023-04-19 09:00:00
+FRA-20232-16004,13.04.2023,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Granite Council Frankfurt,Öffentliche Hand,1.734,"25,81",10,Neuvermietung,2023-07-20 09:00:00
+FRA-20243-06010,27.08.2024,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Ridgeway Institute,Öffentliche Hand,641,"30,52",5,Vorvermietung,2024-10-14 09:00:00
+FRA-20244-37011,06.10.2024,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Juniper Avocats,Rechtsberatung,747,"27,36",3,Verlängerung,2025-01-16 09:00:00
+FRA-20231-60002,31.03.2023,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Beacon Associates,Unternehmensberatung,2.030,"13,76",15,Neuvermietung,2023-04-19 09:00:00
+FRA-20243-06006,22.08.2024,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Brightwater Consulting,Unternehmensberatung,1.431,"39,50",9,Neuvermietung,2024-10-14 09:00:00
+FRA-20234-33002,06.11.2023,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Harrow Asset Management,Banken/Finanzen,1.129,"35,58",5,Neuvermietung,2024-01-17 09:00:00
+FRA-20263-59006,16.09.2026,26 Westendstraße,"26 Westendstraße, 60325",Eschborn,Tamar Rechtsanwälte,Rechtsberatung,1.695,"12,33",5,Vorvermietung,2026-10-21 09:00:00
+FRA-20242-35005,13.04.2024,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Cobalt Advisory,Unternehmensberatung,401,"26,69",15,Neuvermietung,2024-07-14 09:00:00
+FRA-20234-03009,20.11.2023,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Harrow Asset Management,Banken/Finanzen,1.016,"32,43",5,Erweiterung,2024-01-17 09:00:00
+FRA-20231-00007,09.03.2023,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,3.483,"44,88",3,Neuvermietung,2023-04-23 09:00:00
+FRA-20262-13001,23.04.2026,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Lumen Workspace,Flexible Büros,3.411,"47,23",3,Neuvermietung,2026-07-16 09:00:00
+FRA-20252-24014,11.05.2025,113 Neue Mainzer Straße,"113 Neue Mainzer Straße, 60311",Westend,Veridian Health,Pharma/Life Sciences,1.992,"47,40",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20263-14016,22.08.2026,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Linden Capital,Banken/Finanzen,2.816,"42,43",12,Verlängerung,2026-10-12 09:00:00
+FRA-20251-23013,20.03.2025,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Meridian Capital,Banken/Finanzen,1.232,"28,75",10,Untervermietung,2025-04-22 09:00:00
+FRA-20244-67005,01.11.2024,150 Taunusanlage,"150 Taunusanlage, 60329",Niederrad,Veridian Authority Frankfurt,Öffentliche Hand,1.711,"11,82",12,Untervermietung,2025-01-24 09:00:00
+FRA-20261-42010,29.01.2026,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Osprey Avocats,Rechtsberatung,952,"33,70",10,Erweiterung,2026-04-20 09:00:00
+FRA-20231-15004,08.02.2023,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Atlas Consulting,Unternehmensberatung,1.523,"35,78",10,Vorvermietung,2023-04-13 09:00:00
+FRA-20232-01024,14.05.2023,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Kestrel Authority,Öffentliche Hand,1.569,"44,28",10,Neuvermietung,2023-07-23 09:00:00
+FRA-20233-17007,02.07.2023,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Arden Industries Frankfurt,Industrie,1.276,"30,62",3,Untervermietung,2023-10-14 09:00:00
+FRA-20251-38004,16.03.2025,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Veridian Authority Frankfurt,Öffentliche Hand,733,"26,91",6,Erweiterung,2025-04-14 09:00:00
+FRA-20263-14003,14.08.2026,21 Zeil,"21 Zeil, 60313",Bankenviertel,Osprey Avocats,Rechtsberatung,7.168,"42,25",6,Neuvermietung,2026-10-12 09:00:00
+FRA-20244-22010,12.12.2024,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Ridgeway Institute,Öffentliche Hand,1.630,"35,51",15,Neuvermietung,2025-01-16 09:00:00
+FRA-20232-16002,05.05.2023,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Wren Bank Frankfurt,Banken/Finanzen,549,"31,40",6,Verlängerung,2023-07-20 09:00:00
+FRA-20254-26004,24.12.2025,111 Taunustor,"111 Taunustor, 60310",Westend,Sable Capital,Banken/Finanzen,4.125,"43,21",12,Neuvermietung,2026-01-14 09:00:00
+FRA-20244-52003,28.11.2024,54 Taunusanlage,"54 Taunusanlage, 60329",Eschborn,Helix Technologies,IT/Medien/Telekommunikation,3.084,"9,27",12,Neuvermietung,2025-01-12 09:00:00
+FRA-20234-03020,12.12.2023,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,4.885,"47,50",9,Verlängerung,2024-01-17 09:00:00
+FRA-20244-22005,14.10.2024,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,246,"42,84",9,Verlängerung,2025-01-16 09:00:00
+FRA-20254-41007,31.12.2025,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Lumen Workspace,Flexible Büros,1.194,"24,57",3,Verlängerung,2026-01-12 09:00:00
+FRA-20242-05008,20.04.2024,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,1.703,"40,94",15,Erweiterung,2024-07-23 09:00:00
+FRA-20253-10015,18.09.2025,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Ember Re,Versicherungen,494,"527,40",12,Verlängerung,2025-10-15 09:00:00
+FRA-20231-45009,12.03.2023,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Halden Consulting,Unternehmensberatung,497,"13,87",5,Neuvermietung,2023-04-22 09:00:00
+FRA-20234-18006,29.11.2023,Granite House,"151 Zeil, 60313",Westend,Lumen Workspace,Flexible Büros,1.186,"33,76",10,Neuvermietung,2024-01-15 09:00:00
+FRA-20234-03006,21.11.2023,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Quill Media,IT/Medien/Telekommunikation,266,"45,59",15,Neuvermietung,2024-01-17 09:00:00
+FRA-20232-31006,20.05.2023,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Pinnacle Foundation Frankfurt,Sonstige,1.433,,15,Neuvermietung,2023-07-23 09:00:00
+FRA-20262-43010,13.04.2026,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Lumen Diagnostics,Pharma/Life Sciences,1.004,"36,48",6,neuvermietung,2026-07-16 09:00:00
+FRA-20232-46007,18.06.2023,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Orbis Insurance,Versicherungen,982,"15,18",10,Erweiterung,2023-07-31 09:00:00
+FRA-20234-03023,26.12.2023,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Larkspur Diagnostics,Pharma/Life Sciences,794,"34,51",10,Verlängerung,2024-01-17 09:00:00
+FRA-20251-08017,02.01.2025,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Solace Offices,Flexible Büros,1.914,"35,72",6,Neuvermietung,2025-04-22 09:00:00
+FRA-20232-01020,24.04.2023,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Orbis Flex,Flexible Büros,472,"33,23",10,Neuvermietung,2023-07-23 09:00:00
+FRA-20261-27011,03.03.2026,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Calder Biosciences,Pharma/Life Sciences,849,"31,40",10,Verlängerung,2026-04-18 09:00:00
+FRA-20241-34015,19.03.2024,161 Zeil,"161 Zeil, 60313",Innenstadt,Ravel Offices,Flexible Büros,2.014,"29,56",5,Vorvermietung,2024-04-21 09:00:00
+FRA-20252-09015,09.06.2025,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Harrow Asset Management,Banken/Finanzen,2.032,"37,60",5,Neuvermietung,2025-07-15 09:00:00
+FRA-20253-25014,26.07.2025,Ravel Tower,"149 Frankfurter Straße, 65760",Westend,Ember Re,Versicherungen,1.169,"34,00",3,verlängerung,2025-10-21 09:00:00
+FRA-20253-55004,20.09.2025,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Aldwyn Abogados Frankfurt,Rechtsberatung,478,"10,15",6,Neuvermietung,2025-10-20 09:00:00
+FRA-20231-00008,01.03.2023,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Sable Capital,Banken/Finanzen,1.988,"31,29",6,Neuvermietung,2023-04-23 09:00:00
+FRA-20242-50005,31.05.2024,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Elmgrove Authority,Öffentliche Hand,2.883,"9,25",9,Erweiterung,2024-07-17 09:00:00
+FRA-20251-23007,24.02.2025,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Lumen Workspace,Flexible Büros,1.628,"39,20",3,Neuvermietung,2025-04-22 09:00:00
+FRA-20234-18010,27.12.2023,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Solace Offices,Flexible Büros,1.258,"32,20",10,Neuvermietung,2024-01-15 09:00:00
+FRA-20253-40014,05.07.2025,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Veridian Authority Frankfurt,Öffentliche Hand,1.325,"30,83",6,Neuvermietung,2025-10-15 09:00:00
+FRA-20254-56006,07.12.2025,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Veridian Health,Pharma/Life Sciences,910,"16,54",10,Vorvermietung,2026-01-24 09:00:00
+FRA-20232-16005,20.06.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Calder Biosciences,Pharma/Life Sciences,193,,9,Neuvermietung,2023-07-20 09:00:00
+FRA-20262-13013,24.05.2026,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Osprey Avocats,Rechtsberatung,1.332,"36,87",6,Neuvermietung,2026-07-16 09:00:00
+FRA-20232-01018,05.05.2023,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Atlas Consulting,Unternehmensberatung,508,"32,02",10,Untervermietung,2023-07-23 09:00:00
+FRA-20244-22009,18.11.2024,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Northgate Assurance,Versicherungen,863,"25,83",6,Vorvermietung,2025-01-16 09:00:00
+FRA-20254-41016,15.11.2025,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Aldwyn Rechtsanwälte,Rechtsberatung,1.698,"33,78",12,Untervermietung,2026-01-12 09:00:00
+FRA-20232-31009,18.05.2023,Tamar House,"121 Westendstraße, 60325",Innenstadt,Harrow Capital Frankfurt,Banken/Finanzen,1.830,"27,93",12,Neuvermietung,2023-07-23 09:00:00
+FRA-20233-02009,10.09.2023,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Ridgeway Institute,Öffentliche Hand,943,"40,34",15,Neuvermietung,2023-10-14 09:00:00
+FRA-20251-38018,21.01.2025,Tamar House,"121 Westendstraße, 60325",Innenstadt,Northgate LLP,Rechtsberatung,443,"36,42",9,Neuvermietung,2025-04-14 09:00:00
+FRA-20241-34012,29.01.2024,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Northgate LLP,Rechtsberatung,510,"24,27",5,Neuvermietung,2024-04-21 09:00:00
+FRA-20244-37002,10.12.2024,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Orbis Flex,Flexible Büros,4.054,"31,66",9,Verlängerung,2025-01-16 09:00:00
+FRA-20241-04004,22.02.2024,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Cobalt Advisory,Unternehmensberatung,2.735,"22,28",9,verlängerung,2024-04-24 09:00:00
+FRA-20243-21013,09.07.2024,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Solace Offices,Flexible Büros,313,"38,32",5,Neuvermietung,2024-10-15 09:00:00
+FRA-20262-58002,26.05.2026,Cobalt Park,"162 Junghofstraße, 60311",Eschborn,Orbis Insurance,Versicherungen,452,"10,93",12,Neuvermietung ,2026-07-12 09:00:00
+FRA-20253-10007,14.09.2025,Arden House,"114 Westendstraße, 60325",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,1.062,"42,07",10,Verlängerung,2025-10-15 09:00:00
+FRA-20244-07020,28.12.2024,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Arden Hub,Flexible Büros,1.649,"33,07",5,Untervermietung,2025-01-23 09:00:00
+FRA-20262-43003,27.04.2026,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,2.746,"29,90",9,Neuvermietung,2026-07-16 09:00:00
+FRA-20252-09017,20.04.2025,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Meridian Capital,Banken/Finanzen,4.321,"49,27",10,Untervermietung,2025-07-15 09:00:00
+FRA-20261-42003,21.02.2026,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Harrow Asset Management,Banken/Finanzen,893,"28,83",12,Neuvermietung,2026-04-20 09:00:00
+FRA-20261-12011,01.03.2026,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Elmgrove Authority,Öffentliche Hand,1.401,"34,82",12,Neuvermietung,2026-04-22 09:00:00
+FRA-20244-52001,07.11.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Wren Bank Frankfurt,Banken/Finanzen,1.794,"14,02",5,Vorvermietung,2025-01-12 09:00:00
+FRA-20242-20013,17.04.2024,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Quill Media,IT/Medien/Telekommunikation,1.865,"40,83",9,Erweiterung,2024-07-21 09:00:00
+FRA-20234-03014,25.12.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Northgate LLP,Rechtsberatung,348,"35,16",3,Neuvermietung,2024-01-17 09:00:00
+FRA-20261-72005,15.01.2026,13 Lyoner Straße,"13 Lyoner Straße, 60528",Niederrad,Ridgeway Institute,Öffentliche Hand,3.432,"9,54",3,Neuvermietung,2026-04-24 09:00:00
+FRA-20252-09005,10.04.2025,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Beacon Associates,Unternehmensberatung,594,"34,53",5,Neuvermietung,2025-07-15 09:00:00
+FRA-20261-12007,25.01.2026,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Kestrel Authority,Öffentliche Hand,1.595,"42,60",5,Erweiterung,2026-04-22 09:00:00
+FRA-20233-32010,13.07.2023,161 Zeil,"161 Zeil, 60313",Innenstadt,Lumen Workspace,Flexible Büros,417,"28,08",10,Neuvermietung,2023-10-24 09:00:00
+FRA-20244-37004,08.11.2024,Tamar House,"121 Westendstraße, 60325",Innenstadt,Northgate Assurance,Versicherungen,483,"31,84",15,Neuvermietung,2025-01-16 09:00:00
+FRA-20243-06020,24.08.2024,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Granite Associates,Unternehmensberatung,822,"46,82",9,Neuvermietung,2024-10-14 09:00:00
+FRA-20252-39001,02.06.2025,Juniper Centre,"47 Mergenthalerallee, 65760",Innenstadt,Ridgeway Institute,Öffentliche Hand,1.146,"31,76",10,Neuvermietung,2025-07-21 09:00:00
+FRA-20232-31002,24.05.2023,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Granite Associates,Unternehmensberatung,4.954,"28,95",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20254-41015,29.11.2025,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Sable Capital,Banken/Finanzen,1.058,"34,79",9,Verlängerung,2026-01-12 09:00:00
+FRA-20241-49008,27.02.2024,102 Junghofstraße,"102 Junghofstraße, 60311",Eschborn,Granite Council Frankfurt,Öffentliche Hand,427,"12,98",5,Vorvermietung,2024-04-14 09:00:00
+FRA-20253-10009,30.07.2025,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Tern Group,Unternehmensberatung,2.396,"35,34",5,Verlängerung,2025-10-15 09:00:00
+FRA-20243-21010,12.09.2024,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Tern Capital Frankfurt,Banken/Finanzen,1.255,"35,70",15,Neuvermietung,2024-10-15 09:00:00
+FRA-20234-33001,22.12.2023,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Ravel Offices,Flexible Büros,1.269,"24,74",5,Neuvermietung,2024-01-17 09:00:00
+FRA-20244-07013,28.12.2024,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Ravel Offices,Flexible Büros,569,"34,17",10,Neuvermietung,2025-01-23 09:00:00
+FRA-20241-64002,22.01.2024,Marlow Gate,"65 Düsseldorfer Straße, 65760",Niederrad,Atlas Associates Frankfurt,Unternehmensberatung,1.323,"10,04",6,Untervermietung,2024-04-17 09:00:00
+FRA-20253-40002,17.07.2025,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Northgate Assurance,Versicherungen,1.988,"28,96",5,vorvermietung,2025-10-15 09:00:00
+FRA-20243-06001,04.07.2024,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Cobalt Advisory,Unternehmensberatung,1.071,"48,09",5,Neuvermietung,2024-10-14 09:00:00
+FRA-20263-59008,26.09.2026,Lumen Point,"47 Bockenheimer Landstraße, 60323",Eschborn,Solace Underwriting Frankfurt,Versicherungen,488,"13,60",10,Neuvermietung,2026-10-21 09:00:00
+FRA-20253-25006,14.07.2025,Ember Plaza,"64 Westendstraße, 60325",Westend,Helix Biosciences,Pharma/Life Sciences,3.181,"42,23",5,Erweiterung,2025-10-21 09:00:00
+FRA-20263-44002,26.09.2026,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Lumen Diagnostics,Pharma/Life Sciences,961,"32,51",10,Verlängerung,2026-10-20 09:00:00
+FRA-20263-59001,24.09.2026,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Orbis Flex,Flexible Büros,1.834,"15,15",10,Vorvermietung,2026-10-21 09:00:00
+FRA-20232-16006,10.05.2023,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.247,"25,15",5,Neuvermietung,2023-07-20 09:00:00
+FRA-20234-03011,15.12.2023,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Meridian Capital,Banken/Finanzen,1.031,"54,41",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20233-47007,11.09.2023,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Quill Media,IT/Medien/Telekommunikation,1.850,"11,08",9,Erweiterung,2023-10-12 09:00:00
+FRA-20232-01028,18.05.2023,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,1.457,"43,02",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20241-04001,17.02.2024,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Arden Industries Frankfurt,Industrie,2.844,"30,92",5,Neuvermietung,2024-04-24 09:00:00
+FRA-20251-38015,19.03.2025,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Pinnacle Foundation Frankfurt,Sonstige,1.007,"26,72",5,Verlängerung,2025-04-14 09:00:00
+FRA-20263-44013,18.07.2026,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Northgate Assurance,Versicherungen,243,"23,99",10,Untervermietung,2026-10-20 09:00:00
+FRA-20252-09011,29.05.2025,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,1.118,"35,50",10,Vorvermietung,2025-07-15 09:00:00
+FRA-20253-40016,25.08.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,796,"34,50",10,Neuvermietung,2025-10-15 09:00:00
+FRA-20243-51002,01.07.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Halden Consulting,Unternehmensberatung,1.848,"11,71",3,Neuvermietung,2024-10-13 09:00:00
+FRA-20252-09019,08.05.2025,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,2.518,"39,18",9,Erweiterung,2025-07-24 09:00:00
+FRA-20234-48007,29.11.2023,Linden Plaza,"148 Kaiserstraße, 60329",Eschborn,Sterling Bank,Banken/Finanzen,1.302,"15,39",15,Verlängerung,2024-01-18 09:00:00
+FRA-20252-24006,26.06.2025,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Corvid Consulting,Unternehmensberatung,797,"48,76",10,Neuvermietung ,2025-07-17 09:00:00
+FRA-20243-51001,01.09.2024,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Ember Re,Versicherungen,912,"16,03",9,Neuvermietung,2024-10-13 09:00:00
+FRA-20234-03015,26.12.2023,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Calder Holdings Frankfurt,Sonstige,2.148,"40,80",10,Verlängerung,2024-01-17 09:00:00
+FRA-20241-49012,28.03.2024,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Tamar Consulting Frankfurt,Unternehmensberatung,848,"10,59",5,Erweiterung,2024-04-14 09:00:00
+FRA-20254-41003,06.10.2025,Tamar House,"121 Westendstraße, 60325",Innenstadt,Meridian Capital,Banken/Finanzen,521,"32,76",15,Neuvermietung,2026-01-12 09:00:00
+FRA-20261-42006,14.02.2026,Juniper Centre,"47 Mergenthalerallee, 65760",Innenstadt,Orbis Insurance,Versicherungen,2.288,"38,29",9,Neuvermietung,2026-04-20 09:00:00
+FRA-20261-12001,21.01.2026,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Veridian Authority Frankfurt,Öffentliche Hand,1.791,"52,85",9,Verlängerung,2026-04-22 09:00:00
+FRA-20243-51003,26.08.2024,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Ashcombe Diagnostics,Pharma/Life Sciences,898,"13,24",12,Neuvermietung,2024-10-13 09:00:00
+FRA-20261-27001,28.03.2026,113 Neue Mainzer Straße,"113 Neue Mainzer Straße, 60311",Westend,Brightwater Consulting,Unternehmensberatung,1.042,"37,30",15,Neuvermietung,2026-04-18 09:00:00
+FRA-20263-29015,28.09.2026,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Atlas Consulting,Unternehmensberatung,843,"30,93",10,Neuvermietung,2026-10-12 09:00:00
+FRA-20233-02006,29.07.2023,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Ravel Offices,Flexible Büros,1.522,"34,22",6,Neuvermietung,2023-10-14 09:00:00
+FRA-20233-32021,07.07.2023,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Quill Securities Frankfurt,Banken/Finanzen,711,"29,87",15,Neuvermietung,2023-10-24 09:00:00
+FRA-20243-06007,24.08.2024,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Lumen Diagnostics,Pharma/Life Sciences,975,"38,17",3,Neuvermietung,2024-10-14 09:00:00
+FRA-20262-43005,11.06.2026,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Meridian Consulting,Unternehmensberatung,6.986,"33,56",15,Vorvermietung,2026-07-16 09:00:00
+FRA-20244-07002,31.10.2024,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Granite Council Frankfurt,Öffentliche Hand,1.571,"26,60",9,Neuvermietung,2025-01-23 09:00:00
+FRA-20242-20002,15.04.2024,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Harrow Asset Management,Banken/Finanzen,1.369,"31,97",10,Verlängerung,2024-07-21 09:00:00
+FRA-20231-15008,21.02.2023,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Tern Capital Frankfurt,Banken/Finanzen,2.356,"35,03",5,Neuvermietung,2023-04-13 09:00:00
+FRA-20241-19011,16.01.2024,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Harrow Capital Frankfurt,Banken/Finanzen,1.525,"40,21",5,Neuvermietung,2024-04-20 09:00:00
+FRA-20252-54010,11.05.2025,106 Zeil,"106 Zeil, 60313",Eschborn,Meridian Capital,Banken/Finanzen,870,"15,22",6,Neuvermietung,2025-07-14 09:00:00
+FRA-20262-28015,10.04.2026,166 Taunusanlage,"166 Taunusanlage, 60329",Westend,Harrow Asset Management,Banken/Finanzen,1.874,"34,34",15,Neuvermietung ,2026-07-22 09:00:00
+FRA-20254-56003,27.12.2025,Linden Plaza,"148 Kaiserstraße, 60329",Eschborn,Wren Partners,Banken/Finanzen,813,"13,23",3,Neuvermietung,2026-01-24 09:00:00
+FRA-20261-57005,23.02.2026,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Kestrel Authority,Öffentliche Hand,309,"12,69",10,Untervermietung,2026-04-16 09:00:00
+FRA-20243-21006,01.08.2024,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Elmgrove Authority,Öffentliche Hand,1.358,"33,58",10,Erweiterung,2024-10-15 09:00:00
+FRA-20263-44012,20.07.2026,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,2.414,"35,25",9,Neuvermietung,2026-10-20 09:00:00
+FRA-20232-16011,22.05.2023,Osprey Gate,"8 Taunustor, 60310",Westend,Sterling Workspace Frankfurt,Flexible Büros,752,"33,78",6,Neuvermietung,2023-07-20 09:00:00
+FRA-20252-24010,25.05.2025,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Orbis Flex,Flexible Büros,1.545,"35,26",15,Neuvermietung,2025-07-17 09:00:00
+FRA-20261-57007,04.02.2026,54 Taunusanlage,"54 Taunusanlage, 60329",Eschborn,Sterling Workspace Frankfurt,Flexible Büros,2.107,"8,76",10,Neuvermietung,2026-04-16 09:00:00
+FRA-20234-18002,28.11.2023,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Thorne Associates,Unternehmensberatung,1.552,,6,Neuvermietung,2024-01-15 09:00:00
+FRA-20232-01005,15.06.2023,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Aldwyn Rechtsanwälte,Rechtsberatung,619,"27,32",6,Untervermietung,2023-07-23 09:00:00
+FRA-20244-07008,01.11.2024,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Northgate LLP,Rechtsberatung,1.105,"24,06",10,Neuvermietung,2025-01-23 09:00:00
+FRA-20252-09007,21.04.2025,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Elmgrove Authority,Öffentliche Hand,2.853,"41,71",5,Vorvermietung,2025-07-24 09:00:00
+FRA-20254-26006,21.12.2025,Tern House,"102 Taunusanlage, 60329",Westend,Orbis Insurance,Versicherungen,2.285,"34,33",10,Neuvermietung ,2026-01-14 09:00:00
+FRA-20251-08008,21.03.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Calder Biosciences,Pharma/Life Sciences,1.163,"34,43",9,Verlängerung,2025-05-01 09:00:00
+FRA-20241-34013,21.03.2024,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Cobalt Capital,Banken/Finanzen,920,"32,85",5,Erweiterung,2024-04-21 09:00:00
+FRA-20263-44003,02.09.2026,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Granite Associates,Unternehmensberatung,1.238,"31,66",5,Neuvermietung,2026-10-20 09:00:00
+FRA-20263-74002,07.08.2026,75 Bockenheimer Landstraße,"75 Bockenheimer Landstraße, 60323",Niederrad,Wren Bank Frankfurt,Banken/Finanzen,965,"11,62",6,Neuvermietung,2026-10-24 09:00:00
+FRA-20251-38009,16.03.2025,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,720,"25,41",3,Neuvermietung,2025-04-14 09:00:00
+FRA-20233-32002,04.09.2023,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Quill Media,IT/Medien/Telekommunikation,1.183,"28,06",5,Neuvermietung,2023-10-24 09:00:00
+FRA-20253-40017,12.08.2025,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Marlow Underwriting,Versicherungen,2.288,"34,52",10,Erweiterung,2025-10-15 09:00:00
+FRA-20251-53007,18.02.2025,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Larkspur Diagnostics,Pharma/Life Sciences,1.692,"16,22",9,Neuvermietung,2025-04-16 09:00:00
+FRA-20253-25007,28.07.2025,166 Taunusanlage,"166 Taunusanlage, 60329",Westend,Solace Offices,Flexible Büros,704,"24,88",5,Neuvermietung,2025-10-21 09:00:00
+FRA-20254-26012,13.11.2025,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,4.419,"29,21",10,Neuvermietung,2026-01-14 09:00:00
+FRA-20252-24001,30.04.2025,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Helix Biosciences,Pharma/Life Sciences,774,"30,37",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20234-33006,04.10.2023,Linden Point,"17 Kaiserstraße, 60329",,Juniper Avocats,Rechtsberatung,1.562,"30,23",15,Vorvermietung,2024-01-17 09:00:00
+FRA-20254-41021,29.11.2025,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Orbis Insurance,Versicherungen,786,"34,47",10,Neuvermietung,2026-01-12 09:00:00
+FRA-20232-01022,13.06.2023,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,329,"44,10",3,Neuvermietung,2023-08-01 09:00:00
+FRA-20254-41012,12.11.2025,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Solace Underwriting Frankfurt,Versicherungen,2.144,"26,64",5,Erweiterung,2026-01-12 09:00:00
+FRA-20252-39002,22.05.2025,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Aldwyn Abogados Frankfurt,Rechtsberatung,1.371,"27,12",10,Vorvermietung,2025-07-21 09:00:00
+FRA-20252-09006,30.06.2025,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Linden Capital,Banken/Finanzen,800,"47,29",5,Neuvermietung,2025-07-15 09:00:00
+FRA-20253-70003,23.07.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Harrow Capital Frankfurt,Banken/Finanzen,583,"15,07",5,Erweiterung,2025-10-16 09:00:00
+FRA-20232-16014,20.04.2023,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Atlas Consulting,Unternehmensberatung,1.311,"43,60",6,Vorvermietung,2023-07-20 09:00:00
+FRA-20241-49002,03.02.2024,130 Junghofstraße,"130 Junghofstraße, 60311",Eschborn,Helix Technologies,IT/Medien/Telekommunikation,870,"14,22",3,Neuvermietung,2024-04-14 09:00:00
+FRA-20234-33011,06.11.2023,51 Lyoner Straße,"51 Lyoner Straße, 60528",,Quill Securities Frankfurt,Banken/Finanzen,217,"29,94",10,Neuvermietung,2024-01-17 09:00:00
+FRA-20234-03019,11.11.2023,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.336,"36,33",3,Neuvermietung,2024-01-17 09:00:00
+FRA-20241-49004,17.01.2024,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Ember Re,Versicherungen,1.075,"9,71",3,Neuvermietung,2024-04-14 09:00:00
+FRA-20262-43002,21.05.2036,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Veridian Health,Pharma/Life Sciences,404,"22,81",15,Untervermietung,2026-07-16 09:00:00
+FRA-20254-11007,03.10.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Veridian Authority Frankfurt,Öffentliche Hand,407,"41,99",10,Neuvermietung,2026-01-18 09:00:00
+FRA-20261-12005,07.03.2026,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Osprey Avocats,Rechtsberatung,1.076,"41,53",15,Neuvermietung,2026-04-22 09:00:00
+FRA-20234-48010,22.12.2023,147 Taunusanlage,"147 Taunusanlage, 60329",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,1.143,"8,44",10,Neuvermietung,2024-01-18 09:00:00
+FRA-20243-51010,17.07.2024,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,629,"11,81",10,Verlängerung,2024-10-13 09:00:00
+FRA-20263-59004,01.08.2026,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Solace Offices,Flexible Büros,956,"9,18",15,Untervermietung,2026-10-21 09:00:00
+FRA-20243-06016,24.08.2024,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.671,"31,56",6,Neuvermietung,2024-10-14 09:00:00
+FRA-20231-45006,24.03.2023,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,2.238,"12,72",10,Verlängerung,2023-04-22 09:00:00
+FRA-20262-13020,17.04.2026,Arden House,"114 Westendstraße, 60325",Bankenviertel,Marlow Underwriting,Versicherungen,230,"47,50",12,Erweiterung,2026-07-16 09:00:00
+FRA-20254-41009,02.11.2025,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,210,"29,93",5,verlängerung,2026-01-12 09:00:00
+FRA-20233-17010,07.07.2023,Arden Park,"22 Frankfurter Straße, 65760",Westend,Lumen Workspace,Flexible Büros,1.504,"32,40",12,Neuvermietung,2023-10-14 09:00:00
+FRA-20243-36007,09.07.2024,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Granite Council Frankfurt,Öffentliche Hand,2.769,"37,64",5,Neuvermietung ,2024-10-16 09:00:00
+FRA-20232-31010,18.06.2023,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Veridian Health,Pharma/Life Sciences,741,"25,43",12,Neuvermietung,2023-07-23 09:00:00
+FRA-20253-40005,16.08.2025,Linden Point,"17 Kaiserstraße, 60329",,Granite Council Frankfurt,Öffentliche Hand,779,"33,23",15,Erweiterung,2025-10-15 09:00:00
+FRA-20263-44004,17.08.2026,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,2.347,"30,77",10,Untervermietung,2026-10-20 09:00:00
+FRA-20251-38008,16.02.2025,161 Zeil,"161 Zeil, 60313",Innenstadt,Sable Avocats Frankfurt,Rechtsberatung,1.078,"28,47",9,Verlängerung,2025-04-14 09:00:00
+FRA-20251-08007,14.01.2025,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,3.307,"47,56",5,Vorvermietung,2025-04-22 09:00:00
+FRA-20253-40006,01.08.2025,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,1.525,"33,61",6,neuvermietung,2025-10-15 09:00:00
+FRA-20244-37001,02.10.2024,Tamar House,"121 Westendstraße, 60325",Innenstadt,Juniper Avocats,Rechtsberatung,401,"33,25",5,Verlängerung,2025-01-16 09:00:00
+FRA-20243-51004,16.08.2024,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Arden Hub,Flexible Büros,1.441,"8,94",5,Verlängerung,2024-10-13 09:00:00
+FRA-20261-72006,29.01.2026,74 Mainzer Landstraße,"74 Mainzer Landstraße, 60325",Niederrad,Brightwater Consulting,Unternehmensberatung,2.259,"9,18",12,Neuvermietung,2026-04-24 09:00:00
+FRA-20242-20001,16.06.2024,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Calder Holdings Frankfurt,Sonstige,2.200,"36,69",5,Erweiterung,2024-07-21 09:00:00
+FRA-20251-08012,20.01.2025,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Nimbus Assurance,Versicherungen,708,"45,16",6,Erweiterung,2025-04-22 09:00:00
+FRA-20241-04006,31.03.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Tern Capital Frankfurt,Banken/Finanzen,1.112,"40,05",5,Neuvermietung,2024-04-24 09:00:00
+FRA-20241-04005,21.02.2024,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Northgate Assurance,Versicherungen,2.384,"41,03",15,Neuvermietung,2024-04-24 09:00:00
+FRA-20243-21002,25.08.2024,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Quill Media,IT/Medien/Telekommunikation,366,"30,04",10,Untervermietung,2024-10-15 09:00:00
+FRA-20253-10012,30.09.2025,Ashcombe Place,"40 Neue Mainzer Straße, 60311",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,1.310,,6,Vorvermietung,2025-10-15 09:00:00
+FRA-20234-33017,05.10.2023,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Sterling Consulting,Unternehmensberatung,1.956,"24,75",5,Neuvermietung ,2024-01-17 09:00:00
+FRA-20243-36011,31.08.2024,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Harrow Asset Management,Banken/Finanzen,3.518,"24,72",10,Erweiterung,2024-10-16 09:00:00
+FRA-20233-32005,20.08.2023,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Ridgeway Institute,Öffentliche Hand,807,"31,64",10,Neuvermietung,2023-10-24 09:00:00
+FRA-20243-06021,20.08.2024,Arden House,"114 Westendstraße, 60325",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,660,"42,76",10,Neuvermietung,2024-10-14 09:00:00
+FRA-20242-20006,10.04.2024,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Cobalt Advisory,Unternehmensberatung,304,"37,33",12,Neuvermietung,2024-07-21 09:00:00
+FRA-20251-38005,20.03.2025,161 Zeil,"161 Zeil, 60313",Innenstadt,Harrow Asset Management,Banken/Finanzen,1.410,"26,86",6,Neuvermietung,2025-04-14 09:00:00
+FRA-20252-39005,26.05.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Arden Industries Frankfurt,Industrie,261,"31,19",5,Erweiterung,2025-07-21 09:00:00
+FRA-20232-46010,06.04.2023,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Halden Consulting,Unternehmensberatung,2.362,"14,03",15,Neuvermietung,2023-07-22 09:00:00
+FRA-20231-45001,15.01.2023,Lumen Point,"47 Bockenheimer Landstraße, 60323",Eschborn,Pinnacle Media,IT/Medien/Telekommunikation,2.958,"12,45",5,Neuvermietung,2023-04-22 09:00:00
+FRA-20241-64003,28.01.2024,25 Mergenthalerallee,"25 Mergenthalerallee, 65760",Niederrad,Vantage Holdings,Sonstige,2.509,"9,39",12,Neuvermietung,2024-04-17 09:00:00
+FRA-20252-24004,18.06.2025,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Orbis Flex,Flexible Büros,1.506,"45,31",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20254-56005,13.12.2025,44 Mainzer Landstraße,"44 Mainzer Landstraße, 60325",Eschborn,Ravel Offices,Flexible Büros,919,"16,13",6,Neuvermietung,2026-01-24 09:00:00
+FRA-20251-08001,10.03.2025,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,438,"51,05",10,Neuvermietung,2025-04-22 09:00:00
+FRA-20233-32003,02.07.2023,Juniper Centre,"47 Mergenthalerallee, 65760",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,1.075,"29,14",5,Neuvermietung,2023-10-24 09:00:00
+FRA-20252-69004,10.05.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Kestrel Authority,Öffentliche Hand,268,"14,92",10,Neuvermietung,2025-07-21 09:00:00
+FRA-20253-70007,30.08.2025,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Tamar Consulting Frankfurt,Unternehmensberatung,1.108,"12,96",5,Verlängerung,2025-10-16 09:00:00
+FRA-20242-05005,06.05.2024,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,466,"33,86",6,Verlängerung,2024-07-23 09:00:00
+FRA-20244-07001,17.10.2024,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Veridian Health,Pharma/Life Sciences,634,"31,18",3,Neuvermietung ,2025-01-23 09:00:00
+FRA-20231-00013,07.03.2023,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,2.092,"37,34",5,Neuvermietung,2023-04-23 09:00:00
+FRA-20241-19006,25.03.2024,Tern House,"102 Taunusanlage, 60329",Westend,Cobalt Advisory,Unternehmensberatung,1.005,"33,89",9,Erweiterung,2024-04-20 09:00:00
+FRA-20253-70004,14.09.2025,Marlow Gate,"65 Düsseldorfer Straße, 65760",Niederrad,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,393,"10,17",5,Neuvermietung,2025-10-16 09:00:00
+FRA-20243-06017,05.07.2024,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,1.452,"44,01",6,Neuvermietung,2024-10-14 09:00:00
+FRA-20233-02012,31.08.2023,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.649,"34,48",9,Neuvermietung,2023-10-14 09:00:00
+FRA-20263-59003,15.08.2026,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Calder Holdings Frankfurt,Sonstige,218,"12,04",5,Neuvermietung,2026-10-21 09:00:00
+FRA-20232-61002,07.06.2023,49 Frankfurter Straße,"49 Frankfurter Straße, 65760",Niederrad,Northgate LLP,Rechtsberatung,1.301,"14,13",10,Verlängerung,2023-07-14 09:00:00
+FRA-20242-35009,14.04.2024,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Atlas Pharma,Pharma/Life Sciences,4.430,"30,08",10,Neuvermietung,2024-07-14 09:00:00
+FRA-20241-34004,09.02.2024,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",,Atlas Pharma,Pharma/Life Sciences,929,"25,69",5,Neuvermietung,2024-04-21 09:00:00
+FRA-20252-69003,14.05.2025,170 Mergenthalerallee,"170 Mergenthalerallee, 65760",Niederrad,Tamar Rechtsanwälte,Rechtsberatung,1.677,"10,80",5,Verlängerung,2025-07-21 09:00:00
+FRA-20234-63005,23.12.2023,74 Mainzer Landstraße,"74 Mainzer Landstraße, 60325",Niederrad,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.961,"10,12",5,Neuvermietung,2024-01-15 09:00:00
+FRA-20233-02002,11.09.2023,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.827,"45,95",3,Neuvermietung,2023-10-14 09:00:00
+FRA-20262-73003,18.06.2026,126 Zeil,"126 Zeil, 60313",Niederrad,Nimbus Assurance,Versicherungen,697,"13,40",12,Neuvermietung,2026-07-21 09:00:00
+FRA-20234-33005,15.12.2023,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Harrow Asset Management,Banken/Finanzen,669,"27,27",10,Neuvermietung,2024-01-17 09:00:00
+FRA-20252-09002,28.06.2025,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Larkspur Diagnostics,Pharma/Life Sciences,3.177,"41,28",9,Vorvermietung,2025-07-15 09:00:00
+FRA-20242-05006,24.04.2024,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,624,"37,09",9,Verlängerung,2024-07-23 09:00:00
+FRA-20261-12009,05.03.2026,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Harrow Capital Frankfurt,Banken/Finanzen,1.274,"37,49",5,Neuvermietung,2026-04-22 09:00:00
+FRA-20254-41019,09.10.2025,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,283,"25,23",5,Neuvermietung,2026-01-12 09:00:00
+FRA-20261-12002,08.03.2026,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Nimbus Assurance,Versicherungen,1.006,"51,92",5,Neuvermietung,2026-04-22 09:00:00
+FRA-20234-48008,03.11.2023,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Sterling Bank,Banken/Finanzen,1.750,"11,75",9,Neuvermietung,2024-01-18 09:00:00
+FRA-20242-50003,27.06.2024,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Veridian Authority Frankfurt,Öffentliche Hand,541,"12,62",5,Verlängerung,2024-07-17 09:00:00
+FRA-20253-40010,14.08.2025,Solace Point,"16 Mergenthalerallee, 65760",Innenstadt,Atlas Consulting,Unternehmensberatung,2.326,"30,37",10,Verlängerung,2025-10-24 09:00:00
+FRA-20254-26010,04.10.2025,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Lumen Diagnostics,Pharma/Life Sciences,1.187,"39,56",10,Erweiterung,2026-01-14 09:00:00
+FRA-20241-49009,02.01.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Wren Partners,Banken/Finanzen,732,"12,53",12,Neuvermietung,2024-04-14 09:00:00
+FRA-20252-54009,07.05.2025,106 Zeil,"106 Zeil, 60313",Eschborn,Meridian Consulting,Unternehmensberatung,1.503,"15,32",15,vorvermietung,2025-07-14 09:00:00
+FRA-20254-71003,17.12.2025,75 Bockenheimer Landstraße,"75 Bockenheimer Landstraße, 60323",Niederrad,Atlas Associates Frankfurt,Unternehmensberatung,2.107,"11,84",10,Neuvermietung,2026-01-13 09:00:00
+FRA-20262-28004,19.04.2026,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Sable Capital,Banken/Finanzen,454,"39,50",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20242-05001,30.05.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Helix Technologies,IT/Medien/Telekommunikation,1.642,"43,23",15,Neuvermietung,2024-07-23 09:00:00
+FRA-20254-56009,30.12.2025,106 Zeil,"106 Zeil, 60313",Eschborn,Cobalt Capital,Banken/Finanzen,721,"18,47",3,Neuvermietung,2026-01-24 09:00:00
+FRA-20242-35007,15.06.2024,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Harrow Capital Frankfurt,Banken/Finanzen,625,"29,50",9,Neuvermietung ,2024-07-14 09:00:00
+FRA-20263-44010,10.08.2026,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,2.224,"29,82",9,Neuvermietung,2026-10-20 09:00:00
+FRA-20233-02005,13.09.2023,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Veridian Health,Pharma/Life Sciences,4.543,"40,87",5,Verlängerung,2023-10-14 09:00:00
+FRA-20234-63004,21.11.2023,75 Bockenheimer Landstraße,"75 Bockenheimer Landstraße, 60323",Niederrad,Marlow Underwriting,Versicherungen,1.638,"12,16",9,Neuvermietung,2024-01-15 09:00:00
+FRA-20232-01019,06.05.2023,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,1.097,"34,91",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20263-44001,09.08.2026,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Veridian Health,Pharma/Life Sciences,2.682,"28,53",5,Verlängerung,2026-10-20 09:00:00
+FRA-20261-27006,20.01.2026,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Ember Re,Versicherungen,2.075,"31,06",10,Neuvermietung,2026-04-18 09:00:00
+FRA-20234-33003,23.11.2023,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,2.144,"24,46",3,Neuvermietung,2024-01-17 09:00:00
+FRA-20234-63004,21.11.2023,75 Bockenheimer Landstraße,"75 Bockenheimer Landstraße, 60323",Niederrad,Marlow Underwriting,Versicherungen,1.638,"12,16",9,Neuvermietung,2024-01-24 09:00:00
+FRA-20231-15002,10.03.2023,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Sable Avocats Frankfurt,Rechtsberatung,1.759,,10,Neuvermietung,2023-04-13 09:00:00
+FRA-20262-13024,18.06.2026,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Kestrel Authority,Öffentliche Hand,840,"36,03",9,Neuvermietung,2026-07-16 09:00:00
+FRA-20243-51008,26.07.2024,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Beacon Associates,Unternehmensberatung,1.200,"11,20",3,Neuvermietung,2024-10-13 09:00:00
+FRA-20261-42001,21.03.2026,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Beacon Associates,Unternehmensberatung,509,"25,89",3,Neuvermietung,2026-04-20 09:00:00
+FRA-20243-51012,02.09.2024,Veridian Centre,"156 Mainzer Landstraße, 60325",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,1.860,"15,98",12,Neuvermietung,2024-10-13 09:00:00
+FRA-20253-10002,18.09.2025,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Vantage Holdings,Sonstige,666,"50,12",5,Neuvermietung,2025-10-15 09:00:00
+FRA-20243-06018,19.07.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Corvid Consulting,Unternehmensberatung,470,"34,92",9,Neuvermietung,2024-10-14 09:00:00
+FRA-20233-02008,26.07.2023,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Arden Industries Frankfurt,Industrie,442,"24,79",10,Verlängerung,2023-10-14 09:00:00
+FRA-20253-25012,25.07.2025,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,935,"33,76",10,Neuvermietung,2025-10-21 09:00:00
+FRA-20234-03010,16.10.2023,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,3.587,"39,17",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20262-13005,28.06.2026,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Kestrel Authority,Öffentliche Hand,1.428,"42,49",5,Verlängerung,2026-07-16 09:00:00
+FRA-20253-70006,28.08.2025,74 Mainzer Landstraße,"74 Mainzer Landstraße, 60325",Niederrad,Linden Capital,Banken/Finanzen,559,"8,66",6,Neuvermietung,2025-10-16 09:00:00
+FRA-20252-09010,09.06.2025,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.361,"33,46",12,Neuvermietung,2025-07-15 09:00:00
+FRA-20262-43008R,11.06.2026,148 Taunustor,"148 Taunustor, 60310",Innenstadt,CALDER BIOSCIENCES,Pharma/Life Sciences,939,"20,78",3,Erweiterung,2026-08-05 09:00:00
+FRA-20232-01021,17.05.2023,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,1.786,"36,92",5,Vorvermietung,2023-07-23 09:00:00
+FRA-20263-14002,31.08.2026,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Northgate LLP,Rechtsberatung,783,"49,02",5,Neuvermietung,2026-10-12 09:00:00
+FRA-20234-03022,20.11.2023,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Aldwyn Abogados Frankfurt,Rechtsberatung,434,"27,34",9,Neuvermietung,2024-01-17 09:00:00
+FRA-20252-54007,26.04.2025,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Wren Partners,Banken/Finanzen,1.568,"16,56",5,Neuvermietung,2025-07-14 09:00:00
+FRA-20242-65002,09.04.2024,71 Junghofstraße,"71 Junghofstraße, 60311",Niederrad,Ridgeway Institute,Öffentliche Hand,411,"14,65",10,Vorvermietung,2024-07-21 09:00:00
+FRA-20232-61005,21.06.2023,71 Junghofstraße,"71 Junghofstraße, 60311",Niederrad,Quill Securities Frankfurt,Banken/Finanzen,630,"13,43",15,Neuvermietung,2023-07-14 09:00:00
+FRA-20234-33004,13.12.2023,40 Zeil,"40 Zeil, 60313",Innenstadt,Quill Media,IT/Medien/Telekommunikation,1.343,"26,53",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20242-35012,04.04.2024,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Sable Capital,Banken/Finanzen,1.370,"21,86",10,Untervermietung,2024-07-14 09:00:00
+FRA-20233-62003,20.09.2023,126 Zeil,"126 Zeil, 60313",Niederrad,Corvid Consulting,Unternehmensberatung,1.883,"13,38",5,Verlängerung,2023-10-17 09:00:00
+FRA-20254-41013,06.10.2025,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Atlas Pharma,Pharma/Life Sciences,1.599,"35,09",3,Verlängerung,2026-01-12 09:00:00
+FRA-20244-07017,16.12.2024,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,1.877,"28,96",12,Erweiterung,2025-01-23 09:00:00
+FRA-20234-48011,17.11.2023,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,1.171,"12,59",3,Neuvermietung,2024-01-18 09:00:00
+FRA-20242-05020,01.05.2024,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Halden Consulting,Unternehmensberatung,2.762,"36,32",10,Verlängerung,2024-07-23 09:00:00
+FRA-20262-13009,19.04.2026,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,2.923,"37,28",5,neuvermietung,2026-07-16 09:00:00
+FRA-20254-41005,06.12.2025,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Sterling Consulting,Unternehmensberatung,3.110,"30,22",12,Neuvermietung,2026-01-12 09:00:00
+FRA-20263-74005,17.08.2026,Lumen Court,"41 Düsseldorfer Straße, 65760",Niederrad,Thorne Associates,Unternehmensberatung,2.408,"12,83",3,Neuvermietung,2026-10-24 09:00:00
+FRA-20253-40009,13.09.2025,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Tern Group,Unternehmensberatung,1.815,,5,Neuvermietung,2025-10-15 09:00:00
+FRA-20251-68005,07.01.2025,53 Taunustor,"53 Taunustor, 60310",Niederrad,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.022,"15,64",3,Neuvermietung,2025-04-21 09:00:00
+FRA-20262-13016,28.06.2026,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Marlow Underwriting,Versicherungen,166,"54,13",5,Verlängerung,2026-07-16 09:00:00
+FRA-20261-12003,07.01.2026,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,351,"27,75",3,Neuvermietung,2026-04-22 09:00:00
+FRA-20243-06022,05.08.2024,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Meridian Capital,Banken/Finanzen,1.478,"32,00",3,Untervermietung,2024-10-14 09:00:00
+FRA-20243-36003,10.09.2024,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,879,"29,27",10,Erweiterung,2024-10-16 09:00:00
+FRA-20233-02001,24.08.2023,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Arden Industries Frankfurt,Industrie,846,"33,58",5,Untervermietung,2023-10-14 09:00:00
+FRA-20261-12006,01.03.2026,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,868,"48,30",3,Neuvermietung,2026-04-22 09:00:00
+FRA-20241-34014,18.03.2024,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Sterling Bank,Banken/Finanzen,840,"24,60",10,Neuvermietung,2024-04-21 09:00:00
+FRA-20232-01010,12.04.2023,Veridian Quay,"109 Große Eschenheimer Straße, 60313",,Aldwyn Rechtsanwälte,Rechtsberatung,939,"42,70",3,Verlängerung,2023-07-23 09:00:00
+FRA-20233-17003,18.09.2023,Ravel Tower,"149 Frankfurter Straße, 65760",Westend,Ravel Offices,Flexible Büros,2.223,"33,26",9,Verlängerung,2023-10-14 09:00:00
+FRA-20262-13007,02.05.2026,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,579,,9,Untervermietung,2026-07-16 09:00:00
+FRA-20244-07016,15.12.2024,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Corvid Consulting,Unternehmensberatung,1.560,"43,83",12,Neuvermietung,2025-01-23 09:00:00
+FRA-20232-16003,20.04.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.626,"38,98",15,Verlängerung,2023-07-20 09:00:00
+FRA-20262-43014,23.05.2026,Tamar House,"121 Westendstraße, 60325",Innenstadt,Marlow Underwriting,Versicherungen,755,"34,14",10,Neuvermietung,2026-07-16 09:00:00
+FRA-20244-37007,08.10.2024,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Pinnacle Foundation Frankfurt,Sonstige,6.549,"20,56",12,Neuvermietung,2025-01-16 09:00:00
+FRA-20233-17014,20.08.2023,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Orbis Insurance,Versicherungen,754,"34,86",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20234-03017,02.11.2023,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,659,"42,89",10,Neuvermietung,2024-01-17 09:00:00
+FRA-20251-38011,23.01.2025,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Sterling Consulting,Unternehmensberatung,2.112,"20,42",10,Untervermietung,2025-04-14 09:00:00
+FRA-20234-03003,06.11.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Tern Group,Unternehmensberatung,802,"40,36",5,Vorvermietung,2024-01-17 09:00:00
+FRA-20261-27009,30.01.2026,Tern House,"102 Taunusanlage, 60329",Westend,Ravel Offices,Flexible Büros,1.764,"35,97",5,Neuvermietung,2026-04-18 09:00:00
+FRA-20242-35001,27.05.2024,71 Westendstraße,"71 Westendstraße, 60325",Innenstadt,Thorne Associates,Unternehmensberatung,1.374,"24,26",3,Neuvermietung,2024-07-14 09:00:00
+FRA-20233-32006,12.09.2023,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Veridian Health,Pharma/Life Sciences,344,"28,71",5,Verlängerung,2023-10-24 09:00:00
+FRA-20263-44011,28.08.2026,30 Junghofstraße,"30 Junghofstraße, 60311",Innenstadt,Tamar Rechtsanwälte,Rechtsberatung,1.717,"30,82",12,Neuvermietung,2026-10-20 09:00:00
+FRA-20234-48002,24.11.2023,102 Junghofstraße,"102 Junghofstraße, 60311",Eschborn,Quill Media,IT/Medien/Telekommunikation,645,"10,49",15,Neuvermietung,2024-01-18 09:00:00
+FRA-20231-60003,23.02.2023,150 Taunusanlage,"150 Taunusanlage, 60329",Niederrad,Calder Holdings Frankfurt,Sonstige,3.719,"15,11",10,Neuvermietung,2023-04-19 09:00:00
+FRA-20263-14007,06.07.2026,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Elmgrove Authority,Öffentliche Hand,826,"50,62",9,Vorvermietung,2026-10-12 09:00:00
+FRA-20252-24011,13.05.2025,Granite House,"151 Zeil, 60313",Westend,Linden Capital,Banken/Finanzen,483,"37,11",3,Verlängerung,2025-07-17 09:00:00
+FRA-20262-43015,28.04.2026,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Cobalt Advisory,Unternehmensberatung,869,"27,12",9,Neuvermietung,2026-07-16 09:00:00
+FRA-20261-42004,25.03.2026,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Quill Securities Frankfurt,Banken/Finanzen,2.664,"31,47",5,Erweiterung,2026-04-20 09:00:00
+FRA-20241-49010,13.03.2024,26 Westendstraße,"26 Westendstraße, 60325",Eschborn,Tamar Consulting Frankfurt,Unternehmensberatung,1.077,"12,40",15,Vorvermietung,2024-04-14 09:00:00
+FRA-20252-24017,30.04.2025,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Lumen Workspace,Flexible Büros,1.072,"29,99",5,Erweiterung,2025-07-17 09:00:00
+FRA-20252-24009,05.05.2025,Harrow Plaza,"150 Mergenthalerallee, 65760",Westend,Helix Technologies,IT/Medien/Telekommunikation,435,"39,35",15,Neuvermietung,2025-07-17 09:00:00
+FRA-20261-27002,25.02.2026,Ravel Tower,"149 Frankfurter Straße, 65760",,Quill Media,IT/Medien/Telekommunikation,1.364,"28,76",6,Untervermietung,2026-04-18 09:00:00
+FRA-20261-12014,07.03.2026,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Harrow Asset Management,Banken/Finanzen,2.030,"47,92",10,Neuvermietung,2026-04-22 09:00:00
+FRA-20233-17011,17.07.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Sterling Consulting,Unternehmensberatung,1.465,"37,68",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20252-39004,29.05.2025,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Helix Biosciences,Pharma/Life Sciences,1.275,"31,33",6,Neuvermietung,2025-07-21 09:00:00
+FRA-20262-43011,09.06.2026,Juniper Centre,"47 Mergenthalerallee, 65760",Innenstadt,Aldwyn Abogados Frankfurt,Rechtsberatung,1.512,"35,45",10,Verlängerung,2026-07-16 09:00:00
+FRA-20261-72003,15.03.2026,Lumen Court,"41 Düsseldorfer Straße, 65760",Niederrad,Thorne Associates,Unternehmensberatung,1.048,"15,78",5,Neuvermietung,2026-04-24 09:00:00
+FRA-20252-24008,20.04.2025,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Cobalt Capital,Banken/Finanzen,1.713,"45,49",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20251-53009,16.03.2025,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Pinnacle Foundation Frankfurt,Sonstige,2.078,"12,97",10,Verlängerung,2025-04-16 09:00:00
+FRA-20232-01004,25.05.2023,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Lumen Diagnostics,Pharma/Life Sciences,631,"33,55",5,Erweiterung,2023-07-23 09:00:00
+FRA-20251-68006,26.01.2025,164 Kaiserstraße,"164 Kaiserstraße, 60329",Niederrad,Calder Holdings Frankfurt,Sonstige,721,"8,38",6,Neuvermietung,2025-04-21 09:00:00
+FRA-20231-15001,18.02.2023,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Pinnacle Media,IT/Medien/Telekommunikation,5.507,"33,39",9,Neuvermietung,2023-04-13 09:00:00
+FRA-20233-47003,27.08.2023,Larkspur Tower,"128 Herriotstraße, 60528",Eschborn,Sterling Workspace Frankfurt,Flexible Büros,1.048,"13,35",9,Untervermietung,2023-10-12 09:00:00
+FRA-20251-08008,21.03.2025,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Calder Biosciences,Pharma/Life Sciences,1.163,"34,43",9,Verlängerung,2025-04-22 09:00:00
+FRA-20251-53004,28.01.2025,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,1.903,"168,48",10,Neuvermietung,2025-04-16 09:00:00
+FRA-20261-12008,08.02.2026,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Pinnacle Media,IT/Medien/Telekommunikation,451,"34,98",12,Neuvermietung,2026-04-22 09:00:00
+FRA-20251-38001,29.01.2025,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Sterling Bank,Banken/Finanzen,3.395,"29,75",15,Verlängerung,2025-04-14 09:00:00
+FRA-20244-07014,22.10.2024,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Tamar Rechtsanwälte,Rechtsberatung,1.439,"29,33",6,Verlängerung,2025-01-23 09:00:00
+FRA-20253-55007,28.07.2025,54 Taunusanlage,"54 Taunusanlage, 60329",Eschborn,Meridian Capital,Banken/Finanzen,820,"10,77",15,Vorvermietung,2025-10-20 09:00:00
+FRA-20241-49006,15.01.2024,130 Junghofstraße,"130 Junghofstraße, 60311",Eschborn,Meridian Consulting,Unternehmensberatung,844,"14,10",15,Verlängerung,2024-04-14 09:00:00
+FRA-20241-34009,03.03.2024,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,360,"25,36",15,Neuvermietung,2024-04-21 09:00:00
+FRA-20232-31011,07.06.2023,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,2.223,"30,77",15,Neuvermietung,2023-07-23 09:00:00
+FRA-20234-48004,26.12.2023,130 Junghofstraße,"130 Junghofstraße, 60311",Eschborn,Halden Consulting,Unternehmensberatung,550,,5,Erweiterung,2024-01-18 09:00:00
+FRA-20243-36004,27.07.2024,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Fenwick Labs,IT/Medien/Telekommunikation,1.521,"25,95",5,Untervermietung,2024-10-16 09:00:00
+FRA-20233-17008,07.09.2023,Osprey Gate,"8 Taunustor, 60310",Westend,Elmgrove Authority,Öffentliche Hand,716,"38,71",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20253-55005,06.07.2025,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Solace Underwriting Frankfurt,Versicherungen,694,"10,57",12,Vorvermietung,2025-10-20 09:00:00
+FRA-20231-15005,16.01.2023,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Harrow Asset Management,Banken/Finanzen,2.499,"29,99",15,Untervermietung,2023-04-13 09:00:00
+FRA-20261-27007,27.03.2026,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Nimbus Assurance,Versicherungen,714,"28,86",9,Untervermietung,2026-04-18 09:00:00
+FRA-20241-49007,12.03.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Tamar Rechtsanwälte,Rechtsberatung,1.057,"13,20",9,Neuvermietung,2024-04-14 09:00:00
+FRA-20263-14012,07.08.2026,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Veridian Authority Frankfurt,Öffentliche Hand,1.214,"46,16",5,Neuvermietung,2026-10-12 09:00:00
+FRA-20243-06023,05.07.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Orbis Flex,Flexible Büros,1.543,"49,20",5,Vorvermietung,2024-10-14 09:00:00
+FRA-20262-13017,30.04.2026,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,150,"49,39",9,Verlängerung,2026-07-16 09:00:00
+FRA-20252-09007,21.04.2025,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Elmgrove Authority,Öffentliche Hand,2.853,"41,71",5,Vorvermietung,2025-07-15 09:00:00
+FRA-20252-54004,28.05.2025,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Calder Biosciences,Pharma/Life Sciences,544,"11,13",3,Neuvermietung,2025-07-14 09:00:00
+FRA-20252-24018,04.04.2025,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Veridian Health,Pharma/Life Sciences,970,"31,56",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20261-42008,08.03.2026,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Sable Avocats Frankfurt,Rechtsberatung,1.106,"29,93",5,Untervermietung,2026-04-20 09:00:00
+FRA-20262-13015,11.05.2026,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Linden Capital,Banken/Finanzen,1.980,"37,33",5,Neuvermietung,2026-07-16 09:00:00
+FRA-20241-34010,02.02.2024,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Atlas Associates Frankfurt,Unternehmensberatung,315,"19,16",10,Untervermietung,2024-04-21 09:00:00
+FRA-20263-29012,06.09.2026,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Atlas Consulting,Unternehmensberatung,2.381,"29,53",5,Untervermietung,2026-10-12 09:00:00
+FRA-20253-70008,28.09.2025,52 Junghofstraße,"52 Junghofstraße, 60311",Niederrad,Halden Consulting,Unternehmensberatung,831,"14,20",15,Neuvermietung,2025-10-16 09:00:00
+FRA-20232-31013,21.05.2023,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Orbis Flex,Flexible Büros,1.878,"32,18",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20261-72004,19.03.2026,52 Junghofstraße,"52 Junghofstraße, 60311",Niederrad,Quill Securities Frankfurt,Banken/Finanzen,1.215,"14,42",10,Verlängerung,2026-04-24 09:00:00
+FRA-20262-13002,26.05.2026,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Brightwater Consulting,Unternehmensberatung,579,"44,96",5,Verlängerung,2026-07-16 09:00:00
+FRA-20253-10006,11.09.2025,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,1.441,"43,89",3,Verlängerung,2025-10-15 09:00:00
+FRA-20242-20004,12.05.2024,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Pinnacle Media,IT/Medien/Telekommunikation,1.853,"40,71",12,Neuvermietung,2024-07-21 09:00:00
+FRA-20232-31001,23.05.2023,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,9.833,"25,87",5,Untervermietung,2023-07-23 09:00:00
+FRA-20234-63001,14.10.2023,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Pinnacle Foundation Frankfurt,Sonstige,2.139,"13,51",5,Verlängerung,2024-01-15 09:00:00
+FRA-20243-36001,23.08.2024,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Orbis Flex,Flexible Büros,926,"32,19",5,Verlängerung,2024-10-16 09:00:00
+FRA-20254-41010,12.11.2025,30 Junghofstraße,"30 Junghofstraße, 60311",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,1.604,"36,61",12,Vorvermietung,2026-01-12 09:00:00
+FRA-20252-69002,21.05.2025,Helix Building,"92 Mergenthalerallee, 65760",Niederrad,Helix Technologies,IT/Medien/Telekommunikation,885,"12,55",15,Neuvermietung,2025-07-21 09:00:00
+FRA-20254-26008,21.12.2025,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Wren Partners,Banken/Finanzen,1.437,"37,08",9,Neuvermietung,2026-01-14 09:00:00
+FRA-20252-39010,22.06.2025,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Atlas Associates Frankfurt,Unternehmensberatung,1.289,"27,32",12,Erweiterung,2025-07-21 09:00:00
+FRA-20231-45007,30.01.2023,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Halden Consulting,Unternehmensberatung,506,"13,31",10,Verlängerung,2023-04-22 09:00:00
+FRA-20262-28001,21.04.2026,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Arden Industries Frankfurt,Industrie,2.909,,15,Neuvermietung,2026-07-22 09:00:00
+FRA-20252-09004,25.04.2025,21 Zeil,"21 Zeil, 60313",Bankenviertel,Northgate LLP,Rechtsberatung,2.409,"36,57",10,Neuvermietung,2025-07-15 09:00:00
+FRA-20243-21005,07.08.2024,Arden Park,"22 Frankfurter Straße, 65760",Westend,Arden Hub,Flexible Büros,541,"40,64",9,Neuvermietung,2024-10-15 09:00:00
+FRA-20232-46004,26.06.2023,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Calder Biosciences,Pharma/Life Sciences,412,"12,56",12,Neuvermietung,2023-07-22 09:00:00
+FRA-20254-11012,21.10.2025,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Calder Holdings Frankfurt,Sonstige,5.350,"36,59",5,Vorvermietung,2026-01-18 09:00:00
+FRA-20251-08002,26.03.2025,21 Zeil,"21 Zeil, 60313",Bankenviertel,Larkspur Diagnostics,Pharma/Life Sciences,1.560,"36,34",3,Vorvermietung,2025-04-22 09:00:00
+FRA-20232-46005,01.04.2023,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Quill Securities Frankfurt,Banken/Finanzen,781,"12,62",6,Neuvermietung,2023-07-22 09:00:00
+FRA-20244-37013,15.12.2024,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Solace Underwriting Frankfurt,Versicherungen,1.248,"25,74",5,Neuvermietung,2025-01-16 09:00:00
+FRA-20251-08021,13.02.2025,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,1.568,"42,52",12,Neuvermietung,2025-04-22 09:00:00
+FRA-20263-29013,15.08.2026,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Quill Securities Frankfurt,Banken/Finanzen,2.715,"29,26",10,Neuvermietung,2026-10-12 09:00:00
+FRA-20254-56004,17.11.2025,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Ember Institute Frankfurt,Öffentliche Hand,1.363,"10,68",10,Verlängerung,2026-01-24 09:00:00
+FRA-20243-66005,13.07.2024,Brightwater Point,"176 Lyoner Straße, 60528",Niederrad,Ember Institute Frankfurt,Öffentliche Hand,1.151,"8,94",10,Neuvermietung,2024-10-16 09:00:00
+FRA-20242-50006,04.06.2024,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Solace Underwriting Frankfurt,Versicherungen,406,"15,35",15,Neuvermietung,2024-07-17 09:00:00
+FRA-20244-37012,02.12.2024,Solace Point,"16 Mergenthalerallee, 65760",Innenstadt,Ridgeway Institute,Öffentliche Hand,1.833,"28,11",10,Verlängerung,2025-01-16 09:00:00
+FRA-20232-01007,17.06.2023,Halden Building,"165 Lyoner Straße, 60528",,Sterling Consulting,Unternehmensberatung,727,"29,57",10,Verlängerung,2023-07-23 09:00:00
+FRA-20253-40023,19.09.2025,167 Große Eschenheimer Straße,"167 Große Eschenheimer Straße, 60313",Innenstadt,Meridian Consulting,Unternehmensberatung,1.030,,5,Neuvermietung,2025-10-15 09:00:00
+FRA-20234-33016,27.12.2023,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Marlow Underwriting,Versicherungen,2.810,"30,05",5,Neuvermietung,2024-01-17 09:00:00
+FRA-20253-25002,25.08.2025,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Cobalt Capital,Banken/Finanzen,807,"38,64",15,Neuvermietung,2025-10-21 09:00:00
+FRA-20253-10014,17.09.2025,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,1.970,"37,12",6,Neuvermietung,2025-10-15 09:00:00
+FRA-20252-69001,17.04.2025,Vantage Gate,"91 Herriotstraße, 60528",Niederrad,Solace Offices,Flexible Büros,3.371,"11,34",9,Verlängerung,2025-07-21 09:00:00
+FRA-20253-40013,01.08.2025,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Harrow Capital Frankfurt,Banken/Finanzen,759,"30,22",5,Neuvermietung,2025-10-15 09:00:00
+FRA-20232-46011,18.04.2023,60 Frankfurter Straße,"60 Frankfurter Straße, 65760",Eschborn,Sterling Workspace Frankfurt,Flexible Büros,655,"13,44",10,Neuvermietung,2023-07-22 09:00:00
+FRA-20254-41006,29.11.2025,40 Zeil,"40 Zeil, 60313",Innenstadt,Northgate LLP,Rechtsberatung,1.150,"21,18",10,Untervermietung,2026-01-12 09:00:00
+FRA-20233-47006,23.09.2023,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,971,"10,90",6,Neuvermietung,2023-10-12 09:00:00
+FRA-20241-19004,01.02.2024,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Nimbus Assurance,Versicherungen,3.223,"29,65",6,Neuvermietung,2024-04-20 09:00:00
+FRA-20253-25003,06.08.2025,Granite House,"151 Zeil, 60313",Westend,Veridian Authority Frankfurt,Öffentliche Hand,1.641,"31,75",10,Vorvermietung,2025-10-21 09:00:00
+FRA-20241-19003R,08.02.2024,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,HARROW ASSET MANAGEMENT,Banken/Finanzen,633,"30,06",5,Verlängerung,2024-05-10 09:00:00
+FRA-20263-44016,18.08.2026,40 Zeil,"40 Zeil, 60313",Innenstadt,Sterling Consulting,Unternehmensberatung,985,"30,68",5,Vorvermietung,2026-10-20 09:00:00
+FRA-20242-65007,07.04.2024,Ridgeway Point,"136 Bockenheimer Landstraße, 60323",Niederrad,Pinnacle Foundation Frankfurt,Sonstige,1.195,"13,60",10,Verlängerung,2024-07-21 09:00:00
+FRA-20232-16012,03.04.2023,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Helix Biosciences,Pharma/Life Sciences,1.024,"35,48",9,Vorvermietung,2023-07-20 09:00:00
+FRA-20263-14014,29.08.2026,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Northgate Assurance,Versicherungen,4.506,"32,29",9,Erweiterung,2026-10-12 09:00:00
+FRA-20234-48001,03.11.2023,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Solace Offices,Flexible Büros,767,"11,59",10,Verlängerung,2024-01-18 09:00:00
+FRA-20243-06008,21.09.2024,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Thorne Associates,Unternehmensberatung,1.999,"31,25",15,Neuvermietung,2024-10-14 09:00:00
+FRA-20252-39009,18.04.2025,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,3.123,"27,65",12,Untervermietung,2025-07-21 09:00:00
+FRA-20231-30012,18.01.2023,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Sable Capital,Banken/Finanzen,435,"20,75",5,Untervermietung,2023-04-19 09:00:00
+FRA-20233-32016,24.07.2023,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Atlas Consulting,Unternehmensberatung,1.474,"26,26",15,Neuvermietung,2023-10-24 09:00:00
+FRA-20262-13006,27.05.2026,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Elmgrove Authority,Öffentliche Hand,1.016,"38,24",5,Neuvermietung,2026-07-16 09:00:00
+FRA-20234-63002,18.10.2023,Marlow Gate,"65 Düsseldorfer Straße, 65760",Niederrad,Solace Offices,Flexible Büros,1.893,,9,Verlängerung,2024-01-15 09:00:00
+FRA-20251-38013,05.03.2025,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.894,"26,07",9,Neuvermietung,2025-04-14 09:00:00
+FRA-20251-08011,31.03.2025,Arden House,"114 Westendstraße, 60325",Bankenviertel,Granite Council Frankfurt,Öffentliche Hand,1.164,"48,63",12,Neuvermietung,2025-04-22 09:00:00
+FRA-20232-16001,13.06.2023,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,2.879,"29,45",12,Untervermietung,2023-07-20 09:00:00
+FRA-20252-54008,07.06.2025,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Aldwyn Abogados Frankfurt,Rechtsberatung,473,"12,41",15,Verlängerung,2025-07-14 09:00:00
+FRA-20263-14001,14.08.2026,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,3.099,"24,50",10,Untervermietung,2026-10-12 09:00:00
+FRA-20263-59007,24.08.2026,130 Junghofstraße,"130 Junghofstraße, 60311",Eschborn,Harrow Asset Management,Banken/Finanzen,869,"13,17",10,Verlängerung,2026-10-21 09:00:00
+FRA-20232-01011,12.04.2023,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,744,"37,91",9,Neuvermietung,2023-07-23 09:00:00
+FRA-20251-23004,09.02.2025,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Kestrel Authority,Öffentliche Hand,1.308,"29,53",12,Neuvermietung,2025-04-22 09:00:00
+FRA-20252-09009,01.06.2025,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Larkspur Diagnostics,Pharma/Life Sciences,478,"48,14",6,Neuvermietung,2025-07-15 09:00:00
+FRA-20243-36009,02.07.2024,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Wren Bank Frankfurt,Banken/Finanzen,565,"25,21",9,Vorvermietung,2024-10-16 09:00:00
+FRA-20251-68004,07.03.2025,53 Taunustor,"53 Taunustor, 60310",Niederrad,Ridgeway Institute,Öffentliche Hand,673,"14,58",6,Neuvermietung,2025-04-21 09:00:00
+FRA-20234-33019,08.12.2023,Tamar House,"121 Westendstraße, 60325",Innenstadt,Cobalt Advisory,Unternehmensberatung,2.160,"32,22",10,Verlängerung,2024-01-17 09:00:00
+FRA-20231-00002,05.01.2023,Arden House,"114 Westendstraße, 60325",Bankenviertel,Sterling Consulting,Unternehmensberatung,806,"35,18",5,Untervermietung,2023-04-23 09:00:00
+FRA-20232-46008,17.05.2023,96 Taunusanlage,"96 Taunusanlage, 60329",Eschborn,Lumen Workspace,Flexible Büros,1.176,"17,00",15,Verlängerung ,2023-07-22 09:00:00
+FRA-20242-65003,25.04.2024,170 Mergenthalerallee,"170 Mergenthalerallee, 65760",Niederrad,Vantage Media Frankfurt,IT/Medien/Telekommunikation,532,"11,18",12,Neuvermietung,2024-07-21 09:00:00
+FRA-20234-18016,01.10.2023,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Atlas Consulting,Unternehmensberatung,1.083,"30,75",3,Neuvermietung,2024-01-15 09:00:00
+FRA-20233-32015,02.09.2023,161 Zeil,"161 Zeil, 60313",Innenstadt,Sterling Workspace Frankfurt,Flexible Büros,1.702,"27,43",9,Neuvermietung,2023-10-24 09:00:00
+FRA-20243-51005,11.07.2024,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Atlas Consulting,Unternehmensberatung,464,"10,20",10,Erweiterung,2024-10-13 09:00:00
+FRA-20234-03008,19.10.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,693,"38,06",5,Erweiterung,2024-01-17 09:00:00
+FRA-20242-65006,18.05.2024,91 Bockenheimer Landstraße,"91 Bockenheimer Landstraße, 60323",Niederrad,Ridgeway Institute,Öffentliche Hand,817,"10,61",12,Vorvermietung,2024-07-21 09:00:00
+FRA-20232-01013,21.04.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Veridian Health,Pharma/Life Sciences,895,"34,56",3,Neuvermietung,2023-07-23 09:00:00
+FRA-20241-34007,17.01.2024,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Orbis Insurance,Versicherungen,575,"27,56",12,Neuvermietung,2024-04-21 09:00:00
+FRA-20244-07019,23.11.2024,Arden House,"114 Westendstraße, 60325",Bankenviertel,Corvid Consulting,Unternehmensberatung,828,"37,30",10,Neuvermietung,2025-01-23 09:00:00
+FRA-20242-20010,12.05.2024,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Sable Capital,Banken/Finanzen,2.103,"42,05",5,Neuvermietung,2024-07-21 09:00:00
+FRA-20262-58010,18.04.2026,Larkspur Tower,"128 Herriotstraße, 60528",Eschborn,Pinnacle Media,IT/Medien/Telekommunikation,1.564,"15,10",10,Verlängerung,2026-07-12 09:00:00
+FRA-20261-12016,05.02.2026,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Wren Bank Frankfurt,Banken/Finanzen,279,"48,13",6,Verlängerung,2026-04-22 09:00:00
+FRA-20243-36012,26.09.2024,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Helix Technologies,IT/Medien/Telekommunikation,1.501,"26,47",5,Neuvermietung,2024-10-16 09:00:00
+FRA-20241-19002,28.01.2024,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Lumen Workspace,Flexible Büros,935,"36,57",5,Erweiterung,2024-04-20 09:00:00
+FRA-20244-07003,06.12.2024,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Beacon Associates,Unternehmensberatung,346,"45,08",5,Neuvermietung,2025-01-23 09:00:00
+FRA-20253-25008,02.07.2025,171 Bockenheimer Landstraße,"171 Bockenheimer Landstraße, 60323",Westend,Sterling Workspace Frankfurt,Flexible Büros,773,"32,53",3,Neuvermietung,2025-10-21 09:00:00
+FRA-20231-30005,07.01.2023,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Ember Institute Frankfurt,Öffentliche Hand,809,"33,17",10,Neuvermietung,2023-04-19 09:00:00
+FRA-20243-36008,25.09.2024,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,865,"26,01",9,Untervermietung,2024-10-16 09:00:00
+FRA-20242-20011,06.04.2024,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Vantage Holdings,Sonstige,916,"31,95",5,Vorvermietung,2024-07-21 09:00:00
+FRA-20232-31004,08.05.2023,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Marlow Underwriting,Versicherungen,790,"406,56",3,Verlängerung,2023-07-23 09:00:00
+FRA-20263-29003,07.08.2026,171 Bockenheimer Landstraße,"171 Bockenheimer Landstraße, 60323",Westend,Elmgrove Authority,Öffentliche Hand,643,"28,71",9,Untervermietung,2026-10-12 09:00:00
+FRA-20251-53008,01.02.2025,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Atlas Consulting,Unternehmensberatung,1.005,"12,14",10,Neuvermietung,2025-04-16 09:00:00
+FRA-20261-57004,30.01.2026,26 Westendstraße,"26 Westendstraße, 60325",Eschborn,Veridian Health,Pharma/Life Sciences,1.802,"13,87",10,Vorvermietung,2026-04-16 09:00:00
+FRA-20242-35013,11.06.2024,71 Westendstraße,"71 Westendstraße, 60325",Innenstadt,Solace Offices,Flexible Büros,3.337,"27,60",9,Neuvermietung,2024-07-14 09:00:00
+FRA-20261-42007,10.01.2026,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Ember Institute Frankfurt,Öffentliche Hand,4.889,"30,32",5,Erweiterung,2026-04-20 09:00:00
+FRA-20233-32007,31.08.2023,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Veridian Health,Pharma/Life Sciences,372,"25,74",5,Neuvermietung,2023-10-24 09:00:00
+FRA-20241-34001,28.01.2024,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Solace Underwriting Frankfurt,Versicherungen,503,"32,66",10,Verlängerung,2024-04-21 09:00:00
+FRA-20233-32009,29.09.2023,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Kestrel Authority,Öffentliche Hand,891,"32,34",3,Neuvermietung,2023-10-24 09:00:00
+FRA-20233-17004,23.08.2023,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,1.395,"40,97",10,Erweiterung,2023-10-14 09:00:00
+FRA-20262-28008,27.05.2026,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Sterling Bank,Banken/Finanzen,551,"41,64",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20262-58009,09.06.2026,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Cobalt Advisory,Unternehmensberatung,822,"15,92",12,Neuvermietung,2026-07-12 09:00:00
+FRA-20244-37015,09.10.2024,40 Zeil,"40 Zeil, 60313",Innenstadt,Osprey Avocats,Rechtsberatung,1.438,"25,30",5,Neuvermietung,2025-01-16 09:00:00
+FRA-20244-07007,07.11.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Thorne Associates,Unternehmensberatung,2.462,"40,67",9,Neuvermietung,2025-02-01 09:00:00
+FRA-20241-49013,15.01.2024,11 Westendstraße,"11 Westendstraße, 60325",Eschborn,Granite Council Frankfurt,Öffentliche Hand,1.873,"8,48",5,Untervermietung,2024-04-14 09:00:00
+FRA-20253-25009,22.09.2025,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Tern Capital Frankfurt,Banken/Finanzen,1.536,"27,25",9,Neuvermietung,2025-10-21 09:00:00
+FRA-20253-40015,06.07.2025,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Atlas Consulting,Unternehmensberatung,1.204,"31,96",15,Neuvermietung,2025-10-15 09:00:00
+FRA-20233-17001,25.09.2023,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Aldwyn Abogados Frankfurt,Rechtsberatung,1.433,"32,02",3,Neuvermietung,2023-10-14 09:00:00
+FRA-20261-42002,08.02.2026,Thorne Quay,"39 Große Eschenheimer Straße, 60313",Innenstadt,Granite Council Frankfurt,Öffentliche Hand,1.939,"29,14",3,Verlängerung,2026-04-20 09:00:00
+FRA-20243-21001,22.09.2024,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Granite Council Frankfurt,Öffentliche Hand,1.271,"29,70",3,Untervermietung,2024-10-15 09:00:00
+FRA-20252-24007,26.04.2025,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",,Wren Partners,Banken/Finanzen,908,"33,23",10,Erweiterung,2025-07-17 09:00:00
+FRA-20233-62004,22.08.2023,53 Taunustor,"53 Taunustor, 60310",Niederrad,Orbis Insurance,Versicherungen,2.525,"11,73",15,Untervermietung,2023-10-17 09:00:00
+FRA-20242-50001,17.05.2024,Linden Plaza,"148 Kaiserstraße, 60329",Eschborn,Sterling Workspace Frankfurt,Flexible Büros,1.876,"13,83",15,Erweiterung,2024-07-17 09:00:00
+FRA-20231-15003,05.02.2023,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Orbis Insurance,Versicherungen,1.308,"35,97",5,Neuvermietung,2023-04-13 09:00:00
+FRA-20244-37010,24.10.2024,30 Junghofstraße,"30 Junghofstraße, 60311",Innenstadt,Fenwick Labs,IT/Medien/Telekommunikation,598,"33,21",15,Verlängerung,2025-01-16 09:00:00
+FRA-20241-34009,03.03.2024,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,360,"25,36",15,Neuvermietung,2024-04-30 09:00:00
+FRA-20262-58003,08.04.2026,Lumen Point,"47 Bockenheimer Landstraße, 60323",Eschborn,Solace Offices,Flexible Büros,1.149,"12,93",15,Verlängerung,2026-07-12 09:00:00
+FRA-20252-24013,05.06.2025,171 Bockenheimer Landstraße,"171 Bockenheimer Landstraße, 60323",Westend,Orbis Insurance,Versicherungen,271,"33,88",10,Neuvermietung,2025-07-17 09:00:00
+FRA-20243-36010,08.08.2024,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Osprey Avocats,Rechtsberatung,563,"25,49",15,Neuvermietung,2024-10-16 09:00:00
+FRA-20234-33010,08.10.2023,30 Junghofstraße,"30 Junghofstraße, 60311",Innenstadt,Veridian Health,Pharma/Life Sciences,552,"30,36",5,Erweiterung,2024-01-17 09:00:00
+FRA-20261-57006,23.02.2026,137 Große Eschenheimer Straße,"137 Große Eschenheimer Straße, 60313",Eschborn,Vantage Holdings,Sonstige,968,"11,14",9,Neuvermietung,2026-04-16 09:00:00
+FRA-20231-30006,24.03.2023,56 Zeil,"56 Zeil, 60313",Innenstadt,Veridian Health,Pharma/Life Sciences,4.077,"23,45",5,Neuvermietung,2023-04-19 09:00:00
+FRA-20244-67004,28.10.2024,75 Bockenheimer Landstraße,"75 Bockenheimer Landstraße, 60323",Niederrad,Harrow Capital Frankfurt,Banken/Finanzen,2.258,,6,Neuvermietung,2025-01-24 09:00:00
+FRA-20231-45008,14.03.2023,44 Mainzer Landstraße,"44 Mainzer Landstraße, 60325",Eschborn,Meridian Consulting,Unternehmensberatung,315,"17,21",5,Neuvermietung,2023-04-22 09:00:00
+FRA-20242-35006,06.04.2024,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Sterling Consulting,Unternehmensberatung,3.095,"36,19",15,Neuvermietung,2024-07-14 09:00:00
+FRA-20242-35003,06.06.2024,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Ember Institute Frankfurt,Öffentliche Hand,412,"25,48",3,Neuvermietung,2024-07-14 09:00:00
+FRA-20234-03021,16.12.2023,Arden House,"114 Westendstraße, 60325",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,946,"44,40",3,Neuvermietung,2024-01-17 09:00:00
+FRA-20263-29002,26.09.2026,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Vantage Holdings,Sonstige,917,"50,38",5,Neuvermietung,2026-10-12 09:00:00
+FRA-20263-74001,25.08.2026,25 Mergenthalerallee,"25 Mergenthalerallee, 65760",Niederrad,Wren Partners,Banken/Finanzen,1.259,"9,02",9,Neuvermietung,2026-10-24 09:00:00
+FRA-20253-25006R,14.07.2025,Ember Plaza,"64 Westendstraße, 60325",Westend,Helix Biosciences Ltd,Pharma/Life Sciences,3.181,"42,23",5,Erweiterung,2025-11-10 09:00:00
+FRA-20242-05011,23.05.2024,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Tern Capital Frankfurt,Banken/Finanzen,6.540,"43,38",6,neuvermietung,2024-07-23 09:00:00
+FRA-20244-37003,29.12.2024,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Veridian Health,Pharma/Life Sciences,584,"27,66",10,Neuvermietung,2025-01-16 09:00:00
+FRA-20262-28016,17.06.2026,Harrow Plaza,"150 Mergenthalerallee, 65760",Westend,Osprey Avocats,Rechtsberatung,446,"46,11",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20253-10005,24.09.2025,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Sterling Bank,Banken/Finanzen,761,"41,48",9,Verlängerung,2025-10-15 09:00:00
+FRA-20231-30011,25.03.2023,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Wren Bank Frankfurt,Banken/Finanzen,3.743,"23,08",10,Neuvermietung,2023-04-19 09:00:00
+FRA-20263-29001,28.08.2026,165 Neue Mainzer Straße,"165 Neue Mainzer Straße, 60311",Westend,Sterling Consulting,Unternehmensberatung,2.723,"35,52",12,Neuvermietung,2026-10-12 09:00:00
+FRA-20231-30009,06.02.2023,Linden Point,"17 Kaiserstraße, 60329",Innenstadt,Helix Technologies,IT/Medien/Telekommunikation,1.192,"34,00",3,Neuvermietung,2023-04-19 09:00:00
+FRA-20232-46001,23.06.2023,96 Taunusanlage,"96 Taunusanlage, 60329",Eschborn,Tern Capital Frankfurt,Banken/Finanzen,1.638,"12,15",6,Untervermietung,2023-07-22 09:00:00
+FRA-20262-43006,15.06.2026,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Northgate LLP,Rechtsberatung,1.209,"28,00",5,Neuvermietung,2026-07-16 09:00:00
+FRA-20242-05009,18.05.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Fenwick Labs,IT/Medien/Telekommunikation,364,"36,64",5,Verlängerung,2024-07-23 09:00:00
+FRA-20253-10018,10.08.2025,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Tamar Consulting Frankfurt,Unternehmensberatung,305,"41,49",5,Neuvermietung,2025-10-15 09:00:00
+FRA-20262-28013,07.04.2026,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Pinnacle Foundation Frankfurt,Sonstige,1.080,"33,09",6,Neuvermietung,2026-07-22 09:00:00
+FRA-20241-49001,22.01.2024,44 Mainzer Landstraße,"44 Mainzer Landstraße, 60325",Eschborn,Meridian Capital,Banken/Finanzen,507,"14,57",3,Neuvermietung,2024-04-14 09:00:00
+FRA-20261-57003,11.01.2026,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Elmgrove Authority,Öffentliche Hand,1.071,"16,25",12,Verlängerung,2026-04-16 09:00:00
+FRA-20263-74004,09.09.2026,12 Zeil,"12 Zeil, 60313",Niederrad,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.593,"14,30",6,Verlängerung,2026-10-24 09:00:00
+FRA-20232-01008,31.05.2023,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Juniper Avocats,Rechtsberatung,643,"35,61",3,Neuvermietung,2023-07-23 09:00:00
+FRA-20261-42012,27.01.2026,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Atlas Pharma,Pharma/Life Sciences,2.268,"35,05",10,Verlängerung,2026-04-20 09:00:00
+FRA-20234-03013,07.12.2023,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Kestrel Authority,Öffentliche Hand,291,"28,17",10,Neuvermietung,2024-01-17 09:00:00
+FRA-20244-22006,19.10.2024,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Tern Capital Frankfurt,Banken/Finanzen,1.688,"44,46",6,Neuvermietung,2025-01-16 09:00:00
+FRA-20232-61003,18.05.2023,122 Frankfurter Straße,"122 Frankfurter Straße, 65760",Niederrad,Cobalt Advisory,Unternehmensberatung,3.131,"15,78",3,Neuvermietung,2023-07-14 09:00:00
+FRA-20253-25013,26.09.2025,Arden Park,"22 Frankfurter Straße, 65760",Westend,Beacon Associates,Unternehmensberatung,648,"40,68",3,Verlängerung,2025-10-21 09:00:00
+FRA-20251-68002,09.03.2025,147 Westendstraße,"147 Westendstraße, 60325",Niederrad,Osprey Avocats,Rechtsberatung,3.807,"11,58",15,Vorvermietung,2025-04-21 09:00:00
+FRA-20231-30003,01.01.2023,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Veridian Authority Frankfurt,Öffentliche Hand,753,"29,39",6,Neuvermietung,2023-04-19 09:00:00
+FRA-20262-43012,27.05.2026,Tamar House,"121 Westendstraße, 60325",Innenstadt,Tamar Rechtsanwälte,Rechtsberatung,633,"29,93",10,Erweiterung,2026-07-16 09:00:00
+FRA-20262-13022,20.05.2026,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Lumen Diagnostics,Pharma/Life Sciences,802,"48,80",10,Neuvermietung,2026-07-16 09:00:00
+FRA-20232-31008,24.06.2023,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,2.960,"26,21",10,Neuvermietung,2023-07-23 09:00:00
+FRA-20252-39007,06.04.2025,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,2.685,"32,34",5,Neuvermietung,2025-07-21 09:00:00
+FRA-20252-39013,10.04.2025,173 Junghofstraße,"173 Junghofstraße, 60311",Innenstadt,Calder Holdings Frankfurt,Sonstige,1.962,"32,67",10,Neuvermietung,2025-07-21 09:00:00
+FRA-20262-13018,28.04.2026,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Arden Hub,Flexible Büros,1.669,"43,39",3,Neuvermietung,2026-07-16 09:00:00
+FRA-20243-06012,12.07.2024,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Northgate LLP,Rechtsberatung,2.481,"51,23",6,Neuvermietung,2024-10-14 09:00:00
+FRA-20242-05015,30.05.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Pinnacle Media,IT/Medien/Telekommunikation,712,"38,98",10,Verlängerung,2024-07-23 09:00:00
+FRA-20262-43009,10.04.2026,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Solace Underwriting Frankfurt,Versicherungen,4.474,"30,41",15,Neuvermietung,2026-07-16 09:00:00
+FRA-20254-71004,31.12.2025,135 Große Eschenheimer Straße,"135 Große Eschenheimer Straße, 60313",Niederrad,Helix Biosciences,Pharma/Life Sciences,2.344,"10,61",10,Untervermietung,2026-01-13 09:00:00
+FRA-20253-25016,04.08.2025,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Northgate LLP,Rechtsberatung,656,"33,01",10,Neuvermietung,2025-10-21 09:00:00
+FRA-20234-33015,17.11.2023,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Pinnacle Foundation Frankfurt,Sonstige,642,"30,57",15,Neuvermietung,2024-01-17 09:00:00
+FRA-20253-10010,04.07.2025,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Tern Group,Unternehmensberatung,1.333,"40,64",6,Neuvermietung,2025-10-15 09:00:00
+FRA-20252-09008,12.06.2025,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Granite Associates,Unternehmensberatung,789,"52,64",15,Neuvermietung,2025-07-15 09:00:00
+FRA-20262-13004,14.06.2026,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Northgate LLP,Rechtsberatung,1.684,"28,74",10,Verlängerung,2026-07-16 09:00:00
+FRA-20263-14006,06.08.2026,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Harrow Asset Management,Banken/Finanzen,879,"40,63",3,Neuvermietung,2026-10-12 09:00:00
+FRA-20242-05004,17.05.2024,21 Zeil,"21 Zeil, 60313",Bankenviertel,Sterling Consulting,Unternehmensberatung,2.512,"32,50",9,Neuvermietung,2024-07-23 09:00:00
+FRA-20231-00018,15.03.2023,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Marlow Underwriting,Versicherungen,1.164,"34,13",3,Neuvermietung,2023-04-23 09:00:00
+FRA-20261-12018,15.02.2026,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Cobalt Advisory,Unternehmensberatung,2.579,"27,34",5,Untervermietung,2026-04-22 09:00:00
+FRA-20233-02010,24.07.2023,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Helix Biosciences,Pharma/Life Sciences,971,"41,34",5,Verlängerung,2023-10-14 09:00:00
+FRA-20233-47005,22.08.2023,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Beacon Associates,Unternehmensberatung,471,"9,45",5,Neuvermietung,2023-10-12 09:00:00
+FRA-20243-36017,22.09.2024,40 Zeil,"40 Zeil, 60313",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,1.048,"25,63",9,Neuvermietung,2024-10-16 09:00:00
+FRA-20251-38006,18.02.2025,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Arden Hub,Flexible Büros,658,"25,38",9,Neuvermietung,2025-04-14 09:00:00
+FRA-20234-03012,17.10.2023,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,1.545,"44,98",12,Verlängerung,2024-01-17 09:00:00
+FRA-20233-02011,07.07.2023,Veridian Building,"159 Westendstraße, 60325",Bankenviertel,Sable Avocats Frankfurt,Rechtsberatung,1.664,"45,16",10,Erweiterung,2023-10-14 09:00:00
+FRA-20231-00005,10.02.2023,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Pinnacle Media,IT/Medien/Telekommunikation,2.837,"40,64",15,Verlängerung,2023-04-23 09:00:00
+FRA-20251-08005,27.03.2025,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Sable Capital,Banken/Finanzen,535,"45,47",5,Neuvermietung,2025-04-22 09:00:00
+FRA-20233-17013,07.08.2023,Ember Plaza,"64 Westendstraße, 60325",Westend,Arden Hub,Flexible Büros,2.075,"39,18",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20234-03026,09.10.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Lumen Workspace,Flexible Büros,1.808,"39,21",3,Untervermietung,2024-01-17 09:00:00
+FRA-20234-03024,11.11.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Solace Offices,Flexible Büros,646,"32,38",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20253-40004,21.09.2025,58 Mergenthalerallee,"58 Mergenthalerallee, 65760",Innenstadt,Helix Biosciences,Pharma/Life Sciences,259,"22,53",5,Untervermietung,2025-10-15 09:00:00
+FRA-20231-00016,03.02.2023,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Aldwyn Rechtsanwälte,Rechtsberatung,520,"40,76",15,Erweiterung,2023-04-23 09:00:00
+FRA-20254-56008,28.10.2025,145 Lyoner Straße,"145 Lyoner Straße, 60528",Eschborn,Ridgeway Institute,Öffentliche Hand,4.389,"12,65",6,Verlängerung,2026-01-24 09:00:00
+FRA-20234-18003,24.11.2023,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,1.149,"45,77",9,Neuvermietung,2024-01-15 09:00:00
+FRA-20234-48009,16.12.2023,60 Frankfurter Straße,"60 Frankfurter Straße, 65760",Eschborn,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.302,"15,45",15,Vorvermietung,2024-01-18 09:00:00
+FRA-20242-20012,14.06.2024,56 Neue Mainzer Straße,"56 Neue Mainzer Straße, 60311",Westend,Vantage Holdings,Sonstige,1.122,"33,81",10,Neuvermietung,2024-07-21 09:00:00
+FRA-20253-25015,19.09.2025,41 Frankfurter Straße,"41 Frankfurter Straße, 65760",Westend,Veridian Authority Frankfurt,Öffentliche Hand,1.205,"38,44",9,Neuvermietung,2025-10-21 09:00:00
+FRA-20254-26002,06.10.2025,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Meridian Consulting,Unternehmensberatung,2.198,"36,87",9,Neuvermietung,2026-01-14 09:00:00
+FRA-20232-16016,22.05.2023,Osprey Gate,"8 Taunustor, 60310",Westend,Sterling Workspace Frankfurt,Flexible Büros,1.458,"36,76",9,Verlängerung,2023-07-20 09:00:00
+FRA-20241-04009,14.02.2024,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Calder Holdings Frankfurt,Sonstige,393,"39,75",9,Verlängerung,2024-04-24 09:00:00
+FRA-20244-07015,08.12.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,819,"40,69",10,Neuvermietung,2025-01-23 09:00:00
+FRA-20263-44020,12.08.2026,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Brightwater Consulting,Unternehmensberatung,2.928,"32,39",10,Erweiterung,2026-10-20 09:00:00
+FRA-20262-28012,30.05.2026,111 Taunustor,"111 Taunustor, 60310",Westend,Sterling Consulting,Unternehmensberatung,1.173,"43,54",10,Vorvermietung,2026-07-22 09:00:00
+FRA-20254-41018,14.11.2025,40 Zeil,"40 Zeil, 60313",Innenstadt,Orbis Flex,Flexible Büros,617,"30,73",3,Neuvermietung,2026-01-12 09:00:00
+FRA-20242-35009,14.04.2024,135 Mainzer Landstraße,"135 Mainzer Landstraße, 60325",Innenstadt,Atlas Pharma,Pharma/Life Sciences,4.430,"30,08",10,Neuvermietung,2024-07-23 09:00:00
+FRA-20263-44018,27.09.2026,16 Taunusanlage,"16 Taunusanlage, 60329",Innenstadt,Tamar Consulting Frankfurt,Unternehmensberatung,1.323,"29,32",9,Neuvermietung,2026-10-20 09:00:00
+FRA-20242-05016,17.06.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Orbis Insurance,Versicherungen,916,"35,92",3,Verlängerung,2024-07-23 09:00:00
+FRA-20242-65004,27.05.2024,25 Mergenthalerallee,"25 Mergenthalerallee, 65760",Niederrad,Halden Consulting,Unternehmensberatung,2.813,"9,23",12,Vorvermietung,2024-07-21 09:00:00
+FRA-20254-56001,04.12.2025,Granite Gate,"60 Herriotstraße, 60528",Eschborn,Sable Avocats Frankfurt,Rechtsberatung,1.309,"12,87",6,Neuvermietung,2026-01-24 09:00:00
+FRA-20241-34002,07.03.2024,71 Westendstraße,"71 Westendstraße, 60325",Innenstadt,Meridian Consulting,Unternehmensberatung,579,"23,80",10,Neuvermietung,2024-04-21 09:00:00
+FRA-20243-06005,08.07.2024,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,754,"41,50",5,Neuvermietung,2024-10-14 09:00:00
+FRA-20241-34005,02.01.2024,Solace Point,"16 Mergenthalerallee, 65760",Innenstadt,Sable Capital,Banken/Finanzen,501,"30,71",15,Vorvermietung,2024-04-21 09:00:00
+FRA-20262-43001,14.06.2026,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Calder Biosciences,Pharma/Life Sciences,1.397,"26,03",15,Neuvermietung,2026-07-16 09:00:00
+FRA-20252-09013,08.05.2025,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,672,"33,89",10,Verlängerung,2025-07-15 09:00:00
+FRA-20251-53006,10.03.2025,Osprey Centre,"151 Mergenthalerallee, 65760",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,1.043,"15,62",5,Neuvermietung,2025-04-16 09:00:00
+FRA-20233-32008,05.09.2023,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Halden Consulting,Unternehmensberatung,216,,5,Neuvermietung,2023-10-24 09:00:00
+FRA-20231-30007,14.02.2023,Solace Point,"16 Mergenthalerallee, 65760",Innenstadt,Northgate LLP,Rechtsberatung,375,"33,61",5,Neuvermietung,2023-04-19 09:00:00
+FRA-20241-34008,01.03.2024,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Northgate Assurance,Versicherungen,1.737,"24,23",15,Vorvermietung,2024-04-21 09:00:00
+FRA-20261-42011,25.02.2026,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Larkspur Diagnostics,Pharma/Life Sciences,1.770,"40,75",10,Verlängerung,2026-04-20 09:00:00
+FRA-20254-26011,29.10.2025,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Calder Biosciences,Pharma/Life Sciences,2.459,"41,03",9,Neuvermietung,2026-01-14 09:00:00
+FRA-20262-58007,25.06.2026,Cobalt Park,"162 Junghofstraße, 60311",Eschborn,Ravel Offices,Flexible Büros,1.220,"10,18",5,Verlängerung,2026-07-12 09:00:00
+FRA-20231-30014,08.03.2023,132 Düsseldorfer Straße,"132 Düsseldorfer Straße, 65760",Innenstadt,Harrow Asset Management,Banken/Finanzen,812,"24,48",5,Neuvermietung,2023-04-19 09:00:00
+FRA-20252-54001,14.05.2025,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Beacon Associates,Unternehmensberatung,609,"12,39",5,Vorvermietung,2025-07-14 09:00:00
+FRA-20261-57008,01.01.2026,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Solace Underwriting Frankfurt,Versicherungen,1.232,"9,49",6,Verlängerung,2026-04-16 09:00:00
+FRA-20253-70005,12.09.2025,136 Junghofstraße,"136 Junghofstraße, 60311",Niederrad,Arden Industries Frankfurt,Industrie,1.464,"15,55",6,Neuvermietung,2025-10-16 09:00:00
+FRA-20244-52002,22.10.2024,95 Hahnstraße,"95 Hahnstraße, 60528",Eschborn,Sterling Consulting,Unternehmensberatung,6.438,"9,58",15,Neuvermietung,2025-01-12 09:00:00
+FRA-20231-00017,30.01.2023,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Tamar Consulting Frankfurt,Unternehmensberatung,1.329,"32,79",10,Verlängerung,2023-04-23 09:00:00
+FRA-20253-55013,29.07.2025,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Linden Capital,Banken/Finanzen,294,"13,18",9,Verlängerung,2025-10-20 09:00:00
+FRA-20262-58008R,14.05.2026,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Atlas Associates Frankfurt Ltd,Unternehmensberatung,2.109,"11,34",12,Verlängerung,2026-08-01 09:00:00
+FRA-20251-08003,12.01.2025,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Granite Council Frankfurt,Öffentliche Hand,1.073,"34,42",12,Neuvermietung,2025-04-22 09:00:00
+FRA-20253-40019,27.08.2025,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Nimbus Assurance,Versicherungen,683,"32,50",6,Vorvermietung,2025-10-15 09:00:00
+FRA-20261-12015,11.01.2026,136 Mergenthalerallee,"136 Mergenthalerallee, 65760",,Tern Group,Unternehmensberatung,2.759,"48,28",6,Neuvermietung,2026-04-22 09:00:00
+FRA-20244-07023,18.11.2024,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Calder Holdings Frankfurt,Sonstige,2.111,"32,41",12,Vorvermietung,2025-01-23 09:00:00
+FRA-20243-36002,25.09.2024,56 Zeil,"56 Zeil, 60313",Innenstadt,Pinnacle Foundation Frankfurt,Sonstige,686,"27,86",6,Neuvermietung,2024-10-16 09:00:00
+FRA-20263-59010,11.09.2026,Lumen Point,"47 Bockenheimer Landstraße, 60323",,Aldwyn Abogados Frankfurt,Rechtsberatung,2.170,"12,72",10,Neuvermietung,2026-10-21 09:00:00
+FRA-20242-05019,15.04.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Cobalt Capital,Banken/Finanzen,3.834,"35,16",6,Verlängerung,2024-07-23 09:00:00
+FRA-20263-29004,09.08.2026,Osprey Gate,"8 Taunustor, 60310",Westend,Harrow Asset Management,Banken/Finanzen,838,"49,35",9,Verlängerung,2026-10-12 09:00:00
+FRA-20234-18009,01.10.2023,Tern House,"102 Taunusanlage, 60329",Westend,Larkspur Diagnostics,Pharma/Life Sciences,1.953,"34,77",12,Erweiterung,2024-01-15 09:00:00
+FRA-20231-30013,25.02.2023,51 Taunustor,"51 Taunustor, 60310",Innenstadt,Sterling Workspace Frankfurt,Flexible Büros,985,"31,70",12,Neuvermietung,2023-04-19 09:00:00
+FRA-20234-18012,05.11.2023,122 Lyoner Straße,"122 Lyoner Straße, 60528",Westend,Cobalt Advisory,Unternehmensberatung,932,"45,34",12,Neuvermietung,2024-01-15 09:00:00
+FRA-20242-05021,05.06.2024,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Wren Partners,Banken/Finanzen,2.379,"26,79",10,Vorvermietung,2024-07-23 09:00:00
+FRA-20262-28014,10.06.2026,160 Junghofstraße,"160 Junghofstraße, 60311",Westend,Wren Partners,Banken/Finanzen,1.498,"34,31",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20241-64001,16.01.2024,135 Große Eschenheimer Straße,"135 Große Eschenheimer Straße, 60313",Niederrad,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.076,"14,61",15,Neuvermietung,2024-04-17 09:00:00
+FRA-20253-55010,04.09.2025,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Solace Underwriting Frankfurt,Versicherungen,1.652,"10,38",6,Neuvermietung,2025-10-20 09:00:00
+FRA-20243-51007,21.07.2024,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Veridian Health,Pharma/Life Sciences,1.705,"11,95",9,Neuvermietung,2024-10-13 09:00:00
+FRA-20234-18011,02.11.2023,166 Düsseldorfer Straße,"166 Düsseldorfer Straße, 65760",Westend,Sable Avocats Frankfurt,Rechtsberatung,1.551,"28,67",6,Untervermietung,2024-01-15 09:00:00
+FRA-20251-08016,25.01.2025,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Granite Council Frankfurt,Öffentliche Hand,3.320,"41,06",10,Verlängerung ,2025-04-22 09:00:00
+FRA-20234-33007,26.10.2023,8 Mergenthalerallee,"8 Mergenthalerallee, 65760",Innenstadt,Atlas Pharma,Pharma/Life Sciences,10.222,"31,49",10,Vorvermietung,2024-01-17 09:00:00
+FRA-20241-49005,28.03.2024,127 Westendstraße,"127 Westendstraße, 60325",Eschborn,Harrow Capital Frankfurt,Banken/Finanzen,534,"14,53",9,Erweiterung,2024-04-14 09:00:00
+FRA-20252-24003,31.05.2025,Ember Plaza,"64 Westendstraße, 60325",Westend,Granite Associates,Unternehmensberatung,910,"36,17",12,Verlängerung,2025-07-17 09:00:00
+FRA-20242-05012,26.05.2024,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Pinnacle Foundation Frankfurt,Sonstige,435,"39,77",6,Neuvermietung,2024-07-23 09:00:00
+FRA-20253-40003,11.07.2025,Juniper Centre,"47 Mergenthalerallee, 65760",Innenstadt,Lumen Workspace,Flexible Büros,1.061,"27,55",3,Untervermietung,2025-10-15 09:00:00
+FRA-20241-49003,26.01.2024,Marlow Quay,"121 Herriotstraße, 60528",Eschborn,Larkspur Diagnostics,Pharma/Life Sciences,1.258,"10,31",9,Neuvermietung,2024-04-14 09:00:00
+FRA-20243-36015,25.07.2024,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,845,"26,83",15,Neuvermietung,2024-10-16 09:00:00
+FRA-20253-55002,26.07.2025,106 Zeil,"106 Zeil, 60313",Eschborn,Lumen Workspace,Flexible Büros,449,"16,11",5,Verlängerung,2025-10-20 09:00:00
+FRA-20243-36014,10.07.2024,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Lumen Workspace,Flexible Büros,519,"27,20",6,Erweiterung,2024-10-16 09:00:00
+FRA-20234-33014,23.12.2023,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Thorne Associates,Unternehmensberatung,1.358,"22,40",12,Verlängerung,2024-01-17 09:00:00
+FRA-20231-30010,23.03.2023,Ridgeway Plaza,"12 Taunusanlage, 60329",,Calder Holdings Frankfurt,Sonstige,1.997,"26,50",6,Neuvermietung,2023-04-19 09:00:00
+FRA-20231-00010,02.03.2023,24 Lyoner Straße,"24 Lyoner Straße, 60528",Bankenviertel,Ember Institute Frankfurt,Öffentliche Hand,1.611,"29,68",10,Untervermietung,2023-04-23 09:00:00
+FRA-20252-09019,08.05.2025,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,2.518,"39,18",9,Erweiterung,2025-07-15 09:00:00
+FRA-20234-48003,08.10.2023,Linden Plaza,"148 Kaiserstraße, 60329",Eschborn,Arden Industries Frankfurt,Industrie,896,,10,Neuvermietung,2024-01-18 09:00:00
+FRA-20253-25001,09.07.2025,Ravel Tower,"149 Frankfurter Straße, 65760",Westend,Ashcombe Diagnostics,Pharma/Life Sciences,919,"30,69",10,Verlängerung,2025-10-21 09:00:00
+FRA-20254-26001,02.11.2025,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Atlas Pharma,Pharma/Life Sciences,306,"29,84",9,Neuvermietung,2026-01-14 09:00:00
+FRA-20234-33009,16.11.2023,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Granite Associates,Unternehmensberatung,1.751,"23,17",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20243-66003,09.08.2024,Marlow Gate,"65 Düsseldorfer Straße, 65760",Niederrad,Tern Capital Frankfurt,Banken/Finanzen,527,"11,99",15,Verlängerung,2024-10-16 09:00:00
+FRA-20233-17002,31.07.2023,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Cobalt Capital,Banken/Finanzen,1.261,"24,31",5,Neuvermietung,2023-10-14 09:00:00
+FRA-20243-06009,11.08.2024,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,2.031,"27,22",5,Neuvermietung,2024-10-14 09:00:00
+FRA-20251-08004,18.03.2025,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Orbis Flex,Flexible Büros,677,"45,01",5,Neuvermietung,2025-04-22 09:00:00
+FRA-20242-50002,26.04.2024,90 Große Eschenheimer Straße,"90 Große Eschenheimer Straße, 60313",Eschborn,Solace Offices,Flexible Büros,1.200,"17,41",12,Verlängerung,2024-07-17 09:00:00
+FRA-20253-40022,24.09.2025,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,1.251,"329,04",6,Vorvermietung,2025-10-15 09:00:00
+FRA-20232-31003,15.06.2023,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Beacon Associates,Unternehmensberatung,1.444,"25,09",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20251-23010,28.02.2025,67 Mainzer Landstraße,"67 Mainzer Landstraße, 60325",Westend,Quill Securities Frankfurt,Banken/Finanzen,1.361,"34,93",10,Vorvermietung,2025-04-22 09:00:00
+FRA-20263-44006,09.07.2026,Tamar House,"121 Westendstraße, 60325",Innenstadt,Corvid Consulting,Unternehmensberatung,1.004,"35,54",10,verlängerung,2026-10-20 09:00:00
+FRA-20263-59009,13.08.2026,Cobalt Park,"162 Junghofstraße, 60311",Eschborn,Harrow Asset Management,Banken/Finanzen,2.025,"11,67",3,Neuvermietung,2026-10-21 09:00:00
+FRA-20233-02014,22.07.2023,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Elmgrove Authority,Öffentliche Hand,233,"37,25",3,Verlängerung,2023-10-14 09:00:00
+FRA-20233-62002,22.07.2023,1 Bockenheimer Landstraße,"1 Bockenheimer Landstraße, 60323",Niederrad,Halden Consulting,Unternehmensberatung,1.278,"11,19",15,Neuvermietung,2023-10-17 09:00:00
+FRA-20233-32019,07.09.2023,153 Herriotstraße,"153 Herriotstraße, 60528",Innenstadt,Ember Re,Versicherungen,4.138,"24,43",3,Verlängerung,2023-10-24 09:00:00
+FRA-20233-32001,01.09.2023,161 Zeil,"161 Zeil, 60313",Innenstadt,Corvid Consulting,Unternehmensberatung,1.545,"25,34",15,Untervermietung,2023-10-24 09:00:00
+FRA-20234-63003,17.12.2023,71 Junghofstraße,"71 Junghofstraße, 60311",Niederrad,Ravel Offices,Flexible Büros,998,"15,81",9,Neuvermietung,2024-01-15 09:00:00
+FRA-20263-14009,15.08.2026,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Tamar Consulting Frankfurt,Unternehmensberatung,2.204,"43,25",3,Neuvermietung,2026-10-12 09:00:00
+FRA-20253-40021,07.08.2025,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Helix Biosciences,Pharma/Life Sciences,308,,12,Neuvermietung,2025-10-15 09:00:00
+FRA-20254-11001,12.10.2025,62 Düsseldorfer Straße,"62 Düsseldorfer Straße, 65760",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.902,"33,71",5,Vorvermietung,2026-01-18 09:00:00
+FRA-20243-66004,26.09.2024,150 Taunusanlage,"150 Taunusanlage, 60329",Niederrad,Cobalt Advisory,Unternehmensberatung,1.602,"11,77",12,Untervermietung,2024-10-16 09:00:00
+FRA-20262-73001,24.05.2026,147 Westendstraße,"147 Westendstraße, 60325",Niederrad,Ember Institute Frankfurt,Öffentliche Hand,6.157,"11,34",10,Verlängerung,2026-07-21 09:00:00
+FRA-20254-41002,23.12.2025,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Solace Offices,Flexible Büros,1.802,"24,76",6,Neuvermietung,2026-01-12 09:00:00
+FRA-20234-33012,10.12.2023,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Fenwick Labs,IT/Medien/Telekommunikation,1.350,"23,55",10,Neuvermietung ,2024-01-17 09:00:00
+FRA-20231-30001,20.03.2023,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Tern Capital Frankfurt,Banken/Finanzen,1.214,"26,58",3,Neuvermietung,2023-04-19 09:00:00
+FRA-20254-11008,23.10.2025,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,2.484,"44,65",5,Neuvermietung,2026-01-18 09:00:00
+FRA-20262-28006,05.06.2026,143 Lyoner Straße,"143 Lyoner Straße, 60528",Westend,Lumen Diagnostics,Pharma/Life Sciences,585,"42,07",5,Vorvermietung,2026-07-22 09:00:00
+FRA-20243-21008,08.08.2024,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Tamar Rechtsanwälte,Rechtsberatung,848,"31,19",3,Neuvermietung,2024-10-15 09:00:00
+FRA-20251-38014,04.02.2025,Tamar House,"121 Westendstraße, 60325",Innenstadt,Helix Biosciences,Pharma/Life Sciences,927,"33,29",15,Neuvermietung,2025-04-14 09:00:00
+FRA-20232-01012,19.05.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Osprey Avocats,Rechtsberatung,1.480,"29,53",10,Neuvermietung,2023-07-23 09:00:00
+FRA-20243-21012,10.09.2024,146 Junghofstraße,"146 Junghofstraße, 60311",Westend,Helix Biosciences,Pharma/Life Sciences,1.293,"34,29",10,Vorvermietung,2024-10-15 09:00:00
+FRA-20263-44009,29.07.2026,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Fenwick Labs,IT/Medien/Telekommunikation,900,"35,98",5,Neuvermietung,2026-10-20 09:00:00
+FRA-20241-49011,19.01.2024,Veridian Centre,"156 Mainzer Landstraße, 60325",Eschborn,Veridian Health,Pharma/Life Sciences,2.028,"14,03",12,Neuvermietung,2024-04-14 09:00:00
+FRA-20254-11003,04.11.2025,Halden Building,"165 Lyoner Straße, 60528",Bankenviertel,Nimbus Assurance,Versicherungen,684,"36,87",15,Neuvermietung,2026-01-18 09:00:00
+FRA-20262-28007,14.06.2026,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Ember Institute Frankfurt,Öffentliche Hand,1.083,"45,06",6,Vorvermietung,2026-07-22 09:00:00
+FRA-20231-30002,06.03.2023,3 Neue Mainzer Straße,"3 Neue Mainzer Straße, 60311",Innenstadt,Helix Biosciences,Pharma/Life Sciences,1.648,"26,94",15,Vorvermietung,2023-04-19 09:00:00
+FRA-20234-03019,11.11.2023,19 Lyoner Straße,"19 Lyoner Straße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.336,"36,33",3,Neuvermietung,2024-01-26 09:00:00
+FRA-20243-21004,04.08.2024,Ravel Tower,"149 Frankfurter Straße, 65760",Westend,Calder Holdings Frankfurt,Sonstige,1.837,"33,92",3,Neuvermietung ,2024-10-15 09:00:00
+FRA-20232-01017,19.06.2023,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Ember Institute Frankfurt,Öffentliche Hand,1.009,"29,31",5,Neuvermietung,2023-07-23 09:00:00
+FRA-20242-50004,22.06.2024,26 Westendstraße,"26 Westendstraße, 60325",Eschborn,Aldwyn Rechtsanwälte,Rechtsberatung,1.950,"16,83",15,Neuvermietung ,2024-07-17 09:00:00
+FRA-20231-30016,11.01.2023,161 Zeil,"161 Zeil, 60313",Innenstadt,Corvid Consulting,Unternehmensberatung,782,"25,50",10,Verlängerung,2023-04-19 09:00:00
+FRA-20251-53002,19.03.2025,147 Taunusanlage,"147 Taunusanlage, 60329",Eschborn,Sterling Consulting,Unternehmensberatung,1.005,"9,70",10,Verlängerung,2025-04-16 09:00:00
+FRA-20242-35014,23.06.2024,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Ashcombe Diagnostics,Pharma/Life Sciences,2.061,"25,40",12,Erweiterung,2024-07-14 09:00:00
+FRA-20252-39012,09.06.2025,Aldwyn Park,"93 Herriotstraße, 60528",Innenstadt,Marlow Underwriting,Versicherungen,949,"20,76",10,Untervermietung,2025-07-21 09:00:00
+FRA-20252-24002,27.06.2025,115 Mergenthalerallee,"115 Mergenthalerallee, 65760",Westend,Brightwater Consulting,Unternehmensberatung,1.854,"32,88",9,Neuvermietung ,2025-07-17 09:00:00
+FRA-20241-19007,25.03.2024,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",Westend,Calder Holdings Frankfurt,Sonstige,1.906,"41,27",3,Erweiterung,2024-04-20 09:00:00
+FRA-20233-17012,29.07.2023,113 Neue Mainzer Straße,"113 Neue Mainzer Straße, 60311",Westend,Juniper Avocats,Rechtsberatung,1.929,"40,85",10,Neuvermietung,2023-10-14 09:00:00
+FRA-20253-70002,26.08.2025,Lumen Court,"41 Düsseldorfer Straße, 65760",Niederrad,Linden Capital,Banken/Finanzen,704,"13,35",12,Neuvermietung,2025-10-16 09:00:00
+FRA-20261-12013,19.01.2026,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Sable Capital,Banken/Finanzen,3.291,"41,49",10,Verlängerung,2026-04-22 09:00:00
+FRA-20241-04002,14.02.2024,102 Hahnstraße,"102 Hahnstraße, 60528",Bankenviertel,Ravel Offices,Flexible Büros,8.801,"31,18",5,Erweiterung,2024-04-24 09:00:00
+FRA-20253-55012,06.07.2025,Lumen Point,"47 Bockenheimer Landstraße, 60323",Eschborn,Tamar Consulting Frankfurt,Unternehmensberatung,1.004,"11,51",3,Untervermietung,2025-10-20 09:00:00
+FRA-20232-46007,18.06.2023,87 Hahnstraße,"87 Hahnstraße, 60528",Eschborn,Orbis Insurance,Versicherungen,982,"15,18",10,Erweiterung,2023-07-22 09:00:00
+FRA-20244-67001,17.11.2024,147 Westendstraße,"147 Westendstraße, 60325",Niederrad,Ashcombe Diagnostics,Pharma/Life Sciences,3.195,"12,82",10,Erweiterung,2025-01-24 09:00:00
+FRA-20251-23003,14.01.2025,Granite House,"151 Zeil, 60313",Westend,Harrow Asset Management,Banken/Finanzen,1.206,"30,11",12,Neuvermietung,2025-04-22 09:00:00
+FRA-20233-02018,15.08.2023,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Atlas Pharma,Pharma/Life Sciences,942,"33,05",6,Verlängerung,2023-10-14 09:00:00
+FRA-20231-00004,02.02.2023,170 Hahnstraße,"170 Hahnstraße, 60528",Bankenviertel,Vantage Media Frankfurt,IT/Medien/Telekommunikation,1.364,"44,56",12,Vorvermietung,2023-04-23 09:00:00
+FRA-20244-37014,18.10.2024,56 Zeil,"56 Zeil, 60313",Innenstadt,Sterling Bank,Banken/Finanzen,450,"26,74",9,Neuvermietung,2025-01-16 09:00:00
+FRA-20251-08010,02.02.2025,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Brightwater Consulting,Unternehmensberatung,3.017,"44,80",9,Neuvermietung,2025-04-22 09:00:00
+FRA-20232-46009,01.06.2023,54 Taunusanlage,"54 Taunusanlage, 60329",Eschborn,Wren Partners,Banken/Finanzen,981,"9,72",3,Neuvermietung,2023-07-22 09:00:00
+FRA-20242-35008,18.05.2024,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Sterling Consulting,Unternehmensberatung,320,"29,20",12,Neuvermietung,2024-07-14 09:00:00
+FRA-20243-06014,03.08.2024,150 Junghofstraße,"150 Junghofstraße, 60311",Bankenviertel,Vantage Holdings,Sonstige,801,"35,28",9,Neuvermietung,2024-10-14 09:00:00
+FRA-20254-11006,17.12.2025,133 Neue Mainzer Straße,"133 Neue Mainzer Straße, 60311",Bankenviertel,Northgate Assurance,Versicherungen,937,"28,06",6,Neuvermietung,2026-01-18 09:00:00
+FRA-20262-28009,27.06.2026,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Harrow Capital Frankfurt,Banken/Finanzen,4.550,"24,83",5,Neuvermietung,2026-07-22 09:00:00
+FRA-20241-04007,17.03.2024,13 Hahnstraße,"13 Hahnstraße, 60528",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,1.666,"28,94",5,Neuvermietung,2024-04-24 09:00:00
+FRA-20242-05022,21.05.2024,Marlow Point,"123 Taunustor, 60310",Bankenviertel,Orbis Flex,Flexible Büros,3.089,"32,98",12,Vorvermietung,2024-07-23 09:00:00
+FRA-20242-65005,05.05.2024,Vantage Gate,"91 Herriotstraße, 60528",Niederrad,Linden Capital,Banken/Finanzen,698,"10,20",9,Verlängerung,2024-07-21 09:00:00
+FRA-20262-73002,30.04.2026,136 Junghofstraße,"136 Junghofstraße, 60311",Niederrad,Linden Capital,Banken/Finanzen,1.836,"15,01",9,Neuvermietung,2026-07-21 09:00:00
+FRA-20262-43004,13.05.2026,Tamar House,"121 Westendstraße, 60325",Innenstadt,Orbis Insurance,Versicherungen,553,"29,06",5,Untervermietung,2026-07-16 09:00:00
+FRA-20244-07006,03.10.2024,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,649,"46,04",12,Neuvermietung,2025-01-23 09:00:00
+FRA-20231-00003,09.03.2023,154 Mergenthalerallee,"154 Mergenthalerallee, 65760",Bankenviertel,Fenwick Labs,IT/Medien/Telekommunikation,1.485,"35,54",5,Neuvermietung,2023-04-23 09:00:00
+FRA-20233-32013,11.09.2023,40 Zeil,"40 Zeil, 60313",Innenstadt,Cobalt Capital,Banken/Finanzen,2.099,"26,47",12,Neuvermietung,2023-10-24 09:00:00
+FRA-20244-22003,28.11.2024,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Tamar Rechtsanwälte,Rechtsberatung,1.395,"22,26",5,Verlängerung,2025-01-16 09:00:00
+FRA-20232-31012,29.04.2023,24 Große Eschenheimer Straße,"24 Große Eschenheimer Straße, 60313",Innenstadt,Granite Council Frankfurt,Öffentliche Hand,522,"29,54",12,Erweiterung,2023-07-23 09:00:00
+FRA-20254-26007,08.11.2025,Ravel Tower,"149 Frankfurter Straße, 65760",Westend,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.486,"30,54",9,Vorvermietung,2026-01-14 09:00:00
+FRA-20253-10004,06.09.2025,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Veridian Health,Pharma/Life Sciences,1.478,"41,74",6,Neuvermietung,2025-10-15 09:00:00
+FRA-20244-07004,11.11.2024,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Harrow Asset Management,Banken/Finanzen,685,"38,02",6,Neuvermietung,2025-01-23 09:00:00
+FRA-20252-09016,01.06.2025,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Northgate LLP,Rechtsberatung,692,"47,73",15,Neuvermietung,2025-07-15 09:00:00
+FRA-20243-51011,04.08.2024,100 Taunusanlage,"100 Taunusanlage, 60329",Eschborn,Pinnacle Foundation Frankfurt,Sonstige,1.712,"16,16",5,Neuvermietung,2024-10-13 09:00:00
+FRA-20242-05010,17.04.2024,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Calder Holdings Frankfurt,Sonstige,463,"33,12",5,Neuvermietung,2024-07-23 09:00:00
+FRA-20253-10017,03.07.2025,Arden House,"114 Westendstraße, 60325",Bankenviertel,Sable Avocats Frankfurt,Rechtsberatung,9.721,"50,43",5,Neuvermietung,2025-10-15 09:00:00
+FRA-20232-01001,19.06.2023,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Sterling Bank,Banken/Finanzen,1.805,"35,62",10,Vorvermietung,2023-07-23 09:00:00
+FRA-20231-00015,27.02.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Halden Consulting,Unternehmensberatung,3.867,"40,26",5,Neuvermietung,2023-04-23 09:00:00
+FRA-20251-08001R,10.03.2025,Sable Tower,"108 Mergenthalerallee, 65760",Bankenviertel,Ashcombe Diagnostics Ltd,Pharma/Life Sciences,438,"51,05",10,Neuvermietung,2025-05-12 09:00:00
+FRA-20231-00014,28.03.2023,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Solace Underwriting Frankfurt,Versicherungen,356,"37,47",9,Neuvermietung,2023-04-23 09:00:00
+FRA-20244-07011,24.11.2024,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Quill Media,IT/Medien/Telekommunikation,796,"46,15",6,Verlängerung,2025-01-23 09:00:00
+FRA-20233-47001,03.09.2023,86 Junghofstraße,"86 Junghofstraße, 60311",Eschborn,Sterling Consulting,Unternehmensberatung,2.586,"13,36",9,Erweiterung,2023-10-12 09:00:00
+FRA-20234-03016,11.11.2023,135 Neue Mainzer Straße,"135 Neue Mainzer Straße, 60311",Bankenviertel,Corvid Consulting,Unternehmensberatung,894,"53,41",6,Neuvermietung,2024-01-17 09:00:00
+FRA-20244-07022,01.12.2024,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Arden Hub,Flexible Büros,978,"39,40",5,Verlängerung,2025-01-23 09:00:00
+FRA-20263-29005,14.09.2026,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Halden Consulting,Unternehmensberatung,989,"31,91",12,Neuvermietung,2026-10-12 09:00:00
+FRA-20252-54002,08.04.2025,143 Westendstraße,"143 Westendstraße, 60325",Eschborn,Elmgrove Authority,Öffentliche Hand,2.613,"9,27",6,Neuvermietung,2025-07-14 09:00:00
+FRA-20253-10011,19.08.2025,Kestrel Place,"166 Zeil, 60313",Bankenviertel,Harrow Capital Frankfurt,Banken/Finanzen,1.224,"35,18",3,Neuvermietung,2025-10-15 09:00:00
+FRA-20262-28010,21.04.2026,57 Herriotstraße,"57 Herriotstraße, 60528",Westend,Granite Associates,Unternehmensberatung,1.063,"26,28",10,Neuvermietung,2026-07-22 09:00:00
+FRA-20242-35010,18.05.2024,148 Taunustor,"148 Taunustor, 60310",Innenstadt,Orbis Flex,Flexible Büros,1.678,"19,72",12,Neuvermietung,2024-07-14 09:00:00
+FRA-20262-13025,15.04.2026,Veridian Quay,"109 Große Eschenheimer Straße, 60313",Bankenviertel,Calder Holdings Frankfurt,Sonstige,1.292,"41,68",15,Untervermietung,2026-07-16 09:00:00
+FRA-20243-36005,07.08.2024,Kestrel House,"84 Hahnstraße, 60528",Innenstadt,Pinnacle Media,IT/Medien/Telekommunikation,1.183,"31,10",6,Erweiterung,2024-10-16 09:00:00
+FRA-20242-05018,28.06.2024,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Linden Technologies Frankfurt,IT/Medien/Telekommunikation,1.738,"39,14",6,Vorvermietung,2024-07-23 09:00:00
+FRA-20243-36013,07.07.2024,Ashcombe Building,"163 Westendstraße, 60325",Innenstadt,Granite Council Frankfurt,Öffentliche Hand,2.770,"26,23",12,Neuvermietung ,2024-10-16 09:00:00
+FRA-20233-02015,27.09.2023,21 Zeil,"21 Zeil, 60313",Bankenviertel,Orbis Flex,Flexible Büros,1.976,"41,11",15,Verlängerung,2023-10-14 09:00:00
+FRA-20233-32020,13.07.2023,51 Lyoner Straße,"51 Lyoner Straße, 60528",Innenstadt,Lumen Digital Frankfurt,IT/Medien/Telekommunikation,1.670,"35,40",10,Neuvermietung,2023-10-24 09:00:00
+FRA-20251-38017,10.02.2025,Osprey Square,"108 Bockenheimer Landstraße, 60323",Innenstadt,Linden Capital,Banken/Finanzen,615,"25,66",5,Neuvermietung,2025-04-14 09:00:00
+FRA-20251-53003,01.02.2025,28 Westendstraße,"28 Westendstraße, 60325",Eschborn,Elmgrove Authority,Öffentliche Hand,943,"10,56",10,Neuvermietung,2025-04-16 09:00:00
+FRA-20263-29011,05.09.2026,177 Kaiserstraße,"177 Kaiserstraße, 60329",Westend,Thorne Therapeutics Frankfurt,Pharma/Life Sciences,1.401,,10,Untervermietung,2026-10-12 09:00:00
+FRA-20253-10013,11.07.2025,120 Junghofstraße,"120 Junghofstraße, 60311",Bankenviertel,Quill Securities Frankfurt,Banken/Finanzen,893,"43,56",12,Verlängerung,2025-10-15 09:00:00
+FRA-20261-12004,09.03.2026,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Wren Bank Frankfurt,Banken/Finanzen,1.277,"42,67",15,Neuvermietung,2026-04-22 09:00:00
+FRA-20252-09014,15.04.2025,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Ashcombe Diagnostics,Pharma/Life Sciences,691,"46,69",6,Neuvermietung,2025-07-15 09:00:00
+FRA-20243-06013,15.07.2024,50 Bockenheimer Landstraße,"50 Bockenheimer Landstraße, 60323",Bankenviertel,Corvid Consulting,Unternehmensberatung,962,"40,31",10,Neuvermietung,2024-10-14 09:00:00
+FRA-20251-23001,08.03.2025,24 Herriotstraße,"24 Herriotstraße, 60528",Westend,Sterling Consulting,Unternehmensberatung,1.315,"28,68",15,Erweiterung,2025-04-22 09:00:00
+FRA-20231-00006,08.02.2023,Aldwyn Quay,"147 Große Eschenheimer Straße, 60313",Bankenviertel,Ravel Offices,Flexible Büros,1.235,"40,64",10,Neuvermietung,2023-04-23 09:00:00
+FRA-20253-40010,14.08.2025,Solace Point,"16 Mergenthalerallee, 65760",Innenstadt,Atlas Consulting,Unternehmensberatung,2.326,"30,37",10,Verlängerung,2025-10-15 09:00:00
+FRA-20263-44008,12.08.2026,Granite Place,"86 Taunusanlage, 60329",Innenstadt,Marlow Underwriting,Versicherungen,428,"27,36",3,Neuvermietung,2026-10-20 09:00:00
+FRA-20233-02017,18.08.2023,85 Hahnstraße,"85 Hahnstraße, 60528",Bankenviertel,Sterling Workspace Frankfurt,Flexible Büros,1.108,"30,98",6,Erweiterung,2023-10-14 09:00:00
+FRA-20231-15006,06.02.2023,93 Bockenheimer Landstraße,"93 Bockenheimer Landstraße, 60323",Westend,Lumen Workspace,Flexible Büros,603,"28,38",5,Vorvermietung,2023-04-13 09:00:00
+FRA-20251-38010,07.03.2025,109 Hahnstraße,"109 Hahnstraße, 60528",Innenstadt,Cobalt Capital,Banken/Finanzen,823,"31,07",9,Verlängerung,2025-04-14 09:00:00
+FRA-20242-05014,24.04.2024,Larkspur Gate,"154 Neue Mainzer Straße, 60311",Bankenviertel,Northgate LLP,Rechtsberatung,1.290,"40,53",9,Untervermietung,2024-07-23 09:00:00
+FRA-20263-14008,05.08.2026,Linden Tower,"87 Bockenheimer Landstraße, 60323",Bankenviertel,Orbis Flex,Flexible Büros,1.002,"47,79",10,Untervermietung,2026-10-12 09:00:00
+FRA-20231-00011,29.03.2023,Atlas Park,"28 Frankfurter Straße, 65760",Bankenviertel,Osprey Avocats,Rechtsberatung,574,"39,04",6,Neuvermietung,2023-04-23 09:00:00
+FRA-20251-23011,31.03.2025,51 Kaiserstraße,"51 Kaiserstraße, 60329",Westend,Granite Associates,Unternehmensberatung,2.042,"38,47",9,Neuvermietung,2025-04-22 09:00:00
+FRA-20233-32004,31.08.2023,40 Zeil,"40 Zeil, 60313",Innenstadt,Granite Associates,Unternehmensberatung,788,"24,53",15,Verlängerung,2023-10-24 09:00:00
+FRA-20263-14005,14.07.2026,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Elmgrove Authority,Öffentliche Hand,1.191,"36,75",6,Neuvermietung,2026-10-12 09:00:00
+FRA-20254-11009,30.10.2025,Nimbus Plaza,"131 Taunustor, 60310",Bankenviertel,Cobalt Advisory,Unternehmensberatung,1.622,"37,96",15,Neuvermietung,2026-01-18 09:00:00
+FRA-20241-19010,25.03.2024,Tern Tower,"73 Große Eschenheimer Straße, 60313",Westend,Tern Capital Frankfurt,Banken/Finanzen,1.271,"41,96",6,Neuvermietung,2024-04-20 09:00:00
+FRA-20244-07007,07.11.2024,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Thorne Associates,Unternehmensberatung,2.462,"40,67",9,Neuvermietung,2025-01-23 09:00:00
+FRA-20244-22008,18.11.2024,113 Neue Mainzer Straße,"113 Neue Mainzer Straße, 60311",Westend,Elmgrove Authority,Öffentliche Hand,1.814,"41,82",3,Neuvermietung,2025-01-16 09:00:00
+FRA-20262-13012,28.04.2026,59 Taunustor,"59 Taunustor, 60310",Bankenviertel,Nimbus Assurance,Versicherungen,1.330,"43,45",5,Verlängerung,2026-07-16 09:00:00
+FRA-20243-06015,20.08.2024,Cobalt Plaza,"136 Düsseldorfer Straße, 65760",Bankenviertel,Sterling Bank,Banken/Finanzen,5.363,"39,07",6,Vorvermietung,2024-10-14 09:00:00
+FRA-20251-23006,11.01.2025,94 Junghofstraße,"94 Junghofstraße, 60311",Westend,Quill Securities Frankfurt,Banken/Finanzen,347,"28,87",10,Untervermietung,2025-04-22 09:00:00
+FRA-20242-20008,12.04.2024,111 Große Eschenheimer Straße,"111 Große Eschenheimer Straße, 60313",,Arden Hub,Flexible Büros,3.866,"45,64",15,Neuvermietung,2024-07-21 09:00:00
+FRA-20233-32011,30.09.2023,Ridgeway Plaza,"12 Taunusanlage, 60329",Innenstadt,Orbis Insurance,Versicherungen,165,"22,62",5,Neuvermietung,2023-10-24 09:00:00

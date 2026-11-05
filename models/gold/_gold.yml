@@ -1,0 +1,569 @@
+version: 2
+
+# Gold is the contract with BI, Genie and every other consumer, so every column is described here
+# (tests_py/test_docs_coverage.py fails the build otherwise). Descriptions shared by several tables
+# are written once in docs/dbt/columns.md and referenced with doc('...'). persist_docs (dbt_project.yml)
+# writes them to the warehouse as table and column comments.
+
+models:
+  - name: dim_market
+    description: One row per onboarded market, with the conventions it reports in. Every measure in the facts is already converted.
+    columns:
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+        data_tests: [unique, not_null]
+      - name: market_name
+        description: "{{ doc('col_market_name') }}"
+      - name: country_code
+        description: ISO 3166 two-letter country code, e.g. GB.
+      - name: country_name
+        description: Country name, e.g. United Kingdom.
+      - name: region
+        description: Region of Europe the market belongs to, e.g. Western Europe.
+      - name: reporting_currency
+        description: Currency the market reports rents in (GBP, EUR). Rents in the facts are converted to EUR.
+      - name: reporting_area_unit
+        description: Area unit the market reports in (sqft or m2). Areas in the facts are in m2.
+      - name: reporting_rent_unit
+        description: Rent basis the market reports in (per_sqft_year, per_m2_year, per_m2_month). Rents in the facts are per m2 per year.
+      - name: timezone
+        description: IANA time zone of the market, e.g. Europe/London.
+
+  - name: dim_submarket
+    description: One row per submarket, with its shared name and the local name the market reports under.
+    columns:
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+        data_tests: [unique, not_null]
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_market'), field: market_id}}
+      - name: market_name
+        description: "{{ doc('col_market_name') }}"
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: submarket_name
+        description: Shared English name of the submarket, e.g. West End.
+      - name: submarket_local_name
+        description: The name the market uses for the submarket in its own submissions, e.g. Péri-Défense.
+
+  - name: dim_building
+    description: >
+      One row per building in any market's register: the current version (type 1). For the building as it was on a
+      given date, use dim_building_history through fct_leasing_deal.building_version_key.
+    columns:
+      - name: building_key
+        description: "{{ doc('col_building_key') }}"
+        data_tests: [unique, not_null]
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: building_id_local
+        description: "{{ doc('col_building_id_local') }}"
+      - name: building_name
+        description: "{{ doc('col_building_name') }}"
+      - name: building_address
+        description: Street address as the market's register gives it.
+      - name: postcode
+        description: Postcode or postal district as reported.
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_submarket'), field: submarket_key}}
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: grade_code
+        description: "{{ doc('col_grade_code') }}"
+      - name: grade_name
+        description: "{{ doc('col_grade_name') }}"
+      - name: grade_local
+        description: "{{ doc('col_grade_local') }}"
+      - name: total_area_m2
+        description: "{{ doc('col_total_area_m2') }}"
+      - name: year_built
+        description: "{{ doc('col_year_built') }}"
+      - name: year_refurbished
+        description: "{{ doc('col_year_refurbished') }}"
+      - name: effective_year
+        description: Year refurbished if any, else year built; a simple age measure for the building's specification.
+      - name: last_updated
+        description: "{{ doc('col_last_updated') }}"
+
+  - name: dim_building_history
+    description: >
+      One row per building and version (slowly changing dimension, type 2). A building the market sends again
+      (for example after a refurbishment moved it from grade B to A) gets a new version; a version applies to dates
+      d with valid_from <= d < valid_to. Deals join on building_version_key, so a deal is reported against the grade
+      the building had when the deal was signed.
+    columns:
+      - name: building_version_key
+        description: "{{ doc('col_building_version_key') }}"
+        data_tests: [unique, not_null]
+      - name: building_key
+        description: "{{ doc('col_building_key') }}"
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_building'), field: building_key}}
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: building_id_local
+        description: "{{ doc('col_building_id_local') }}"
+      - name: version_number
+        description: 1 for the first row the market sent for the building, 2 for the next, and so on.
+      - name: valid_from
+        description: First date the version applies to (inclusive). The first version starts at 1900-01-01.
+        data_tests: [not_null]
+      - name: valid_to
+        description: Date the next version starts (exclusive); 9999-12-31 for the current version.
+        data_tests: [not_null]
+      - name: is_current
+        description: True for the latest version of the building, the one dim_building holds.
+        data_tests: [not_null]
+      - name: building_name
+        description: "{{ doc('col_building_name') }}"
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_submarket'), field: submarket_key}}
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: grade_code
+        description: "{{ doc('col_grade_code') }}"
+        data_tests:
+          - accepted_values: {arguments: {values: [A, B, C]}}
+      - name: grade_name
+        description: "{{ doc('col_grade_name') }}"
+      - name: grade_local
+        description: "{{ doc('col_grade_local') }}"
+      - name: total_area_m2
+        description: "{{ doc('col_total_area_m2') }}"
+      - name: year_built
+        description: "{{ doc('col_year_built') }}"
+      - name: year_refurbished
+        description: "{{ doc('col_year_refurbished') }}"
+      - name: last_updated
+        description: "{{ doc('col_last_updated') }}"
+
+  - name: dim_tenant
+    description: >
+      One row per occupier across all markets. Names are matched on a normalised form (case, spaces and a trailing
+      "Ltd" ignored), so the same occupier taking space in London and Paris is one tenant.
+    columns:
+      - name: tenant_key
+        description: "{{ doc('col_tenant_key') }}"
+        data_tests: [unique, not_null]
+      - name: tenant_name
+        description: The spelling of the tenant's name the markets used most often.
+      - name: tenant_name_norm
+        description: The normalised name the tenant is matched on.
+      - name: sector_code
+        description: The sector most often reported for this tenant (ties broken alphabetically).
+      - name: sector_name
+        description: "{{ doc('col_sector_name') }}"
+      - name: deal_count
+        description: Number of the tenant's deals that passed every silver check, across all markets.
+      - name: markets_active
+        description: Number of markets in which the tenant has a deal.
+      - name: first_deal_date
+        description: Date of the tenant's earliest deal.
+      - name: latest_deal_date
+        description: Date of the tenant's most recent deal.
+
+  - name: dim_date
+    description: Calendar from 2023-01-01 to 2027-12-31, one row per day. Deals join on date_key.
+    columns:
+      - name: date_key
+        description: The date as a yyyymmdd integer, e.g. 20260930.
+        data_tests: [unique, not_null]
+      - name: date_day
+        description: The date.
+        data_tests: [unique, not_null]
+      - name: year_number
+        description: Calendar year, e.g. 2026.
+      - name: quarter_number
+        description: Calendar quarter, 1 to 4.
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+        data_tests: [not_null]
+      - name: quarter_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: month_number
+        description: Calendar month, 1 to 12.
+      - name: year_month
+        description: Year and month as a yyyymm integer, e.g. 202609.
+      - name: is_month_end
+        description: True on the last day of a month.
+      - name: is_quarter_end
+        description: True on the last day of a quarter.
+
+  - name: dim_quarter
+    description: One row per quarter, with the previous quarter and the same quarter a year earlier for period comparisons.
+    columns:
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+        data_tests: [unique, not_null]
+      - name: year_number
+        description: Calendar year, e.g. 2026.
+      - name: quarter_number
+        description: Calendar quarter, 1 to 4.
+      - name: quarter_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: quarter_label
+        description: Display label, e.g. "Q3 2026".
+      - name: previous_quarter_id
+        description: The quarter before, e.g. 2026Q2 for 2026Q3; null for the first quarter in the calendar.
+      - name: same_quarter_previous_year_id
+        description: The same quarter a year earlier, e.g. 2025Q3 for 2026Q3; null for the first year.
+
+  - name: dim_deal_type
+    description: Shared deal-type codes, with how many local labels map to each.
+    columns:
+      - name: deal_type_code
+        description: "{{ doc('col_deal_type_code') }}"
+        data_tests: [unique, not_null]
+      - name: deal_type_name
+        description: Display name, e.g. New lease.
+      - name: local_label_count
+        description: Number of local labels across the markets that map to this code (ref_deal_type_mapping).
+
+  - name: dim_sector
+    description: Shared occupier-sector codes.
+    columns:
+      - name: sector_code
+        description: "{{ doc('col_sector_code') }}"
+        data_tests: [unique, not_null]
+      - name: sector_name
+        description: "{{ doc('col_sector_name') }}"
+
+  - name: dim_metric_definition
+    description: The shared KPI definitions (name, unit, formula, grain, owner); the data contract as a table, and the source of the Genie instructions.
+    columns:
+      - name: metric_name
+        description: The KPI's name in plain English, e.g. Vacancy rate.
+        data_tests: [unique, not_null]
+      - name: gold_column
+        description: The mart_market_kpis or fct_market_quarter column that holds the metric.
+      - name: definition
+        description: What the metric means, in one or two sentences.
+      - name: unit
+        description: The unit the column is in, e.g. fraction (0.10 = 10%) or EUR per sq m per year.
+      - name: formula
+        description: How the column is computed from other columns.
+      - name: grain
+        description: The level the metric is defined at, e.g. market x quarter.
+      - name: owner
+        description: The team accountable for the definition.
+
+  - name: fct_market_quarter
+    description: >
+      Periodic snapshot, one row per market, submarket and quarter: the market's reported figures (latest submission)
+      next to the bottom-up figures the lakehouse computes from the building register and the deal log.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, submarket_id, quarter_id]
+    columns:
+      - name: market_quarter_key
+        description: Surrogate key of market_id, submarket_id and quarter_id.
+        data_tests: [unique, not_null]
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_submarket'), field: submarket_key}}
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_quarter'), field: quarter_id}}
+      - name: period_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: stock_m2
+        description: "{{ doc('col_stock_m2') }}"
+        data_tests: [not_null, is_positive]
+      - name: vacant_m2
+        description: "{{ doc('col_vacant_m2') }}"
+        data_tests: [not_null]
+      - name: vacancy_rate
+        description: "{{ doc('col_vacancy_rate') }}"
+        data_tests:
+          - expect_between: {arguments: {min_value: 0.0, max_value: 0.5}}
+      - name: occupied_m2
+        description: "{{ doc('col_occupied_m2') }}"
+      - name: take_up_m2
+        description: "{{ doc('col_take_up_m2') }}"
+        data_tests: [not_null]
+      - name: prime_rent_eur_m2_yr
+        description: "{{ doc('col_prime_rent_eur_m2_yr') }}"
+        data_tests: [not_null]
+      - name: prime_rent_local
+        description: Prime rent exactly as the market reported it, in prime_rent_local_currency per prime_rent_local_unit.
+      - name: prime_rent_local_currency
+        description: Currency of prime_rent_local (GBP or EUR).
+      - name: prime_rent_local_unit
+        description: Basis of prime_rent_local (per_sqft_year, per_m2_year or per_m2_month).
+      - name: prime_yield
+        description: "{{ doc('col_prime_yield') }}"
+        data_tests:
+          - expect_between: {arguments: {min_value: 0.02, max_value: 0.12}}
+      - name: completions_m2
+        description: "{{ doc('col_completions_m2') }}"
+      - name: under_construction_m2
+        description: "{{ doc('col_under_construction_m2') }}"
+      - name: register_available_m2
+        description: Available space across the submarket's tracked buildings that quarter (bottom-up), square metres.
+      - name: register_sublease_m2
+        description: The part of register_available_m2 offered by existing tenants as sublease, square metres.
+      - name: register_tracked_area_m2
+        description: Total area of every tracked building in the submarket, let or not; the denominator of register_vacancy_rate.
+      - name: register_buildings
+        description: Number of tracked buildings in the submarket.
+      - name: register_buildings_with_space
+        description: Number of tracked buildings with space available that quarter.
+      - name: register_vacancy_rate
+        description: "{{ doc('col_register_vacancy_rate') }}"
+      - name: deal_count
+        description: "{{ doc('col_deal_count') }} Zero when the market logged none."
+      - name: deals_area_m2
+        description: "{{ doc('col_deals_area_m2') }} Zero when the market logged none."
+      - name: avg_deal_size_m2
+        description: "{{ doc('col_avg_deal_size_m2') }}"
+      - name: largest_deal_m2
+        description: "{{ doc('col_largest_deal_m2') }}"
+      - name: achieved_rent_eur_m2_yr
+        description: Area-weighted average rent of the quarter's deals that have a rent, EUR per m2 per year (deals with a withheld or suppressed rent are left out of both sides).
+      - name: reported_submitted_at
+        description: When the market submitted the version of the quarter's figures used here (the latest).
+      - name: submission_count
+        description: How many times the market submitted figures for this submarket and quarter (2 = resubmitted once).
+
+  - name: fct_leasing_deal
+    description: One row per leasing deal that passed every silver check, with rents in EUR per m2 per year.
+    columns:
+      - name: deal_key
+        description: Surrogate key of market_id and deal_ref.
+        data_tests: [unique, not_null]
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_submarket'), field: submarket_key}}
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: building_key
+        description: "{{ doc('col_building_key') }} The building as it is today."
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_building'), field: building_key}}
+      - name: building_version_key
+        description: "{{ doc('col_building_version_key') }} The building as it was on the deal date."
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_building_history'), field: building_version_key}}
+      - name: tenant_key
+        description: "{{ doc('col_tenant_key') }}"
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_tenant'), field: tenant_key}}
+      - name: deal_date_key
+        description: The deal date as a yyyymmdd integer. Joins to dim_date.date_key.
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_date'), field: date_key}}
+      - name: deal_date
+        description: Date the lease was signed.
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }} The quarter of the deal date."
+      - name: deal_type_code
+        description: "{{ doc('col_deal_type_code') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_deal_type'), field: deal_type_code}}
+      - name: sector_code
+        description: "{{ doc('col_sector_code') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_sector'), field: sector_code}}
+      - name: deal_ref
+        description: The market's own reference for the deal, e.g. LON-20263-00017.
+      - name: area_m2
+        description: Floorspace let, square metres (converted from sq ft for London).
+        data_tests: [not_null, is_positive]
+      - name: rent_eur_m2_yr
+        description: Rent in EUR per m2 per year. Null when withheld by the market or suppressed as implausible (see rent_suppressed_reason).
+      - name: annual_rent_eur
+        description: area_m2 x rent_eur_m2_yr, EUR per year; null when the rent is null.
+      - name: rent_local
+        description: Rent exactly as the market reported it, in rent_local_currency per rent_local_unit (kept even when suppressed).
+      - name: rent_local_currency
+        description: Currency of rent_local (GBP, EUR, or PLN for some Warsaw deals).
+      - name: rent_local_unit
+        description: Basis of rent_local (per_sqft_year, per_m2_year or per_m2_month).
+      - name: rent_to_prime_ratio
+        description: rent_eur_m2_yr as reported / the submarket's prime rent that quarter. Far outside 0.15 to 1.6 the rent is suppressed.
+      - name: rent_suppressed_reason
+        description: Why the rent was withheld from rent_eur_m2_yr (rent_out_of_range, almost always a monthly figure in an annual file or the reverse); null when the rent is used.
+      - name: lease_term_years
+        description: Length of the lease in years, as reported.
+      - name: submarket_derived_from_building
+        description: True when the market left the submarket blank and it was taken from the building register.
+      - name: submitted_at
+        description: "{{ doc('col_submitted_at') }}"
+
+  - name: fct_building_availability
+    description: Periodic snapshot, one row per tracked building and quarter with space available.
+    columns:
+      - name: building_quarter_key
+        description: Surrogate key of market_id, building_id_local and quarter_id.
+        data_tests: [unique, not_null]
+      - name: building_key
+        description: "{{ doc('col_building_key') }}"
+        data_tests:
+          - not_null
+          - relationships: {arguments: {to: ref('dim_building'), field: building_key}}
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: submarket_key
+        description: "{{ doc('col_submarket_key') }}"
+      - name: submarket_id
+        description: "{{ doc('col_submarket_id') }}"
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+      - name: period_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: available_m2
+        description: Space available to let in the building at the quarter end, square metres (direct and sublease).
+        data_tests: [not_null]
+      - name: sublease_m2
+        description: The part of available_m2 offered by existing tenants as sublease, square metres.
+      - name: direct_available_m2
+        description: available_m2 - sublease_m2, the space offered by the landlord.
+      - name: building_area_m2
+        description: "{{ doc('col_total_area_m2') }}"
+      - name: availability_rate
+        description: available_m2 / building_area_m2, as a fraction.
+        data_tests:
+          - expect_between: {arguments: {min_value: 0.0, max_value: 1.0}}
+
+  - name: mart_market_kpis
+    description: The shared KPIs, one row per market and quarter, computed once from fct_market_quarter. Definitions in dim_metric_definition.
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [market_id, quarter_id]
+    columns:
+      - name: market_kpi_key
+        description: "{{ doc('col_market_kpi_key') }}"
+        data_tests: [unique, not_null]
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+        data_tests:
+          - relationships: {arguments: {to: ref('dim_market'), field: market_id}}
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+      - name: period_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: stock_m2
+        description: "{{ doc('col_stock_m2') }} Summed over the market's submarkets."
+      - name: vacant_m2
+        description: "{{ doc('col_vacant_m2') }} Summed over the market's submarkets."
+      - name: occupied_m2
+        description: "{{ doc('col_occupied_m2') }}"
+      - name: vacancy_rate
+        description: "{{ doc('col_vacancy_rate') }}"
+        data_tests:
+          - not_null
+          - expect_between: {arguments: {min_value: 0.0, max_value: 0.4}}
+      - name: vacancy_rate_change_qoq
+        description: Change in vacancy_rate since the previous quarter, as a fraction (0.005 = up half a percentage point).
+      - name: take_up_m2
+        description: "{{ doc('col_take_up_m2') }} Summed over the market's submarkets."
+        data_tests: [not_null]
+      - name: take_up_ytd_m2
+        description: Take-up from the start of the calendar year to the end of this quarter, square metres.
+      - name: take_up_rolling_4q_m2
+        description: Take-up over this and the three previous quarters, square metres; null until four quarters of history exist.
+      - name: net_absorption_m2
+        description: Change in occupied space since the previous quarter, square metres (positive = more space occupied).
+      - name: prime_rent_eur_m2_yr
+        description: "{{ doc('col_prime_rent_eur_m2_yr') }}"
+        data_tests: [not_null]
+      - name: prime_rent_growth_qoq
+        description: prime_rent_eur_m2_yr / the previous quarter's - 1, as a fraction.
+      - name: prime_rent_growth_yoy
+        description: prime_rent_eur_m2_yr / the same quarter a year earlier's - 1, as a fraction; null in the first year.
+        data_tests:
+          - expect_between: {arguments: {min_value: -0.3, max_value: 0.3}}
+      - name: prime_yield
+        description: "{{ doc('col_prime_yield') }}"
+      - name: completions_m2
+        description: "{{ doc('col_completions_m2') }}"
+      - name: under_construction_m2
+        description: "{{ doc('col_under_construction_m2') }}"
+      - name: development_pipeline_rate
+        description: under_construction_m2 / stock_m2, as a fraction.
+      - name: register_vacancy_rate
+        description: "{{ doc('col_register_vacancy_rate') }} At market level, summed over the submarkets before dividing."
+      - name: deal_count
+        description: "{{ doc('col_deal_count') }}"
+      - name: deals_area_m2
+        description: "{{ doc('col_deals_area_m2') }}"
+      - name: avg_deal_size_m2
+        description: "{{ doc('col_avg_deal_size_m2') }}"
+      - name: largest_deal_m2
+        description: "{{ doc('col_largest_deal_m2') }}"
+      - name: deal_log_coverage_of_take_up
+        description: deals_area_m2 / take_up_m2; near 1 when the deal log explains the reported take-up.
+
+  - name: mart_ai_market_facts
+    description: >
+      The market KPIs shaped for retrieval and language models: unit-suffixed column names, rounded values and a
+      one-sentence summary per market and quarter. Same numbers as mart_market_kpis.
+    columns:
+      - name: market_kpi_key
+        description: "{{ doc('col_market_kpi_key') }}"
+        data_tests: [unique, not_null]
+      - name: market_id
+        description: "{{ doc('col_market_id') }}"
+      - name: market_name
+        description: "{{ doc('col_market_name') }}"
+      - name: country_name
+        description: Country of the market.
+      - name: region
+        description: Region of Europe the market belongs to.
+      - name: quarter_id
+        description: "{{ doc('col_quarter_id') }}"
+      - name: quarter_label
+        description: Display label, e.g. "Q3 2026".
+      - name: period_end_date
+        description: "{{ doc('col_period_end_date') }}"
+      - name: office_stock_sqm
+        description: Total office stock, square metres, rounded to a whole number.
+      - name: vacant_space_sqm
+        description: Vacant space, square metres, rounded.
+      - name: vacancy_rate_pct
+        description: Vacancy rate in percent, one decimal (10.0 = 10%).
+      - name: take_up_quarter_sqm
+        description: Take-up in the quarter, square metres, rounded.
+      - name: take_up_rolling_12m_sqm
+        description: Take-up over the last four quarters, square metres, rounded; null until four quarters exist.
+      - name: net_absorption_sqm
+        description: Change in occupied space since the previous quarter, square metres, rounded.
+      - name: prime_rent_eur_per_sqm_per_year
+        description: Prime rent, EUR per square metre per year, rounded.
+      - name: prime_rent_growth_yoy_pct
+        description: Prime rent growth on the same quarter a year earlier, in percent, one decimal.
+      - name: prime_yield_pct
+        description: Prime yield in percent, two decimals (4.25 = 4.25%).
+      - name: under_construction_sqm
+        description: Space under construction, square metres, rounded.
+      - name: leasing_deals_count
+        description: Number of leasing deals that passed every check.
+      - name: average_deal_size_sqm
+        description: Average deal size, square metres, rounded.
+      - name: summary_text
+        description: One plain-language sentence summarising the market quarter, with units in the text.
+        data_tests: [not_null]

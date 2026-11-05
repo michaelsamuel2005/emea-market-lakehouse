@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: ops_dq_quarantine_summary
+    description: Rows held back from gold by market and reason, with each market's quarantine rate.
+    columns:
+      - name: market_quarantine_rate_pct
+        description: Quarantined rows as a percent of the market's submitted rows; the build fails above vars.quarantine_rate_threshold_pct.
+
+  - name: ops_dq_reconciliation_vacancy
+    description: Reported vacancy rate versus the bottom-up rate from the building register, per submarket and quarter.
+    columns:
+      - name: gap_pp
+        description: register_vacancy_rate minus reported_vacancy_rate, in percentage points.
+      - name: is_outside_tolerance
+        description: True when |gap_pp| exceeds vars.vacancy_reconciliation_tolerance_pp.
+
+  - name: ops_dq_reconciliation_take_up
+    description: Reported take-up versus the area of logged deals, per submarket and quarter.
+    columns:
+      - name: gap_pct
+        description: logged_deals_m2 / reported_take_up_m2 - 1, in percent.
+      - name: gap_including_quarantined_pct
+        description: The same gap if the quarantined (non-duplicate) deals were counted; shows how much the checks explain.
+      - name: is_outside_tolerance
+        description: True when |gap_pct| exceeds vars.take_up_reconciliation_tolerance_pct.
+
+  - name: ops_dq_unmapped_codes
+    description: Local labels missing from the reference mappings. Must be empty (tests/assert_no_unmapped_codes.sql).
+
+  - name: ops_dq_blank_codes
+    description: Counts of rows a market sent with a blank code, to report back to the market.
+
+  - name: ops_defect_detection
+    description: Detection rate of the silver checks against the generator's answer key, by defect type.
+    columns:
+      - name: handled_correctly_pct
+        description: Share of injected rows that were quarantined, repaired or correctly left alone.
+
+  - name: ops_run_history
+    description: Every dbt run's per-node status, timing and row counts (from the on-run-end audit table).
+
+  - name: ops_runtime_alerts
+    description: Nodes whose latest run failed, or took more than twice their usual time (needs three earlier runs).

@@ -1,0 +1,6 @@
+# Peer review: every change to shared logic needs a review from the analytics engineering owners.
+*                                   @michaelsamuel2005
+/models/silver/intermediate/        @michaelsamuel2005
+/models/gold/                       @michaelsamuel2005
+/seeds/reference/                   @michaelsamuel2005
+/macros/                            @michaelsamuel2005

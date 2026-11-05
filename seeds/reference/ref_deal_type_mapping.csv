@@ -1,0 +1,26 @@
+market_id,local_deal_type,deal_type_code
+LON,New Lease,NEW
+LON,Renewal,REN
+LON,Expansion,EXP
+LON,Sublease,SUB
+LON,Pre-let,PRE
+PAR,Nouveau bail,NEW
+PAR,Renouvellement,REN
+PAR,Extension,EXP
+PAR,Sous-location,SUB
+PAR,BEFA,PRE
+AMS,New Lease,NEW
+AMS,Renewal,REN
+AMS,Expansion,EXP
+AMS,Sublease,SUB
+AMS,Pre-let,PRE
+FRA,Neuvermietung,NEW
+FRA,Verlängerung,REN
+FRA,Erweiterung,EXP
+FRA,Untervermietung,SUB
+FRA,Vorvermietung,PRE
+WAW,New Lease,NEW
+WAW,Renewal,REN
+WAW,Expansion,EXP
+WAW,Sublease,SUB
+WAW,Pre-let,PRE

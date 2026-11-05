@@ -1,0 +1,70 @@
+version: 2
+
+# dbt unit tests for the KPI definitions and the history join. See models/silver/_unit_tests.yml.
+
+unit_tests:
+
+  - name: market_vacancy_is_stock_weighted_not_an_average_of_rates
+    description: >
+      Two submarkets at 10% and 20% vacancy with stock of 1,000 and 3,000 m2: the market's vacancy rate is
+      700 / 4,000 = 17.5%, not the 15% an average of the two rates would give. Prime rent is the best submarket
+      (max) and prime yield the keenest (min); take-up adds up. With one quarter of history the rolling four-quarter
+      take-up is null rather than a partial sum.
+    model: mart_market_kpis
+    given:
+      - input: ref('fct_market_quarter')
+        rows:
+          - {market_id: LON, submarket_id: CITY, quarter_id: 2026Q3, period_end_date: 2026-09-30, stock_m2: 1000.0,
+             vacant_m2: 100.0, take_up_m2: 100.0, prime_rent_eur_m2_yr: 500.0, prime_yield: 0.05, deal_count: 3, deals_area_m2: 60.0}
+          - {market_id: LON, submarket_id: WEND, quarter_id: 2026Q3, period_end_date: 2026-09-30, stock_m2: 3000.0,
+             vacant_m2: 600.0, take_up_m2: 200.0, prime_rent_eur_m2_yr: 600.0, prime_yield: 0.045, deal_count: 1, deals_area_m2: 240.0}
+    expect:
+      rows:
+        - {market_id: LON, quarter_id: 2026Q3, stock_m2: 4000.0, vacant_m2: 700.0, vacancy_rate: 0.175, take_up_m2: 300.0,
+           prime_rent_eur_m2_yr: 600.0, prime_yield: 0.045, deal_count: 4, avg_deal_size_m2: 75.0,
+           take_up_rolling_4q_m2: null, prime_rent_growth_yoy: null}
+
+  - name: rolling_take_up_and_year_on_year_rent_growth
+    description: >
+      Five quarters of one market. Rolling four-quarter take-up starts in the fourth quarter (100+200+300+400 = 1,000)
+      and moves on in the fifth (200+300+400+500 = 1,400); year-to-date take-up restarts in January; prime rent growth
+      year on year compares with four quarters earlier (125 / 100 - 1 = 25%); net absorption is the change in occupied space.
+    model: mart_market_kpis
+    given:
+      - input: ref('fct_market_quarter')
+        rows:
+          - {market_id: PAR, submarket_id: QCA, quarter_id: 2025Q1, period_end_date: 2025-03-31, stock_m2: 1000.0, vacant_m2: 100.0, take_up_m2: 100.0, prime_rent_eur_m2_yr: 100.0, prime_yield: 0.04, deal_count: 1, deals_area_m2: 100.0}
+          - {market_id: PAR, submarket_id: QCA, quarter_id: 2025Q2, period_end_date: 2025-06-30, stock_m2: 1000.0, vacant_m2: 100.0, take_up_m2: 200.0, prime_rent_eur_m2_yr: 100.0, prime_yield: 0.04, deal_count: 1, deals_area_m2: 200.0}
+          - {market_id: PAR, submarket_id: QCA, quarter_id: 2025Q3, period_end_date: 2025-09-30, stock_m2: 1000.0, vacant_m2: 100.0, take_up_m2: 300.0, prime_rent_eur_m2_yr: 100.0, prime_yield: 0.04, deal_count: 1, deals_area_m2: 300.0}
+          - {market_id: PAR, submarket_id: QCA, quarter_id: 2025Q4, period_end_date: 2025-12-31, stock_m2: 1000.0, vacant_m2: 100.0, take_up_m2: 400.0, prime_rent_eur_m2_yr: 100.0, prime_yield: 0.04, deal_count: 1, deals_area_m2: 400.0}
+          - {market_id: PAR, submarket_id: QCA, quarter_id: 2026Q1, period_end_date: 2026-03-31, stock_m2: 1000.0, vacant_m2: 50.0, take_up_m2: 500.0, prime_rent_eur_m2_yr: 125.0, prime_yield: 0.04, deal_count: 1, deals_area_m2: 500.0}
+    expect:
+      rows:
+        - {quarter_id: 2025Q1, take_up_ytd_m2: 100.0, take_up_rolling_4q_m2: null, prime_rent_growth_yoy: null, net_absorption_m2: null}
+        - {quarter_id: 2025Q2, take_up_ytd_m2: 300.0, take_up_rolling_4q_m2: null, prime_rent_growth_yoy: null, net_absorption_m2: 0.0}
+        - {quarter_id: 2025Q3, take_up_ytd_m2: 600.0, take_up_rolling_4q_m2: null, prime_rent_growth_yoy: null, net_absorption_m2: 0.0}
+        - {quarter_id: 2025Q4, take_up_ytd_m2: 1000.0, take_up_rolling_4q_m2: 1000.0, prime_rent_growth_yoy: null, net_absorption_m2: 0.0}
+        - {quarter_id: 2026Q1, take_up_ytd_m2: 500.0, take_up_rolling_4q_m2: 1400.0, prime_rent_growth_yoy: 0.25, net_absorption_m2: 50.0}
+
+  - name: deals_point_at_the_building_version_of_their_date
+    description: >
+      A building refurbished on 10 October 2026 (version 2 from that date). A deal signed in May belongs to version 1,
+      a deal signed on 10 October itself to version 2 (valid_from is inclusive, valid_to exclusive).
+    model: fct_leasing_deal
+    given:
+      - input: ref('int_deals_clean')
+        rows:
+          - {deal_key: k1, market_id: AMS, submarket_id: ZUID, building_key: b20, tenant_key: t1, deal_date: 2026-05-10, quarter_id: 2026Q2, deal_ref: A1, area_m2: 500.0}
+          - {deal_key: k2, market_id: AMS, submarket_id: ZUID, building_key: b20, tenant_key: t2, deal_date: 2026-10-10, quarter_id: 2026Q4, deal_ref: A2, area_m2: 700.0}
+      - input: ref('dim_date')
+        rows:
+          - {date_key: 20260510, date_day: 2026-05-10}
+          - {date_key: 20261010, date_day: 2026-10-10}
+      - input: ref('dim_building_history')
+        rows:
+          - {building_version_key: b20v1, building_key: b20, version_number: 1, valid_from: 1900-01-01, valid_to: 2026-10-10, grade_code: B}
+          - {building_version_key: b20v2, building_key: b20, version_number: 2, valid_from: 2026-10-10, valid_to: 9999-12-31, grade_code: A}
+    expect:
+      rows:
+        - {deal_ref: A1, building_version_key: b20v1, deal_date_key: 20260510}
+        - {deal_ref: A2, building_version_key: b20v2, deal_date_key: 20261010}

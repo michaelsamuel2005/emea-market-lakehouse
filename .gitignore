@@ -1,0 +1,18 @@
+target/
+dbt_packages/
+logs/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+.user.yml
+# local Spark (scripts/engines/run_on_spark.py)
+metastore_db/
+spark-warehouse/
+derby.log
+# Snowflake private keys, wherever they are generated
+*.p8
+rsa_key*

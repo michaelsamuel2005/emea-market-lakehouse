@@ -1,0 +1,157 @@
+building_id,name,address,postcode,submarket,class,gla_m2,year_built,year_refurbished,last_updated
+WAW-B0001,Tern House,64 al. Jana Pawła II,00-867,CBD,B+,11384,1998,2024,2026-07-02
+WAW-B0002,Thorne Quay,37 ul. Kasprzaka,01-224,CBD,A,4645,1982,2008,2026-02-03
+WAW-B0003,76 ul. Emilii Plater,76 ul. Emilii Plater,00-125,CBD,A,8082,2012,2021,2026-04-30
+WAW-B0004,112 ul. Rydygiera,112 ul. Rydygiera,01-793,CBD,A,11977,1982,,2026-03-23
+WAW-B0005,127 ul. Wołoska,127 ul. Wołoska,02-675,CBD,B+,10174,1968,,2026-06-25
+WAW-B0006,127 ul. Marynarska,127 ul. Marynarska,02-674,CBD,B+,7083,2004,,2026-02-10
+WAW-B0007,109 al. Jana Pawła II,109 al. Jana Pawła II,00-867,CBD,C,15529,1999,2021,2026-02-10
+WAW-B0008,94 ul. Domaniewska,94 ul. Domaniewska,02-672,CBD,A,10897,1987,2015,2026-07-02
+WAW-B0009,130 ul. Złota,130 ul. Złota,00-120,CBD,B,13656,1993,2009,2026-04-07
+WAW-B0010,149 rondo ONZ,149 rondo ONZ,00-124,CBD,A,14710,2023,,2026-03-22
+WAW-B0011,Elmgrove Centre,105 ul. Kasprzaka,01-224,CBD,A,15842,2013,,2026-02-02
+WAW-B0012,Juniper Place,49 ul. Emilii Plater,00-125,CBD,B+,14260,2012,2019,2026-03-29
+WAW-B0013,Atlas Point,107 ul. Złota,00-120,CBD,A,12825,2015,,2026-05-05
+WAW-B0014,Elmgrove Park,94 al. Jerozolimskie,00-508,CBD,C,6619,1992,,2026-05-31
+WAW-B0015,46 ul. Marynarska,46 ul. Marynarska,02-674,CBD,,5445,1984,,2026-02-15
+WAW-B0016,Elmgrove Court,135 ul. Prosta,00-838,CBD,B,3886,1972,2007,2026-03-01
+WAW-B0017,Solace Square,176 ul. Słomińskiego,00-195,CBD,B+,7420,2008,,2026-07-17
+WAW-B0018,149 al. Jana Pawła II,149 al. Jana Pawła II,00-867,CBD,C,20063,2010,,2026-05-16
+WAW-B0019,Veridian Quay,59 ul. Prosta,00-838,CBD,B,27090,2014,2023,2026-07-19
+WAW-B0020,Juniper Building,24 ul. Słomińskiego,00-195,CBD,B+,19806,2021,,2026-06-28
+WAW-B0021,Pinnacle Tower,120 rondo ONZ,00-124,CBD,B+,7994,1987,2019,2026-07-22
+WAW-B0022,Lumen Quay,70 ul. Przyokopowa,01-208,CBD,C,10303,1965,2005,2026-07-02
+WAW-B0023,173 ul. Towarowa,173 ul. Towarowa,00-811,CBD,B,7648,1997,,2026-04-20
+WAW-B0024,Fenwick Quay,51 ul. Przyokopowa,01-208,CBD,B+,17350,2023,,2026-07-21
+WAW-B0025,Cobalt Building,116 ul. Marynarska,02-674,CBD,C,3777,1992,2010,2026-01-26
+WAW-B0026,Aldwyn Court,75 rondo ONZ,00-124,CBD,B,4667,2005,2014,2026-02-26
+WAW-B0027,147 ul. Domaniewska,147 ul. Domaniewska,02-672,CBD,A,10101,1961,2023,2026-03-13
+WAW-B0028,51 ul. Kasprzaka,51 ul. Kasprzaka,01-224,CBD,B+,40155,1972,,2026-02-28
+WAW-B0029,131 ul. Słomińskiego,131 ul. Słomińskiego,00-195,CBD,B,15156,1968,2011,2026-05-30
+WAW-B0030,92 ul. Wołoska,92 ul. Wołoska,02-675,CBD,B,13061,2009,2020,2026-03-18
+WAW-B0031,Linden Court,42 ul. Rydygiera,01-793,City Centre West,B+,17971,1982,,2026-04-20
+WAW-B0032,Osprey Building,60 al. Jana Pawła II,00-867,City Centre West,B+,9868,1982,,2026-07-06
+WAW-B0033,59 ul. Grzybowska,59 ul. Grzybowska,00-844,City Centre West,A,20599,2005,2011,2026-02-21
+WAW-B0034,22 rondo ONZ,22 rondo ONZ,00-124,City Centre West,B+,5480,1967,2017,2026-07-21
+WAW-B0035,62 ul. Przyokopowa,62 ul. Przyokopowa,01-208,City Centre West,C,6967,1977,,2026-04-03
+WAW-B0036,Ember House,48 ul. Towarowa,00-811,City Centre West,B+,20342,2013,2018,2026-05-14
+WAW-B0037,92 ul. Marynarska,92 ul. Marynarska,02-674,City Centre West,A,15706,1990,2010,2026-04-30
+WAW-B0038,101 ul. Grzybowska,101 ul. Grzybowska,00-844,City Centre West,B+,5260,1983,2013,2026-02-23
+WAW-B0039,Ravel Gate,108 al. Jerozolimskie,00-508,City Centre West,C,15727,1966,,2026-05-30
+WAW-B0040,3 ul. Złota,3 ul. Złota,00-120,City Centre West,C,8773,1969,,2026-06-26
+WAW-B0041,Wren Gate,57 ul. Marynarska,02-674,City Centre West,A,9130,1984,,2026-03-17
+WAW-B0042,11 ul. Towarowa,11 ul. Towarowa,00-811,City Centre West,A,5605,1972,2016,2026-04-26
+WAW-B0043,Cobalt Park,33 ul. Towarowa,00-811,City Centre West,B+,11132,1990,2023,2026-07-10
+WAW-B0044,142 al. Jana Pawła II,142 al. Jana Pawła II,00-867,City Centre West,A,12363,1975,2024,2026-06-15
+WAW-B0045,Solace Place,24 ul. Rydygiera,01-793,City Centre West,A,10311,1982,,2026-04-08
+WAW-B0046,Sable Place,47 al. Jerozolimskie,00-508,City Centre West,B,10960,2011,2020,2026-05-15
+WAW-B0047,18 ul. Wołoska,18 ul. Wołoska,02-675,City Centre West,B+,13394,1961,,2026-04-27
+WAW-B0048,Kestrel Tower,77 ul. Marynarska,02-674,City Centre West,B+,20234,2002,,2026-05-26
+WAW-B0049,135 ul. Prosta,135 ul. Prosta,00-838,City Centre West,B+,17487,1982,,2026-03-29
+WAW-B0050,132 rondo ONZ,132 rondo ONZ,00-124,City Centre West,A,17401,1978,2025,2026-04-25
+WAW-B0051,98 ul. Słomińskiego,98 ul. Słomińskiego,00-195,City Centre West,C,16542,2022,,2026-03-16
+WAW-B0052,146 ul. Przyokopowa,146 ul. Przyokopowa,01-208,City Centre West,,12460,2008,2020,2026-05-15
+WAW-B0053,Ridgeway Plaza,12 rondo ONZ,00-124,City Centre West,A,15379,2018,,2026-04-15
+WAW-B0054,Solace Tower,94 ul. Towarowa,00-811,City Centre West,C,3739,1962,,2026-02-23
+WAW-B0055,Arden Court,166 ul. Grzybowska,00-844,City Centre West,A,16551,2007,,2026-06-27
+WAW-B0056,Corvid Centre,139 al. Jana Pawła II,00-867,City Centre West,A,15912,1993,2013,2026-05-29
+WAW-B0057,Veridian Court,167 ul. Emilii Plater,00-125,City Centre West,C,9778,1982,2022,2026-05-01
+WAW-B0058,Kestrel Building,123 ul. Prosta,00-838,City Centre West,A,10303,2008,2021,2026-05-16
+WAW-B0059,39 ul. Marynarska,39 ul. Marynarska,02-674,City Centre West,A,28884,1990,,2026-07-01
+WAW-B0060,Orbis Tower,78 ul. Grzybowska,00-844,City Centre West,B+,13891,2004,,2026-03-01
+WAW-B0061,51 rondo ONZ,51 rondo ONZ,00-124,Mokotów,A,12591,1994,2010,2026-04-07
+WAW-B0062,Atlas Quay,63 ul. Złota,00-120,Mokotów,C,8323,1987,2024,2026-06-05
+WAW-B0063,Quill Plaza,150 ul. Grzybowska,00-844,Mokotów,B,20226,1981,,2026-02-26
+WAW-B0064,Orbis House,102 al. Jerozolimskie,00-508,Mokotów,,5436,2020,,2026-08-01
+WAW-B0065,Helix Plaza,154 al. Jana Pawła II,00-867,Mokotów,B,5741,2013,2021,2026-06-21
+WAW-B0066,143 al. Jerozolimskie,143 al. Jerozolimskie,00-508,Mokotów,A,8926,1984,2006,2026-02-09
+WAW-B0067,81 al. Jerozolimskie,81 al. Jerozolimskie,00-508,Mokotów,A,18122,2023,,2026-07-02
+WAW-B0068,119 al. Jerozolimskie,119 al. Jerozolimskie,00-508,Mokotów,B,6827,1964,2009,2026-03-03
+WAW-B0069,48 ul. Złota,48 ul. Złota,00-120,Mokotów,B+,26785,1984,,2026-06-30
+WAW-B0070,158 ul. Emilii Plater,158 ul. Emilii Plater,00-125,Mokotów,B+,21058,2001,,2026-04-01
+WAW-B0071,60 ul. Wołoska,60 ul. Wołoska,02-675,Mokotów,A,8812,1990,2021,2026-02-19
+WAW-B0072,107 ul. Grzybowska,107 ul. Grzybowska,00-844,Mokotów,A,15656,1987,,2026-03-12
+WAW-B0073,92 al. Jana Pawła II,92 al. Jana Pawła II,00-867,Mokotów,C,2222,1962,,2026-03-10
+WAW-B0074,Northgate Building,96 ul. Postępu,02-676,Mokotów,A,11145,1997,2022,2026-04-14
+WAW-B0075,Corvid Gate,107 al. Jerozolimskie,00-508,Mokotów,A,16206,1985,2024,2026-04-06
+WAW-B0076,144 ul. Postępu,144 ul. Postępu,02-676,Mokotów,B+,4039,1995,2012,2026-06-19
+WAW-B0077,4 ul. Grzybowska,4 ul. Grzybowska,00-844,Mokotów,C,14110,2000,,2026-06-02
+WAW-B0078,76 ul. Postępu,76 ul. Postępu,02-676,Mokotów,B+,8821,1998,,2026-02-25
+WAW-B0079,64 ul. Grzybowska,64 ul. Grzybowska,00-844,Mokotów,B,9780,1960,2024,2026-06-26
+WAW-B0080,101 ul. Postępu,101 ul. Postępu,02-676,Mokotów,,22341,2021,,2026-06-29
+WAW-B0081,Helix Place,85 ul. Grzybowska,00-844,Mokotów,B+,5027,1997,,2026-05-28
+WAW-B0082,38 al. Jerozolimskie,38 al. Jerozolimskie,00-508,Mokotów,B+,11418,1963,,2026-04-02
+WAW-B0083,Orbis Court,156 rondo ONZ,00-124,Mokotów,A,51631,1989,2020,2026-01-17
+WAW-B0084,Meridian Centre,92 ul. Grzybowska,00-844,Mokotów,B,7309,1987,2018,2026-06-04
+WAW-B0085,10 ul. Kasprzaka,10 ul. Kasprzaka,01-224,Mokotów,B+,11048,2009,,2026-06-22
+WAW-B0086,Veridian Square,10 al. Jana Pawła II,00-867,Mokotów,B,12210,1966,2014,2026-05-13
+WAW-B0087,Ashcombe Point,78 ul. Rydygiera,01-793,Mokotów,A,9410,1964,2020,2026-01-30
+WAW-B0088,58 ul. Kasprzaka,58 ul. Kasprzaka,01-224,Mokotów,C,17573,1988,2009,2026-07-06
+WAW-B0089,Granite Park,117 ul. Grzybowska,00-844,Mokotów,A,27624,2006,2023,2026-04-26
+WAW-B0090,87 ul. Prosta,87 ul. Prosta,00-838,Mokotów,C,8730,1993,2010,2026-06-10
+WAW-B0091,19 ul. Towarowa,19 ul. Towarowa,00-811,Wola,C,16140,2001,2007,2026-02-27
+WAW-B0092,77 ul. Grzybowska,77 ul. Grzybowska,00-844,Wola,B+,7943,2023,,2026-07-04
+WAW-B0093,Harrow Building,14 ul. Rydygiera,01-793,Wola,A,23109,1968,,2026-05-18
+WAW-B0094,Fenwick Point,18 ul. Marynarska,02-674,Wola,B,18108,1972,2023,2026-07-14
+WAW-B0095,Cobalt Centre,86 al. Jana Pawła II,00-867,Wola,B,15887,1998,2019,2026-07-09
+WAW-B0096,38 ul. Marynarska,38 ul. Marynarska,02-674,Wola,B,30621,2005,2018,2026-05-10
+WAW-B0097,Fenwick Court,153 ul. Przyokopowa,01-208,Wola,A,15615,2000,2017,2026-03-21
+WAW-B0098,Sterling Quay,115 al. Jana Pawła II,00-867,Wola,B,11762,2014,2022,2026-07-04
+WAW-B0099,146 ul. Wołoska,146 ul. Wołoska,02-675,Wola,A,5846,2010,2020,2026-01-30
+WAW-B0100,Kestrel Point,130 ul. Kasprzaka,01-224,Wola,B,11489,1981,2007,2026-02-02
+WAW-B0101,52 ul. Kasprzaka,52 ul. Kasprzaka,01-224,Wola,B,15795,1963,,2026-01-29
+WAW-B0102,139 rondo ONZ,139 rondo ONZ,00-124,Wola,A,7785,1969,2022,2026-05-05
+WAW-B0103,100 al. Jerozolimskie,100 al. Jerozolimskie,00-508,Wola,A,11990,2012,,2026-01-24
+WAW-B0104,65 ul. Prosta,65 ul. Prosta,00-838,Wola,A,46650,2005,2015,2026-03-05
+WAW-B0105,Linden Building,51 ul. Towarowa,00-811,Wola,B+,14507,1985,,2026-02-06
+WAW-B0106,118 ul. Prosta,118 ul. Prosta,00-838,Wola,B+,38174,1990,2008,2026-02-16
+WAW-B0107,3 ul. Słomińskiego,3 ul. Słomińskiego,00-195,Wola,A,19039,2008,,2026-05-10
+WAW-B0108,170 ul. Emilii Plater,170 ul. Emilii Plater,00-125,Wola,B+,4726,1997,2022,2026-06-15
+WAW-B0109,69 ul. Towarowa,69 ul. Towarowa,00-811,Wola,A,13336,2016,,2026-04-06
+WAW-B0110,18 al. Jerozolimskie,18 al. Jerozolimskie,00-508,Wola,B+,6233,2001,2019,2026-06-10
+WAW-B0111,45 ul. Rydygiera,45 ul. Rydygiera,01-793,Wola,A,12273,1961,2024,2026-04-28
+WAW-B0112,Ravel Court,38 ul. Marynarska,02-674,Wola,B+,17015,2018,,2026-07-10
+WAW-B0113,123 ul. Domaniewska,123 ul. Domaniewska,02-672,Wola,C,20693,1969,,2026-03-21
+WAW-B0114,Solace House,161 ul. Kasprzaka,01-224,Wola,B+,26846,1970,2007,2026-02-27
+WAW-B0115,163 ul. Postępu,163 ul. Postępu,02-676,Wola,B+,17263,1999,2008,2026-03-08
+WAW-B0116,4 ul. Towarowa,4 ul. Towarowa,00-811,Wola,B+,14986,2000,,2026-06-07
+WAW-B0117,Helix Park,167 ul. Domaniewska,02-672,Wola,A,12395,1981,2020,2026-03-24
+WAW-B0118,130 ul. Prosta,130 ul. Prosta,00-838,Wola,A,27929,1966,,2026-07-30
+WAW-B0119,49 ul. Złota,49 ul. Złota,00-120,Wola,A,12944,2006,2022,2026-04-12
+WAW-B0120,115 al. Jerozolimskie,115 al. Jerozolimskie,00-508,Wola,C,20176,1971,,2026-07-31
+WAW-B0121,Larkspur Building,138 ul. Kasprzaka,01-224,Żoliborz,A,23831,2007,,2026-05-23
+WAW-B0122,Marlow Quay,148 ul. Marynarska,02-674,Żoliborz,A,5947,2008,,2026-04-02
+WAW-B0123,Beacon Gate,83 rondo ONZ,00-124,Żoliborz,A,16086,1980,2005,2026-07-28
+WAW-B0124,Ashcombe Place,164 ul. Wołoska,02-675,Żoliborz,B+,5657,2017,,2026-07-10
+WAW-B0125,Helix Building,40 ul. Emilii Plater,00-125,Żoliborz,A,11503,1993,,2026-03-17
+WAW-B0126,62 al. Jana Pawła II,62 al. Jana Pawła II,00-867,Żoliborz,A,8586,1992,,2026-01-17
+WAW-B0127,132 ul. Przyokopowa,132 ul. Przyokopowa,01-208,Żoliborz,B,14419,1994,2009,2026-07-18
+WAW-B0128,Orbis Plaza,140 al. Jerozolimskie,00-508,Żoliborz,A,10981,1985,,2026-06-29
+WAW-B0129,Granite Quay,127 al. Jerozolimskie,00-508,Żoliborz,C,13929,1992,,2026-04-07
+WAW-B0130,5 ul. Emilii Plater,5 ul. Emilii Plater,00-125,Żoliborz,C,6851,1972,,2026-04-25
+WAW-B0131,Kestrel Gate,139 ul. Kasprzaka,01-224,Żoliborz,B+,11086,1963,2017,2026-07-23
+WAW-B0132,Ravel Tower,28 ul. Złota,00-120,Żoliborz,B,7108,2003,2020,2026-05-31
+WAW-B0133,125 ul. Domaniewska,125 ul. Domaniewska,02-672,Żoliborz,A,28179,1986,2007,2026-03-28
+WAW-B0134,83 ul. Domaniewska,83 ul. Domaniewska,02-672,Żoliborz,A,6503,2021,,2026-07-30
+WAW-B0135,47 al. Jerozolimskie,47 al. Jerozolimskie,00-508,Żoliborz,A,21961,2000,,2026-02-22
+WAW-B0136,Osprey Court,112 ul. Rydygiera,01-793,Żoliborz,C,9270,1995,,2026-07-08
+WAW-B0137,Beacon Tower,21 rondo ONZ,00-124,Żoliborz,B+,7926,1976,,2026-06-02
+WAW-B0138,171 ul. Emilii Plater,171 ul. Emilii Plater,00-125,Żoliborz,A,11610,1992,,2026-03-12
+WAW-B0139,145 rondo ONZ,145 rondo ONZ,00-124,Żoliborz,A,1543,2002,2025,2026-07-10
+WAW-B0140,139 ul. Marynarska,139 ul. Marynarska,02-674,Żoliborz,B,13312,2020,,2026-06-12
+WAW-B0141,167 ul. Emilii Plater,167 ul. Emilii Plater,00-125,Żoliborz,A,5710,2012,,2026-07-07
+WAW-B0142,62 ul. Kasprzaka,62 ul. Kasprzaka,01-224,Żoliborz,B+,43946,1982,,2026-03-30
+WAW-B0143,Veridian Plaza,25 ul. Postępu,02-676,Żoliborz,B,6103,2000,,2026-05-05
+WAW-B0144,Larkspur Point,153 ul. Rydygiera,01-793,Żoliborz,B+,12793,1977,2021,2026-04-14
+WAW-B0145,Pinnacle Plaza,175 ul. Złota,00-120,Żoliborz,B,7917,1999,2011,2026-06-04
+WAW-B0146,129 rondo ONZ,129 rondo ONZ,00-124,Żoliborz,B,12975,1968,2020,2026-04-25
+WAW-B0147,43 ul. Towarowa,43 ul. Towarowa,00-811,Żoliborz,B+,7202,1966,2013,2026-06-20
+WAW-B0148,133 ul. Towarowa,133 ul. Towarowa,00-811,Żoliborz,A,10591,2004,,2026-05-09
+WAW-B0149,Solace Gate,80 ul. Słomińskiego,00-195,Żoliborz,A,13183,1979,,2026-02-20
+WAW-B0150,17 ul. Słomińskiego,17 ul. Słomińskiego,00-195,Żoliborz,C,18348,1980,,2026-02-27
+WAW-B0004,112 ul. Rydygiera,112 ul. Rydygiera,01-793,CBD,A,11977,1982,2026,2026-09-24
+WAW-B0094,Fenwick Point,18 ul. Marynarska,02-674,Wola,A,18108,1972,2026,2026-10-09
+WAW-B0131,Kestrel Gate,139 ul. Kasprzaka,01-224,Żoliborz,A,11086,1963,2026,2026-09-08
+WAW-B0026,Aldwyn Court,75 rondo ONZ,00-124,CBD,A,4667,2005,2026,2026-09-22
+WAW-B0149,Solace Gate,80 ul. Słomińskiego,00-195,Żoliborz,A,13183,1979,2026,2026-09-06
+WAW-B0001,Tern House,64 al. Jana Pawła II,00-867,CBD,A,11384,1998,2026,2026-09-23

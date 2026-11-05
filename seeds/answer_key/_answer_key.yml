@@ -1,0 +1,15 @@
+version: 2
+
+seeds:
+  - name: answer_key_defects
+    description: >
+      Every defect the generator planted in the raw files (market, dataset, row, type, detail). Used only by
+      ops.ops_defect_detection to score the silver checks; no model reads it to decide anything.
+    columns:
+      - name: defect_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [confidential_rent, missing_submarket, wrong_rent_unit, wrong_area_unit, future_date,
+                         exact_duplicate, near_duplicate, resubmitted_quarter, vacancy_mismatch, missing_grade,
+                         resubmitted_building]
