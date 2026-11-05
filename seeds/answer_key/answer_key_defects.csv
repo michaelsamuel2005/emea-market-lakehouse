@@ -477,3 +477,106 @@ WAW,buildings,WAW-B0131,resubmitted_building,sent twice; the later row (refurbis
 WAW,buildings,WAW-B0026,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
 WAW,buildings,WAW-B0149,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
 WAW,buildings,WAW-B0001,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,deals,MAD-20242-05017,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20261-42018,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20241-19002,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20241-49004,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20241-49003,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20263-29013,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20263-44006,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20233-17001,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20241-49017,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20262-13008,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20242-50017,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20243-06017,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20243-36007,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20233-47008,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20234-48003,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20251-23003,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20234-48009,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20262-28005,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20263-29012,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20244-22016,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20232-31008,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20262-13004,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20253-40018,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20241-19001,confidential_rent,rent withheld by the market (allowed; not an error)
+MAD,deals,MAD-20242-35001,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20242-20012,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20261-27005,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20242-05009,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20253-55010,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20243-21019,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20231-30007,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20232-31020,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20263-14007,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20251-08015,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20233-32012,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20244-22014,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20253-10015,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20242-50007,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20241-19003,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20231-30020,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20244-52006,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20231-30010,missing_submarket,submarket blank; derivable from the building register
+MAD,deals,MAD-20243-21015,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20244-22019,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20243-51002,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20234-33001,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20244-37005,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20231-15016,wrong_rent_unit,rent entered x12 (annual vs monthly mix-up)
+MAD,deals,MAD-20261-27004,wrong_area_unit,area entered in sq ft in a m2 file (10.76x too large)
+MAD,deals,MAD-20243-06002,wrong_area_unit,area entered in sq ft in a m2 file (10.76x too large)
+MAD,deals,MAD-20234-03020,wrong_area_unit,area entered in sq ft in a m2 file (10.76x too large)
+MAD,deals,MAD-20233-02012,wrong_area_unit,area entered in sq ft in a m2 file (10.76x too large)
+MAD,deals,MAD-20232-46008,wrong_area_unit,area entered in sq ft in a m2 file (10.76x too large)
+MAD,deals,MAD-20241-34013,future_date,year typed ten years ahead
+MAD,deals,MAD-20253-25011,future_date,year typed ten years ahead
+MAD,deals,MAD-20261-57009,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20253-40025,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20242-20002,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20241-49001,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20233-47013,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20252-39016,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20232-16013,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20252-09010,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20251-38016,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20261-12007,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20262-28001,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20241-49006,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20242-20014,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20232-31028,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20253-10003,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20234-48002,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20242-20009,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20234-03003,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20254-11024,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20253-25002,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20233-17007,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20241-34014,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20262-28010,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20234-33003,exact_duplicate,the same deal resubmitted nine days later
+MAD,deals,MAD-20243-21007R,near_duplicate,duplicate of MAD-20243-21007 with the tenant name spelt differently
+MAD,deals,MAD-20251-23009R,near_duplicate,duplicate of MAD-20251-23009 with the tenant name spelt differently
+MAD,deals,MAD-20231-00026R,near_duplicate,duplicate of MAD-20231-00026 with the tenant name spelt differently
+MAD,deals,MAD-20254-56003R,near_duplicate,duplicate of MAD-20254-56003 with the tenant name spelt differently
+MAD,deals,MAD-20234-03016R,near_duplicate,duplicate of MAD-20234-03016 with the tenant name spelt differently
+MAD,deals,MAD-20233-32007R,near_duplicate,duplicate of MAD-20233-32007 with the tenant name spelt differently
+MAD,deals,MAD-20251-23006R,near_duplicate,duplicate of MAD-20251-23006 with the tenant name spelt differently
+MAD,deals,MAD-20244-22001R,near_duplicate,duplicate of MAD-20244-22001 with the tenant name spelt differently
+MAD,deals,MAD-20244-22005R,near_duplicate,duplicate of MAD-20244-22005 with the tenant name spelt differently
+MAD,deals,MAD-20234-03023R,near_duplicate,duplicate of MAD-20234-03023 with the tenant name spelt differently
+MAD,deals,MAD-20261-12017R,near_duplicate,duplicate of MAD-20261-12017 with the tenant name spelt differently
+MAD,deals,MAD-20261-12010R,near_duplicate,duplicate of MAD-20261-12010 with the tenant name spelt differently
+MAD,buildings,MAD-B0004,missing_grade,grade blank
+MAD,buildings,MAD-B0018,missing_grade,grade blank
+MAD,buildings,MAD-B0019,missing_grade,grade blank
+MAD,buildings,MAD-B0047,missing_grade,grade blank
+MAD,buildings,MAD-B0060,missing_grade,grade blank
+MAD,buildings,MAD-B0088,missing_grade,grade blank
+MAD,buildings,MAD-B0069,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,buildings,MAD-B0025,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,buildings,MAD-B0018,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,buildings,MAD-B0117,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,buildings,MAD-B0078,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current
+MAD,buildings,MAD-B0048,resubmitted_building,sent twice; the later row (refurbished to Grade A) is current

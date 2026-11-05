@@ -101,3 +101,21 @@ sources:
     description: 'Warsaw: Quarterly availability snapshot of the tracked buildings, in the market''s own template.'
     config:
       loaded_at_field: cast(submitted_at as timestamp)
+  - name: mad_market_stats
+    description: 'Madrid: Quarterly market submission: stock, vacancy, take-up, prime rent and yield by submarket, in the
+      market''s own template.'
+    config:
+      loaded_at_field: cast(Fecha_envio as timestamp)
+  - name: mad_deals
+    description: 'Madrid: Leasing deal log in the market''s own template: one row per transaction as submitted (resubmissions
+      included).'
+    config:
+      loaded_at_field: cast(Fecha_envio as timestamp)
+  - name: mad_buildings
+    description: 'Madrid: Building register in the market''s own template: one row per building per submission.'
+    config:
+      freshness: null
+  - name: mad_availability
+    description: 'Madrid: Quarterly availability snapshot of the tracked buildings, in the market''s own template.'
+    config:
+      loaded_at_field: cast(Fecha_envio as timestamp)

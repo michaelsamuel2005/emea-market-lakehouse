@@ -278,3 +278,58 @@ seeds:
       available_m2: string
       sublease_m2: string
       submitted_at: string
+- name: mad_market_stats
+  description: 'Madrid: Quarterly market submission: stock, vacancy, take-up, prime rent and yield by submarket, in the market''s
+    own template.'
+  config:
+    column_types:
+      Trimestre: string
+      Submercado: string
+      Stock_m2: string
+      Disponibilidad_m2: string
+      Contratacion_m2: string
+      Renta_prime_EUR_m2_mes: string
+      Rentabilidad_prime: string
+      Entregas_m2: string
+      En_construccion_m2: string
+      Fecha_envio: string
+- name: mad_deals
+  description: 'Madrid: Leasing deal log in the market''s own template: one row per transaction as submitted (resubmissions
+    included).'
+  config:
+    column_types:
+      Referencia: string
+      Fecha: string
+      Edificio: string
+      Direccion: string
+      Submercado: string
+      Inquilino: string
+      Sector: string
+      Superficie_m2: string
+      Renta_EUR_m2_mes: string
+      Plazo_anos: string
+      Tipo_operacion: string
+      Fecha_envio: string
+- name: mad_buildings
+  description: 'Madrid: Building register in the market''s own template: one row per building per submission.'
+  config:
+    column_types:
+      Id_edificio: string
+      Nombre: string
+      Direccion: string
+      CP: string
+      Submercado: string
+      Categoria: string
+      SBA_m2: string
+      Ano_construccion: string
+      Ano_reforma: string
+      Actualizado: string
+- name: mad_availability
+  description: 'Madrid: Quarterly availability snapshot of the tracked buildings, in the market''s own template.'
+  config:
+    column_types:
+      Trimestre: string
+      Id_edificio: string
+      Disponible_m2: string
+      Subarriendo_m2: string
+      Fecha_envio: string

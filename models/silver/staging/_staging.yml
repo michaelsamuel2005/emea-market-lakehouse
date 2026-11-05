@@ -78,6 +78,9 @@ models:
   - name: stg_waw__market_stats
     description: Warsaw quarterly market submission in the shared staging layout (yields reported as decimals, rents per month).
     columns: *market_stats_columns
+  - name: stg_mad__market_stats
+    description: Madrid quarterly market submission in the shared staging layout (Spanish headers, "3T 2026" quarters, rents per month).
+    columns: *market_stats_columns
 
   - name: stg_lon__deals
     description: London leasing deal log in the shared staging layout.
@@ -128,6 +131,9 @@ models:
   - name: stg_waw__deals
     description: Warsaw leasing deal log in the shared staging layout; some deals are reported in PLN.
     columns: *deals_columns
+  - name: stg_mad__deals
+    description: Madrid leasing deal log in the shared staging layout (Spanish headers and labels).
+    columns: *deals_columns
 
   - name: stg_lon__buildings
     description: London building register in the shared staging layout.
@@ -161,8 +167,11 @@ models:
   - name: stg_fra__buildings
     description: Frankfurt building register in the shared staging layout.
     columns: *buildings_columns
-  - name: stg_waw__buildings
+  - name: stg_aww__buildings
     description: Warsaw building register in the shared staging layout.
+    columns: *buildings_columns
+  - name: stg_mad__buildings
+    description: Madrid building register in the shared staging layout.
     columns: *buildings_columns
 
   - name: stg_lon__availability
@@ -196,4 +205,7 @@ models:
     columns: *availability_columns
   - name: stg_waw__availability
     description: Warsaw quarterly building availability in the shared staging layout.
+    columns: *availability_columns
+  - name: stg_mad__availability
+    description: Madrid quarterly building availability in the shared staging layout.
     columns: *availability_columns
