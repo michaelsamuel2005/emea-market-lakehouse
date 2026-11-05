@@ -21,7 +21,7 @@ engines: DuckDB, Databricks and Snowflake.
 | Apache Spark 4.0, ANSI mode (the Databricks SQL dialect) | CI, dbt-spark in-process ([`scripts/engines/`](scripts/engines/README.md)) | Builds and passes on every push; every table identical to the DuckDB build |
 | Snowflake SQL on the fakesnow emulator | CI, the real dbt-snowflake adapter | Builds and passes on every push (unit tests and comments excluded); every table identical to the DuckDB build |
 | Databricks Free Edition | [`databricks/RUNBOOK.md`](databricks/RUNBOOK.md) | Built 5 Nov 2026: 431 pass, 2 warnings (as DuckDB); metric views created and queried |
-| Snowflake trial account | [`snowflake/RUNBOOK.md`](snowflake/RUNBOOK.md) | Not yet run on an account |
+| Snowflake trial account | [`snowflake/RUNBOOK.md`](snowflake/RUNBOOK.md) |Built 5 Nov 2026: 431 pass, 2 warnings (as DuckDB and Databricks); semantic views created and queried. |
 | Power BI Desktop on the Databricks warehouse | [`powerbi/README.md`](powerbi/README.md) | Not yet built |
 
 The last three rows change only when the guide has been followed for real; each run is recorded there
@@ -213,8 +213,8 @@ building had on the deal date.
 ![Metric view queried in the SQL editor](docs/img/databricks_metric_view.jpeg)
 
 <!-- Add after running each runbook:
-![Genie answering a vacancy question](docs/img/genie_vacancy.png)
-![Snowsight: the semantic view queried](docs/img/snowflake_semantic_view.png)
+![Genie answering a vacancy question](docs/img/genie_vacancy.jped)
+![Snowsight: the semantic view queried](docs/img/snowflake_semantic_view.jpeg)
 ![Power BI: market overview page](docs/img/powerbi_market_overview.png)
 -->
 
