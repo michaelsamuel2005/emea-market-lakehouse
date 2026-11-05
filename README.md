@@ -20,7 +20,7 @@ engines: DuckDB, Databricks and Snowflake.
 | DuckDB 2.0 | `dbt build`, locally and in CI | Builds and passes on every push |
 | Apache Spark 4.0, ANSI mode (the Databricks SQL dialect) | CI, dbt-spark in-process ([`scripts/engines/`](scripts/engines/README.md)) | Builds and passes on every push; every table identical to the DuckDB build |
 | Snowflake SQL on the fakesnow emulator | CI, the real dbt-snowflake adapter | Builds and passes on every push (unit tests and comments excluded); every table identical to the DuckDB build |
-| Databricks Free Edition | [`databricks/RUNBOOK.md`](databricks/RUNBOOK.md) | Not yet run in a workspace |
+| Databricks Free Edition | [`databricks/RUNBOOK.md`](databricks/RUNBOOK.md) | Built 5 Nov 2026: 431 pass, 2 warnings (as DuckDB); metric views created and queried |
 | Snowflake trial account | [`snowflake/RUNBOOK.md`](snowflake/RUNBOOK.md) | Not yet run on an account |
 | Power BI Desktop on the Databricks warehouse | [`powerbi/README.md`](powerbi/README.md) | Not yet built |
 
@@ -209,8 +209,10 @@ as the best submarket, growth read from the KPI mart, and a check measure that s
 agree), a market overview page and a leasing deals page that reports each deal against the grade its
 building had on the deal date.
 
-<!-- Add screenshots after running each runbook:
-![Catalog Explorer: gold schema](docs/img/databricks_catalog.png)
+![Catalog Explorer: gold schema](docs/img/databricks_catalog.jpeg)
+![Metric view queried in the SQL editor](docs/img/databricks_metric_view.jpeg)
+
+<!-- Add after running each runbook:
 ![Genie answering a vacancy question](docs/img/genie_vacancy.png)
 ![Snowsight: the semantic view queried](docs/img/snowflake_semantic_view.png)
 ![Power BI: market overview page](docs/img/powerbi_market_overview.png)
